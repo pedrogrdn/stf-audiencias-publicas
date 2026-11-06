@@ -1,0 +1,38 @@
+{
+  "titulo": "Audiências públicas do STF: dados, documentos e código",
+  "autor": "Pedro H. Giordano",
+  "versao": "1.0.0",
+  "data_referencia": "2026-11-06",
+  "dados": {
+    "candidatos": 3455,
+    "incorporadas": 1288,
+    "excluidas": 2167,
+    "contexto": 509,
+    "relato": 278,
+    "argumento": 501,
+    "participacoes": 405,
+    "audiencias_cadastro": 31,
+    "audiencias_mencoes": 30,
+    "audiencias_H23_comparaveis": 28,
+    "pares_mencao_participacao": 380,
+    "campos_dicionario": 235,
+    "rodadas_documentadas": 13,
+    "tabelas_resultados": 122,
+    "acordaos_integrais": 50,
+    "documentos_audiencias_integrais": 125,
+    "metadados_coleta_documental": 1
+  },
+  "validacao": {
+    "pytest_aprovados": 40,
+    "resultados_numericos_equivalentes_H1_H22": 111,
+    "resultados_numericos_equivalentes_H23": 9,
+    "restauracao_classificacao_offline": true,
+    "credenciais_detectadas": 0,
+    "python_sintaxe_validada": true,
+    "documentos_integrais_verificados_SHA256": 175
+  },
+  "fontes_integridade": "documentacao/proveniencia_arquivos.csv",
+  "reproducao": "reproduzir.py",
+  "repositorio": "https://github.com/pedrogrdn/stf-audiencias-publicas",
+  "arquivos": 605
+}

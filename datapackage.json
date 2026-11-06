@@ -1,8 +1,8 @@
 {
   "name": "stf-audiencias-dados",
   "title": "Dados documentais das audiências públicas do STF",
-  "version": "1.0.0-preparacao",
-  "description": "Esquema das tabelas de consulta; sem licença definitiva atribuída nesta preparação.",
+  "version": "1.0.0",
+  "description": "Dados documentais das audiências públicas do STF, com classificações, vínculos entre menções e participantes e variáveis de análise.",
   "resources": [
     {
       "name": "entidades_sensibilidade",
@@ -1385,6 +1385,13 @@
         ]
       },
       "rows": 380
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Pedro H. Giordano",
+      "role": "author",
+      "organization": "Pontifícia Universidade Católica do Paraná"
     }
   ]
 }

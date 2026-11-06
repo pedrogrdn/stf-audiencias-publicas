@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se utilizar estes dados ou programas em sua pesquisa, cite este repositório."
+type: dataset
+title: "Audiências públicas do STF: dados, documentos e código"
+authors:
+  - family-names: "Giordano"
+    given-names: "Pedro H."
+    affiliation: "Pontifícia Universidade Católica do Paraná"
+version: "1.0.0"
+url: "https://github.com/pedrogrdn/stf-audiencias-publicas"
+repository-code: "https://github.com/pedrogrdn/stf-audiencias-publicas"
+keywords:
+  - "Supremo Tribunal Federal"
+  - "audiências públicas"
+  - "participação social"
+  - "análise de conteúdo"
+  - "modelos de linguagem"

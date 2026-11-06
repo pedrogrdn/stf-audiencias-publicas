@@ -14,7 +14,7 @@ Primeira versão do banco documental e dos programas de classificação e análi
 
 ## Verificação e reprodução
 
-A preparação passou em 40 testes. A reprodução independente conferiu equivalência numérica das 111 linhas da matriz H1–H22 e dos nove registros de H23. Os documentos foram preservados sem alteração de bytes e possuem SHA-256 no índice. `python3 reproduzir.py --verificar` confere a integridade sem chamadas à API; testes e recálculo estão descritos no README.
+A reprodução foi conferida em 40 testes. A reprodução independente conferiu equivalência numérica das 111 linhas da matriz H1–H22 e dos nove registros de H23. Os documentos foram preservados sem alteração de bytes e possuem SHA-256 no índice. `python3 reproduzir.py --verificar` confere a integridade sem chamadas à API; testes e recálculo estão descritos no README.
 
 ## Escopo e limites
 

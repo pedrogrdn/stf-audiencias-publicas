@@ -1,58 +1,69 @@
 # Audiências públicas do STF — dados, documentos e código
 
-**Preparação para a primeira versão pública, 6 de novembro de 2026. DOI e licença pública ainda não atribuídos.**
+**Autor do banco e do código de pesquisa: Pedro H. Giordano.**
 
-Repositório de dados da pesquisa sobre presença das audiências públicas e de seus participantes nos acórdãos do STF. A interpretação é desenvolvida na dissertação; aqui se preservam dados, classificações, contexto, procedência e programas.
+Este repositório reúne os dados da pesquisa sobre referências às audiências públicas e a seus participantes nos acórdãos do Supremo Tribunal Federal. Contém as menções recuperadas, suas classificações, o cadastro dos participantes, os documentos-fonte e os programas de coleta, classificação e análise.
 
-## Comece pelos dados
+## Dados
 
-| Arquivo | Unidade / tamanho | Uso |
+| Arquivo | Unidade e dimensão | Conteúdo |
 |---|---|---|
-| `dados/mencoes_todas.csv` | 3.455 ocorrências, incluindo 2.167 exclusões | Decisão final, propostas Claude, decisões humanas, metadados e contexto |
-| `dados/mencoes_incorporadas.csv` | 1.288 ocorrências | Base principal com variáveis analíticas, vínculos e contexto |
-| `dados/participantes.csv` | 405 participações pessoa × audiência | Cadastro completo e categoria final, inclusive sem menção |
-| `dados/vinculos_mencao_participante.csv` | 380 pares; 307 menções; 141 participações | Relação muitos-para-muitos, sem duplicar as menções |
-| `dados/entidades_sensibilidade.csv` | 326 entidades por audiência | Base do vínculo institucional apenas complementar |
-| `dados/participantes_H23.csv` | 405 participações | Alcance nominal e contagens para H23 |
-| `dados/resumo_audiencias_H23.csv` | 31 audiências, 28 comparáveis | Denominadores e diferenças por grupo |
+| [mencoes_todas.csv](dados/mencoes_todas.csv) | 3.455 ocorrências | Decisões finais, propostas automáticas, revisões e contexto, incluindo 2.167 exclusões |
+| [mencoes_incorporadas.csv](dados/mencoes_incorporadas.csv) | 1.288 menções | Base analítica com variáveis, vínculos e contexto |
+| [participantes.csv](dados/participantes.csv) | 405 participações pessoa × audiência | Cadastro completo e classificação institucional final |
+| [vinculos_mencao_participante.csv](dados/vinculos_mencao_participante.csv) | 380 pares | Relação entre 307 menções e 141 participações, sem duplicar as menções no corpus |
+| [entidades_sensibilidade.csv](dados/entidades_sensibilidade.csv) | 326 entidades por audiência | Vínculos institucionais utilizados apenas em análises de sensibilidade |
+| [participantes_H23.csv](dados/participantes_H23.csv) | 405 participações | Indicadores de alcance e contagens de presença argumentativa |
+| [resumo_audiencias_H23.csv](dados/resumo_audiencias_H23.csv) | 31 audiências | Denominadores por grupo e diferenças; 28 audiências permitem comparação entre os grupos |
 
-`dados/planilhas/` e `dados/fontes/atores/` preservam as duas planilhas finais originais; CSV é a alternativa aberta de consulta. `dados/fontes/` guarda os seis insumos da integração e o índice dos documentos, com URLs e hashes quando disponíveis. Todos os CSVs usam UTF-8 com BOM, vírgula, ponto decimal e campos entre aspas quando necessários; trechos podem ocupar várias linhas. Vazio não equivale a zero. O dicionário identifica tipos e convenções.
+Os CSVs usam UTF-8 com BOM, separador vírgula e ponto decimal. Campos textuais podem conter aspas e quebras de linha. Vazio não equivale a zero. As planilhas finais originais estão em `dados/planilhas/` e `dados/fontes/atores/`.
 
-## Conteúdo
+O [dicionário de dados](documentacao/DICIONARIO_DADOS.csv) descreve 235 campos das nove tabelas principais. O [esquema relacional](datapackage.json) registra tipos, chaves e relações. O [índice das tabelas analíticas](documentacao/INDICE_TABELAS_ANALITICAS.csv) relaciona os resultados preservados.
 
-- `fontes_documentais/`: 50 acórdãos integrais e 125 documentos de audiências, com organização original por audiência e processo.
-- `documentacao/`: dicionário, decisões metodológicas, escopo e limites, proveniência e guia de depósito.
-- `classificacao/`: instruções congeladas, índice e insumos/saídas de 13 etapas de classificação e revisão; não são 13 testes independentes.
-- `programas/`: coleta e classificação originais; histórico do experimento MLX sem pesos.
-- `analise_stf/`: código original de H1–H23, configurações, testes e resultados de referência. Apenas os caminhos de cinco entradas foram adaptados a este repositório; a lógica estatística não foi modificada.
-- `reproduzir.py`: verificação offline, testes e reprodução isolada, sem API.
-- `verificacao/`: resultados de conferência e inventário SHA-256.
-- `metadados/`: rascunho para o Zenodo. Confirmar autoria e licenças antes da publicação.
+## Organização
 
-Não inclui chaves, ambientes Python/Node/MLX, pesos de modelos, capturas de tela, arquivos de inspeção do editor ou manuscritos em revisão. Os 50 acórdãos e os 125 documentos de audiências disponíveis no acervo foram incluídos integralmente, além dos contextos e excertos usados na classificação. O índice informa o caminho de cada documento no repositório, procedência e SHA-256. Caminhos históricos em manifestações de procedência não são caminhos requeridos para executar a reprodução.
+- **`dados/`** — bases de consulta, planilhas originais, insumos de integração e quadros de seleção.
+- **`fontes_documentais/`** — 50 acórdãos integrais e 125 documentos das audiências, organizados por audiência e arquivo.
+- **`classificacao/`** — instruções e registros de 13 etapas de classificação e revisão. Não constituem 13 testes independentes.
+- **`programas/`** — coleta, extração, classificação e histórico do experimento MLX, sem pesos de modelos.
+- **`analise_stf/`** — código, configurações, testes e resultados das análises exploratórias H1–H23.
+- **`documentacao/`** — dicionário, metodologia, escopo, limites e procedência dos arquivos.
+- **`verificacao/`** — registros da conferência e reprodução dos resultados.
 
-## Reprodução estatística sem API
+O [índice documental](dados/fontes/documentos_fontes.csv) identifica cada documento-fonte, seu caminho, tamanho, SHA-256 e URL quando disponível. Os 175 documentos incluem 166 PDFs, seis DOCX e três HTML, além de um JSON de metadados de coleta. Listas de habilitados e programações são fontes auxiliares, sem comprovar por si a participação efetiva.
 
-Recomendado Python 3.12. `python3 reproduzir.py --verificar` usa apenas a biblioteca padrão. Para testes e reprodução, criar ambiente com `python3 -m venv .venv`, ativá-lo e instalar `python -m pip install -r requirements.txt`. Em seguida:
+## Reprodução
+
+Recomenda-se Python 3.12. A verificação de integridade utiliza apenas a biblioteca padrão:
 
 ```sh
-python reproduzir.py --verificar
+python3 reproduzir.py --verificar
+```
+
+Para os testes e cálculos estatísticos:
+
+```sh
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
 python reproduzir.py --testes
 python reproduzir.py --analises
 ```
 
-As análises são executadas numa cópia em `reproducoes/`, preservando os dados e resultados de referência. Os resultados numéricos são comparados aos preservados. A instalação das dependências pode precisar de internet; a execução estatística não acessa APIs e não depende de credencial. Uma nova chamada ao classificador é outra operação, sujeita a autorização e custo; não é necessária para reproduzir os cálculos.
+Os testes e cálculos são executados em uma cópia em `reproducoes/`, preservando as referências distribuídas. A reprodução foi conferida em 40 testes, com equivalência numérica das 111 linhas da matriz H1–H22 e dos nove registros de H23. A execução estatística não chama APIs nem exige credenciais. Reexecutar a classificação por modelo de linguagem é uma operação distinta, descrita em [programas/LEIA_ME.md](programas/LEIA_ME.md).
 
-## Leitura responsável
+`SHA256SUMS.txt` permite conferir a integridade dos arquivos. Os hashes também preservam a correspondência dos documentos integrais com o acervo original.
 
-Foram incorporados 509 Contextos, 278 Relatos e 501 Argumentos. Apenas 269 inclusões possuem decisão humana registrada; 1.019 permanecem sem revisão humana registrada. A taxa textual é Argumentos / menções incorporadas, não a proporção de todos os argumentos orais utilizada. Alcance e intensidade de H23 usam participações como denominador, com regras distintas. As análises são exploratórias, observacionais e restritas ao cadastro documentado. Consulte `documentacao/ESCOPO_E_LIMITES.md` antes de reutilizar as taxas.
+## Escopo e interpretação
 
-## Citação e publicação
+As 1.288 menções incorporadas compreendem 509 Contextos, 278 Relatos e 501 Argumentos. Das inclusões finais, 269 possuem decisão humana consolidada registrada e 1.019 não possuem revisão humana registrada. As análises são observacionais e exploratórias, restritas ao cadastro documentado.
 
-A autoria e o licenciamento devem ser confirmados pelos responsáveis. O rascunho de citação não contém DOI inventado. Guia: `documentacao/COMO_DEPOSITAR_NO_ZENODO.md`. Esta preparação não publica arquivos e não concede uma licença em nome dos autores.
+A taxa argumentativa textual é a proporção de Argumentos entre menções incorporadas, não a parcela de todas as contribuições orais utilizada. Alcance e intensidade de H23 têm participantes como denominador e regras próprias de contagem. Os intervalos não abrangem erros de recuperação ou classificação, e presença argumentativa não comprova concordância ou influência causal. Consulte [ESCOPO_E_LIMITES.md](documentacao/ESCOPO_E_LIMITES.md) e a [metodologia de classificação](documentacao/metodologia_classificacao_v012.md).
 
-O quadro institucional de 49 audiências, suas fontes oficiais, o controle documental e os complementos manuais de recuperação estão em `dados/fontes/`; esses quadros têm recortes distintos do corpus de menções incorporadas. A restauração offline dos programas históricos é descrita em `programas/LEIA_ME.md`.
+O quadro institucional de 49 audiências, o acervo de 31 audiências examinadas e as 30 com menções incorporadas têm recortes distintos. Os documentos oficiais e seus textos mantêm a autoria e procedência originais.
 
-## Acervo documental integral
+## Citação
 
-`fontes_documentais/acordaos/` contém os 50 PDFs do acervo examinado, inclusive aqueles sem menções incorporadas. `fontes_documentais/documentos_audiencias/` preserva os 125 documentos das audiências: 116 PDFs, seis DOCX e três HTML, mais um JSON de metadados de coleta. São 175 documentos, além do metadado. A inclusão do acervo auxiliar não transforma listas de habilitados ou programações em prova de comparecimento. O índice `dados/fontes/documentos_fontes.csv` mantém audiência, nome original, caminho no repositório, tamanho, hash e URL quando disponível. Os arquivos não foram convertidos, editados ou regravados.
+GIORDANO, Pedro H. **Audiências públicas do STF: dados, documentos e código**. Versão 1.0.0. 2026. Disponível em: https://github.com/pedrogrdn/stf-audiencias-publicas.
+
+Os metadados de citação estão em [CITATION.cff](CITATION.cff).

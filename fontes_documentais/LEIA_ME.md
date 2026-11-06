@@ -6,4 +6,4 @@ A estrutura conserva nomes e diretórios por audiência. O índice em `dados/fon
 
 Os 50 acórdãos correspondem ao acervo examinado, não apenas aos 46 com menções incorporadas. Os documentos de audiências incluem transcrições e notas, bem como fontes auxiliares de organização. Listas de habilitados e programações continuam sem força autônoma para comprovar comparecimento. Preservar o documento não altera esse critério.
 
-Os documentos oficiais não são obras do autor do banco. A licença que vier a ser escolhida para dados e código não deve ser automaticamente estendida aos documentos de terceiros. Nenhuma publicação ou envio a serviço externo foi feito nesta preparação.
+Os documentos oficiais não são obras do autor do banco. A autoria do banco não se estende aos documentos oficiais e textos de terceiros, cuja procedência está registrada no índice.
