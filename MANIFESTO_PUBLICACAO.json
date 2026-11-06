@@ -43,7 +43,13 @@
   "limitacao_direitos": "Licença pública ainda não definida. Os documentos integrais e excertos oficiais mantêm sua procedência e direitos próprios.",
   "fontes_integridade": "documentacao/proveniencia_arquivos.csv",
   "reproducao": "reproduzir.py",
-  "arquivos_payload": 608,
+  "arquivos_payload": 609,
   "organizacao": "Conteúdo descompactado na raiz de repositorio_publico/, preparado para um GitHub público independente e integração posterior ao Zenodo.",
-  "repositorio_github": "https://github.com/pedrogrdn/stf-audiencias-publicas"
+  "repositorio_github": "https://github.com/pedrogrdn/stf-audiencias-publicas",
+  "preparacao_release": {
+    "tag_proposta": "v1.0.0",
+    "titulo": "Audiências públicas do STF — dados, documentos e código",
+    "status": "Notas preparadas; release e tag ainda não criadas.",
+    "metadados_antes_de_publicar": "Confirmar autoria e licenças para o arquivamento no Zenodo."
+  }
 }
