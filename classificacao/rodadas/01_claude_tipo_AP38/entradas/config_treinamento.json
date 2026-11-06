@@ -1,0 +1,12 @@
+{
+  "iteracoes": 270,
+  "batch_size": 1,
+  "num_layers": 4,
+  "learning_rate": 1e-05,
+  "seed": 42,
+  "max_seq_length": 1884,
+  "mask_prompt": true,
+  "grad_checkpoint": true,
+  "modelo_inicial": "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/.local-mlx/modelo",
+  "adaptador_inicial": null
+}

@@ -1,0 +1,270 @@
+{
+  "0": {
+    "resposta": {
+      "model": "claude-sonnet-5",
+      "id": "msg_011Cgkp7AwSF2KpDN1LzzECG",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "```json\n{\"resultados\":[\n{\"id\":\"AP01_P001\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Universidade Federal de São Paulo\",\"qualificacao_identificada\":\"Médica, professora universitária\",\"evidencia\":\"Sou médica, professora da Universidade Federal de São Paulo, Coordenadora, na minha Universidade, de Estudos pré-clínicos com células-tronco adultas\",\"justificativa\":\"Participou como professora e pesquisadora universitária em exposição científica.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P002\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Universidade Federal do Rio de Janeiro / Instituto Nacional de Cardiologia\",\"qualificacao_identificada\":\"Médico, doutor em Ciências, professor titular\",\"evidencia\":\"Sou Professor Titular da Universidade Federal do Rio de Janeiro, mais especificamente do Instituto de Biofísica Carlos Chagas Filho\",\"justificativa\":\"Expôs como professor universitário e pesquisador em debate científico.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P003\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"\",\"qualificacao_identificada\":\"Docente de Medicina Legal\",\"evidencia\":\"Estou aqui, primordialmente, como docente de Medicina Legal, para discutir até mesmo os problemas legais que dizem respeito à área médica\",\"justificativa\":\"Participou expressamente como docente universitário na área médica.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P004\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"UFRJ\",\"qualificacao_identificada\":\"Professora, pesquisadora de células-tronco\",\"evidencia\":\"Professora da UFRJ, pesquisadora de células-tronco desde meu pós-doutorado na Universidade de Toronto\",\"justificativa\":\"Atuou como professora e pesquisadora universitária na exposição.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P005\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Universidade de São Paulo\",\"qualificacao_identificada\":\"Professor de Ética Profissional e Bioética\",\"evidencia\":\"Sou professor da Universidade de São Paulo, onde há vinte e cinco anos leciono Ética Profissional e, na última década, Bioética\",\"justificativa\":\"Participou como professor universitário especialista em bioética.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P006\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Universidade de Brasília / ONG Anis\",\"qualificacao_identificada\":\"Doutora em Antropologia, pós-doutora em Bioética, pesquisadora\",\"evidencia\":\"Sou formada em Antropologia, doutora em Antropologia pela Universidade de Brasília, pós-doutora em Bioética pela Universidade de Leeds\",\"justificativa\":\"Embora também vinculada a ONG, destacou-se primeiramente como pesquisadora acadêmica com titulação e pós-doutorado, participando como especialista científica.\",\"revisar\":true,\"motivo_revisao\":\"Participante também menciona vínculo com ONG Anis, o que poderia sugerir sociedade civil; optou-se por acadêmico dado o perfil de pesquisadora com titulação, mas a dupla afiliação gera ambiguidade.\"},\n{\"id\":\"AP01_P007\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"\",\"qualificacao_identificada\":\"Médica, professora de bioética\",\"evidencia\":\"Sou médica, especialista em ginecologia-obstetrícia; ... e, agora, como professora de bioética\",\"justificativa\":\"Participou como professora e médica especialista em exposição científica sobre bioética.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P008\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Universidade Federal Fluminense\",\"qualificacao_identificada\":\"Médico hematologista, professor universitário\",\"evidencia\":\"Sou hematologista de formação, professor de hematologia da Universidade Federal Fluminense\",\"justificativa\":\"Participou como professor universitário e médico especialista em exposição científica.\",\"revisar\":false,\"motivo_revisao\":\"\"}\n]}\n```"
+        }
+      ],
+      "container": null,
+      "stop_reason": "end_turn",
+      "stop_sequence": null,
+      "stop_details": null,
+      "usage": {
+        "input_tokens": 26859,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1536,
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "service_tier": "standard",
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "diagnostics": null
+    },
+    "ids": [
+      "AP01_P001",
+      "AP01_P002",
+      "AP01_P003",
+      "AP01_P004",
+      "AP01_P005",
+      "AP01_P006",
+      "AP01_P007",
+      "AP01_P008"
+    ]
+  },
+  "1": {
+    "resposta": {
+      "model": "claude-sonnet-5",
+      "id": "msg_011Cgkp899ZUub8oSp3Ks52J",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "```json\n{\"resultados\":[\n{\"id\":\"AP01_P009\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto - USP\",\"qualificacao_identificada\":\"Coordenador da Unidade de Transplante de Medula Óssea\",\"evidencia\":\"Sou Coordenador da Unidade de Transplante de Medula Óssea do Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto - USP\",\"justificativa\":\"Participação como pesquisador/coordenador médico-científico vinculado a instituição universitária pública.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P010\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"\",\"qualificacao_identificada\":\"comunidade científica\",\"evidencia\":\"inicio elogiando a realização desta audiência pública, em razão desse espaço democrático para que comunidade científica possa pronunciar, sua diversidade\",\"justificativa\":\"Fala em nome de grupo científico apresentando embasamento científico, sem instituição específica comprovada.\",\"revisar\":true,\"motivo_revisao\":\"Instituição não claramente identificada no excerto, apenas menção a 'comunidade científica' e 'nosso grupo'\"},\n{\"id\":\"AP01_P011\",\"categoria\":null,\"instituicao_identificada\":\"\",\"qualificacao_identificada\":\"\",\"evidencia\":\"a Doutora Lilian Piñero Eça, que deverá falar sobre o diálogo entre embrião humano e sua mãe\",\"justificativa\":\"Não há excerto da própria fala que comprove instituição ou qualificação.\",\"revisar\":true,\"motivo_revisao\":\"Ausência de fala própria com vínculo institucional ou qualificação comprovada\"},\n{\"id\":\"AP01_P012\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Rede Sarah de Hospitais\",\"qualificacao_identificada\":\"neurocientista, Diretora-Executiva da Rede Sarah de Hospitais e Presidente da Rede Sarah\",\"evidencia\":\"Sou neurocientista, Diretora-Executiva da Rede Sarah de Hospitais e Presidente da Rede Sarah, Chefe da área de pesquisas - Pesquisadora-Chefe\",\"justificativa\":\"Participação como pesquisadora científica vinculada à Rede Sarah, atuando em pesquisa e neurociência.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P013\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"\",\"qualificacao_identificada\":\"Pró-Reitor de Graduação\",\"evidencia\":\"Trabalho na área de células-tronco desde 1992, o meu primeiro artigo publicado nessa área. Sou Pró-Reitor de Graduação da\",\"justificativa\":\"Pesquisador com produção científica e cargo acadêmico de Pró-Reitor de Graduação, embora instituição não esteja completa no excerto.\",\"revisar\":true,\"motivo_revisao\":\"Nome da instituição de ensino cortado no excerto fornecido\"},\n{\"id\":\"AP01_P014\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"USP - Departamento de Genética e Biologia Evolutiva\",\"qualificacao_identificada\":\"professora Associada, pesquisadora\",\"evidencia\":\"trabalho como professora Associada do Departamento de Genética e Biologia Evolutiva na USP, onde dirijo o laboratório de genética molecular\",\"justificativa\":\"Participação como professora e pesquisadora vinculada à universidade pública.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P015\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Universidade Federal de São Paulo / USC de Bauru\",\"qualificacao_identificada\":\"médico, cirurgião plástico, pesquisador e mestre em cirurgia\",\"evidencia\":\"sou médico, cirurgião plástico, pesquisador e mestre em cirurgia pela Universidade Federal de São Paulo, colaborador de pesquisa com células-tronco pela USC de Bauru\",\"justificativa\":\"Participação como pesquisador médico vinculado a universidades, com produção científica em células-tronco.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P016\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Universidade de São Paulo - Centro de Estudos do Genoma Humano\",\"qualificacao_identificada\":\"professora de Genética, membro da Academia Brasileira de Ciências\",\"evidencia\":\"Sou professora de Genética pela Universidade de São Paulo; dirijo o Centro de Estudos do Genoma Humano; sou membro da Academia Brasileira de Ciências\",\"justificativa\":\"Participação como professora e pesquisadora científica vinculada à universidade pública.\",\"revisar\":false,\"motivo_revisao\":\"\"}\n]}\n```"
+        }
+      ],
+      "container": null,
+      "stop_reason": "end_turn",
+      "stop_sequence": null,
+      "stop_details": null,
+      "usage": {
+        "input_tokens": 28416,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1737,
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "service_tier": "standard",
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "diagnostics": null
+    },
+    "ids": [
+      "AP01_P009",
+      "AP01_P010",
+      "AP01_P011",
+      "AP01_P012",
+      "AP01_P013",
+      "AP01_P014",
+      "AP01_P015",
+      "AP01_P016"
+    ]
+  },
+  "2": {
+    "resposta": {
+      "model": "claude-sonnet-5",
+      "id": "msg_011Cgkp9EVK4azyicxnccjWx",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "```json\n{\"resultados\":[\n{\"id\":\"AP01_P017\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Universidade Federal do Rio Grande do Sul\",\"qualificacao_identificada\":\"Professora\",\"evidencia\":\"Sou professora da Universidade Federal do Rio Grande do Sul, fiz Doutorado no Laboratório de Células-Tronco de Nova York\",\"justificativa\":\"Apresentou-se como professora universitária e pesquisadora, participando em caráter científico.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P018\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"USP / FIOCRUZ-BA\",\"qualificacao_identificada\":\"Professor Titular aposentado; Pesquisador Titular\",\"evidencia\":\"Sou Professor Titular pela USP, da Faculdade de Medicina de Ribeirão Preto, atualmente aposentado: Pesquisador Titular da FIOCRUZ/BA\",\"justificativa\":\"Participou como pesquisador vinculado a instituições científicas, apresentando dados de pesquisa.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P019\",\"categoria\":null,\"instituicao_identificada\":\"\",\"qualificacao_identificada\":\"\",\"evidencia\":\"Trago o depoimento de um professor de Medicina que acompanha esse processo\",\"justificativa\":\"Não há evidência documental clara de vínculo institucional próprio nem instituição que represente o próprio expositor.\",\"revisar\":true,\"motivo_revisao\":\"Fala não esclarece vínculo institucional do próprio expositor, apenas cita terceiro professor\"},\n{\"id\":\"AP01_P020\",\"categoria\":null,\"instituicao_identificada\":\"\",\"qualificacao_identificada\":\"\",\"evidencia\":\"O DR. ROGÉRIO PAZETTI - Senhor Relator, antecipadamente, peço desculpas\",\"justificativa\":\"Não há evidência documental de instituição ou qualificação profissional do expositor nos excertos fornecidos.\",\"revisar\":true,\"motivo_revisao\":\"Ausência de informação sobre vínculo institucional ou qualificação do expositor\"},\n{\"id\":\"AP01_P021\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Universidade Federal do Rio de Janeiro\",\"qualificacao_identificada\":\"Professora Titular\",\"evidencia\":\"Sou Rosalia Mendes Otero, Professora Titular da Universidade Federal do Rio de Janeiro, membro da Academia Brasileira de Ciências\",\"justificativa\":\"Apresentou-se como professora universitária e coordenadora de programa de pesquisa científica.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP01_P022\",\"categoria\":\"Acadêmicos\",\"instituicao_identificada\":\"Universidade Federal do Rio de Janeiro\",\"qualificacao_identificada\":\"Chefe de Laboratório; Presidente da Sociedade Brasileira de Neurociências\",\"evidencia\":\"Chefe do Laboratório de Células-Tronco Embrionárias no Instituto de Ciências Biomédicas da Universidade Federal do Rio de Janeiro\",\"justificativa\":\"Participou como pesquisador vinculado a universidade pública em caráter científico.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P028\",\"categoria\":\"Sociedade civil\",\"instituicao_identificada\":\"Igreja Universal do Reino de Deus\",\"qualificacao_identificada\":\"Bispo\",\"evidencia\":\"Com a palavra o Bispo Carlos Macedo de Oliveira.\",\"justificativa\":\"Representou entidade religiosa na audiência pública, enquadrando-se como sociedade civil.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P029\",\"categoria\":null,\"instituicao_identificada\":\"Hospital São Francisco\",\"qualificacao_identificada\":\"Coordenadora de Neonatologia e UTI Neonatal; especialista em pediatria\",\"evidencia\":\"coordenadora do serviço de neonatologia e da UTI neonatal do Hospital São Francisco\",\"justificativa\":\"Natureza pública ou privada do Hospital São Francisco não foi comprovada nos excertos, impedindo classificação segura.\",\"revisar\":true,\"motivo_revisao\":\"Hospital sem natureza pública ou privada comprovada nos excertos fornecidos\"}\n]}\n```"
+        }
+      ],
+      "container": null,
+      "stop_reason": "end_turn",
+      "stop_sequence": null,
+      "stop_details": null,
+      "usage": {
+        "input_tokens": 26346,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1546,
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "service_tier": "standard",
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "diagnostics": null
+    },
+    "ids": [
+      "AP01_P017",
+      "AP01_P018",
+      "AP01_P019",
+      "AP01_P020",
+      "AP01_P021",
+      "AP01_P022",
+      "AP03_P028",
+      "AP03_P029"
+    ]
+  },
+  "3": {
+    "resposta": {
+      "model": "claude-sonnet-5",
+      "id": "msg_011CgkpABmPZvkpZaEJ6JZkL",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "```json\n{\"resultados\":[\n{\"id\":\"AP03_P030\",\"categoria\":\"sociedade civil\",\"instituicao_identificada\":\"Escola de Gente\",\"qualificacao_identificada\":\"Jornalista | Fundadora | Superintendente\",\"evidencia\":\"Doutora Claudia Werneck, também, da Escola de Gente, que luta pela inclusão das pessoas portadoras de deficiência\",\"justificativa\":\"Representa organização da sociedade civil voltada à inclusão de pessoas com deficiência.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P031\",\"categoria\":\"acadêmicos\",\"instituicao_identificada\":\"Instituto de Bioética, Direitos Humanos e Gênero (ANIS)\",\"qualificacao_identificada\":\"Antropóloga | Professora\",\"evidencia\":\"também a Doutora Débora Diniz, do Instituto de Bioética, Direitos Humanos e Gênero, integrante da Associação Internacional de Bioética, falou\",\"justificativa\":\"Identificada como professora/pesquisadora vinculada a instituto de pesquisa em bioética.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P032\",\"categoria\":\"sociedade civil\",\"instituicao_identificada\":\"Academia Fluminense de Medicina\",\"qualificacao_identificada\":\"Médico | Presidente da Comissão de Ética e Cidadania\",\"evidencia\":\"membro titular da Academia Fluminense de Medicina e presidente da Comissão de Ética e Cidadania da Academia Fluminense de Medicina\",\"justificativa\":\"Representa entidade de classe médica (academia/associação profissional), enquadrada como sociedade civil por convenção.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P034\",\"categoria\":\"acadêmicos\",\"instituicao_identificada\":\"Universidade Federal de São Paulo (UNIFESP)\",\"qualificacao_identificada\":\"Socióloga | Professora Titular\",\"evidencia\":\"Falo aqui de um lugar de Professora Titular na Área da Saúde Coletiva do Departamento de Medicina Preventiva da UNIFESP\",\"justificativa\":\"Fala a partir de sua posição de professora titular universitária, atuação acadêmica predominante na fala.\",\"revisar\":true,\"motivo_revisao\":\"Também se apresenta como representante da Conectas Direitos Humanos, podendo caracterizar dupla representação.\"},\n{\"id\":\"AP03_P035\",\"categoria\":null,\"instituicao_identificada\":\"Hospital e Maternidade São Francisco de Assis\",\"qualificacao_identificada\":\"Médica\",\"evidencia\":\"Co-fundadora do Hospital e Maternidade São Francisco de Assis em Jacareí onde foi Diretora Clínica por seis anos\",\"justificativa\":\"Natureza pública ou privada do hospital não comprovada, e fala não indica representação institucional clara na audiência.\",\"revisar\":true,\"motivo_revisao\":\"Natureza do hospital (público/privado) não comprovada nos excertos; vínculo atual não evidenciado na fala.\"},\n{\"id\":\"AP03_P039\",\"categoria\":\"sociedade civil\",\"instituicao_identificada\":\"Associação de Desenvolvimento da Família (ADEF)\",\"qualificacao_identificada\":\"Médica endocrinologista\",\"evidencia\":\"Na realidade, represento aqui a Associação para o Desenvolvimento da Família\",\"justificativa\":\"Declara explicitamente representar associação civil, apesar de também ser professora.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P041\",\"categoria\":\"atores públicos\",\"instituicao_identificada\":\"Conselho Nacional dos Direitos da Mulher\",\"qualificacao_identificada\":\"Socióloga | Coordenadora da CEPIA\",\"evidencia\":\"Agradeço a oportunidade por participar desta audiência, para, em nome do Conselho Nacional dos Direitos da Mulher\",\"justificativa\":\"Fala em nome do Conselho Nacional dos Direitos da Mulher, órgão público vinculado ao governo federal.\",\"revisar\":true,\"motivo_revisao\":\"Também se apresenta como coordenadora da CEPIA (ONG) e integrante de comissão, havendo dupla filiação possível.\"},\n{\"id\":\"AP03_P042\",\"categoria\":\"sociedade civil\",\"instituicao_identificada\":\"Federação Brasileira das Associações de Ginecologia e Obstetrícia\",\"qualificacao_identificada\":\"Professor Titular\",\"evidencia\":\"Estou aqui representando a Federação Brasileira das Associações de Ginecologia e Obstetrícia\",\"justificativa\":\"Representa federação de associações profissionais médicas, classificada como sociedade civil por convenção.\",\"revisar\":false,\"motivo_revisao\":\"\"}\n]}\n```"
+        }
+      ],
+      "container": null,
+      "stop_reason": "end_turn",
+      "stop_sequence": null,
+      "stop_details": null,
+      "usage": {
+        "input_tokens": 29656,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1662,
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "service_tier": "standard",
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "diagnostics": null
+    },
+    "ids": [
+      "AP03_P030",
+      "AP03_P031",
+      "AP03_P032",
+      "AP03_P034",
+      "AP03_P035",
+      "AP03_P039",
+      "AP03_P041",
+      "AP03_P042"
+    ]
+  },
+  "4": {
+    "resposta": {
+      "model": "claude-sonnet-5",
+      "id": "msg_011CgkpBEhHAyxgWfbaAVXYq",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "```json\n{\"resultados\":[\n{\"id\":\"AP03_P044\",\"categoria\":\"Atores públicos\",\"instituicao_identificada\":\"Ministério da Saúde\",\"qualificacao_identificada\":\"Ministro de Estado da Saúde\",\"evidencia\":\"Cabeçalho de fala identificado nas notas de 4 de setembro de 2008.\",\"justificativa\":\"Participou como Ministro de Estado da Saúde, representando o governo.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P045\",\"categoria\":\"Sociedade civil\",\"instituicao_identificada\":\"Movimento Nacional da Cidadania em Defesa da Vida – Brasil Sem Aborto\",\"qualificacao_identificada\":\"Presidente\",\"evidencia\":\"Ouviremos, agora, a Professora Lenise Aparecida Martins Garcia, Professora Titular do Departamento de Biologia Molecular da Universidade de Brasília... e Presidente do Movimento Nacional da Cidadania em Defesa da Vida – Brasil Sem Aborto.\",\"justificativa\":\"Apresentou-se como Presidente de movimento social, apesar de também ser professora.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P046\",\"categoria\":\"Sociedade civil\",\"instituicao_identificada\":\"Rede Nacional Feminista de Saúde, Direitos Sexuais e Direitos Reprodutivos\",\"qualificacao_identificada\":\"Professora Titular | Integrante do Conselho Diretor\",\"evidencia\":\"Sou antropóloga e Professora Titular da Universidade de Brasília, mas falo aqui em nome da Rede Nacional Feminista de Saúde, Direitos Sexuais e Direitos Reprodutivos\",\"justificativa\":\"Declarou explicitamente falar em nome da rede, entidade da sociedade civil, não como acadêmica.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P047\",\"categoria\":\"Sociedade civil\",\"instituicao_identificada\":\"Conferência Nacional dos Bispos do Brasil (CNBB)\",\"qualificacao_identificada\":\"Padre | Assessor Nacional da Comissão Episcopal para a Vida e a Família\",\"evidencia\":\"Vamos hoje aqui, representando a Conferência Nacional dos Bispos do Brasil, colaborar nesta matéria\",\"justificativa\":\"Representou entidade religiosa (CNBB), categoria sociedade civil conforme convenção.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P048\",\"categoria\":\"Sociedade civil\",\"instituicao_identificada\":\"Católicas pelo Direito de Decidir\",\"qualificacao_identificada\":\"Socióloga | Diretora\",\"evidencia\":\"Conforme já foi dito, sou pesquisadora, mas estou aqui como católica, feminista, mulher, cidadã brasileira e Presidenta da Organização Católicas pelo Direito de Decidir.\",\"justificativa\":\"Declarou explicitamente falar como presidenta de ONG, não na condição de pesquisadora.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P049\",\"categoria\":\"Atores públicos\",\"instituicao_identificada\":\"Ministério Público Federal\",\"qualificacao_identificada\":\"Subprocurador-Geral da República\",\"evidencia\":\"passo a palavra ao Doutor Mário José Gisi, Subprocurador da República que nos assiste nesta Audiência.\",\"justificativa\":\"Participou na condição de Subprocurador-Geral da República, representando o MPF.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P050\",\"categoria\":\"Sociedade civil\",\"instituicao_identificada\":\"Associação Médico-Espírita do Brasil (AME)\",\"qualificacao_identificada\":\"Médica | Presidente\",\"evidencia\":\"Preside atualmente a Associação Médico-Espírita Internacional e a Associação Médico-Espírita do Brasil.\",\"justificativa\":\"Participou como presidente de associação profissional/religiosa, categoria sociedade civil.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P051\",\"categoria\":\"Atores públicos\",\"instituicao_identificada\":\"Secretaria Especial de Políticas para as Mulheres / Conselho Nacional dos Direitos da Mulher\",\"qualificacao_identificada\":\"Presidente | Secretária Especial de Políticas para as Mulheres\",\"evidencia\":\"ouvindo agora a Secretária Especial de Políticas para as Mulheres, Secretária da Presidência da República, Doutora Nilcéa Freire, que também é presidente do Conselho Nacional de Direitos da Mulher.\",\"justificativa\":\"Participou como Secretária de Estado, cargo público, representando órgão governamental.\",\"revisar\":false,\"motivo_revisao\":\"\"}\n]}\n```"
+        }
+      ],
+      "container": null,
+      "stop_reason": "end_turn",
+      "stop_sequence": null,
+      "stop_details": null,
+      "usage": {
+        "input_tokens": 25211,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1694,
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "service_tier": "standard",
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "diagnostics": null
+    },
+    "ids": [
+      "AP03_P044",
+      "AP03_P045",
+      "AP03_P046",
+      "AP03_P047",
+      "AP03_P048",
+      "AP03_P049",
+      "AP03_P050",
+      "AP03_P051"
+    ]
+  },
+  "5": {
+    "resposta": {
+      "model": "claude-sonnet-5",
+      "id": "msg_011CgkpCEQwHKBQxcgVMJadS",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "```json\n{\"resultados\":[\n{\"id\":\"AP03_P052\",\"categoria\":\"sociedade civil\",\"instituicao_identificada\":\"Conferência Nacional dos Bispos do Brasil (CNBB)\",\"qualificacao_identificada\":\"Procurador do Estado do Rio de Janeiro | Presidente da União dos Juristas Católicos da Arquidiocese do Rio de Janeiro\",\"evidencia\":\"falando pela CNBB, o Doutor Paulo Silveira Martins Leão Júnior\",\"justificativa\":\"Participou representando entidade religiosa (CNBB), enquadrando-se em sociedade civil.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P053\",\"categoria\":\"atores públicos\",\"instituicao_identificada\":\"Conselho Federal de Medicina\",\"qualificacao_identificada\":\"Médico cardiologista | Primeiro Vice-Presidente\",\"evidencia\":\"o Conselho Federal de Medicina e os conselhos regionais de medicina compõem um sistema, uma autarquia federal\",\"justificativa\":\"Representou o Conselho Federal de Medicina, autarquia federal com função delegada pelo Estado, caracterizando ator público.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P054\",\"categoria\":\"sociedade civil\",\"instituicao_identificada\":\"Associação Nacional Pró-Vida e Pró-Família\",\"qualificacao_identificada\":\"Professor Adjunto do Departamento de Cirurgia Geral da Faculdade de Ciências Médicas da UERJ\",\"evidencia\":\"representante da Associação Nacional Pró-Vida e Pró-Família, Doutor Rodolfo Acatauassú Nunes\",\"justificativa\":\"Participou como representante de associação civil de caráter social/religioso, enquadrando-se em sociedade civil.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P055\",\"categoria\":\"sociedade civil\",\"instituicao_identificada\":\"Sociedade Brasileira de Genética Médica\",\"qualificacao_identificada\":\"Médico geneticista | Presidente\",\"evidencia\":\"É uma entidade civil de caráter científico e normativo, composta em sua maioria por médicos\",\"justificativa\":\"Representou entidade civil (associação profissional) de caráter científico e normativo, enquadrando-se em sociedade civil conforme convenção da pesquisa.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P056\",\"categoria\":\"sociedade civil\",\"instituicao_identificada\":\"Associação Brasileira de Psiquiatria\",\"qualificacao_identificada\":\"Médico especializado em psiquiatria forense, livre-docente e doutor em psiquiatria pela UFRJ, professor da EMERJ\",\"evidencia\":\"me foi solicitado que representasse a Associação Brasileira de Psiquiatria, uma entidade que congrega os psiquiatras de todo o país\",\"justificativa\":\"Participou representando associação profissional de médicos psiquiatras, enquadrando-se em sociedade civil.\",\"revisar\":false,\"motivo_revisao\":\"\"},\n{\"id\":\"AP03_P057\",\"categoria\":\"sociedade civil\",\"instituicao_identificada\":\"Sociedade Brasileira para o Progresso da Ciência\",\"qualificacao_identificada\":\"Ginecologista | Obstetra | professor livre-docente em genética médica na USP\",\"evidencia\":\"Ouviremos agora a Sociedade Brasileira para o Progresso da Ciência, representada neste ato pelo Doutor Thomaz Rafael Gollop\",\"justificativa\":\"Representou associação científica civil (SBPC), composta por sociedades científicas e cientistas, enquadrando-se em sociedade civil conforme convenção da pesquisa.\",\"revisar\":false,\"motivo_revisao\":\"\"}\n]}\n```"
+        }
+      ],
+      "container": null,
+      "stop_reason": "end_turn",
+      "stop_sequence": null,
+      "stop_details": null,
+      "usage": {
+        "input_tokens": 19543,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 0,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "output_tokens": 1325,
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "service_tier": "standard",
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "diagnostics": null
+    },
+    "ids": [
+      "AP03_P052",
+      "AP03_P053",
+      "AP03_P054",
+      "AP03_P055",
+      "AP03_P056",
+      "AP03_P057"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "origem": "Confirmação expressa do usuário nesta conversa",
+  "versao_anterior": "revisao_humana_v2",
+  "alteracoes": [
+    {
+      "id": "AP38-AP_38_RE_1057258-00011",
+      "antes": {
+        "corpus": "Incorporar",
+        "tipo": "Argumento"
+      },
+      "depois": {
+        "corpus": "Excluir",
+        "tipo": null
+      },
+      "motivo": "Usuário confirmou confusão entre notas 1 e 2; a nota 2 lista amici curiae."
+    }
+  ],
+  "fontes_sha256": {
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_v2/evidencias_nota_brasilcon.json": "17ae7528e719d5193fef32b57b4e353ce02bb06c1daf9d5605796795bb0b5c49",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_v2/claude_engajamento_v1_predicoes.json": "7103bbeb85880c365a4631a49be3e96a42542c6584f8bd4b82dd3c0ff5c2ec63",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_v2/metricas.json": "dcb6beb8ae76b264c00f283093e4f8aa755218b619a18f6c1beb9dbc35cba16e",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_v2/ids_rotulos.json": "c7a1140d9360d42b293241981ff254c14a133da85506c91734cdc312303e3d4a",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_v2/claude_tipo_v1_predicoes.json": "a21ffe4c4773fe330b1540345085d93d4906801b43491395471fc8525e9d3fff",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_v2/alteracoes.json": "9eab097975f9a93bb7f6e15531e68f51a85f2549653e2327d123890e41ab182e"
+  },
+  "nota": "Versão vigente do gabarito de desenvolvimento. Arquivos históricos, planilha original, treino e teste reservado preservados."
+}

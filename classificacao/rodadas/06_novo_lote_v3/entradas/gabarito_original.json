@@ -1,0 +1,182 @@
+[
+  {
+    "id": "AP01-AP_01_ADI_3510-00006",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00007",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00016",
+    "audiencia": "1",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00026",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00031",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00046",
+    "audiencia": "3",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00047",
+    "audiencia": "3",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP04-AP_04_SS_2361-00016",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP04-AP_04_SS_2361-00024",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00012",
+    "audiencia": "5",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00022",
+    "audiencia": "5",
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00024",
+    "audiencia": "5",
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00037",
+    "audiencia": "5",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP08-AP_08_ADI_4679-00004",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP08-AP_08_ADI_4679-00005",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00018",
+    "audiencia": "8",
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00020",
+    "audiencia": "8",
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00005",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00007",
+    "audiencia": "12",
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00013",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00017",
+    "audiencia": "12",
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00006",
+    "audiencia": "14",
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00013",
+    "audiencia": "14",
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00021",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00004",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00038",
+    "audiencia": "15",
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00051",
+    "audiencia": "15",
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00003",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00015",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00256",
+    "audiencia": "32",
+    "corpus": "Incorporar",
+    "tipo": "Contexto"
+  }
+]

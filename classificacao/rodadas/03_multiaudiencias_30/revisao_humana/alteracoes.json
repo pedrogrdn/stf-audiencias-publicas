@@ -1,0 +1,121 @@
+{
+  "origem": "Planilha revisada pelo usuário e confirmação posterior dos casos 2, 3 e 11 nesta conversa",
+  "alteracoes": [
+    {
+      "id": "AP01-AP_01_ADI_3510-00002",
+      "antes": {
+        "corpus": "Incorporar",
+        "tipo": "Contexto"
+      },
+      "depois": {
+        "corpus": "Incorporar",
+        "tipo": "Relato"
+      }
+    },
+    {
+      "id": "AP03-AP_03_ADPF_054-00030",
+      "antes": {
+        "corpus": "Incorporar",
+        "tipo": "Contexto"
+      },
+      "depois": {
+        "corpus": "Incorporar",
+        "tipo": "Relato"
+      }
+    },
+    {
+      "id": "AP01-AP_01_ADI_3510-00011",
+      "antes": {
+        "corpus": "Incorporar",
+        "tipo": "Relato"
+      },
+      "depois": {
+        "corpus": "Incorporar",
+        "tipo": "Argumento"
+      }
+    },
+    {
+      "id": "AP04-AP_04_SS_2944-00012",
+      "antes": {
+        "corpus": "Incorporar",
+        "tipo": "Relato"
+      },
+      "depois": {
+        "corpus": "Incorporar",
+        "tipo": "Argumento"
+      }
+    },
+    {
+      "id": "AP14-AP_14_ADI_5035-00005",
+      "antes": {
+        "corpus": "Incorporar",
+        "tipo": "Relato"
+      },
+      "depois": {
+        "corpus": "Incorporar",
+        "tipo": "Contexto"
+      }
+    },
+    {
+      "id": "AP04-AP_04_SS_3345-00015",
+      "antes": {
+        "corpus": "Incorporar",
+        "tipo": "Relato"
+      },
+      "depois": {
+        "corpus": "Incorporar",
+        "tipo": "Argumento"
+      }
+    },
+    {
+      "id": "AP01-AP_01_ADI_3510-00004",
+      "antes": {
+        "corpus": "Incorporar",
+        "tipo": "Argumento"
+      },
+      "depois": {
+        "corpus": "Incorporar",
+        "tipo": "Relato"
+      }
+    },
+    {
+      "id": "AP12-AP_12_ADI_4650-00006",
+      "antes": {
+        "corpus": "Incorporar",
+        "tipo": "Argumento"
+      },
+      "depois": {
+        "corpus": "Excluir",
+        "tipo": null
+      }
+    },
+    {
+      "id": "AP32-AP_32_ADPF_635-00105",
+      "antes": {
+        "corpus": "Incorporar",
+        "tipo": "Argumento"
+      },
+      "depois": {
+        "corpus": "Excluir",
+        "tipo": null
+      }
+    },
+    {
+      "id": "AP01-AP_01_ADI_3510-00005",
+      "antes": {
+        "corpus": "Incorporar",
+        "tipo": "Argumento"
+      },
+      "depois": {
+        "corpus": "Incorporar",
+        "tipo": "Relato"
+      }
+    }
+  ],
+  "fontes_sha256": {
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/multiaudiencias_v1/ids_rotulos.json": "c97a1c13f2f77b4fd06dd538e506c069dadbecdf3986dc5764fc4b4dca25355a",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_multiaudiencias_v1/predicoes.json": "4be63be3116196af92ca09f6576279800efc82ef2065fc2d41dea6c9c4307e86",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_11_divergencias.xlsx": "08416b28b1900378197e4efcd54548c0b0701864e29dc0b94f8837b4fb1e8371"
+  },
+  "preservacao": "Planilha humana, dados de treino, teste reservado e execuções originais não sobrescritos."
+}

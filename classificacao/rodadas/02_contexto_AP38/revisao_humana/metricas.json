@@ -1,0 +1,64 @@
+{
+  "claude_tipo_v1": {
+    "n": 10,
+    "acertos": 9,
+    "invalidas": 0,
+    "por_categoria": {
+      "Contexto": {
+        "suporte": 5,
+        "acertos": 5,
+        "precisao": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Relato": {
+        "suporte": 4,
+        "acertos": 4,
+        "precisao": 0.8,
+        "recall": 1.0,
+        "f1": 0.8888888888888888
+      },
+      "Argumento": {
+        "suporte": 1,
+        "acertos": 0,
+        "precisao": null,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "divergencias": [
+      "AP38-AP_38_RE_1037396-00064"
+    ]
+  },
+  "claude_engajamento_v1": {
+    "n": 10,
+    "acertos": 9,
+    "invalidas": 0,
+    "por_categoria": {
+      "Contexto": {
+        "suporte": 5,
+        "acertos": 4,
+        "precisao": 1.0,
+        "recall": 0.8,
+        "f1": 0.8888888888888888
+      },
+      "Relato": {
+        "suporte": 4,
+        "acertos": 4,
+        "precisao": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "Argumento": {
+        "suporte": 1,
+        "acertos": 1,
+        "precisao": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666
+      }
+    },
+    "divergencias": [
+      "AP38-AP_38_RE_1037396-00083"
+    ]
+  }
+}

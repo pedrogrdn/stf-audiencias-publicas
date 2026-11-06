@@ -1,0 +1,4056 @@
+{
+  "fonte_sha256": "4e1d920f9dd254b256a4db37b893366158c13b257d5590a8c6f9904dde6b9164",
+  "registros": [
+    {
+      "id": "AP01_P001",
+      "audiencia": 1,
+      "nome": "ALICE TEIXEIRA FERREIRA",
+      "entidade": "Universidade Federal de São Paulo",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P002",
+      "audiencia": 1,
+      "nome": "ANTONIO CARLOS CAMPOS DE CARVALHO",
+      "entidade": "Universidade Federal do Rio de Janeiro / Instituto Nacional de Cardiologia",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P003",
+      "audiencia": 1,
+      "nome": "ANTÔNIO JOSÉ EÇA",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P004",
+      "audiencia": 1,
+      "nome": "CLÁUDIA MARIA DE CASTRO BATISTA",
+      "entidade": "UFRJ",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P005",
+      "audiencia": 1,
+      "nome": "DALTON LUIZ DE PAULA RAMOS",
+      "entidade": "Universidade de São Paulo",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P006",
+      "audiencia": 1,
+      "nome": "DÉBORA DINIZ",
+      "entidade": "Universidade de Brasília / ONG Anis",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP01_P007",
+      "audiencia": 1,
+      "nome": "ELIZABETH KIPMAN CERQUEIRA",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P008",
+      "audiencia": 1,
+      "nome": "HERBERT PRAXEDES",
+      "entidade": "Universidade Federal Fluminense",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P009",
+      "audiencia": 1,
+      "nome": "JÚLIO CÉSAR VOLTARELLI",
+      "entidade": "Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto - USP",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P010",
+      "audiencia": 1,
+      "nome": "LENISE APARECIDA MARTINS GARCIA",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP01_P011",
+      "audiencia": 1,
+      "nome": "LILIAN PIÑERO EÇA",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP01_P012",
+      "audiencia": 1,
+      "nome": "LÚCIA BRAGA",
+      "entidade": "Rede Sarah de Hospitais",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP01_P013",
+      "audiencia": 1,
+      "nome": "LUIZ EUGÊNIO ARAÚJO DE MORAES MELLO",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP01_P014",
+      "audiencia": 1,
+      "nome": "LYGIA PEREIRA",
+      "entidade": "USP - Departamento de Genética e Biologia Evolutiva",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P015",
+      "audiencia": 1,
+      "nome": "MARCELO VACCARI",
+      "entidade": "Universidade Federal de São Paulo / USC de Bauru",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP01_P016",
+      "audiencia": 1,
+      "nome": "MAYANA ZATZ",
+      "entidade": "Universidade de São Paulo - Centro de Estudos do Genoma Humano",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP01_P017",
+      "audiencia": 1,
+      "nome": "PATRÍCIA HELENA LUCAS PRANKE",
+      "entidade": "Universidade Federal do Rio Grande do Sul",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P018",
+      "audiencia": 1,
+      "nome": "RICARDO RIBEIRO DOS SANTOS",
+      "entidade": "USP / FIOCRUZ-BA",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P019",
+      "audiencia": 1,
+      "nome": "RODOLFO ACATAUASSÚ NUNES",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP01_P020",
+      "audiencia": 1,
+      "nome": "ROGÉRIO PAZETTI",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP01_P021",
+      "audiencia": 1,
+      "nome": "ROSALIA MENDES OTERO",
+      "entidade": "Universidade Federal do Rio de Janeiro",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP01_P022",
+      "audiencia": 1,
+      "nome": "STEVENS REHEN",
+      "entidade": "Universidade Federal do Rio de Janeiro",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP02_P023",
+      "audiencia": 2,
+      "nome": "EVANDRO DE SAMPAIO DIDONET",
+      "entidade": "MINISTÉRIO DAS RELAÇÕES EXTERIORES",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP02_P024",
+      "audiencia": 2,
+      "nome": "HAROLDO SÉRGIO DA SILVA BEZERRA",
+      "entidade": "MINISTÉRIO DA SAÚDE",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP02_P025",
+      "audiencia": 2,
+      "nome": "EMANUEL ROBERTO DE NORA SERRA",
+      "entidade": "Pneuback (advogado defensor em ação civil pública)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP02_P026",
+      "audiencia": 2,
+      "nome": "PAULO JANISSEK",
+      "entidade": "Universidade Positivo",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P027",
+      "audiencia": 3,
+      "nome": "Amélia Thereza de Moura Vasconcellos",
+      "entidade": "Associação Médico-Espírita do Brasil (AME)",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P028",
+      "audiencia": 3,
+      "nome": "Carlos Macedo de Oliveira",
+      "entidade": "Igreja Universal do Reino de Deus",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P029",
+      "audiencia": 3,
+      "nome": "Cinthia Macedo Specian",
+      "entidade": "Hospital São Francisco",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP03_P030",
+      "audiencia": 3,
+      "nome": "Claudia Werneck",
+      "entidade": "Escola de Gente",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P031",
+      "audiencia": 3,
+      "nome": "Débora Diniz",
+      "entidade": "Instituto de Bioética, Direitos Humanos e Gênero (ANIS)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P032",
+      "audiencia": 3,
+      "nome": "Dernival da Silva Brandão",
+      "entidade": "Academia Fluminense de Medicina",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P033",
+      "audiencia": 3,
+      "nome": "Dóris Hipólito Pires",
+      "entidade": "Associação de Mulheres do Rio de Janeiro",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P034",
+      "audiencia": 3,
+      "nome": "Eleonora Menecucci de Oliveira",
+      "entidade": "Universidade Federal de São Paulo (UNIFESP)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP03_P035",
+      "audiencia": 3,
+      "nome": "Elizabeth Kipman Cerqueira",
+      "entidade": "Hospital e Maternidade São Francisco de Assis",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP03_P036",
+      "audiencia": 3,
+      "nome": "Evandro Costa Gama",
+      "entidade": "Advocacia-Geral da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P037",
+      "audiencia": 3,
+      "nome": "Grace Maria Fernandes Mendonça",
+      "entidade": "Advocacia-Geral da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P038",
+      "audiencia": 3,
+      "nome": "Heverton Neves Pettersen",
+      "entidade": "Sociedade Brasileira de Medicina Fetal",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P039",
+      "audiencia": 3,
+      "nome": "Ieda Therezinha do Nascimento Verreschi",
+      "entidade": "Associação de Desenvolvimento da Família (ADEF)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P040",
+      "audiencia": 3,
+      "nome": "Irvênia Luíza de Santis Prada",
+      "entidade": "Associação Médico-Espírita do Brasil (AME)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P041",
+      "audiencia": 3,
+      "nome": "Jacqueline Pitanguy",
+      "entidade": "Conselho Nacional dos Direitos da Mulher",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P042",
+      "audiencia": 3,
+      "nome": "Jorge Andalaft Neto",
+      "entidade": "Federação Brasileira das Associações de Ginecologia e Obstetrícia",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P043",
+      "audiencia": 3,
+      "nome": "José Antonio Toffoli",
+      "entidade": "Advocacia-Geral da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P044",
+      "audiencia": 3,
+      "nome": "José Gomes Temporão",
+      "entidade": "Ministério da Saúde",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P045",
+      "audiencia": 3,
+      "nome": "Lenise Aparecida Martins Garcia",
+      "entidade": "Movimento Nacional da Cidadania em Defesa da Vida – Brasil Sem Aborto",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P046",
+      "audiencia": 3,
+      "nome": "Lia Zanotta Machado",
+      "entidade": "Rede Nacional Feminista de Saúde, Direitos Sexuais e Direitos Reprodutivos",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P047",
+      "audiencia": 3,
+      "nome": "Luiz Antônio Bento",
+      "entidade": "Conferência Nacional dos Bispos do Brasil (CNBB)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P048",
+      "audiencia": 3,
+      "nome": "Maria José Fontelas Rosado Nunes",
+      "entidade": "Católicas pelo Direito de Decidir",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P049",
+      "audiencia": 3,
+      "nome": "Mário José Gisi",
+      "entidade": "Ministério Público Federal",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P050",
+      "audiencia": 3,
+      "nome": "Marlene Rossi Severino Nobre",
+      "entidade": "Associação Médico-Espírita do Brasil (AME)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P051",
+      "audiencia": 3,
+      "nome": "Nilcéa Freire",
+      "entidade": "Secretaria Especial de Políticas para as Mulheres / Conselho Nacional dos Direitos da Mulher",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P052",
+      "audiencia": 3,
+      "nome": "Paulo Silveira Martins Leão Junior",
+      "entidade": "Conferência Nacional dos Bispos do Brasil (CNBB)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P053",
+      "audiencia": 3,
+      "nome": "Roberto Luiz D’Ávila",
+      "entidade": "Conselho Federal de Medicina",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P054",
+      "audiencia": 3,
+      "nome": "Rodolfo Acatauassú Nunes",
+      "entidade": "Associação Nacional Pró-Vida e Pró-Família",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P055",
+      "audiencia": 3,
+      "nome": "Salmo Raskin",
+      "entidade": "Sociedade Brasileira de Genética Médica",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P056",
+      "audiencia": 3,
+      "nome": "Talvane Marins de Moraes",
+      "entidade": "Associação Brasileira de Psiquiatria",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P057",
+      "audiencia": 3,
+      "nome": "Thomaz Rafael Gollop",
+      "entidade": "Sociedade Brasileira para o Progresso da Ciência",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P058",
+      "audiencia": 3,
+      "nome": "Ailton Maranhão de Almeida",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P059",
+      "audiencia": 3,
+      "nome": "Érica Souza do Nascimento",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P060",
+      "audiencia": 3,
+      "nome": "José Aristodemo Pinotti",
+      "entidade": "Universidade de São Paulo e Universidade Estadual de Campinas",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP03_P061",
+      "audiencia": 3,
+      "nome": "Luiz Bassuma",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP03_P062",
+      "audiencia": 3,
+      "nome": "Michele Gomes de Almeida",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P063",
+      "audiencia": 4,
+      "nome": "Adib Domingos Jatene",
+      "entidade": "Hospital do Coração em São Paulo",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP04_P064",
+      "audiencia": 4,
+      "nome": "Agnaldo Gomes da Costa",
+      "entidade": "Secretaria de Estado da Saúde do Amazonas",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": "Atores públicos",
+      "comentario": null
+    },
+    {
+      "id": "AP04_P065",
+      "audiencia": 4,
+      "nome": "Alberto Beltrame",
+      "entidade": "Ministério da Saúde",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P066",
+      "audiencia": 4,
+      "nome": "Alexandre Sampaio Zakir",
+      "entidade": "Secretaria de Segurança Pública do Estado de São Paulo",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P067",
+      "audiencia": 4,
+      "nome": "Ana Beatriz Pinto de Almeida Vasconcellos",
+      "entidade": "Ministério da Saúde",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P068",
+      "audiencia": 4,
+      "nome": "André da Silva Ordacgy",
+      "entidade": "Defensoria Pública da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P069",
+      "audiencia": 4,
+      "nome": "Antonio Barbosa da Silva",
+      "entidade": "Instituto de Defesa dos Usuários de Medicamentos",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P070",
+      "audiencia": 4,
+      "nome": "Antônio Carlos Figueiredo Nardi",
+      "entidade": "Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS)",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P071",
+      "audiencia": 4,
+      "nome": "Antonio Fernando Barros e Silva de Souza",
+      "entidade": "Ministério Público Federal",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P072",
+      "audiencia": 4,
+      "nome": "Cátia Gisele Martins Vergara",
+      "entidade": "Associação Nacional do Ministério Público de Contas",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P073",
+      "audiencia": 4,
+      "nome": "Ciro Mortella",
+      "entidade": "Federação Brasileira da Indústria Farmacêutica",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P074",
+      "audiencia": 4,
+      "nome": "Cláudia Fernanda de Oliveira Pereira",
+      "entidade": "Associação Nacional do Ministério Público de Contas",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P075",
+      "audiencia": 4,
+      "nome": "Claudio Maierovitch Pessanha Henrique",
+      "entidade": "Ministério da Saúde",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P076",
+      "audiencia": 4,
+      "nome": "Cleusa da Silveira Bernardo",
+      "entidade": "Ministério da Saúde",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P077",
+      "audiencia": 4,
+      "nome": "Débora Diniz",
+      "entidade": "Instituto de Bioética Direitos Humanos e Gênero (ANIS)",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P078",
+      "audiencia": 4,
+      "nome": "Dirceu Raposo de Mello",
+      "entidade": "Agência Nacional de Vigilância Sanitária (ANVISA)",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P079",
+      "audiencia": 4,
+      "nome": "Edelberto Luiz da Silva",
+      "entidade": "Ministério da Saúde",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P080",
+      "audiencia": 4,
+      "nome": "Flávio Pansiere",
+      "entidade": "Conselho Federal da Ordem dos Advogados do Brasil",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P081",
+      "audiencia": 4,
+      "nome": "Francisco Batista Júnior",
+      "entidade": "Conselho Nacional de Saúde (CNS)",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P082",
+      "audiencia": 4,
+      "nome": "Geraldo Guedes",
+      "entidade": "Conselho Federal de Medicina",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P083",
+      "audiencia": 4,
+      "nome": "Heloisa Machado de Almeida",
+      "entidade": "Conectas Direitos Humanos",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P084",
+      "audiencia": 4,
+      "nome": "Ingo W. Sarlet",
+      "entidade": "Pontifícia Universidade Católica do Rio Grande do Sul (PUC/RS)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P085",
+      "audiencia": 4,
+      "nome": "Jairo Bisol",
+      "entidade": "Associação Nacional do Ministério Público de Defesa da Saúde",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P086",
+      "audiencia": 4,
+      "nome": "Janaína Barbier Gonçalves",
+      "entidade": "Procuradoria-Geral do Estado do Rio Grande do Sul",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P087",
+      "audiencia": 4,
+      "nome": "Jorge André de Carvalho Mendonça",
+      "entidade": "Justiça Federal em Pernambuco",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P088",
+      "audiencia": 4,
+      "nome": "José Antônio Rosa",
+      "entidade": "Fórum Nacional dos Procuradores-Gerais das Capitais Brasileiras",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P089",
+      "audiencia": 4,
+      "nome": "José Aristodemo Pinotti",
+      "entidade": "Universidade de São Paulo",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P090",
+      "audiencia": 4,
+      "nome": "José Getulio Martins Segalla",
+      "entidade": "Sociedade Brasileira de Oncologia Clínica",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P091",
+      "audiencia": 4,
+      "nome": "José Gomes Temporão",
+      "entidade": "Ministério da Saúde",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P092",
+      "audiencia": 4,
+      "nome": "Josué Félix de Araújo",
+      "entidade": "Associação Brasileira de Mucopolissacaridoses",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P093",
+      "audiencia": 4,
+      "nome": "Leonardo Bandarra",
+      "entidade": "Conselho Nacional dos Procuradores-Gerais de Justiça do Ministério Público dos Estados e da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P094",
+      "audiencia": 4,
+      "nome": "Leonardo Lorea Mattar",
+      "entidade": "Defensoria Pública da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P095",
+      "audiencia": 4,
+      "nome": "Luiz Alberto Simões Volpe",
+      "entidade": "Grupo Hipupiara Integração e Vida",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P096",
+      "audiencia": 4,
+      "nome": "Marcos Salles",
+      "entidade": "Associação dos Magistrados Brasileiros (AMB)",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P097",
+      "audiencia": 4,
+      "nome": "Maria Helena Barros de Oliveira",
+      "entidade": "Fundação Oswaldo Cruz (FIOCRUZ)",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P098",
+      "audiencia": 4,
+      "nome": "Maria Inês Pordeus Gadelha",
+      "entidade": "Ministério da Saúde",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P099",
+      "audiencia": 4,
+      "nome": "Osmar Gasparini Terra",
+      "entidade": "Conselho Nacional de Secretários de Saúde (CONASS)",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P100",
+      "audiencia": 4,
+      "nome": "Paulo Dornelles Picon",
+      "entidade": "Universidade Federal do Rio Grande do Sul",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P101",
+      "audiencia": 4,
+      "nome": "Paulo Marcelo Gehm Hoff",
+      "entidade": "Secretaria de Saúde do Estado de São Paulo",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P102",
+      "audiencia": 4,
+      "nome": "Paulo Menezes",
+      "entidade": "Associação Brasileira de Amigos e Familiares de Portadores de Hipertensão Arterial Pulmonar",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P103",
+      "audiencia": 4,
+      "nome": "Paulo Ziulkoski",
+      "entidade": "Confederação Nacional dos Municípios",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P104",
+      "audiencia": 4,
+      "nome": "Raul Cutait",
+      "entidade": "Faculdade de Medicina da Universidade de São Paulo",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P105",
+      "audiencia": 4,
+      "nome": "Reinaldo Felipe Nery Guimarães",
+      "entidade": "Ministério da Saúde",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P106",
+      "audiencia": 4,
+      "nome": "Rodrigo Tostes de Alencar Mascarenhas",
+      "entidade": "Procuradoria-Geral do Estado do Rio de Janeiro",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P107",
+      "audiencia": 4,
+      "nome": "Sérgio Henrique Sampaio",
+      "entidade": "Associação Brasileira de Assistência à Mucoviscidose",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P108",
+      "audiencia": 4,
+      "nome": "Sueli Gandolfi Dallari",
+      "entidade": "Centro de Estudos e Pesquisa de Direito Sanitário",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P109",
+      "audiencia": 4,
+      "nome": "Valderilio Feijó Azevedo",
+      "entidade": "Associação Brasileira de Grupos de Pacientes Reumáticos",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP04_P110",
+      "audiencia": 4,
+      "nome": "Vitore Maximiano",
+      "entidade": "Defensoria Pública do Estado de São Paulo",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P111",
+      "audiencia": 5,
+      "nome": "AUGUSTO CANIZELLA CHAGAS",
+      "entidade": "União Nacional dos Estudantes (UNE)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P112",
+      "audiencia": 5,
+      "nome": "CARLOS EDUARDO DE SOUZA GONÇALVES",
+      "entidade": "Universidade do Estado do Amazonas",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP05_P113",
+      "audiencia": 5,
+      "nome": "JÂNIA MARIA LOPES SALDANHA",
+      "entidade": "UNIVERSIDADE FEDERAL DE SANTA MARIA -UFSM",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P114",
+      "audiencia": 5,
+      "nome": "JOSÉ ROBERTO FERREIRA MILITÃO",
+      "entidade": "CONAD - Comissão Nacional de Assuntos Antidiscriminatórios",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P115",
+      "audiencia": 5,
+      "nome": "MARCELO TRAGTENBERG",
+      "entidade": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P116",
+      "audiencia": 5,
+      "nome": "MARIA PAULA DALLARI BUCCI",
+      "entidade": "Ministério da Educação",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P117",
+      "audiencia": 5,
+      "nome": "CARLOS ALBERTO DA COSTA DIAS",
+      "entidade": "2ª Vara Federal de Florianópolis",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P118",
+      "audiencia": 5,
+      "nome": "CARLOS FREDERICO DE SOUZA MARES",
+      "entidade": "Fundação Nacional do Índio (FUNAI)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P119",
+      "audiencia": 5,
+      "nome": "FÁBIO KONDER COMPARATO",
+      "entidade": "Educafro",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P120",
+      "audiencia": 5,
+      "nome": "FERNANDA DUARTE LOPES LUCAS DA SILVA",
+      "entidade": "Associação dos Juízes Federais do Brasil - AJUFE",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": "Sociedade civil",
+      "comentario": null
+    },
+    {
+      "id": "AP05_P121",
+      "audiencia": 5,
+      "nome": "FERNANDO HENRIQUE CARDOSO",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P122",
+      "audiencia": 5,
+      "nome": "FLÁVIA PIOVESAN",
+      "entidade": "Fundação Cultural Palmares / Pontifícia Universidade Católica de São Paulo - PUC/SP e PUC/PR",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP05_P123",
+      "audiencia": 5,
+      "nome": "GEORGE DE CERQUEIRA LEITE ZARUR",
+      "entidade": "Faculdade Latino-Americana de Ciências Sociais",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P124",
+      "audiencia": 5,
+      "nome": "JOSÉ CARLOS MIRANDA",
+      "entidade": "Movimento Negro Socialista",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P125",
+      "audiencia": 5,
+      "nome": "LUIS INÁCIO LUCENA ADAMS",
+      "entidade": "Advocacia-Geral da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P126",
+      "audiencia": 5,
+      "nome": "MARCOS ANTÔNIO CARDOSO",
+      "entidade": "Coordenação Nacional de Entidades Negras - CONEN",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P127",
+      "audiencia": 5,
+      "nome": "PAULO PAIM",
+      "entidade": "Senado Federal",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P128",
+      "audiencia": 5,
+      "nome": "ROBERTA FRAGOSO MENEZES KAUFMANN",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP05_P129",
+      "audiencia": 5,
+      "nome": "SUELI CARNEIRO",
+      "entidade": "Instituto da Mulher Negra de São Paulo - Geledés",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP06_P130",
+      "audiencia": 6,
+      "nome": "ANTÔNIO GERALDO DA SILVA",
+      "entidade": "ASSOCIAÇÃO BRASILEIRA DE PSIQUIATRIA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP06_P131",
+      "audiencia": 6,
+      "nome": "NELSON DE FREITAS LEITE JÚNIOR",
+      "entidade": "DEPARTAMENTO DE TRÂNSITO DO DISTRITO FEDERAL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP06_P132",
+      "audiencia": 6,
+      "nome": "TAYSSA MARINS DE OLIVEIRA SATO",
+      "entidade": "UNIVERSIDADE CÂNDIDO MENDES",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP06_P133",
+      "audiencia": 6,
+      "nome": "VILMA LEYTON",
+      "entidade": "MINISTÉRIO DA SAÚDE",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP06_P134",
+      "audiencia": 6,
+      "nome": "HUGO LEAL",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP06_P135",
+      "audiencia": 6,
+      "nome": "LUÍS INÁCIO LUCENA ADAMS",
+      "entidade": "ADVOCACIA-GERAL DA UNIÃO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP06_P136",
+      "audiencia": 6,
+      "nome": "MARCO ANDRADE",
+      "entidade": "OPERAÇÃO LEI SECA DO RIO DE JANEIRO / GOVERNO DO ESTADO DO RIO DE JANEIRO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP06_P137",
+      "audiencia": 6,
+      "nome": "NELSON FARIA DE OLIVEIRA",
+      "entidade": "Comunidade de Juristas de Língua Portuguesa",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": "Sociedade civil",
+      "comentario": null
+    },
+    {
+      "id": "AP06_P138",
+      "audiencia": 6,
+      "nome": "RENATO DEVITTO",
+      "entidade": "Associação Nacional de Defensores Públicos - ANADEP",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP07_P139",
+      "audiencia": 7,
+      "nome": "EDUARDO AZEREDO COSTA",
+      "entidade": "FUNDACENTRO",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP07_P140",
+      "audiencia": 7,
+      "nome": "HERMANO ALBUQUERQUE DE CASTRO",
+      "entidade": "ASSOCIAÇÃO BRASILEIRA DOS EXPOSTOS AO AMIANTO",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP07_P141",
+      "audiencia": 7,
+      "nome": "ROSEMARY ISHII SANAE ZAMATARO",
+      "entidade": "CONFEDERAÇÃO NACIONAL DOS TRABALHADORES NA INDÚSTRIA",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores privados",
+      "categoria_revisada": "Atores privados",
+      "comentario": null
+    },
+    {
+      "id": "AP08_P142",
+      "audiencia": 8,
+      "nome": "MARCELO BECHARA DE SOUZA HOBAIKA",
+      "entidade": "ANATEL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP08_P143",
+      "audiencia": 8,
+      "nome": "MAURÍCIO FITTIPALDI",
+      "entidade": "SICAV-RJ",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP08_P144",
+      "audiencia": 8,
+      "nome": "OSCAR VICENTE SIMÕES DE OLIVEIRA",
+      "entidade": "ASSOCIAÇÃO BRASILEIRA DE TELEVISÃO POR ASSINATURA - ABTA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP08_P145",
+      "audiencia": 8,
+      "nome": "PAULO ROBERTO SCHMIDT",
+      "entidade": "APRO - Associação Brasileira de Produção de Obras Audiovisuais",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP08_P146",
+      "audiencia": 8,
+      "nome": "MARCELO PROENÇA",
+      "entidade": "TV Cidade S.A.",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP08_P147",
+      "audiencia": 8,
+      "nome": "PAULO ROBERTO BARRETO BORNHAUSEN",
+      "entidade": "Câmara dos Deputados",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP09_P148",
+      "audiencia": 9,
+      "nome": "DALTON DE OLIVEIRA CAMPONÊS DO BRASIL",
+      "entidade": "Operador Nacional do Sistema Elétrico - ONS",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP09_P149",
+      "audiencia": 9,
+      "nome": "JOSÉ CARLOS DE MIRANDA FARIA",
+      "entidade": "Empresa de Pesquisa Energética",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP09_P150",
+      "audiencia": 9,
+      "nome": "JÚLIO CESAR ALVES DE AGUIAR",
+      "entidade": "Eletrobras",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP09_P151",
+      "audiencia": 9,
+      "nome": "PAOLO VECCHIA",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores privados",
+      "categoria_revisada": "Atores privados",
+      "comentario": null
+    },
+    {
+      "id": "AP10_P152",
+      "audiencia": 10,
+      "nome": "ANTÔNIO CÂNDIDO DE AZEVEDO SODRÉ FILHO",
+      "entidade": "ASSOMOGI - Associação dos Produtores de Cana do Vale do Mogi",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P153",
+      "audiencia": 10,
+      "nome": "ANTÔNIO LUCAS FILHO",
+      "entidade": "CONTAG",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P154",
+      "audiencia": 10,
+      "nome": "CARLOS EDUARDO CHAVES SILVA",
+      "entidade": "CONTAG",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P155",
+      "audiencia": 10,
+      "nome": "CARLOS EDUARDO DE SIQUEIRA CAVALCANTI",
+      "entidade": "BNDES",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P156",
+      "audiencia": 10,
+      "nome": "CARLOS GUSTAVO JACOIA",
+      "entidade": "ASCANA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P157",
+      "audiencia": 10,
+      "nome": "CHRISTINA PACHECO",
+      "entidade": "ORPLANA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P158",
+      "audiencia": 10,
+      "nome": "DJALMA EUZÉBIO SIMÕES NETO",
+      "entidade": "SINDAÇÚCAR",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": "Atores privados",
+      "comentario": null
+    },
+    {
+      "id": "AP10_P159",
+      "audiencia": 10,
+      "nome": "GÉRSON CARNEIRO LEÃO",
+      "entidade": "SINDAÇÚCAR",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P160",
+      "audiencia": 10,
+      "nome": "HÉLIO GURGEL",
+      "entidade": "ABEMA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": "Sociedade civil",
+      "comentario": null
+    },
+    {
+      "id": "AP10_P161",
+      "audiencia": 10,
+      "nome": "ISMAEL PERINA JUNIOR",
+      "entidade": "ORPLANA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P162",
+      "audiencia": 10,
+      "nome": "MÁRCIA AZANHA FERRAZ DIAS DE MORAES",
+      "entidade": "ESALQ/USP",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P163",
+      "audiencia": 10,
+      "nome": "MIGUEL RUBENS TRANIN",
+      "entidade": "ALCOPAR",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P164",
+      "audiencia": 10,
+      "nome": "NOEL MONTENEGRO LOUREIRO",
+      "entidade": "FEDERAÇÃO DA AGRICULTURA DE ALAGOAS - FAEAL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P165",
+      "audiencia": 10,
+      "nome": "PAULO SÉRGIO LEAL",
+      "entidade": "FEPLANA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P166",
+      "audiencia": 10,
+      "nome": "ROBERT MICHAEL BODDEY",
+      "entidade": "EMBRAPA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P167",
+      "audiencia": 10,
+      "nome": "RODRIGO FERNANDO MAULE",
+      "entidade": "ASCANA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P168",
+      "audiencia": 10,
+      "nome": "SIMONE OLIVEIRA TEIXEIRA",
+      "entidade": "MINISTÉRIO PÚBLICO DO TRABALHO - MPT",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP10_P169",
+      "audiencia": 10,
+      "nome": "ZILMAR JOSÉ DE SOUZA",
+      "entidade": "UNIÃO DA AGROINDÚSTRIA CANAVIEIRA DO ESTADO DE SÃO PAULO - UNICA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P170",
+      "audiencia": 11,
+      "nome": "ALINE LIMA DE PAULA MIRANDA",
+      "entidade": "DEFENSORIA PÚBLICA DA UNIÃO",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P171",
+      "audiencia": 11,
+      "nome": "ANDREZZA DUARTE CANÇADO",
+      "entidade": "CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P172",
+      "audiencia": 11,
+      "nome": "ARTHUR CORRÊA DA SILVA NETO",
+      "entidade": "DEFENSORIA PÚBLICA DO ESTADO DO PARÁ",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P173",
+      "audiencia": 11,
+      "nome": "DANIELA SOLLBERGER CEMBRANELLI",
+      "entidade": "DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P174",
+      "audiencia": 11,
+      "nome": "DEUSDETE SOUZA DE OLIVEIRA FILHO",
+      "entidade": "AGÊNCIA PENITENCIÁRIA DO MATO GROSSO DO SUL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P175",
+      "audiencia": 11,
+      "nome": "FERNANDO SANTANA ROCHA",
+      "entidade": "CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO BRASIL",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P176",
+      "audiencia": 11,
+      "nome": "JOSÉ DE RIBAMAR FRÓZ SOBRINHO",
+      "entidade": "TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P177",
+      "audiencia": 11,
+      "nome": "MIGUEL TASSINARI DE OLIVEIRA",
+      "entidade": "MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P178",
+      "audiencia": 11,
+      "nome": "NILTON LEONEL ARNECKE MARIA",
+      "entidade": "DEFENSORIA PÚBLICA-GERAL DO ESTADO DO RIO GRANDE DO SUL",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P179",
+      "audiencia": 11,
+      "nome": "JOSÉ ADAUMIR ARRUDA DA SILVA",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P180",
+      "audiencia": 11,
+      "nome": "MARCOS ROGÉRIO DA SILVA BRITO",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P181",
+      "audiencia": 11,
+      "nome": "MASSIMILIANO ANTÔNIO RUSSO",
+      "entidade": "PASTORAL CARCERÁRIA - CNBB",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP11_P182",
+      "audiencia": 11,
+      "nome": "RAQUEL ELIAS FERREIRA DODGE",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP12_P183",
+      "audiencia": 12,
+      "nome": "ADRIANA CUOCO PORTUGAL",
+      "entidade": "TRIBUNAL DE CONTAS DO DISTRITO FEDERAL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP12_P184",
+      "audiencia": 12,
+      "nome": "ENEIDA DESIREE SALGADO",
+      "entidade": "UNIVERSIDADE FEDERAL DO PARANÁ",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP12_P185",
+      "audiencia": 12,
+      "nome": "GERALDO TADEU MOREIRA MONTEIRO",
+      "entidade": "INSTITUTO UNIVERSITÁRIO DE PESQUISA DO RIO DE JANEIRO - IUPRJ",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP12_P186",
+      "audiencia": 12,
+      "nome": "LEONARDO ULRICH STEINER",
+      "entidade": "CONFERÊNCIA NACIONAL DOS BISPOS DO BRASIL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP12_P187",
+      "audiencia": 12,
+      "nome": "LUIZ MÁRCIO VICTOR ALVES PEREIRA",
+      "entidade": "ESCOLA NACIONAL DA MAGISTRATURA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP12_P188",
+      "audiencia": 12,
+      "nome": "MARTÔNIO MONT'ALVERNE BARRETO LIMA",
+      "entidade": "ASSOCIAÇÃO NACIONAL DOS PROCURADORES MUNICIPAIS",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP12_P189",
+      "audiencia": 12,
+      "nome": "MAURÍCIO SOARES BUGARINI",
+      "entidade": "UNIVERSIDADE DE BRASÍLIA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP12_P190",
+      "audiencia": 12,
+      "nome": "PAULO HENRIQUE DOS SANTOS LUCON",
+      "entidade": "INSTITUTO DOS ADVOGADOS DE SÃO PAULO -IASP",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP12_P191",
+      "audiencia": 12,
+      "nome": "RAIMUNDO CEZAR BRITTO ARAGÃO",
+      "entidade": "CONSELHO FEDERAL DA OAB",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP12_P192",
+      "audiencia": 12,
+      "nome": "EDUARDO MENDONÇA",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP12_P193",
+      "audiencia": 12,
+      "nome": "HENRIQUE FONTANA JÚNIOR",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP13_P194",
+      "audiencia": 13,
+      "nome": "CLÁUDIO LINS DE VASCONCELOS",
+      "entidade": "SINDICATO INTERESTADUAL DA INDÚSTRIA ÁUDIO VISUAL",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP13_P195",
+      "audiencia": 13,
+      "nome": "IVAR ALBERTO MARTINS HARTMANN",
+      "entidade": "INSTITUTO HISTÓRICO E GEOGRÁFICO BRASILEIRO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP13_P196",
+      "audiencia": 13,
+      "nome": "JOSÉ MURILO DE CARVALHO",
+      "entidade": "UFRJ",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP13_P197",
+      "audiencia": 13,
+      "nome": "MARCUS VINÍCIUS FURTADO COELHO",
+      "entidade": "ORDEM DOS ADVOGADOS DO BRASIL",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP13_P198",
+      "audiencia": 13,
+      "nome": "RENATO DE ANDRADE LESSA",
+      "entidade": "MINISTÉRIO DA CULTURA",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP13_P199",
+      "audiencia": 13,
+      "nome": "SÔNIA DA CRUZ MACHADO DE MORAES",
+      "entidade": "SINDICATO NACIONAL DOS EDITORES DE LIVROS",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores privados",
+      "categoria_revisada": "Atores privados",
+      "comentario": null
+    },
+    {
+      "id": "AP13_P200",
+      "audiencia": 13,
+      "nome": "JOÃO RIBEIRO DE MORAES",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Outros",
+      "categoria_revisada": "Outros",
+      "comentario": null
+    },
+    {
+      "id": "AP13_P201",
+      "audiencia": 13,
+      "nome": "MARCOS ROGÉRIO",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP13_P202",
+      "audiencia": 13,
+      "nome": "NEWTON LIMA",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP13_P203",
+      "audiencia": 13,
+      "nome": "ODIM BRANDÃO FERREIRA",
+      "entidade": "Ministério Público Federal",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP14_P204",
+      "audiencia": 14,
+      "nome": "FLORENTINO DE ARAÚJO CARDOSO FILHO",
+      "entidade": "Associação Médica Brasileira",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP14_P205",
+      "audiencia": 14,
+      "nome": "JADETE BARBOSA LAMPERT",
+      "entidade": "Associação Brasileira de Educação Médica",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP14_P206",
+      "audiencia": 14,
+      "nome": "LUÍS INÁCIO LUCENA ADAMS",
+      "entidade": "Advocacia-Geral da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP14_P207",
+      "audiencia": 14,
+      "nome": "MARCELO ANDRÉ BARBOZA DA ROCHA CHAVES",
+      "entidade": "Tribunal de Contas da União",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": "Atores públicos",
+      "comentario": null
+    },
+    {
+      "id": "AP14_P208",
+      "audiencia": 14,
+      "nome": "SEBASTIÃO VIEIRA CAIXETA",
+      "entidade": "Ministério Público do Trabalho",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": "Atores públicos",
+      "comentario": null
+    },
+    {
+      "id": "AP14_P209",
+      "audiencia": 14,
+      "nome": "ODIM BRANDÃO FERREIRA",
+      "entidade": "Ministério Público",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP14_P210",
+      "audiencia": 14,
+      "nome": "RUY FERNANDO GOMES LEME CAVALHEIRO",
+      "entidade": "Ministério Público do Trabalho - CONAP",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP14_P211",
+      "audiencia": 14,
+      "nome": "WILLIAM JOSÉ BICALHO HASTENREITER PAULO",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP15_P212",
+      "audiencia": 15,
+      "nome": "CARLOS RAGAZZO",
+      "entidade": "CADE",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP15_P213",
+      "audiencia": 15,
+      "nome": "HUMBERTO COSTA",
+      "entidade": "Senado Federal",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP15_P214",
+      "audiencia": 15,
+      "nome": "ROBERTO CORRÊA DE MELLO",
+      "entidade": "ABRAMUS",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP15_P215",
+      "audiencia": 15,
+      "nome": "JOÃO LUIZ WOERDENBAG FILHO",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP15_P216",
+      "audiencia": 15,
+      "nome": "JOSÉ DE ARAÚJO NOVAES NETO",
+      "entidade": "ABRAMUS; OAB",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP15_P217",
+      "audiencia": 15,
+      "nome": "WELLINGTON SARAIVA",
+      "entidade": "Ministério Público Federal",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP16_P218",
+      "audiencia": 16,
+      "nome": "ALEXANDRE VENZON ZANETTI",
+      "entidade": "Confederação Nacional de Saúde (CNS) / Federação Nacional dos Estabelecimentos de Serviços de Saúde (FNAES)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP16_P219",
+      "audiencia": 16,
+      "nome": "ANA LUIZA D'ÁVILA VIANA",
+      "entidade": "ABRASCO / Universidade de São Paulo",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP16_P220",
+      "audiencia": 16,
+      "nome": "ANDRÉ LONGO ARAÚJO DE MELO",
+      "entidade": "Agência Nacional de Saúde Suplementar (ANS)",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP16_P221",
+      "audiencia": 16,
+      "nome": "MARIA DO SOCORRO SOUZA",
+      "entidade": "Conselho Nacional de Saúde",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": "Sociedade civil",
+      "comentario": null
+    },
+    {
+      "id": "AP16_P222",
+      "audiencia": 16,
+      "nome": "LUÍS INÁCIO LUCENA ADAMS",
+      "entidade": "Advocacia-Geral da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP17_P223",
+      "audiencia": 17,
+      "nome": "LUIZ FELIPE DE SEIXAS CORRÊA",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": "Sociedade civil",
+      "comentario": null
+    },
+    {
+      "id": "AP18_P224",
+      "audiencia": 18,
+      "nome": "JOÃO RICARDO DOS SANTOS COSTA",
+      "entidade": "Associação dos Magistrados Brasileiros",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP18_P225",
+      "audiencia": 18,
+      "nome": "JORGE ELIAS NEHME",
+      "entidade": "BANCO DO BRASIL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": "Atores públicos",
+      "comentario": null
+    },
+    {
+      "id": "AP18_P226",
+      "audiencia": 18,
+      "nome": "JOSÉ AQUINO FLÔRES DE CAMARGO",
+      "entidade": "TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP18_P227",
+      "audiencia": 18,
+      "nome": "JOSÉ SERRA",
+      "entidade": "SENADO FEDERAL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP18_P228",
+      "audiencia": 18,
+      "nome": "LUIS CARLOS HACKMANN",
+      "entidade": "GOVERNO DO RIO GRANDE DO SUL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP18_P229",
+      "audiencia": 18,
+      "nome": "ONOFRE ALVES BATISTA JÚNIOR",
+      "entidade": "ADVOCACIA-GERAL DO ESTADO DE MINAS GERAIS",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP18_P230",
+      "audiencia": 18,
+      "nome": "SAINT-CLAIR DINIZ MARTINS SOUTO",
+      "entidade": "GOVERNO DO RIO DE JANEIRO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP18_P231",
+      "audiencia": 18,
+      "nome": "TARCIO DA SILVA PESSOA RODRIGUES",
+      "entidade": "GOVERNO DA PARAÍBA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP18_P232",
+      "audiencia": 18,
+      "nome": "JOSÉ ROBERTO AFONSO",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP18_P233",
+      "audiencia": 18,
+      "nome": "MARTUS ANTÔNIO RODRIGUES TAVARES",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP18_P234",
+      "audiencia": 18,
+      "nome": "MAURO RICARDO",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP18_P235",
+      "audiencia": 18,
+      "nome": "Otávio Damaso",
+      "entidade": "Banco Central do Brasil",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP18_P236",
+      "audiencia": 18,
+      "nome": "RAUL VELOSO",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP19_P237",
+      "audiencia": 19,
+      "nome": "ANTÔNIO DONATO NOBRE",
+      "entidade": "Instituto Nacional de Pesquisas da Amazônia",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP19_P238",
+      "audiencia": 19,
+      "nome": "JOSÉ ALDO REBELO FIGUEIREDO",
+      "entidade": "Ministério da Defesa",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP19_P239",
+      "audiencia": 19,
+      "nome": "SÂMIA SERRA NUNES",
+      "entidade": "IMAZON",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP19_P240",
+      "audiencia": 19,
+      "nome": "SARNEY FILHO",
+      "entidade": "Frente Parlamentar Ambientalista",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP19_P241",
+      "audiencia": 19,
+      "nome": "ALMERITA FRANCISCA DA SILVA",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP19_P242",
+      "audiencia": 19,
+      "nome": "ANNELISE VENDRAMINI",
+      "entidade": "Centro de Estudos em Sustentabilidade da Escola de Administração da Fundação Getúlio Vargas",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP19_P243",
+      "audiencia": 19,
+      "nome": "EDÍS MILARÉ",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP19_P244",
+      "audiencia": 19,
+      "nome": "LUIZ HENRIQUE GOMES DE MOURA",
+      "entidade": "Movimento dos Trabalhadores Rurais Sem Terra",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP19_P245",
+      "audiencia": 19,
+      "nome": "UBIRATAN CAZETTA",
+      "entidade": "Procurador da República / Ministério Público",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP22_P246",
+      "audiencia": 22,
+      "nome": "CARLOS AFFONSO PEREIRA DE SOUZA",
+      "entidade": "Instituto de Tecnologia e Sociedade do Rio de Janeiro - ITS Rio",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP22_P247",
+      "audiencia": 22,
+      "nome": "CÍNTIA ROSA PEREIRA DE LIMA",
+      "entidade": "Faculdade de Direito de Ribeirão Preto - Universidade de São Paulo",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP22_P248",
+      "audiencia": 22,
+      "nome": "GUSTAVO MASCARENHAS LACERDA PEDRINA",
+      "entidade": "Instituto Brasileiro de Ciências Criminais - IBCCRIM",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP22_P249",
+      "audiencia": 22,
+      "nome": "JOSÉ CARLOS COSTA NETTO",
+      "entidade": "Tribunal de Justiça de São Paulo",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP28_P250",
+      "audiencia": 28,
+      "nome": "AMÂNCIO JORGE SILVA NUNES DE OLIVEIRA",
+      "entidade": "Universidade do Estado de São Paulo",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP28_P251",
+      "audiencia": 28,
+      "nome": "ANTÔNIO REGINALDO COSTA MOREIRA",
+      "entidade": "Partido da Mobilização Nacional - PMN",
+      "mencao_incorporada": "Não",
+      "classificacao": "Partido Político",
+      "categoria_revisada": "Pendente",
+      "comentario": "Partido Político"
+    },
+    {
+      "id": "AP28_P252",
+      "audiencia": 28,
+      "nome": "ARLINDO FERNANDES DE OLIVEIRA",
+      "entidade": "Senado Federal",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP28_P253",
+      "audiencia": 28,
+      "nome": "CARLOS MELO",
+      "entidade": "INSPER",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP28_P254",
+      "audiencia": 28,
+      "nome": "CARLOS RANULFO MELO",
+      "entidade": "UFMG",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP28_P255",
+      "audiencia": 28,
+      "nome": "DANIEL FALCÃO PIMENTEL DOS REIS",
+      "entidade": "Instituto Brasiliense de Direito Público",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP28_P256",
+      "audiencia": 28,
+      "nome": "FABRÍCIO JULIANO MENDES MEDEIROS",
+      "entidade": "Partido Democratas - DEM",
+      "mencao_incorporada": "Não",
+      "classificacao": "Partido Político",
+      "categoria_revisada": "Pendente",
+      "comentario": "Partido Político"
+    },
+    {
+      "id": "AP28_P257",
+      "audiencia": 28,
+      "nome": "FLÁVIO AURÉLIO NOGUEIRA JÚNIOR",
+      "entidade": "PARTIDO SOLIDARIEDADE",
+      "mencao_incorporada": "Não",
+      "classificacao": "Partido Político",
+      "categoria_revisada": "Pendente",
+      "comentario": "Partido Político"
+    },
+    {
+      "id": "AP28_P258",
+      "audiencia": 28,
+      "nome": "FLÁVIO BRITO",
+      "entidade": "PARTIDO REPUBLICANO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Partido Político",
+      "categoria_revisada": "Pendente",
+      "comentario": "Partido Político"
+    },
+    {
+      "id": "AP28_P259",
+      "audiencia": 28,
+      "nome": "MARCEL VAN HATTEM",
+      "entidade": "PARTIDO NOVO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Partido Político",
+      "categoria_revisada": "Pendente",
+      "comentario": "Partido Político"
+    },
+    {
+      "id": "AP28_P260",
+      "audiencia": 28,
+      "nome": "BRASILINO PEREIRA DOS SANTOS",
+      "entidade": "Ministério Público Federal",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP28_P261",
+      "audiencia": 28,
+      "nome": "GABRIEL SOUSA MARQUES DE AZEVEDO",
+      "entidade": "Movimento Livres e Renova BR",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP28_P262",
+      "audiencia": 28,
+      "nome": "LUCIANO CAPARROZ PEREIRA DOS SANTOS",
+      "entidade": "Movimento de Combate à Corrupção Eleitoral - MCCE",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP28_P263",
+      "audiencia": 28,
+      "nome": "MARIANA LOPES",
+      "entidade": "Movimento Acredito",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP28_P264",
+      "audiencia": 28,
+      "nome": "MARINA SILVA",
+      "entidade": "Rede Sustentabilidade",
+      "mencao_incorporada": "Não",
+      "classificacao": "Partido Político",
+      "categoria_revisada": "Pendente",
+      "comentario": "Partido Político"
+    },
+    {
+      "id": "AP28_P265",
+      "audiencia": 28,
+      "nome": "PEDRO HENRIQUE DE CRISTO",
+      "entidade": "Brasil 21",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP28_P266",
+      "audiencia": 28,
+      "nome": "PEDRO TELLES",
+      "entidade": "Bancada Ativista",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP28_P267",
+      "audiencia": 28,
+      "nome": "RENAN FREITAS",
+      "entidade": "Movimento Acredito",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP29_P268",
+      "audiencia": 29,
+      "nome": "NEIDE MARA CAVALCANTI CARDOSO",
+      "entidade": "Ministério Público Federal",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP29_P269",
+      "audiencia": 29,
+      "nome": "VINICIUS MARQUES DE CARVALHO",
+      "entidade": "Universidade de São Paulo - USP",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP29_P270",
+      "audiencia": 29,
+      "nome": "ANDRÉ GIACCHETA",
+      "entidade": "Yahoo! Brasil",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP29_P271",
+      "audiencia": 29,
+      "nome": "ANDRÉ GIACCHETTA",
+      "entidade": "Yahoo! Brasil",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP29_P272",
+      "audiencia": 29,
+      "nome": "ANDREA KIRKPATRICK",
+      "entidade": "Facebook Serviços Online do Brasil Ltda.",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP29_P273",
+      "audiencia": 29,
+      "nome": "FLÁVIO HENRIQUE UNES PEREIRA",
+      "entidade": "OAB - Comissão Especial de Produção de Dados",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP29_P274",
+      "audiencia": 29,
+      "nome": "JACQUELINE DE SOUZA ABREU",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP29_P275",
+      "audiencia": 29,
+      "nome": "NATALIA PEPPI",
+      "entidade": "",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP30_P276",
+      "audiencia": 30,
+      "nome": "ALESSANDRO MOLON",
+      "entidade": "PARTIDO SOCIALISTA BRASILEIRO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Outros",
+      "categoria_revisada": "Outros",
+      "comentario": null
+    },
+    {
+      "id": "AP30_P277",
+      "audiencia": 30,
+      "nome": "ALEXANDRE MENDONÇA DE BARROS",
+      "entidade": "ASSOCIAÇÃO BRASILEIRA DO AGRONEGÓCIO - ABAG",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP30_P278",
+      "audiencia": 30,
+      "nome": "ALEXANDRE VIDIGAL DE OLIVEIRA",
+      "entidade": "MINISTÉRIO DE ESTADO DE MINAS E ENERGIA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP30_P279",
+      "audiencia": 30,
+      "nome": "JOÃO PAULO RIBEIRO CAPOBIANCO",
+      "entidade": "INSTITUTO DEMOCRACIA E SUSTENTABILIDADE",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP30_P280",
+      "audiencia": 30,
+      "nome": "DENISE HAMÚ MARCOS DE LA PENHA",
+      "entidade": "PROGRAMA DAS NAÇÕES UNIDAS PARA O MEIO AMBIENTE - PNUMA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Outros",
+      "categoria_revisada": "Outros",
+      "comentario": null
+    },
+    {
+      "id": "AP30_P281",
+      "audiencia": 30,
+      "nome": "FABIANA FERREIRA ALVES",
+      "entidade": "Greenpeace Brasil",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP30_P282",
+      "audiencia": 30,
+      "nome": "FLÁVIA WITKOWSKI FRANGETTO",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Outros",
+      "categoria_revisada": "Outros",
+      "comentario": null
+    },
+    {
+      "id": "AP30_P283",
+      "audiencia": 30,
+      "nome": "HUGO BARRETO",
+      "entidade": "Vale S/A",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP30_P284",
+      "audiencia": 30,
+      "nome": "JOSÉ LEVI DE MELLO DO AMARAL JÚNIOR",
+      "entidade": "Advocacia-Geral da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP30_P285",
+      "audiencia": 30,
+      "nome": "JULIANO BAIOCCHI VILLA",
+      "entidade": "Procuradoria-Geral da República / Ministério Público Federal",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP30_P286",
+      "audiencia": 30,
+      "nome": "PEDRO DE CAMARGO NETO",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP30_P287",
+      "audiencia": 30,
+      "nome": "TEREZA CRISTINA CORRÊA DA COSTA DIAS",
+      "entidade": "Ministério da Agricultura, Pecuária e Abastecimento",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P288",
+      "audiencia": 31,
+      "nome": "ANTONIA MARIA RAMOS FRANCO PEREIRA",
+      "entidade": "Instituto Nacional de Pesquisas da Amazônia – INPA",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P289",
+      "audiencia": 31,
+      "nome": "DIEGO FERNANDES MENDES ROLIM",
+      "entidade": "SECRETARIA ESTADUAL DO MEIO AMBIENTE DO MARANHÃO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P290",
+      "audiencia": 31,
+      "nome": "GERALDO ISRAEL MILANI DE NOGUEIRA",
+      "entidade": "SECRETARIA ESTADUAL DO MEIO AMBIENTE DO ACRE",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P291",
+      "audiencia": 31,
+      "nome": "JOSÉ MAURO DE LIMA O'DE ALMEIDA",
+      "entidade": "SECRETARIA ESTADUAL DO MEIO AMBIENTE DO PARÁ",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P292",
+      "audiencia": 31,
+      "nome": "JULIANO BAIOCCHI DE CARVALHO",
+      "entidade": "MINISTÉRIO PÚBLICO FEDERAL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P293",
+      "audiencia": 31,
+      "nome": "PAULA CRISTINA DE LIMA NETO SANTANA",
+      "entidade": "FUNDAÇÃO NACIONAL DO ÍNDIO - FUNAI",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P294",
+      "audiencia": 31,
+      "nome": "PAULO MAURÍCIO LIMA DE ALENCASTRO GRAÇA",
+      "entidade": "INSTITUTO NACIONAL DE PESQUISAS DA AMAZÔNIA – INPA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P295",
+      "audiencia": 31,
+      "nome": "RICARDO MAGNUS OSÓRIO GALVÃO",
+      "entidade": "DEPARTAMENTO DE FÍSICA APLICADA DA USP E EX-DIRETOR DO INPE",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P296",
+      "audiencia": 31,
+      "nome": "ROBÉRIO ALEIXO ANSELMO NOBRE",
+      "entidade": "SECRETARIA ESTADUAL DO MEIO AMBIENTE DO AMAPÁ",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P297",
+      "audiencia": 31,
+      "nome": "SUELY MARA VAZ GUIMARÃES DE ARAÚJO",
+      "entidade": "Observatório do Clima",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P298",
+      "audiencia": 31,
+      "nome": "JOCÉLIO XUCURU",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P299",
+      "audiencia": 31,
+      "nome": "JOSÉ LEVI MELLO DO AMARAL JÚNIOR",
+      "entidade": "Advocacia-Geral da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP31_P300",
+      "audiencia": 31,
+      "nome": "MARCOS JOSÉ ROCHA DOS SANTOS",
+      "entidade": "Governo do Estado de Rondônia",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P301",
+      "audiencia": 32,
+      "nome": "ALEXANDRA MONTGOMERY",
+      "entidade": "Anistia Internacional Brasil",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P302",
+      "audiencia": 32,
+      "nome": "ANTONIO HENRIQUE GRACIANO SUXBERGER",
+      "entidade": "Conselho Nacional do Ministério Público",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P303",
+      "audiencia": 32,
+      "nome": "CARLOS ALBERTO VILHENA",
+      "entidade": "Procuradoria Federal dos Direitos do Cidadão / Ministério Público Federal",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P304",
+      "audiencia": 32,
+      "nome": "CÉSAR MUÑOZ",
+      "entidade": "Human Rights Watch",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P305",
+      "audiencia": 32,
+      "nome": "DANIEL LOZOYA CONSTANT LOPES",
+      "entidade": "DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P306",
+      "audiencia": 32,
+      "nome": "DANIEL SARMENTO",
+      "entidade": "UNIVERSIDADE ESTADUAL DO RIO DE JANEIRO",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P307",
+      "audiencia": 32,
+      "nome": "FLÁVIA MEDEIROS SANTOS",
+      "entidade": "UNIVERSIDADE FEDERAL DE SANTA CATARINA - UFSC",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P308",
+      "audiencia": 32,
+      "nome": "MARCELO WEITZEL RABELLO DE SOUZA",
+      "entidade": "CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P309",
+      "audiencia": 32,
+      "nome": "MARINA PINHÃO COELHO ARAÚJO",
+      "entidade": "INSTITUTO BRASILEIRO DE CIÊNCIAS CRIMINAIS",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P310",
+      "audiencia": 32,
+      "nome": "PEDRO HARTUNG",
+      "entidade": "INSTITUTO ALANA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P311",
+      "audiencia": 32,
+      "nome": "SANDRO CABRAL",
+      "entidade": "INSPER",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P312",
+      "audiencia": 32,
+      "nome": "TIAGO GONÇALVES VERAS GOMES",
+      "entidade": "MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P313",
+      "audiencia": 32,
+      "nome": "WALLACE CORBO",
+      "entidade": "EDUCAFRO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P314",
+      "audiencia": 32,
+      "nome": "CLÁUDIA OLIVEIRA GUIMARÃES",
+      "entidade": "GRUPO MÃES DA MARÉ VÍTIMAS DA VIOLÊNCIA DO ESTADO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": "Sociedade civil",
+      "comentario": null
+    },
+    {
+      "id": "AP32_P315",
+      "audiencia": 32,
+      "nome": "DANIEL HIRATA",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P316",
+      "audiencia": 32,
+      "nome": "DESMOND ARIAS",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P317",
+      "audiencia": 32,
+      "nome": "ELIANA SOUSA SILVA",
+      "entidade": "Rede da Maré",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P318",
+      "audiencia": 32,
+      "nome": "FELIPE DA SILVA FREITAS",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P319",
+      "audiencia": 32,
+      "nome": "FRANSÉRGIO GOULART DE OLIVEIRA SILVA",
+      "entidade": "INICIATIVA DIREITO À MEMÓRIA E JUSTIÇA RACIAL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P320",
+      "audiencia": 32,
+      "nome": "GABRIEL DE CARVALHO SAMPAIO",
+      "entidade": "CONECTAS DIREITOS HUMANOS",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P321",
+      "audiencia": 32,
+      "nome": "JACQUELINE MUNIZ",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P322",
+      "audiencia": 32,
+      "nome": "LUIZ EDUARDO SOARES",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P323",
+      "audiencia": 32,
+      "nome": "MÁRCIA GATTO",
+      "entidade": "Rede Rio Criança",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P324",
+      "audiencia": 32,
+      "nome": "MARIA BEATRIZ GALLI BEVILACQUIAN",
+      "entidade": "Centro pela Justiça e Direito Internacional - CEJIL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P325",
+      "audiencia": 32,
+      "nome": "MARIA CECÍLIA DE OLIVEIRA ROSA",
+      "entidade": "Instituto Fogo Cruzado",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P326",
+      "audiencia": 32,
+      "nome": "MARIA DA PENHA SILIVA",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P327",
+      "audiencia": 32,
+      "nome": "MARIA DA PENHA SILVA",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Outros",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P328",
+      "audiencia": 32,
+      "nome": "MICHEL MISSE",
+      "entidade": "Núcleo de Estudos da Cidadania Conflito e Violência Urbana da Universidade Federal do Rio de Janeiro",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P329",
+      "audiencia": 32,
+      "nome": "PABLO NUNES",
+      "entidade": "CESeC / Observatório da Segurança do Rio",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P330",
+      "audiencia": 32,
+      "nome": "PAULO HENRIQUE DE OLIVEIRA",
+      "entidade": "Movimento Parem de Nos Matar",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P331",
+      "audiencia": 32,
+      "nome": "RENATA TRAJANO",
+      "entidade": "Coletivo Papo Reto",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P332",
+      "audiencia": 32,
+      "nome": "ROBERTO EFREM FILHO",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P333",
+      "audiencia": 32,
+      "nome": "WALDECK CARNEIRO",
+      "entidade": "Assembleia Legislativa do Estado do Rio de Janeiro",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP32_P334",
+      "audiencia": 32,
+      "nome": "YANILDA GONZALES",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P335",
+      "audiencia": 33,
+      "nome": "ALBERTO NETO",
+      "entidade": "Câmara dos Deputados",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P336",
+      "audiencia": 33,
+      "nome": "ANDREA FERREIRA LIMA ESMERALDO",
+      "entidade": "Conselho Federal de Psicologia - CFP",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P337",
+      "audiencia": 33,
+      "nome": "DANDARA QUEIROZ TINOCO MELO",
+      "entidade": "INSTITUTO IGARAPÉ",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P338",
+      "audiencia": 33,
+      "nome": "FERNANDO ZARDINI ANTONIO",
+      "entidade": "TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P339",
+      "audiencia": 33,
+      "nome": "IRAPUÃ SANTANA DO NASCIMENTO DA SILVA",
+      "entidade": "EDUCAFRO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P340",
+      "audiencia": 33,
+      "nome": "LILIANA MARIA CABRAL DE BARROS",
+      "entidade": "FRENTE ESTADUAL PELO DESENCARCERAMENTO DE PERNAMBUCO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P341",
+      "audiencia": 33,
+      "nome": "LÚCIA HELENA SILVA BARROS DE OLIVEIRA",
+      "entidade": "DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P342",
+      "audiencia": 33,
+      "nome": "MARCELO WEITZEL RABELO DE SOUZA",
+      "entidade": "CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P343",
+      "audiencia": 33,
+      "nome": "MARIA TEREZA UILLE GOMES",
+      "entidade": "CONSELHO NACIONAL DE JUSTIÇA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": "Atores públicos",
+      "comentario": null
+    },
+    {
+      "id": "AP33_P344",
+      "audiencia": 33,
+      "nome": "PEDRO PAULO LOURIVAL CARRIELLO",
+      "entidade": "DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": "Atores públicos",
+      "comentario": null
+    },
+    {
+      "id": "AP33_P345",
+      "audiencia": 33,
+      "nome": "RUY MUGGIATI",
+      "entidade": "TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P346",
+      "audiencia": 33,
+      "nome": "EVELINE ARAÚJO DUARTE MARQUES",
+      "entidade": "AGENDA NACIONAL PELO DESENCACERARMENTO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P347",
+      "audiencia": 33,
+      "nome": "ISABEL LIMA",
+      "entidade": "JUSTIÇA GLOBAL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P348",
+      "audiencia": 33,
+      "nome": "MONIQUE CRUZ",
+      "entidade": "JUSTIÇA GLOBAL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P349",
+      "audiencia": 33,
+      "nome": "RODRIGO DUQUE ESTRADA ROIG",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP33_P350",
+      "audiencia": 33,
+      "nome": "TAÍS SCHILLING FERRAZ",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P351",
+      "audiencia": 35,
+      "nome": "ANTONIO FERNANDES RUIZ FILHO",
+      "entidade": "FEDERAÇÃO NACIONAL DOS ADVOGADOS",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P352",
+      "audiencia": 35,
+      "nome": "BÁRBARA PRADO SIMÃO",
+      "entidade": "INTERNETLAB",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P353",
+      "audiencia": 35,
+      "nome": "BRENO RANGEL NUNES DA COSTA",
+      "entidade": "MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P354",
+      "audiencia": 35,
+      "nome": "BRUNO AUGUSTO VIGO MILANEZ",
+      "entidade": "OBSERVATÓRIO DA MENTALIDADE INQUISITÓRIA",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P355",
+      "audiencia": 35,
+      "nome": "FERNANDO BRAGA",
+      "entidade": "TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P356",
+      "audiencia": 35,
+      "nome": "FLÁVIO WERNECK MENEGUELLI",
+      "entidade": "FEDERAÇÃO NACIONAL DOS POLICIAIS FEDERAIS",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P357",
+      "audiencia": 35,
+      "nome": "GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ",
+      "entidade": "ORDEM DOS ADVOGADOS DO BRASIL",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P358",
+      "audiencia": 35,
+      "nome": "JÚLIO CEZAR LEMOS TRAVESSA",
+      "entidade": "TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P359",
+      "audiencia": 35,
+      "nome": "MANOEL GUSTAVO NEUBARTH TRINDADE",
+      "entidade": "INSTITUTO DE DIREITO E ECONOMIA DO RIO GRANDE DO SUL",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP35_P360",
+      "audiencia": 35,
+      "nome": "MÁRCIO ALBERTO GOMES DA SILVA",
+      "entidade": "DEPARTAMENTO DE POLÍCIA FEDERAL",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P361",
+      "audiencia": 35,
+      "nome": "MARCO AURÉLIO RAMOS FONSECA",
+      "entidade": "MINISTÉRIO PÚBLICO DO ESTADO DO MARANHÃO",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P362",
+      "audiencia": 35,
+      "nome": "MARCOS VIDIGAL DE FREITAS CRISSIÚMA",
+      "entidade": "INSTITUTO DE PROTEÇÃO DAS GARANTIAS INDIVIDUAIS",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P363",
+      "audiencia": 35,
+      "nome": "MARIA COTINHA BEZERRA PEREIRA",
+      "entidade": "MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P364",
+      "audiencia": 35,
+      "nome": "MARINA PINHÃO COELHO ARAÚJO",
+      "entidade": "INSTITUTO BRASILEIRO DE CIÊNCIAS CRIMINAIS - IBCCRIM",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P365",
+      "audiencia": 35,
+      "nome": "MÁRIO AUGUSTO DE FIGUEIREDO LACERDA GUERREIRO",
+      "entidade": "CONSELHO NACIONAL DE JUSTIÇA",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P366",
+      "audiencia": 35,
+      "nome": "PEDRO PAULO LOURIVAL CARRIELLO",
+      "entidade": "DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P367",
+      "audiencia": 35,
+      "nome": "RODRIGO DE BITTENCOURT MUDROVITSCH",
+      "entidade": "INSTITUTO DE GARANTIAS PENAIS - IGP",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P368",
+      "audiencia": 35,
+      "nome": "SANDRO CARVALHO LOBATO DE CARVALHO",
+      "entidade": "MINISTÉRIO PÚBLICO DO ESTADO DO MARANHÃO",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P369",
+      "audiencia": 35,
+      "nome": "WALTER NUNES DA SILVA JÚNIOR",
+      "entidade": "ASSOCIAÇÃO DOS JUÍZES FEDERAIS - AJUFE",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P370",
+      "audiencia": 35,
+      "nome": "ÉRICA DE OLIVEIRA HARTMANN",
+      "entidade": "Defensoria Pública da União",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P371",
+      "audiencia": 35,
+      "nome": "FÁBIO TOFIC SIMANTOB",
+      "entidade": "Grupo Prerrogativas",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P372",
+      "audiencia": 35,
+      "nome": "JOÃO CARLOS CASTELLAR",
+      "entidade": "Sociedade dos Advogados Criminais do Rio de Janeiro",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP35_P373",
+      "audiencia": 35,
+      "nome": "MARCELO LUZIO MARQUES ARAÚJO",
+      "entidade": "Tribunal Regional Federal da 2ª Região",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P374",
+      "audiencia": 36,
+      "nome": "ALEXANDRE HOLTHAUSEN CAMPOS",
+      "entidade": "Sociedade Beneficente Israelita Brasileira Albert Einstein",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P375",
+      "audiencia": 36,
+      "nome": "CARLOS EDUARDO DE SOUZA MIRANDA",
+      "entidade": "Sociedade Brasileira de Cardiologia",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P376",
+      "audiencia": 36,
+      "nome": "FLAVIO GOMES FIGUEIRA CAMACHO",
+      "entidade": "Sociedade Brasileira de Epidemiologia",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P377",
+      "audiencia": 36,
+      "nome": "IARA DE MORAES XAVIER BRAGA",
+      "entidade": "Associação Brasileira de Mantenedoras de Ensino Superior",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P378",
+      "audiencia": 36,
+      "nome": "JEANCARLO FERNANDES CAVALCANTE",
+      "entidade": "Conselho Federal de Medicina",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P379",
+      "audiencia": 36,
+      "nome": "JOSÉ LÚCIO MARTINS MACHADO",
+      "entidade": "Associação Nacional dos Centros Universitários",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P380",
+      "audiencia": 36,
+      "nome": "LAINA GABRIELE RAMOS PASSOS LÔBO",
+      "entidade": "Secretaria de Saúde do Município de Alagoinhas, BA",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P381",
+      "audiencia": 36,
+      "nome": "MARIA DO SOCORRO MENDONÇA DE CAMPOS",
+      "entidade": "Associação Brasileira de Cirurgia Pediátrica",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P382",
+      "audiencia": 36,
+      "nome": "NÉSIO FERNANDES DE MEDEIROS JUNIOR",
+      "entidade": "Conselho Nacional de Secretários de Saúde - CONASS",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P383",
+      "audiencia": 36,
+      "nome": "SANDRO SCHREIBER DE OLIVEIRA",
+      "entidade": "Associação Brasileira de Educação Médica - ABEM",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P384",
+      "audiencia": 36,
+      "nome": "HIRAN GONÇALVES",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Outros",
+      "categoria_revisada": "Outros",
+      "comentario": null
+    },
+    {
+      "id": "AP36_P385",
+      "audiencia": 36,
+      "nome": "LUDHMILA ABRAHÃO HAJJAR",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP36_P386",
+      "audiencia": 36,
+      "nome": "MARCELO ANTÔNIO CARTAXO QUEIROGA LOPES",
+      "entidade": "Ministério da Saúde",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP38_P387",
+      "audiencia": 38,
+      "nome": "FRANCISCO BRITO CRUZ",
+      "entidade": "INTERNETLAB",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP38_P388",
+      "audiencia": 38,
+      "nome": "GUILHERME MAGALHÃES MARTINS",
+      "entidade": "INSTITUTO BRASILEIRO DE POLÍTICA E DIREITO DO CONSUMIDOR",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP38_P389",
+      "audiencia": 38,
+      "nome": "ISABELLA HENRIQUES",
+      "entidade": "INSTITUTO ALANA",
+      "mencao_incorporada": "Sim",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP38_P390",
+      "audiencia": 38,
+      "nome": "JOSÉ EMILIANO PAES LANDIM NETO",
+      "entidade": "GETEDU",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP38_P391",
+      "audiencia": 38,
+      "nome": "MARCELO BECHARA DE SOUZA HOBAIKA",
+      "entidade": "ASSOCIAÇÃO NACIONAL DOS EDITORES DE REVISTAS - ANER",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP38_P392",
+      "audiencia": 38,
+      "nome": "MAXIMILIANO SALVADORI MARTINHÃO",
+      "entidade": "Ministério das Comunicações - MC",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP38_P393",
+      "audiencia": 38,
+      "nome": "WALDEMAR GONÇALVES ORTUNHO JÚNIOR",
+      "entidade": "Autoridade Nacional de Proteção de Dados Pessoais - ANPD",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP38_P394",
+      "audiencia": 38,
+      "nome": "BRUNO HENRIQUE TREVIZAN FORTI",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": "Atores privados",
+      "comentario": null
+    },
+    {
+      "id": "AP38_P395",
+      "audiencia": 38,
+      "nome": "HUMBERTO CHIESI FILHO",
+      "entidade": "Mercado Livre",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP38_P396",
+      "audiencia": 38,
+      "nome": "JACQUELINE ABREU",
+      "entidade": "Twitter Brasil",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP38_P397",
+      "audiencia": 38,
+      "nome": "LUIZ AUGUSTO SANTOS LIMA",
+      "entidade": "Procuradoria-Geral da República",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP38_P398",
+      "audiencia": 38,
+      "nome": "ORLANDO SILVA",
+      "entidade": "Câmara dos Deputados",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP41_P399",
+      "audiencia": 41,
+      "nome": "ANDERSON RICARDO LEWANDOWSKI BELLOLI",
+      "entidade": "FEDEARROZ - Federação das Associações de Arrozeiros do Rio Grande do Sul",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores privados",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP41_P400",
+      "audiencia": 41,
+      "nome": "FERNANDO DA CUNHA CAVALCANTI",
+      "entidade": "Defensoria Pública da União",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP41_P401",
+      "audiencia": 41,
+      "nome": "LAURO RODRIGUES DE MORAES RÊGO JÚNIOR",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Partido Político",
+      "categoria_revisada": "Pendente",
+      "comentario": "Partido Político"
+    },
+    {
+      "id": "AP41_P402",
+      "audiencia": 41,
+      "nome": "PAULO VASCONCELOS JACOBINA",
+      "entidade": "Ministério Público Federal",
+      "mencao_incorporada": "Não",
+      "classificacao": "Atores públicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP41_P403",
+      "audiencia": 41,
+      "nome": "SERGIO GRAFF",
+      "entidade": "",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": "Acadêmicos",
+      "comentario": null
+    },
+    {
+      "id": "AP44_P404",
+      "audiencia": 44,
+      "nome": "PAULA CAROLINA DE OLIVEIRA AZEVEDO DA MATA",
+      "entidade": "Observatório da Qualidade da Lei - UFMG - Legislab",
+      "mencao_incorporada": "Não",
+      "classificacao": "Acadêmicos",
+      "categoria_revisada": null,
+      "comentario": null
+    },
+    {
+      "id": "AP44_P405",
+      "audiencia": 44,
+      "nome": "JULIANA SAKAI",
+      "entidade": "Transparência Brasil",
+      "mencao_incorporada": "Não",
+      "classificacao": "Sociedade civil",
+      "categoria_revisada": null,
+      "comentario": null
+    }
+  ],
+  "nota": "Categoria revisada prevalece. Comentário Partido Político substitui Pendente. Campos sem edição preservam a sugestão anterior, conforme encerramento da revisão pelo usuário."
+}

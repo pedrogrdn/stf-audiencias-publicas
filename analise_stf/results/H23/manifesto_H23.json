@@ -1,0 +1,134 @@
+{
+  "protocolo": {
+    "arquivo": "config/H23_participacao.json",
+    "sha256": "25760e59b10cc58f7e54e8b563548fb170c86372d35ae2104240a57320f13f5d"
+  },
+  "script": {
+    "arquivo": "testar_H23.py",
+    "sha256": "230f103c7044827c570de284533d1f7a15bb4edf7cfbda276c20d5ae913b279b"
+  },
+  "comando": ".venv/bin/python testar_H23.py",
+  "seed": 20261105,
+  "B": 9999,
+  "hashes_antes": {
+    "entradas_integracao": {
+      "mencoes_xlsx": {
+        "caminho": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/consolidacao_integral_revisada_20261105/analise_final_mencoes.xlsx",
+        "sha256": "e33950babc32122c1917f4882e21ee1222daf960af5e6f1ee0c4248776dd0cd3"
+      },
+      "proveniencia_json": {
+        "caminho": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/consolidacao_integral_revisada_20261105/base_consolidada.json",
+        "sha256": "bffcb812df1c3f9263931902bce1c8c589f9c4e7c77c70e00a39362802adc103"
+      },
+      "extracao_csv": {
+        "caminho": "resultados/analise_integral/ocorrencias_classificadas.csv",
+        "sha256": "cfc75dce3a9a0a114ac0ba1b45a56f356fc14f2a04a97ad772a4e17af39aecf0"
+      },
+      "resumo_extracao_csv": {
+        "caminho": "resultados/analise_integral/resumo_execucao.csv",
+        "sha256": "2853bdb0480811e66a7b0bf0bec3f6a0b3d58af18ea7d3f31e92dc2c27c48313"
+      },
+      "atores_xlsx": {
+        "caminho": "outputs/classificacao_atores_20261105/consolidacao_revisada/classificacao_final_pessoas_entidades.xlsx",
+        "sha256": "24e6e1e04e6d8b58bdcff14b2130f3367574e3c95e68ed577950d8469a982b86"
+      },
+      "atores_json": {
+        "caminho": "outputs/classificacao_atores_20261105/consolidacao_revisada/consolidacao_revisada.json",
+        "sha256": "6e85cfae792b6778e5be7b3d7bedb32d7f8b55ceec53ee09cba1737505a4451d"
+      }
+    },
+    "processed": {
+      "atores_classificados.csv": "7f3959d6852308673f182c1f2f0b3088a8338fa2fefc6be93a733d21aebe0315",
+      "audiencia.csv": "9ea60861c724dc2cdeec94203796bb984e286c05e2d3bcb5ed41dc5204242847",
+      "audiencia_data_provisoria.csv": "dcff2813ff6c43d5905b3003375fcbc9f4bfdd0d616b3704d3b2702df4f9951a",
+      "audiencia_julgamento_documental.csv": "56e8a4945dff38053ced85478674e1f14dc5b1e3fdf3a18b8bc5d82e1e3e49c6",
+      "diagnostico_B_por_mencao.csv": "69fc1666c88d1c114ed945d995bf0e0b846376eaf9be3bb3d20a7bc68c888e19",
+      "entidades_B.csv": "902e5e2e1c95e513890e4faf908a74aa8aac6a0876ce72e6e8e9a5f09c0da0b9",
+      "mencoes_incorporadas.csv": "59edecf5f427606793b6d2be83a45d92caf3928670bb145fe729da88254ebcb2",
+      "mencoes_principal_atores.csv": "6749326ec5d06289df2863e30b0e85ecbde59314920306ff25ceb8de8c6c77b4",
+      "mencoes_sensibilidade_AB.csv": "9de2a4772cd46d038c8925403e0af68d74e8f7a1e447be1f2cd32c55e84cee35",
+      "ministro_julgamento_documental.csv": "3eccb5e06c708ddf63b405789816c515177dbc533586bf1d922ffe45710e85f9",
+      "ponte_B_candidatos_proveniencia.csv": "7af53fff369c00e2c44b45b50eddba16c11db17eaaefc0fdef6504593f20fe05",
+      "ponte_mencao_ator.csv": "573dfe926735a9a4e90fa218b091d21069b75c644c0fac98c22677ed6c9d43d5"
+    },
+    "results_h1_h22": "864e040f211b65c8820c3c7629b791e213827935237b21166fae69c09631eae1",
+    "config_H1_H22": "1eaa9fcd8211a442731d27705e7439b7d608cc171b7fcfa560fa2b01598b9e6f",
+    "relatorio_consolidado_H1_H22.html": "86315640ec1194ff21f2da028d1e1c4558ffe91f9bc32dc1689dafb1ea8d44fd",
+    "relatorio_consolidado_H1_H22.md": "2208b599250ba30dc257c5b25914b0d059d4538165507ad230cbabbc095a6b84",
+    "versao_orientadora": "ec1f3e3cb77865e52daa8d1cc3921804c7a140a9ffe5152aadb5911c7fbe251a"
+  },
+  "hashes_depois": {
+    "entradas_integracao": {
+      "mencoes_xlsx": {
+        "caminho": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/consolidacao_integral_revisada_20261105/analise_final_mencoes.xlsx",
+        "sha256": "e33950babc32122c1917f4882e21ee1222daf960af5e6f1ee0c4248776dd0cd3"
+      },
+      "proveniencia_json": {
+        "caminho": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/consolidacao_integral_revisada_20261105/base_consolidada.json",
+        "sha256": "bffcb812df1c3f9263931902bce1c8c589f9c4e7c77c70e00a39362802adc103"
+      },
+      "extracao_csv": {
+        "caminho": "resultados/analise_integral/ocorrencias_classificadas.csv",
+        "sha256": "cfc75dce3a9a0a114ac0ba1b45a56f356fc14f2a04a97ad772a4e17af39aecf0"
+      },
+      "resumo_extracao_csv": {
+        "caminho": "resultados/analise_integral/resumo_execucao.csv",
+        "sha256": "2853bdb0480811e66a7b0bf0bec3f6a0b3d58af18ea7d3f31e92dc2c27c48313"
+      },
+      "atores_xlsx": {
+        "caminho": "outputs/classificacao_atores_20261105/consolidacao_revisada/classificacao_final_pessoas_entidades.xlsx",
+        "sha256": "24e6e1e04e6d8b58bdcff14b2130f3367574e3c95e68ed577950d8469a982b86"
+      },
+      "atores_json": {
+        "caminho": "outputs/classificacao_atores_20261105/consolidacao_revisada/consolidacao_revisada.json",
+        "sha256": "6e85cfae792b6778e5be7b3d7bedb32d7f8b55ceec53ee09cba1737505a4451d"
+      }
+    },
+    "processed": {
+      "atores_classificados.csv": "7f3959d6852308673f182c1f2f0b3088a8338fa2fefc6be93a733d21aebe0315",
+      "audiencia.csv": "9ea60861c724dc2cdeec94203796bb984e286c05e2d3bcb5ed41dc5204242847",
+      "audiencia_data_provisoria.csv": "dcff2813ff6c43d5905b3003375fcbc9f4bfdd0d616b3704d3b2702df4f9951a",
+      "audiencia_julgamento_documental.csv": "56e8a4945dff38053ced85478674e1f14dc5b1e3fdf3a18b8bc5d82e1e3e49c6",
+      "diagnostico_B_por_mencao.csv": "69fc1666c88d1c114ed945d995bf0e0b846376eaf9be3bb3d20a7bc68c888e19",
+      "entidades_B.csv": "902e5e2e1c95e513890e4faf908a74aa8aac6a0876ce72e6e8e9a5f09c0da0b9",
+      "mencoes_incorporadas.csv": "59edecf5f427606793b6d2be83a45d92caf3928670bb145fe729da88254ebcb2",
+      "mencoes_principal_atores.csv": "6749326ec5d06289df2863e30b0e85ecbde59314920306ff25ceb8de8c6c77b4",
+      "mencoes_sensibilidade_AB.csv": "9de2a4772cd46d038c8925403e0af68d74e8f7a1e447be1f2cd32c55e84cee35",
+      "ministro_julgamento_documental.csv": "3eccb5e06c708ddf63b405789816c515177dbc533586bf1d922ffe45710e85f9",
+      "ponte_B_candidatos_proveniencia.csv": "7af53fff369c00e2c44b45b50eddba16c11db17eaaefc0fdef6504593f20fe05",
+      "ponte_mencao_ator.csv": "573dfe926735a9a4e90fa218b091d21069b75c644c0fac98c22677ed6c9d43d5"
+    },
+    "results_h1_h22": "864e040f211b65c8820c3c7629b791e213827935237b21166fae69c09631eae1",
+    "config_H1_H22": "1eaa9fcd8211a442731d27705e7439b7d608cc171b7fcfa560fa2b01598b9e6f",
+    "relatorio_consolidado_H1_H22.html": "86315640ec1194ff21f2da028d1e1c4558ffe91f9bc32dc1689dafb1ea8d44fd",
+    "relatorio_consolidado_H1_H22.md": "2208b599250ba30dc257c5b25914b0d059d4538165507ad230cbabbc095a6b84",
+    "versao_orientadora": "ec1f3e3cb77865e52daa8d1cc3921804c7a140a9ffe5152aadb5911c7fbe251a"
+  },
+  "inalterados": true,
+  "conferencia_csv_processed": {
+    "atores_classificados": true,
+    "mencoes_principal_atores": true,
+    "mencoes_sensibilidade_AB": true,
+    "ponte_pares": true
+  },
+  "versoes": {
+    "python": "3.12.14",
+    "pandas": "3.1.1",
+    "numpy": "2.5.4"
+  },
+  "saidas": {
+    "data/H23/participantes.csv": "d04ce6d6c00d33944095c4bf4680ff705c765568de053fc23f4f40f4117111bc",
+    "reports/H23_participacao/figuras/fig1_alcance_por_AP.png": "ce3498796c1f1e8a70952530260d8bb85f31f1cf87f11323199a68fa34dc8828",
+    "reports/H23_participacao/figuras/fig2_composicao_obs_esp.png": "d1e2bbe47de28cc79a52ca99d6fa4e13ca6832b4dc68e979ea888b954bac161d",
+    "reports/H23_participacao/figuras/fig3_intensidade_por_AP.png": "12f55e4f4e26d918347fe9a0e387f955ca6f0c7aaf11973ad88991f4652a2c80",
+    "reports/H23_participacao/figuras/fig4_sensibilidades.png": "75a75104d512c104c2a5b1a0102bd886dd933fe9067572866a6501f2a355573b",
+    "reports/H23_participacao/relatorio_H23.html": "a47e65b1ad33033cc2f376bc52497c0e73fdda068f03d1f766d9612014143ce1",
+    "reports/H23_participacao/relatorio_H23.md": "300f6a100bd179cd55f288cd095782925583ff5d9ac3c77db423d95807a4f2b4",
+    "results/H23/global_pooled.csv": "406776721adf5a99d7fb8b273b4eaac6bbf691a384a6ed0177459f66a5ba636e",
+    "results/H23/inferencia.csv": "8b5925234e9afc946508fd545507e0a1e744052013468846b43865bbc012b577",
+    "results/H23/inferencia.json": "68cac6e62e90b207433ba0b0fa0effce4b3dc00d81a385d0cb41f41d30a8511f",
+    "results/H23/leave_one_AP_out.csv": "8fae4eb94834e2a8615a4d7dc4e32837a73e601e7fa73da3f9a26d74f9aa74e7",
+    "results/H23/mencoes_argumento_macrogrupo.csv": "a7801b31e11153821586d074f48c42528299855dbbc9b53b5b66cf9303dff9d4",
+    "results/H23/por_AP.csv": "cea25d09caf9bc01ee98465bde7f4719f56f1b1a638215102744841d6142f46c"
+  }
+}

@@ -1,0 +1,23 @@
+﻿Hipótese,Pergunta,Linhas previstas (A),Previstos com valor-p,Previstos inviáveis,Descritivos,menor valor-p BH (previstos),Linhas adicionais/elegibilidade (A),Adicionais com valor-p,Linhas A+B,A+B com valor-p,Família BH (previstos),Observação de escopo
+H1,A taxa argumentativa por audiência varia com o ano do julgamento?,2,2,0,0,"0,8878",0,0,0,0,F_temporal,
+H2,O intervalo em anos (julgamento − audiência) associa-se à taxa argumentativa?,1,1,0,0,"0,9341",0,0,0,0,F_temporal,
+H3,"A taxa argumentativa observada difere entre ministros, inclusive dentro do mesmo documento? (descrição com denominadores)",1,0,0,1,n/a,0,0,0,0,F_ministros,
+H4,"Relator cadastrado vs. demais julgadores fora do Relatório, pareados no documento",2,1,1,0,"0,0015",0,0,0,0,F_ministros,
+H5,Os dois eixos temáticos diferem na taxa argumentativa?,1,1,0,0,"0,7122",0,0,0,0,F_tema,
+H6,Quanta heterogeneidade observada há entre audiências dentro dos eixos? (descrição; sem teste de pseudorreplicação),2,0,0,2,n/a,0,0,0,0,F_tema,
+H7,Interação ministro × eixo,1,0,0,1,n/a,0,0,0,0,F_ministros,
+H8,A distribuição Contexto/Relato/Argumento varia com o local no acórdão? (3 categorias descritivas + contraste de Argumento por audiência),4,3,0,1,"0,0002",0,0,0,0,F_estrutura,
+H9,A taxa argumentativa difere entre classes processuais?,1,1,0,0,"0,3263",0,0,0,0,F_estrutura,
+H10,"Argumentos estão mais concentrados do que as menções (audiência, documento, ministro)? (Gini/top-k descritivos)",3,0,0,3,n/a,0,0,0,0,F_estrutura,
+H11,A função da menção varia com o tipo de alvo (proxy por campos preenchidos)?,4,3,0,1,"0,2261",0,0,0,0,F_alvos,
+H12,Menções com pessoa/instituição nomeada vs. sem nome nos campos: taxa argumentativa,1,1,0,0,"0,6328",0,0,0,0,F_alvos,
+H13,A tendência temporal difere entre eixos?,1,1,0,0,"0,8878",0,0,0,0,F_temporal,
+H14,Evolução temporal por ministro,1,0,0,1,n/a,0,0,0,0,F_ministros,
+H15,A distribuição das menções entre relatório e votos (composição por local) difere entre os eixos?,3,3,0,0,"0,7122",3,3,0,0,F_tema,"3 valor(es)-p vêm de análises adicionais/sensibilidade de elegibilidade, não do escopo previsto principal"
+H16,O efeito do intervalo difere entre eixos?,1,1,0,0,"0,8878",0,0,0,0,F_temporal,
+H17,As referências individualizadas (tipo de alvo) distribuem-se diferentemente entre relatório e votos?,4,3,0,1,"0,3263",0,0,0,0,F_estrutura,
+H18,Perfis exploratórios de composição Contexto/Relato/Argumento por audiência,1,0,0,1,n/a,0,0,0,0,F_estrutura,
+H19,Menções vinculadas a cada categoria de ator têm taxa argumentativa diferente das vinculadas sem a categoria? (principal: A; sensibilidade: A+B),6,0,6,0,n/a,5,2,11,7,F_H19,"sem teste viável no escopo previsto principal (6 linhas inviáveis); 2 valor(es)-p vêm de análises adicionais/sensibilidade de elegibilidade, não do escopo previsto principal"
+H20,A incidência de categorias de ator entre menções classificadas difere entre eixos?,6,5,1,0,"0,8651",0,0,6,5,F_H20,
+H21,Ministro × categoria de ator no aproveitamento argumentativo (nArgumento/nMenções por célula; modelo só se houver suporte),7,0,2,5,n/a,0,0,7,0,F_H21,
+H22,A composição de categorias de ator e o aproveitamento argumentativo por categoria evoluem com o ano de julgamento?,13,9,4,0,"0,5513",0,0,13,9,F_H22,

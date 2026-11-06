@@ -1,0 +1,32 @@
+# Ambientes e dependências locais
+.venv/
+venv/
+.local-mlx/
+.runtime-node/
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.scratch/
+
+# Credenciais próprias, nunca conteúdo de publicação
+claude.txt
+.env
+.env.*
+!.env.example
+credentials.json
+auth.json
+
+# Resultados regenerados e arquivos de sistema/editor
+reproducoes/
+.DS_Store
+Thumbs.db
+*.inspect.ndjson
+*.swp
+*.swo
+~$*
+
+# Distribuições não devem duplicar os arquivos já versionados
+*.zip
+*.tar
+*.tar.gz

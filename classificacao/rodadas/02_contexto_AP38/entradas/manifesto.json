@@ -1,0 +1,17 @@
+{
+  "dados_sha256": {
+    "valid": "6b91688bb6e841b002a08ce6590801f347216309934996c25441d990a76b41ad"
+  },
+  "fontes_sha256": {
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/contexto_v2/desenvolvimento_contexto.json": "d856b1fb4a8b0663b65344290315a70113623a750ca88f6dc2194611f4ca6f76",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/contexto_v2/indice_documentos.json": "4586fa16f2c81241ac7e680aee96ffb849116971b76b8e756ff361b8e3a7439a"
+  },
+  "nomes": {
+    "Contexto": "Sem contribuição substantiva",
+    "Relato": "Engajamento descritivo",
+    "Argumento": "Engajamento argumentativo"
+  },
+  "gabarito_alterado": false,
+  "teste_reservado_utilizado": false,
+  "nota": "Desenvolvimento: instruções e contexto alterados conjuntamente; não isola efeito da terminologia."
+}

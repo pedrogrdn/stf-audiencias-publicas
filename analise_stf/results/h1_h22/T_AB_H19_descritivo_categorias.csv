@@ -1,0 +1,7 @@
+﻿categoria,rotulo_exibicao,n_mencoes_com,n_argumentos_com,taxa_com,n_mencoes_sem,n_argumentos_sem,taxa_sem,n_audiencias_com,n_mencoes_unica_categoria,denominador_vinculadas
+Atores públicos,Atores públicos,263,101,0.3840304182509506,353,118,0.3342776203966006,23,236,616
+Atores privados,Atores privados,21,4,0.19047619047619047,595,215,0.36134453781512604,8,19,616
+Sociedade civil,Sociedade civil,250,56,0.224,366,163,0.4453551912568306,15,220,616
+Acadêmicos,Acadêmicos,114,59,0.5175438596491229,502,160,0.3187250996015936,14,100,616
+Partido Político,Partidos Políticos,0,0,,616,219,0.3555194805194805,0,0,616
+Outros,Outros,10,1,0.1,606,218,0.35973597359735976,4,10,616

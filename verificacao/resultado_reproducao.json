@@ -1,0 +1,47 @@
+{
+  "data": "2026-11-06",
+  "testes_pytest": {
+    "aprovados": 40,
+    "falhas": 0,
+    "comando": "python reproduzir.py --testes"
+  },
+  "comparacao_resultados": {
+    "H1_H22": {
+      "linhas": 111,
+      "campos_comparados": [
+        "estimativa_num",
+        "ic_inf",
+        "ic_sup",
+        "valor-p",
+        "valor-p BH"
+      ],
+      "equivalente": true
+    },
+    "H23": {
+      "linhas": 9,
+      "campos_comparados": [
+        "media",
+        "ic95_lo",
+        "ic95_hi",
+        "p_bruto",
+        "p_ajust"
+      ],
+      "equivalente": true
+    }
+  },
+  "classificacao_historica_restaurada": {
+    "arquivos": 221,
+    "lote_verificado": 3010,
+    "decisoes_humanas_preservadas": 445,
+    "comando": "python programas/restaurar_classificacao.py --destino /pasta/nova; python scripts/executar_integral_claude.py --verificar"
+  },
+  "chamadas_api": 0,
+  "alteracoes_no_codigo_estatistico": "Somente cinco caminhos de entrada relativos no módulo integracao.py; fórmulas e testes preservados.",
+  "observacao": "Manifesto H23 é reconstituído na cópia isolada para refletir os caminhos locais, sem alterar o snapshot histórico distribuído.",
+  "acervo_integral_adicionado": {
+    "acordaos": 50,
+    "documentos_audiencias": 125,
+    "integridade_sha256": true,
+    "efeito_nos_resultados": "nenhum; apenas arquivos de fonte e documentação adicionados"
+  }
+}

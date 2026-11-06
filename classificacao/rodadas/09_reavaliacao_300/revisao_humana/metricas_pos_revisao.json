@@ -1,0 +1,24 @@
+{
+  "n": 300,
+  "casos_revisados": 51,
+  "decisoes": {
+    "Alterar": 14,
+    "Manter": 37
+  },
+  "pendencias": 0,
+  "corpus_acertos": 266,
+  "classificacao_completa_acertos": 258,
+  "tipo_nos_incorporados": {
+    "n": 122,
+    "acertos": 108
+  },
+  "matriz_corpus": {
+    "Incorporar -> Incorporar": 116,
+    "Excluir -> Excluir": 150,
+    "Excluir -> Indeterminado": 3,
+    "Excluir -> Incorporar": 25,
+    "Incorporar -> Indeterminado": 5,
+    "Incorporar -> Excluir": 1
+  },
+  "nota": "Concordância pós-revisão dos 51 casos, incluindo duas decisões confirmadas no chat. Os outros 249 casos não foram revistos nesta etapa. Mesmas predições, nenhuma API chamada. Não é validação independente."
+}

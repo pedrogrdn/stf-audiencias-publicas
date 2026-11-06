@@ -1,0 +1,1390 @@
+{
+  "name": "stf-audiencias-dados",
+  "title": "Dados documentais das audiências públicas do STF",
+  "version": "1.0.0-preparacao",
+  "description": "Esquema das tabelas de consulta; sem licença definitiva atribuída nesta preparação.",
+  "resources": [
+    {
+      "name": "entidades_sensibilidade",
+      "path": "dados/entidades_sensibilidade.csv",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "audiencia",
+            "type": "integer",
+            "description": "Número identificador da audiência pública no cadastro da pesquisa; não é número de processo."
+          },
+          {
+            "name": "entidade_norm",
+            "type": "string",
+            "description": "Entidade normalizada para comparação dentro da audiência."
+          },
+          {
+            "name": "entidade",
+            "type": "string",
+            "description": "Vínculo institucional cadastrado da participação; atributo da pessoa, não nova participação."
+          },
+          {
+            "name": "n_grafias_entidade",
+            "type": "integer",
+            "description": "Número de grafias reunidas na chave de entidade por audiência."
+          },
+          {
+            "name": "n_pessoas_afiliadas",
+            "type": "integer",
+            "description": "Número de participações cadastradas vinculadas à entidade, não número de pessoas citadas."
+          },
+          {
+            "name": "categorias",
+            "type": "string",
+            "description": "Lista de categorias resolvidas associadas à menção ou entidade; pode ter sobreposição; codificada como JSON."
+          },
+          {
+            "name": "n_categorias",
+            "type": "integer",
+            "description": "Quantidade de categorias institucionais distintas associadas ao registro."
+          },
+          {
+            "name": "status_categoria",
+            "type": "string",
+            "description": "Categoria única ou contradição entre afiliados; instituição contraditória não recebe categoria por suposição."
+          },
+          {
+            "name": "categoria_entidade",
+            "type": "string",
+            "description": "Categoria inferida para a entidade a partir das afiliações, apenas para a sensibilidade B."
+          },
+          {
+            "name": "n_mencoes_que_citam",
+            "type": "integer",
+            "description": "Número de menções que citam a entidade no recorte de vínculo institucional."
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": [
+          "audiencia",
+          "entidade_norm"
+        ]
+      },
+      "rows": 326
+    },
+    {
+      "name": "mencoes_incorporadas",
+      "path": "dados/mencoes_incorporadas.csv",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "Identificador único e estável da ocorrência textual; chave para relacionar propostas, revisão e resultado final."
+          },
+          {
+            "name": "audiencia",
+            "type": "integer",
+            "description": "Número identificador da audiência pública no cadastro da pesquisa; não é número de processo."
+          },
+          {
+            "name": "ano_audiencia",
+            "type": "integer",
+            "description": "Ano cadastrado de realização da audiência."
+          },
+          {
+            "name": "processo",
+            "type": "string",
+            "description": "Identificação da ação ou recurso associado ao acórdão."
+          },
+          {
+            "name": "pagina_pdf",
+            "type": "integer",
+            "description": "Página do arquivo PDF, contada no documento digital; pode diferir da página impressa."
+          },
+          {
+            "name": "ministro",
+            "type": "string",
+            "description": "Nome atribuído à passagem pela extração; interpretar com metodo_ministro e autoria_plena."
+          },
+          {
+            "name": "alvo",
+            "type": "string",
+            "description": "Nome, instituição ou expressão recuperada pela busca na ocorrência."
+          },
+          {
+            "name": "mencao",
+            "type": "string",
+            "description": "Frase ou passagem recuperada; unidade textual de registro contextualizada."
+          },
+          {
+            "name": "corpus",
+            "type": "string",
+            "description": "Decisão final de incorporar ou excluir a ocorrência; coluna autoritativa de elegibilidade."
+          },
+          {
+            "name": "tipo",
+            "type": "string",
+            "description": "Classificação textual final: Contexto, Relato ou Argumento para menções incorporadas; não equivale a concordância."
+          },
+          {
+            "name": "tema",
+            "type": "string",
+            "description": "Descrição temática da audiência no cadastro da pesquisa."
+          },
+          {
+            "name": "local",
+            "type": "string",
+            "description": "Parte do acórdão: Relatório, Voto do Relator ou Voto."
+          },
+          {
+            "name": "ano_julgamento",
+            "type": "integer",
+            "description": "Ano cadastrado do julgamento do documento associado à ocorrência."
+          },
+          {
+            "name": "data_julgamento",
+            "type": "string",
+            "description": "Data do julgamento cadastrada; não é data de publicação no DJe."
+          },
+          {
+            "name": "pessoa",
+            "type": "string",
+            "description": "Pessoa ou pessoas identificadas nos campos da ocorrência, separadas por | quando múltiplas."
+          },
+          {
+            "name": "instituicao",
+            "type": "string",
+            "description": "Instituição ou instituições identificadas na ocorrência; não atribuir automaticamente a todos os afiliados."
+          },
+          {
+            "name": "numero_alvos",
+            "type": "integer",
+            "description": "Número de alvos distintos reunidos na mesma ocorrência pela extração."
+          },
+          {
+            "name": "arquivo",
+            "type": "string",
+            "description": "Nome do arquivo de acórdão da ocorrência; consultar índice de fontes para hash e URL."
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "URL de procedência do acórdão."
+          },
+          {
+            "name": "eixo",
+            "type": "string",
+            "description": "Eixo temático atribuído à audiência pelo desenho da pesquisa."
+          },
+          {
+            "name": "ext_tipo_alvo",
+            "type": "string",
+            "description": "Tipo de alvo registrado na extração histórica, antes da classificação final."
+          },
+          {
+            "name": "ext_alvo_id",
+            "type": "string",
+            "description": "Identificador de alvo da extração histórica."
+          },
+          {
+            "name": "ext_alvo_canonico",
+            "type": "string",
+            "description": "Forma canônica do alvo na extração histórica."
+          },
+          {
+            "name": "ext_pessoa",
+            "type": "string",
+            "description": "Campo pessoa preservado da extração histórica."
+          },
+          {
+            "name": "ext_instituicao",
+            "type": "string",
+            "description": "Campo instituição preservado da extração histórica."
+          },
+          {
+            "name": "origem",
+            "type": "string",
+            "description": "Procedência da decisão consolidada; distingue decisão humana de classificação automática sem revisão registrada."
+          },
+          {
+            "name": "metodo_ministro",
+            "type": "string",
+            "description": "Método de atribuição de autoria à passagem; metadados de relatoria não equivalem a fala identificada."
+          },
+          {
+            "name": "modalidade_revisao",
+            "type": "string",
+            "description": "Tipo ou modo registrado de revisão humana; não presumir revisão em todos os casos."
+          },
+          {
+            "name": "tipo_consolidado",
+            "type": "string",
+            "description": "Tipo final no registro de proveniência; coincide com tipo para incorporados."
+          },
+          {
+            "name": "corpus_consolidado",
+            "type": "string",
+            "description": "Decisão final de elegibilidade no registro de proveniência; coincide com corpus."
+          },
+          {
+            "name": "estado_ator",
+            "type": "string",
+            "description": "Estado mutuamente exclusivo: classificado, identificado sem classificação ou genérica não aplicável, com estados técnicos adicionais se presentes."
+          },
+          {
+            "name": "n_atores_A",
+            "type": "integer",
+            "description": "Quantidade de participações resolvidas pelo vínculo nominal A na menção."
+          },
+          {
+            "name": "n_categorias",
+            "type": "integer",
+            "description": "Quantidade de categorias institucionais distintas associadas ao registro."
+          },
+          {
+            "name": "multirrotulo",
+            "type": "boolean",
+            "description": "Indica menção associada a mais de uma categoria; não duplicar a ocorrência no total do corpus."
+          },
+          {
+            "name": "categorias",
+            "type": "string",
+            "description": "Lista de categorias resolvidas associadas à menção ou entidade; pode ter sobreposição; codificada como JSON."
+          },
+          {
+            "name": "mista_classificado_e_nao_resolvido",
+            "type": "boolean",
+            "description": "Indica menção com algum ator classificado e algum alvo não resolvido."
+          },
+          {
+            "name": "n_pessoas_tokens",
+            "type": "integer",
+            "description": "Quantidade de nomes de pessoa separados do campo original da menção."
+          },
+          {
+            "name": "n_pessoas_resolvidas_tokens",
+            "type": "integer",
+            "description": "Quantidade de nomes do campo resolvidos no cadastro da audiência."
+          },
+          {
+            "name": "n_pessoas_ambiguas",
+            "type": "integer",
+            "description": "Quantidade de nomes com correspondência ambígua no cadastro."
+          },
+          {
+            "name": "n_pessoas_sem_correspondencia",
+            "type": "integer",
+            "description": "Quantidade de nomes do campo sem correspondência no cadastro."
+          },
+          {
+            "name": "tem_pessoa_campo",
+            "type": "boolean",
+            "description": "Indicador de existência de pessoa preenchida no campo da ocorrência."
+          },
+          {
+            "name": "tem_instituicao_campo",
+            "type": "boolean",
+            "description": "Indicador de existência de instituição preenchida no campo da ocorrência."
+          },
+          {
+            "name": "classificado_com_instituicao_nao_vinculada_A",
+            "type": "boolean",
+            "description": "Indica pessoa nominal resolvida acompanhada de instituição que não é usada como atribuição nominal A."
+          },
+          {
+            "name": "tem_divergencia_json_xlsx",
+            "type": "boolean",
+            "description": "Sinaliza divergência entre registro de proveniência e planilha final."
+          },
+          {
+            "name": "cat_atores_publicos",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria atores publicos. Categorias podem coexistir na mesma menção; não somar como partição."
+          },
+          {
+            "name": "cat_atores_privados",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria atores privados. Categorias podem coexistir na mesma menção; não somar como partição."
+          },
+          {
+            "name": "cat_sociedade_civil",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria sociedade civil. Categorias podem coexistir na mesma menção; não somar como partição."
+          },
+          {
+            "name": "cat_academicos",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria academicos. Categorias podem coexistir na mesma menção; não somar como partição."
+          },
+          {
+            "name": "cat_partido_politico",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria partido politico. Categorias podem coexistir na mesma menção; não somar como partição."
+          },
+          {
+            "name": "cat_outros",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria outros. Categorias podem coexistir na mesma menção; não somar como partição."
+          },
+          {
+            "name": "arg",
+            "type": "integer",
+            "description": "Indicador derivado: 1 se Argumento, 0 se outra função textual incorporada."
+          },
+          {
+            "name": "classe",
+            "type": "string",
+            "description": "Classe processual derivada do identificador do processo."
+          },
+          {
+            "name": "tipo_alvo_derivado",
+            "type": "string",
+            "description": "Tipo de identificação derivado dos campos pessoa e instituição; distinto da função textual."
+          },
+          {
+            "name": "individualizada",
+            "type": "integer",
+            "description": "Indicador derivado de existência de identificação nominal de pessoa ou instituição."
+          },
+          {
+            "name": "autoria_plena",
+            "type": "integer",
+            "description": "Indicador operacional de preenchimento de autoria conforme regras de limpeza; não garante identificação individual em todos os registros."
+          },
+          {
+            "name": "atribuicao_metadado",
+            "type": "integer",
+            "description": "Indica autoria atribuída por metadados de relatoria em vez de fala identificada."
+          },
+          {
+            "name": "intervalo_anos",
+            "type": "integer",
+            "description": "Ano do julgamento menos ano da audiência; AP33 tem inconsistência negativa preservada e não é duração verdadeira."
+          },
+          {
+            "name": "relator_identificado",
+            "type": "string",
+            "description": "Nome do relator registrado no resumo documental."
+          },
+          {
+            "name": "ministro_eh_relator",
+            "type": "integer",
+            "description": "Indica coincidência entre autoria atribuída e relator do documento, sob as regras de identificação."
+          },
+          {
+            "name": "relator_indeterminado",
+            "type": "integer",
+            "description": "Indica impossibilidade de determinar a relação de relatoria."
+          },
+          {
+            "name": "documento",
+            "type": "string",
+            "description": "Identificador documental usado na agregação estatística; não atesta sessão conjunta de julgamento."
+          },
+          {
+            "name": "contexto_acordao",
+            "type": "string",
+            "description": "Contexto ampliado fornecido para interpretar a ocorrência; não é o acórdão completo."
+          },
+          {
+            "name": "arquivo_audiencia",
+            "type": "string",
+            "description": "Documento de audiência usado como suporte contextual, quando recuperado."
+          },
+          {
+            "name": "pagina_audiencia",
+            "type": "string",
+            "description": "Página do documento de audiência associada ao contexto recuperado, quando disponível."
+          },
+          {
+            "name": "trecho_audiencia",
+            "type": "string",
+            "description": "Excerto da audiência associado à ocorrência, quando recuperado; vazio significa ausência desse suporte no registro."
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      },
+      "rows": 1288
+    },
+    {
+      "name": "mencoes_sensibilidade_ab",
+      "path": "dados/mencoes_sensibilidade_AB.csv",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "Identificador único e estável da ocorrência textual; chave para relacionar propostas, revisão e resultado final."
+          },
+          {
+            "name": "estado_ator",
+            "type": "string",
+            "description": "Estado mutuamente exclusivo: classificado, identificado sem classificação ou genérica não aplicável, com estados técnicos adicionais se presentes."
+          },
+          {
+            "name": "n_atores_A",
+            "type": "integer",
+            "description": "Quantidade de participações resolvidas pelo vínculo nominal A na menção."
+          },
+          {
+            "name": "n_entidades_B_resolvidas",
+            "type": "integer",
+            "description": "Quantidade de entidades citadas com categoria resolvida pelo vínculo institucional B."
+          },
+          {
+            "name": "n_entidades_B_contraditorias",
+            "type": "integer",
+            "description": "Quantidade de entidades citadas com categorias contraditórias entre afiliados; não são resolvidas por suposição."
+          },
+          {
+            "name": "n_entidades_B_sem_correspondencia",
+            "type": "integer",
+            "description": "Quantidade de entidades citadas sem correspondência institucional no cadastro da audiência."
+          },
+          {
+            "name": "n_categorias",
+            "type": "integer",
+            "description": "Quantidade de categorias institucionais distintas associadas ao registro."
+          },
+          {
+            "name": "multirrotulo",
+            "type": "boolean",
+            "description": "Indica menção associada a mais de uma categoria; não duplicar a ocorrência no total do corpus."
+          },
+          {
+            "name": "categorias",
+            "type": "string",
+            "description": "Lista de categorias resolvidas associadas à menção ou entidade; pode ter sobreposição; codificada como JSON."
+          },
+          {
+            "name": "fonte_categoria",
+            "type": "string",
+            "description": "Origem da categoria na sensibilidade, distinguindo A e B."
+          },
+          {
+            "name": "categorias_somente_via_B",
+            "type": "string",
+            "description": "Lista JSON das categorias acrescentadas somente pela instituição, não pelo nome da pessoa."
+          },
+          {
+            "name": "misto_classificado_e_nao_resolvido",
+            "type": "boolean",
+            "description": "Indica mistura de vínculos classificados e não resolvidos na sensibilidade."
+          },
+          {
+            "name": "cat_atores_publicos",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria atores publicos. Categorias podem coexistir na mesma menção; não somar como partição."
+          },
+          {
+            "name": "cat_atores_privados",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria atores privados. Categorias podem coexistir na mesma menção; não somar como partição."
+          },
+          {
+            "name": "cat_sociedade_civil",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria sociedade civil. Categorias podem coexistir na mesma menção; não somar como partição."
+          },
+          {
+            "name": "cat_academicos",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria academicos. Categorias podem coexistir na mesma menção; não somar como partição."
+          },
+          {
+            "name": "cat_partido_politico",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria partido politico. Categorias podem coexistir na mesma menção; não somar como partição."
+          },
+          {
+            "name": "cat_outros",
+            "type": "boolean",
+            "description": "Indicador de presença da categoria outros. Categorias podem coexistir na mesma menção; não somar como partição."
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      },
+      "rows": 1288
+    },
+    {
+      "name": "mencoes_todas",
+      "path": "dados/mencoes_todas.csv",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "Identificador único e estável da ocorrência textual; chave para relacionar propostas, revisão e resultado final."
+          },
+          {
+            "name": "audiencia",
+            "type": "integer",
+            "description": "Número identificador da audiência pública no cadastro da pesquisa; não é número de processo."
+          },
+          {
+            "name": "ano_audiencia",
+            "type": "integer",
+            "description": "Ano cadastrado de realização da audiência."
+          },
+          {
+            "name": "processo",
+            "type": "string",
+            "description": "Identificação da ação ou recurso associado ao acórdão."
+          },
+          {
+            "name": "pagina_pdf",
+            "type": "integer",
+            "description": "Página do arquivo PDF, contada no documento digital; pode diferir da página impressa."
+          },
+          {
+            "name": "ministro",
+            "type": "string",
+            "description": "Nome atribuído à passagem pela extração; interpretar com metodo_ministro e autoria_plena."
+          },
+          {
+            "name": "alvo",
+            "type": "string",
+            "description": "Nome, instituição ou expressão recuperada pela busca na ocorrência."
+          },
+          {
+            "name": "mencao",
+            "type": "string",
+            "description": "Frase ou passagem recuperada; unidade textual de registro contextualizada."
+          },
+          {
+            "name": "corpus",
+            "type": "string",
+            "description": "Decisão final de incorporar ou excluir a ocorrência; coluna autoritativa de elegibilidade."
+          },
+          {
+            "name": "tipo",
+            "type": "string",
+            "description": "Classificação textual final: Contexto, Relato ou Argumento para menções incorporadas; não equivale a concordância."
+          },
+          {
+            "name": "tema",
+            "type": "string",
+            "description": "Descrição temática da audiência no cadastro da pesquisa."
+          },
+          {
+            "name": "local",
+            "type": "string",
+            "description": "Parte do acórdão: Relatório, Voto do Relator ou Voto."
+          },
+          {
+            "name": "ano_julgamento",
+            "type": "integer",
+            "description": "Ano cadastrado do julgamento do documento associado à ocorrência."
+          },
+          {
+            "name": "data_julgamento",
+            "type": "string",
+            "description": "Data do julgamento cadastrada; não é data de publicação no DJe."
+          },
+          {
+            "name": "pessoa",
+            "type": "string",
+            "description": "Pessoa ou pessoas identificadas nos campos da ocorrência, separadas por | quando múltiplas."
+          },
+          {
+            "name": "instituicao",
+            "type": "string",
+            "description": "Instituição ou instituições identificadas na ocorrência; não atribuir automaticamente a todos os afiliados."
+          },
+          {
+            "name": "numero_alvos",
+            "type": "integer",
+            "description": "Número de alvos distintos reunidos na mesma ocorrência pela extração."
+          },
+          {
+            "name": "arquivo",
+            "type": "string",
+            "description": "Nome do arquivo de acórdão da ocorrência; consultar índice de fontes para hash e URL."
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "URL de procedência do acórdão."
+          },
+          {
+            "name": "eixo",
+            "type": "string",
+            "description": "Eixo temático atribuído à audiência pelo desenho da pesquisa."
+          },
+          {
+            "name": "origem",
+            "type": "string",
+            "description": "Procedência da decisão consolidada; distingue decisão humana de classificação automática sem revisão registrada."
+          },
+          {
+            "name": "corpus_claude",
+            "type": "string",
+            "description": "Proposta original de elegibilidade do modelo, antes da consolidação da revisão."
+          },
+          {
+            "name": "tipo_claude",
+            "type": "string",
+            "description": "Proposta original de tipo pelo modelo; não substituir o rótulo final por esta coluna."
+          },
+          {
+            "name": "corpus_humano",
+            "type": "string",
+            "description": "Decisão humana registrada, quando disponível; vazio não é decisão de exclusão."
+          },
+          {
+            "name": "tipo_humano",
+            "type": "string",
+            "description": "Tipo atribuído pela revisão humana registrada, quando disponível."
+          },
+          {
+            "name": "fonte_decisao",
+            "type": "string",
+            "description": "Registro ou etapa de origem da decisão final; caminhos históricos servem à proveniência."
+          },
+          {
+            "name": "modelo",
+            "type": "string",
+            "description": "Identificador histórico do modelo utilizado na proposta automática."
+          },
+          {
+            "name": "instrucoes",
+            "type": "string",
+            "description": "Identificação histórica das instruções aplicadas; consultar instruções preservadas na classificação."
+          },
+          {
+            "name": "metodo_ministro",
+            "type": "string",
+            "description": "Método de atribuição de autoria à passagem; metadados de relatoria não equivalem a fala identificada."
+          },
+          {
+            "name": "modalidade_revisao",
+            "type": "string",
+            "description": "Tipo ou modo registrado de revisão humana; não presumir revisão em todos os casos."
+          },
+          {
+            "name": "contexto_acordao",
+            "type": "string",
+            "description": "Contexto ampliado fornecido para interpretar a ocorrência; não é o acórdão completo."
+          },
+          {
+            "name": "arquivo_audiencia",
+            "type": "string",
+            "description": "Documento de audiência usado como suporte contextual, quando recuperado."
+          },
+          {
+            "name": "pagina_audiencia",
+            "type": "string",
+            "description": "Página do documento de audiência associada ao contexto recuperado, quando disponível."
+          },
+          {
+            "name": "trecho_audiencia",
+            "type": "string",
+            "description": "Excerto da audiência associado à ocorrência, quando recuperado; vazio significa ausência desse suporte no registro."
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": [
+          "id"
+        ]
+      },
+      "rows": 3455
+    },
+    {
+      "name": "participantes",
+      "path": "dados/participantes.csv",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "audiencia",
+            "type": "integer",
+            "description": "Número identificador da audiência pública no cadastro da pesquisa; não é número de processo."
+          },
+          {
+            "name": "nome",
+            "type": "string",
+            "description": "Nome original do participante no cadastro."
+          },
+          {
+            "name": "entidade",
+            "type": "string",
+            "description": "Vínculo institucional cadastrado da participação; atributo da pessoa, não nova participação."
+          },
+          {
+            "name": "mencao_incorporada_xlsx",
+            "type": "string",
+            "description": "Indicador Sim/Não na planilha de participantes; metadado, nunca filtro de denominador."
+          },
+          {
+            "name": "categoria_final",
+            "type": "string",
+            "description": "Categoria institucional final da participação; o XLSX final é a autoridade."
+          },
+          {
+            "name": "nome_norm",
+            "type": "string",
+            "description": "Nome normalizado para chave: sem acentos e pontuação, caixa padronizada; não é novo nome atribuído."
+          },
+          {
+            "name": "entidade_norm",
+            "type": "string",
+            "description": "Entidade normalizada para comparação dentro da audiência."
+          },
+          {
+            "name": "ator_id",
+            "type": "string",
+            "description": "Identificador da participação pessoa × audiência (APxx_Pxxx); não representa pessoa única no conjunto de audiências."
+          },
+          {
+            "name": "categoria_json_classificacao",
+            "type": "string",
+            "description": "Categoria do campo classificacao no sidecar JSON; conferida contra a categoria final do XLSX."
+          },
+          {
+            "name": "categoria_json_revisada",
+            "type": "string",
+            "description": "Campo histórico categoria_revisada do sidecar; Pendente pode ser histórico e não substitui a categoria final."
+          },
+          {
+            "name": "comentario_json",
+            "type": "string",
+            "description": "Comentário registrado na revisão do participante, quando existente."
+          },
+          {
+            "name": "entidade_json",
+            "type": "string",
+            "description": "Vínculo institucional preservado no sidecar de proveniência."
+          },
+          {
+            "name": "mencao_json",
+            "type": "string",
+            "description": "Indicador histórico de menção no sidecar; não determina inclusão do corpus."
+          },
+          {
+            "name": "divergencia_categoria_json",
+            "type": "boolean",
+            "description": "Sinaliza diferença entre classificação do sidecar e a categoria final do XLSX."
+          },
+          {
+            "name": "historico_json_revisada_pendente",
+            "type": "boolean",
+            "description": "Indica valor Pendente no campo histórico; a categoria final continua válida."
+          },
+          {
+            "name": "mencao_derivada_nivel_A",
+            "type": "boolean",
+            "description": "Presença de menção derivada do vínculo nominal direto no corpus incorporado."
+          },
+          {
+            "name": "mencao_derivada_texto",
+            "type": "string",
+            "description": "Versão textual do indicador derivado de vínculo A."
+          },
+          {
+            "name": "discorda_indicador_xlsx",
+            "type": "boolean",
+            "description": "Sinaliza divergência entre indicador de menção do XLSX e o vínculo A derivado."
+          },
+          {
+            "name": "n_mencoes_nivel_A",
+            "type": "integer",
+            "description": "Número de menções incorporadas ligadas nominalmente à participação."
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": [
+          "ator_id"
+        ]
+      },
+      "rows": 405
+    },
+    {
+      "name": "participantes_h23",
+      "path": "dados/participantes_H23.csv",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ator_id",
+            "type": "string",
+            "description": "Identificador da participação pessoa × audiência (APxx_Pxxx); não representa pessoa única no conjunto de audiências."
+          },
+          {
+            "name": "audiencia",
+            "type": "integer",
+            "description": "Número identificador da audiência pública no cadastro da pesquisa; não é número de processo."
+          },
+          {
+            "name": "nome",
+            "type": "string",
+            "description": "Nome original do participante no cadastro."
+          },
+          {
+            "name": "nome_norm",
+            "type": "string",
+            "description": "Nome normalizado para chave: sem acentos e pontuação, caixa padronizada; não é novo nome atribuído."
+          },
+          {
+            "name": "entidade",
+            "type": "string",
+            "description": "Vínculo institucional cadastrado da participação; atributo da pessoa, não nova participação."
+          },
+          {
+            "name": "categoria_original",
+            "type": "string",
+            "description": "Categoria final da planilha, preservada antes da derivação de macrogrupo em H23."
+          },
+          {
+            "name": "indicador_mencao_xlsx_metadado",
+            "type": "string",
+            "description": "Indicador Sim/Não preservado em H23; não utilizado para filtrar participantes."
+          },
+          {
+            "name": "macrogrupo",
+            "type": "string",
+            "description": "Público = Atores públicos; demais = as outras cinco categorias; derivação sem alterar a categoria original."
+          },
+          {
+            "name": "n_mencoes_nominais",
+            "type": "integer",
+            "description": "Número de menções incorporadas com vínculo nominal direto à participação."
+          },
+          {
+            "name": "n_argumento_nominais",
+            "type": "integer",
+            "description": "Número de menções Argumento nominalmente associadas à participação, incluindo ocorrências distintas repetidas."
+          },
+          {
+            "name": "n_relato_nominais",
+            "type": "integer",
+            "description": "Número de menções Relato nominalmente associadas à participação."
+          },
+          {
+            "name": "n_contexto_nominais",
+            "type": "integer",
+            "description": "Número de menções Contexto nominalmente associadas à participação."
+          },
+          {
+            "name": "n_argumento_unipessoa",
+            "type": "integer",
+            "description": "Número de Argumentos associados em passagens com um único nome de pessoa no campo."
+          },
+          {
+            "name": "any_mencao",
+            "type": "integer",
+            "description": "1 se a participação tem ao menos uma menção nominal incorporada; 0 se nenhuma recuperada."
+          },
+          {
+            "name": "any_arg",
+            "type": "integer",
+            "description": "1 se a participação tem ao menos um Argumento nominal; mede alcance, não frequência."
+          },
+          {
+            "name": "any_arg_unipessoa",
+            "type": "integer",
+            "description": "Indicador de alcance usando apenas Argumentos com uma pessoa na menção."
+          },
+          {
+            "name": "nome_repete_em_outra_AP",
+            "type": "boolean",
+            "description": "Indica nome normalizado presente em outra audiência; cada participação continua distinta."
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": [
+          "ator_id"
+        ]
+      },
+      "rows": 405
+    },
+    {
+      "name": "resumo_audiencias_h23",
+      "path": "dados/resumo_audiencias_H23.csv",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "audiencia",
+            "type": "integer",
+            "description": "Número identificador da audiência pública no cadastro da pesquisa; não é número de processo."
+          },
+          {
+            "name": "n_participantes",
+            "type": "integer",
+            "description": "Número de participações cadastradas na audiência; inclui não mencionados."
+          },
+          {
+            "name": "n_publico",
+            "type": "integer",
+            "description": "Participações cadastradas no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "k_arg_publico",
+            "type": "integer",
+            "description": "Participações com ao menos um Argumento nominal no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "k_arg_uni_publico",
+            "type": "integer",
+            "description": "Participações com Argumento unipessoa no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "k_qualquer_mencao_publico",
+            "type": "integer",
+            "description": "Participações com alguma menção nominal incorporada no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "alcance_publico",
+            "type": "number",
+            "description": "Proporção de participantes com Argumento nominal no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "alcance_uni_publico",
+            "type": "number",
+            "description": "Alcance restrito a Argumentos unipessoa no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "mencoes_arg_A_publico",
+            "type": "integer",
+            "description": "Número de passagens Argumento com vínculo nominal A, uma vez por macrogrupo no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "intens_A_publico",
+            "type": "number",
+            "description": "Passagens Argumento nominais por participante no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "docs_arg_A_publico",
+            "type": "integer",
+            "description": "Número de documentos distintos com Argumento associado ao macrogrupo no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "intens_docs_A_publico",
+            "type": "number",
+            "description": "Documentos distintos com Argumento por participante no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "mencoes_arg_AB_publico",
+            "type": "integer",
+            "description": "Número de passagens Argumento por vínculo A+B em sensibilidade no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "intens_AB_publico",
+            "type": "number",
+            "description": "Passagens Argumento por participante em A+B; não atribui a todos os afiliados no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "n_demais",
+            "type": "integer",
+            "description": "Participações cadastradas no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "k_arg_demais",
+            "type": "integer",
+            "description": "Participações com ao menos um Argumento nominal no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "k_arg_uni_demais",
+            "type": "integer",
+            "description": "Participações com Argumento unipessoa no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "k_qualquer_mencao_demais",
+            "type": "integer",
+            "description": "Participações com alguma menção nominal incorporada no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "alcance_demais",
+            "type": "number",
+            "description": "Proporção de participantes com Argumento nominal no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "alcance_uni_demais",
+            "type": "number",
+            "description": "Alcance restrito a Argumentos unipessoa no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "mencoes_arg_A_demais",
+            "type": "integer",
+            "description": "Número de passagens Argumento com vínculo nominal A, uma vez por macrogrupo no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "intens_A_demais",
+            "type": "number",
+            "description": "Passagens Argumento nominais por participante no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "docs_arg_A_demais",
+            "type": "integer",
+            "description": "Número de documentos distintos com Argumento associado ao macrogrupo no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "intens_docs_A_demais",
+            "type": "number",
+            "description": "Documentos distintos com Argumento por participante no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "mencoes_arg_AB_demais",
+            "type": "integer",
+            "description": "Número de passagens Argumento por vínculo A+B em sensibilidade no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "intens_AB_demais",
+            "type": "number",
+            "description": "Passagens Argumento por participante em A+B; não atribui a todos os afiliados no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "k_arg_total",
+            "type": "integer",
+            "description": "Total de participações com pelo menos um Argumento nominal nos dois macrogrupos."
+          },
+          {
+            "name": "elegivel",
+            "type": "boolean",
+            "description": "Audiência com ao menos um participante em cada macrogrupo; elegível para contraste pareado H23."
+          },
+          {
+            "name": "motivo_inelegivel",
+            "type": "string",
+            "description": "Razão de ausência da audiência no contraste entre grupos, sem excluí-la da descrição."
+          },
+          {
+            "name": "elegivel_ge3",
+            "type": "boolean",
+            "description": "Audiência com pelo menos três participantes em cada macrogrupo; sensibilidade de elegibilidade."
+          },
+          {
+            "name": "esperado_arg_publico",
+            "type": "number",
+            "description": "Participantes com Argumento esperados pela proporção do grupo na audiência no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "obs_menos_esp_publico",
+            "type": "number",
+            "description": "Participantes com Argumento observados menos esperados sob a referência proporcional no grupo Atores públicos. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "esperado_arg_demais",
+            "type": "number",
+            "description": "Participantes com Argumento esperados pela proporção do grupo na audiência no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "obs_menos_esp_demais",
+            "type": "number",
+            "description": "Participantes com Argumento observados menos esperados sob a referência proporcional no grupo demais atores. Taxa indefinida se não há participantes no grupo."
+          },
+          {
+            "name": "dif_alcance",
+            "type": "number",
+            "description": "Diferença de alcance demais menos públicos, em pontos percentuais; uni limita a menções unipessoa."
+          },
+          {
+            "name": "dif_alcance_uni",
+            "type": "number",
+            "description": "Diferença de alcance demais menos públicos, em pontos percentuais; uni limita a menções unipessoa."
+          },
+          {
+            "name": "dif_intens_A",
+            "type": "number",
+            "description": "Diferença de intensidade demais menos públicos, em menções por participante; A é nominal, AB acrescenta instituições e docs conta documentos."
+          },
+          {
+            "name": "dif_intens_AB",
+            "type": "number",
+            "description": "Diferença de intensidade demais menos públicos, em menções por participante; A é nominal, AB acrescenta instituições e docs conta documentos."
+          },
+          {
+            "name": "dif_intens_docs",
+            "type": "number",
+            "description": "Diferença de intensidade demais menos públicos, em menções por participante; A é nominal, AB acrescenta instituições e docs conta documentos."
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": [
+          "audiencia"
+        ]
+      },
+      "rows": 31
+    },
+    {
+      "name": "resumo_audiencias_mencoes",
+      "path": "dados/resumo_audiencias_mencoes.csv",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "audiencia",
+            "type": "integer",
+            "description": "Número identificador da audiência pública no cadastro da pesquisa; não é número de processo."
+          },
+          {
+            "name": "eixo",
+            "type": "string",
+            "description": "Eixo temático atribuído à audiência pelo desenho da pesquisa."
+          },
+          {
+            "name": "ano_audiencia",
+            "type": "integer",
+            "description": "Ano cadastrado de realização da audiência."
+          },
+          {
+            "name": "tema",
+            "type": "string",
+            "description": "Descrição temática da audiência no cadastro da pesquisa."
+          },
+          {
+            "name": "n_mencoes",
+            "type": "integer",
+            "description": "Número de menções incorporadas na unidade agregada."
+          },
+          {
+            "name": "n_contexto",
+            "type": "integer",
+            "description": "Quantidade de menções Contexto incorporadas na unidade agregada."
+          },
+          {
+            "name": "n_relato",
+            "type": "integer",
+            "description": "Quantidade de menções Relato incorporadas na unidade agregada."
+          },
+          {
+            "name": "n_argumento",
+            "type": "integer",
+            "description": "Quantidade de menções Argumento incorporadas na unidade agregada."
+          },
+          {
+            "name": "taxa_argumentativa",
+            "type": "number",
+            "description": "Argumentos divididos por menções incorporadas; proporção entre 0 e 1, não porcentagem de todas as falas utilizada."
+          },
+          {
+            "name": "n_arquivos",
+            "type": "integer",
+            "description": "Quantidade de arquivos documentais com menções na unidade."
+          },
+          {
+            "name": "n_processos",
+            "type": "integer",
+            "description": "Quantidade de processos com menções na unidade."
+          },
+          {
+            "name": "n_rotulos_ministro",
+            "type": "integer",
+            "description": "Quantidade de rótulos de autoria distintos; pode incluir autoria indeterminada."
+          },
+          {
+            "name": "n_ap",
+            "type": "integer",
+            "description": "Quantidade de audiências na unidade agregada."
+          },
+          {
+            "name": "n_relatorio",
+            "type": "integer",
+            "description": "Número de menções no Relatório."
+          },
+          {
+            "name": "n_voto_relator",
+            "type": "integer",
+            "description": "Número de menções no Voto do Relator."
+          },
+          {
+            "name": "n_voto",
+            "type": "integer",
+            "description": "Número de menções nos demais votos."
+          },
+          {
+            "name": "n_autoria_nao_plena",
+            "type": "integer",
+            "description": "Número de menções sem autoria operacionalmente plena."
+          },
+          {
+            "name": "n_atribuicao_por_metadados",
+            "type": "integer",
+            "description": "Número de ocorrências com autoria atribuída por metadados."
+          },
+          {
+            "name": "ids_ocorrencias",
+            "type": "string",
+            "description": "Lista JSON de identificadores de menções reunidas na unidade agregada."
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": [
+          "audiencia"
+        ]
+      },
+      "rows": 30
+    },
+    {
+      "name": "vinculos_mencao_participante",
+      "path": "dados/vinculos_mencao_participante.csv",
+      "format": "csv",
+      "encoding": "utf-8-sig",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "ocorrencia_id",
+            "type": "string",
+            "description": "Chave estrangeira para o ID da ocorrência de menção."
+          },
+          {
+            "name": "audiencia",
+            "type": "integer",
+            "description": "Número identificador da audiência pública no cadastro da pesquisa; não é número de processo."
+          },
+          {
+            "name": "ordem_no_campo",
+            "type": "integer",
+            "description": "Posição do nome no campo multivalorado da menção; não é ordem de fala."
+          },
+          {
+            "name": "campo_origem",
+            "type": "string",
+            "description": "Campo da menção que forneceu o nome usado no vínculo."
+          },
+          {
+            "name": "nome_ou_entidade_original",
+            "type": "string",
+            "description": "Texto original do nome ou entidade usado para vinculação."
+          },
+          {
+            "name": "nome_ou_entidade_normalizado",
+            "type": "string",
+            "description": "Chave normalizada do nome ou entidade na vinculação."
+          },
+          {
+            "name": "nivel_vinculo",
+            "type": "string",
+            "description": "A = nome de pessoa resolvido; B = instituição apenas em sensibilidade."
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "Estado de resolução do vínculo; não se confunde com categoria Outros."
+          },
+          {
+            "name": "ator_id",
+            "type": "string",
+            "description": "Identificador da participação pessoa × audiência (APxx_Pxxx); não representa pessoa única no conjunto de audiências."
+          },
+          {
+            "name": "categoria_final",
+            "type": "string",
+            "description": "Categoria institucional final da participação; o XLSX final é a autoridade."
+          },
+          {
+            "name": "categoria_json",
+            "type": "string",
+            "description": "Categoria de origem no sidecar do vínculo."
+          },
+          {
+            "name": "flag_divergencia_json_xlsx",
+            "type": "boolean",
+            "description": "Sinaliza divergência de categoria entre sidecar e planilha."
+          },
+          {
+            "name": "caminho_match",
+            "type": "string",
+            "description": "Regra ou caminho documental que resolveu a correspondência."
+          },
+          {
+            "name": "rotulo_exibicao",
+            "type": "string",
+            "description": "Rótulo usado nas tabelas ou gráficos; não altera o valor original da categoria."
+          }
+        ],
+        "missingValues": [
+          ""
+        ],
+        "primaryKey": [
+          "ocorrencia_id",
+          "ator_id"
+        ],
+        "foreignKeys": [
+          {
+            "fields": "ocorrencia_id",
+            "reference": {
+              "resource": "mencoes_incorporadas",
+              "fields": "id"
+            }
+          },
+          {
+            "fields": "ator_id",
+            "reference": {
+              "resource": "participantes",
+              "fields": "ator_id"
+            }
+          }
+        ]
+      },
+      "rows": 380
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "n": 61,
+  "corpus_acertos": 57,
+  "classificacao_completa_acertos": 54,
+  "distribuicao_humana": {
+    "Excluir": 17,
+    "Contexto": 17,
+    "Argumento": 8,
+    "Relato": 19
+  },
+  "matriz_corpus": {
+    "Excluir -> Excluir": 14,
+    "Incorporar -> Incorporar": 43,
+    "Incorporar -> Excluir": 1,
+    "Excluir -> Incorporar": 3
+  },
+  "por_tipo": {
+    "Contexto": {
+      "suporte_humano": 17,
+      "acertos": 17,
+      "recall": 1.0
+    },
+    "Relato": {
+      "suporte_humano": 19,
+      "acertos": 18,
+      "recall": 0.9473684210526315
+    },
+    "Argumento": {
+      "suporte_humano": 8,
+      "acertos": 5,
+      "recall": 0.625
+    }
+  },
+  "por_audiencia": {
+    "2": {
+      "n": 22,
+      "corpus_acertos": 21,
+      "classificacao_completa_acertos": 21,
+      "distribuicao_humana": {
+        "Excluir": 7,
+        "Contexto": 6,
+        "Argumento": 3,
+        "Relato": 6
+      },
+      "matriz_corpus": {
+        "Excluir -> Excluir": 7,
+        "Incorporar -> Incorporar": 14,
+        "Incorporar -> Excluir": 1
+      },
+      "por_tipo": {
+        "Contexto": {
+          "suporte_humano": 6,
+          "acertos": 6,
+          "recall": 1.0
+        },
+        "Relato": {
+          "suporte_humano": 6,
+          "acertos": 5,
+          "recall": 0.8333333333333334
+        },
+        "Argumento": {
+          "suporte_humano": 3,
+          "acertos": 3,
+          "recall": 1.0
+        }
+      }
+    },
+    "13": {
+      "n": 39,
+      "corpus_acertos": 36,
+      "classificacao_completa_acertos": 33,
+      "distribuicao_humana": {
+        "Excluir": 10,
+        "Contexto": 11,
+        "Relato": 13,
+        "Argumento": 5
+      },
+      "matriz_corpus": {
+        "Excluir -> Incorporar": 3,
+        "Excluir -> Excluir": 7,
+        "Incorporar -> Incorporar": 29
+      },
+      "por_tipo": {
+        "Contexto": {
+          "suporte_humano": 11,
+          "acertos": 11,
+          "recall": 1.0
+        },
+        "Relato": {
+          "suporte_humano": 13,
+          "acertos": 13,
+          "recall": 1.0
+        },
+        "Argumento": {
+          "suporte_humano": 5,
+          "acertos": 2,
+          "recall": 0.4
+        }
+      }
+    }
+  },
+  "nota": "Concordância das predições congeladas com revisão humana integral e duas confirmações no chat. Revisão não cega, com respostas do Claude visíveis. Duas audiências selecionadas intencionalmente. Não mede recuperação de menções ausentes da extração nem generalização para todas as audiências. Nenhuma nova API chamada."
+}

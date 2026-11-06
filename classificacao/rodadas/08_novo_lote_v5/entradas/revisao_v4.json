@@ -1,0 +1,29 @@
+{
+  "origem": "Decisões expressas do pesquisador na conversa; apenas três divergências revistas.",
+  "decisoes": [
+    {
+      "id": "AP01-AP_01_ADI_3510-00009",
+      "corpus": "Incorporar",
+      "tipo": "Argumento",
+      "motivo": "Pesquisador manteve a função argumentativa."
+    },
+    {
+      "id": "AP03-AP_03_ADPF_054-00132",
+      "corpus": "Incorporar",
+      "tipo": "Argumento",
+      "motivo": "Pesquisador conferiu o chamado da nota 77 na página PDF 60 e identificou função argumentativa."
+    },
+    {
+      "id": "AP14-AP_14_ADI_5035-00036",
+      "corpus": "Excluir",
+      "tipo": null,
+      "motivo": "Pesquisador aplicou a regra de exclusão de partes."
+    }
+  ],
+  "n": 30,
+  "corpus_acertos": 30,
+  "classificacao_completa_acertos": 28,
+  "incorporados_revisados": 14,
+  "tipo_acertos_nos_incorporados": 12,
+  "nota": "Pós-revisão: 28/30 completos inclui 16 exclusões; tipo entre incorporados é 12/14 (85,7%). Não é validação independente."
+}

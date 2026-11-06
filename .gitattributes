@@ -1,0 +1,7 @@
+# Preserva bytes dos dados originais e os hashes, inclusive no Windows.
+* -text
+*.pdf binary
+*.xlsx binary
+*.docx binary
+*.png binary
+*.jpg binary

@@ -1,0 +1,1289 @@
+﻿id,estado_ator,n_atores_A,n_entidades_B_resolvidas,n_entidades_B_contraditorias,n_entidades_B_sem_correspondencia,n_categorias,multirrotulo,categorias,fonte_categoria,categorias_somente_via_B,misto_classificado_e_nao_resolvido,cat_atores_publicos,cat_atores_privados,cat_sociedade_civil,cat_academicos,cat_partido_politico,cat_outros
+AP01-AP_01_ADI_3510-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00002,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00004,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00005,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00006,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00007,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00009,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00010,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00011,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00012,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00016,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00017,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00018,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00019,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00020,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00021,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00022,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00023,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00026,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00027,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00029,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00030,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00031,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00032,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00033,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00034,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00035,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00036,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00037,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00038,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00039,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00040,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00041,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00042,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00044,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00045,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00046,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP01-AP_01_ADI_3510-00047,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP01-AP_01_ADI_3510-00048,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP02-AP_02_ADPF_101-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP02-AP_02_ADPF_101-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP02-AP_02_ADPF_101-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP02-AP_02_ADPF_101-00006,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP02-AP_02_ADPF_101-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP02-AP_02_ADPF_101-00008,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP02-AP_02_ADPF_101-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP02-AP_02_ADPF_101-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP02-AP_02_ADPF_101-00011,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP02-AP_02_ADPF_101-00012,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP02-AP_02_ADPF_101-00013,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP02-AP_02_ADPF_101-00014,classificado,1,0,0,0,1,False,"[""Atores privados""]",A,[],False,False,True,False,False,False,False
+AP02-AP_02_ADPF_101-00015,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP02-AP_02_ADPF_101-00020,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP02-AP_02_ADPF_101-00021,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00001,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00010,classificado,1,7,0,0,3,True,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",A+B,"[""Atores públicos"", ""Sociedade civil""]",False,True,False,True,True,False,False
+AP03-AP_03_ADPF_054-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00012,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00013,classificado,2,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00014,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00015,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00016,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00017,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00018,classificado,2,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00019,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00020,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00021,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00022,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00023,classificado,1,0,0,0,1,False,"[""Outros""]",A,[],False,False,False,False,False,False,True
+AP03-AP_03_ADPF_054-00024,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00025,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00026,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00027,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00028,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00029,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00030,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00031,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00032,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00033,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00034,classificado,2,0,0,0,1,False,"[""Outros""]",A,[],False,False,False,False,False,False,True
+AP03-AP_03_ADPF_054-00035,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00036,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00037,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00038,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00039,classificado,1,2,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00040,classificado,1,0,0,1,1,False,"[""Acadêmicos""]",A,[],True,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00041,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00042,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00043,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00048,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00049,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00050,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00051,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00052,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00053,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00054,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00055,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00056,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00057,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00058,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00061,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00062,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00063,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00064,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00065,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00066,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00067,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00068,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00069,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00070,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00071,classificado,2,1,0,0,2,True,"[""Acadêmicos"", ""Sociedade civil""]",A+B,[],False,False,False,True,True,False,False
+AP03-AP_03_ADPF_054-00072,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00074,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00075,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00076,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00077,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00078,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00079,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00080,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00081,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00082,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00083,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00084,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00085,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00087,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00088,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00089,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00090,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00091,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00092,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00093,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00094,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00095,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00096,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00097,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00098,classificado,3,3,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,False,False,False
+AP03-AP_03_ADPF_054-00099,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00100,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00101,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00102,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00103,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00104,classificado,2,2,0,0,2,True,"[""Acadêmicos"", ""Sociedade civil""]",A+B,[],False,False,False,True,True,False,False
+AP03-AP_03_ADPF_054-00105,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00106,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00107,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00108,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00109,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00110,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00111,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00112,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00113,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00114,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00115,classificado,2,2,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00116,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00117,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00118,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00119,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00120,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00121,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00122,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00123,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00124,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00125,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00126,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00127,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00128,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00129,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00132,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00133,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00134,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00135,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00136,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00137,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00138,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00139,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00140,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00141,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00142,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00143,classificado,1,0,0,1,1,False,"[""Acadêmicos""]",A,[],True,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00144,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00146,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00147,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00148,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00149,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00150,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00151,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00154,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00155,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00156,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00158,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00159,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00160,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00161,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00162,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00164,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00168,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00171,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00172,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00179,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00181,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00183,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00184,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00185,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00186,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00189,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00190,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00197,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00201,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00202,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00203,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00204,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00205,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00206,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00208,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00210,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00213,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00214,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00215,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00216,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00217,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00218,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00219,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00220,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00221,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00222,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00223,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00225,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00226,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00227,classificado,2,2,0,0,2,True,"[""Acadêmicos"", ""Sociedade civil""]",A+B,[],False,False,False,True,True,False,False
+AP03-AP_03_ADPF_054-00228,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00230,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00231,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00232,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP03-AP_03_ADPF_054-00233,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00234,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP03-AP_03_ADPF_054-00236,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00239,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP03-AP_03_ADPF_054-00240,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP03-AP_03_ADPF_054-00241,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP04-AP_04_SS_2361-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2361-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2361-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2361-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2361-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2361-00007,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_2361-00008,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_2361-00011,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_2361-00012,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_2361-00013,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_2361-00014,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_2361-00018,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2361-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2361-00020,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2361-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2361-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00008,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_2944-00009,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_2944-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00012,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_2944-00013,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_2944-00014,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_2944-00018,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00020,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00021,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_2944-00025,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP04-AP_04_SS_3345-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3345-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3345-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3345-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3345-00011,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_3345-00012,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_3345-00015,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_3345-00021,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3345-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3345-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3345-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3345-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3355-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3355-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3355-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3355-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3355-00012,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3355-00013,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_3355-00014,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_3355-00017,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_SS_3355-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3355-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3355-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3355-00030,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_SS_3355-00031,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP04-AP_04_STA_278-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_STA_278-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_STA_278-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_STA_278-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_STA_278-00012,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_STA_278-00013,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_STA_278-00014,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_STA_278-00017,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_STA_278-00018,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_STA_278-00019,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_STA_278-00020,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP04-AP_04_STA_278-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_STA_278-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_STA_278-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_STA_278-00027,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP04-AP_04_STA_278-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP05-AP_05_ADPF_186-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP05-AP_05_ADPF_186-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP05-AP_05_ADPF_186-00010,classificado,1,0,0,1,1,False,"[""Atores públicos""]",A,[],True,True,False,False,False,False,False
+AP05-AP_05_ADPF_186-00011,classificado,1,0,0,0,1,False,"[""Atores públicos""]",A,[],False,True,False,False,False,False,False
+AP05-AP_05_ADPF_186-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP05-AP_05_ADPF_186-00014,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP05-AP_05_ADPF_186-00016,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP05-AP_05_ADPF_186-00017,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP05-AP_05_ADPF_186-00018,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP05-AP_05_ADPF_186-00019,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP05-AP_05_ADPF_186-00020,classificado,1,0,0,0,1,False,"[""Atores públicos""]",A,[],False,True,False,False,False,False,False
+AP05-AP_05_ADPF_186-00021,classificado,1,0,0,1,1,False,"[""Sociedade civil""]",A,[],True,False,False,True,False,False,False
+AP05-AP_05_ADPF_186-00022,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP05-AP_05_ADPF_186-00023,classificado,1,0,0,1,1,False,"[""Sociedade civil""]",A,[],True,False,False,True,False,False,False
+AP05-AP_05_ADPF_186-00024,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP05-AP_05_ADPF_186-00025,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP05-AP_05_ADPF_186-00026,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP05-AP_05_ADPF_186-00027,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP05-AP_05_ADPF_186-00028,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP05-AP_05_ADPF_186-00030,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP05-AP_05_ADPF_186-00031,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP05-AP_05_ADPF_186-00032,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP05-AP_05_ADPF_186-00033,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP05-AP_05_ADPF_186-00034,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP05-AP_05_ADPF_186-00035,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP05-AP_05_ADPF_186-00038,classificado,1,0,0,0,1,False,"[""Outros""]",A,[],False,False,False,False,False,False,True
+AP05-AP_05_RE_597285-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP06-AP_06_ADI_4103-00002,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP06-AP_06_ADI_4103-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP06-AP_06_ADI_4103-00005,classificado,1,0,0,0,1,False,"[""Atores públicos""]",A,[],False,True,False,False,False,False,False
+AP06-AP_06_ADI_4103-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP06-AP_06_ADI_4103-00007,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP06-AP_06_ADI_4103-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP06-AP_06_ADI_4103-00010,classificado,1,0,0,0,1,False,"[""Atores públicos""]",A,[],False,True,False,False,False,False,False
+AP06-AP_06_ADI_4103-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP06-AP_06_ADI_4103-00012,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP06-AP_06_ADI_4103-00013,classificado,1,0,0,0,1,False,"[""Atores públicos""]",A,[],False,True,False,False,False,False,False
+AP06-AP_06_ADI_4103-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP06-AP_06_ADI_4103-00015,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP06-AP_06_ADI_4103-00016,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP06-AP_06_ADI_4103-00018,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP06-AP_06_ADI_4103-00019,classificado,1,0,0,0,1,False,"[""Atores públicos""]",A,[],False,True,False,False,False,False,False
+AP07-AP_07_ADI_3937-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00009,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP07-AP_07_ADI_3937-00010,classificado,0,1,0,0,1,False,"[""Atores privados""]",B,"[""Atores privados""]",False,False,True,False,False,False,False
+AP07-AP_07_ADI_3937-00011,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP07-AP_07_ADI_3937-00012,classificado,0,1,0,0,1,False,"[""Atores privados""]",B,"[""Atores privados""]",False,False,True,False,False,False,False
+AP07-AP_07_ADI_3937-00013,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP07-AP_07_ADI_3937-00014,classificado,0,1,0,0,1,False,"[""Atores privados""]",B,"[""Atores privados""]",False,False,True,False,False,False,False
+AP07-AP_07_ADI_3937-00015,classificado,0,2,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",B,"[""Atores públicos"", ""Sociedade civil""]",False,True,False,True,False,False,False
+AP07-AP_07_ADI_3937-00016,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP07-AP_07_ADI_3937-00017,classificado,0,1,0,0,1,False,"[""Atores privados""]",B,"[""Atores privados""]",False,False,True,False,False,False,False
+AP07-AP_07_ADI_3937-00018,classificado,1,1,0,0,1,False,"[""Atores privados""]",A+B,[],False,False,True,False,False,False,False
+AP07-AP_07_ADI_3937-00019,classificado,0,1,0,0,1,False,"[""Atores privados""]",B,"[""Atores privados""]",False,False,True,False,False,False,False
+AP07-AP_07_ADI_3937-00020,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP07-AP_07_ADI_3937-00021,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP07-AP_07_ADI_3937-00022,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP07-AP_07_ADI_3937-00023,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP07-AP_07_ADI_3937-00024,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP07-AP_07_ADI_3937-00025,classificado,0,1,0,0,1,False,"[""Atores privados""]",B,"[""Atores privados""]",False,False,True,False,False,False,False
+AP07-AP_07_ADI_3937-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00028,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP07-AP_07_ADI_3937-00029,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00030,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00031,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00032,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00033,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00034,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00035,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00036,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00037,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00038,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00039,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00040,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00041,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00042,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00043,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00053,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00054,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00055,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00056,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00057,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00058,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00059,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00060,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00067,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00068,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00069,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00070,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP07-AP_07_ADI_3937-00071,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00072,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00073,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP07-AP_07_ADI_3937-00076,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP08-AP_08_ADI_4679-00001,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4679-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00016,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00020,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4679-00021,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4679-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00024,classificado,1,1,0,0,1,False,"[""Atores privados""]",A+B,[],False,False,True,False,False,False,False
+AP08-AP_08_ADI_4679-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00027,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00029,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00037,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4679-00038,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4679-00049,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00059,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00060,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4679-00061,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4679-00062,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00063,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00064,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4679-00067,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00001,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4747-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00018,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00019,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4747-00020,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4747-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00023,classificado,1,1,0,0,1,False,"[""Atores privados""]",A+B,[],False,False,True,False,False,False,False
+AP08-AP_08_ADI_4747-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00027,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00036,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4747-00037,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4747-00040,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4747-00048,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00058,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00059,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4747-00060,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4747-00061,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00062,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00063,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4747-00066,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00001,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4756-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00018,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00019,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4756-00020,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4756-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00023,classificado,1,1,0,0,1,False,"[""Atores privados""]",A+B,[],False,False,True,False,False,False,False
+AP08-AP_08_ADI_4756-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00027,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00036,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4756-00037,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4756-00038,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4756-00048,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00058,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00060,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP08-AP_08_ADI_4756-00061,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00062,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00063,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP08-AP_08_ADI_4756-00066,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00002,classificado,1,3,0,0,2,True,"[""Atores privados"", ""Atores públicos""]",A+B,"[""Atores públicos""]",False,True,True,False,False,False,False
+AP09-AP_09_RE_627189-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00017,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00018,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00020,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00021,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP09-AP_09_RE_627189-00029,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP10-AP_10_RE_586224-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP10-AP_10_RE_586224-00002,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP10-AP_10_RE_586224-00003,classificado,0,1,0,0,1,False,"[""Atores privados""]",B,"[""Atores privados""]",False,False,True,False,False,False,False
+AP10-AP_10_RE_586224-00004,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP10-AP_10_RE_586224-00005,classificado,0,1,0,0,1,False,"[""Atores privados""]",B,"[""Atores privados""]",False,False,True,False,False,False,False
+AP10-AP_10_RE_586224-00006,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP10-AP_10_RE_586224-00007,identificado_sem_classificacao,0,0,0,1,0,False,[],,[],False,False,False,False,False,False,False
+AP10-AP_10_RE_586224-00008,classificado,0,1,0,0,1,False,"[""Atores privados""]",B,"[""Atores privados""]",False,False,True,False,False,False,False
+AP10-AP_10_RE_586224-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP10-AP_10_RE_586224-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP10-AP_10_RE_586224-00011,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP10-AP_10_RE_586224-00012,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP10-AP_10_RE_586224-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP10-AP_10_RE_586224-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP10-AP_10_RE_586224-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP10-AP_10_RE_586224-00016,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP11-AP_11_RE_641320-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP11-AP_11_RE_641320-00004,classificado,1,0,0,0,1,False,"[""Atores públicos""]",A,[],False,True,False,False,False,False,False
+AP11-AP_11_RE_641320-00005,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP11-AP_11_RE_641320-00006,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP11-AP_11_RE_641320-00007,classificado,5,4,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP11-AP_11_RE_641320-00008,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP11-AP_11_RE_641320-00009,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP11-AP_11_RE_641320-00010,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP11-AP_11_RE_641320-00012,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP11-AP_11_RE_641320-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP11-AP_11_RE_641320-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP11-AP_11_RE_641320-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP11-AP_11_RE_641320-00016,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP11-AP_11_RE_641320-00017,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00012,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00018,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00021,classificado,1,2,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP12-AP_12_ADI_4650-00029,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00030,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00031,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00032,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00033,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00034,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00043,classificado,1,2,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP12-AP_12_ADI_4650-00044,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00045,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00046,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00047,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00048,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00049,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00050,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00054,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP12-AP_12_ADI_4650-00057,classificado,1,2,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP13-AP_13_ADI_4815-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP13-AP_13_ADI_4815-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP13-AP_13_ADI_4815-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP13-AP_13_ADI_4815-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP13-AP_13_ADI_4815-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP13-AP_13_ADI_4815-00012,classificado,1,0,0,0,1,False,"[""Atores públicos""]",A,[],False,True,False,False,False,False,False
+AP13-AP_13_ADI_4815-00013,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP13-AP_13_ADI_4815-00014,classificado,1,0,0,0,1,False,"[""Outros""]",A,[],False,False,False,False,False,False,True
+AP13-AP_13_ADI_4815-00015,classificado,1,1,0,0,1,False,"[""Atores privados""]",A+B,[],False,False,True,False,False,False,False
+AP13-AP_13_ADI_4815-00016,classificado,1,0,0,0,1,False,"[""Outros""]",A,[],False,False,False,False,False,False,True
+AP13-AP_13_ADI_4815-00017,classificado,1,1,0,0,1,False,"[""Atores privados""]",A+B,[],False,False,True,False,False,False,False
+AP13-AP_13_ADI_4815-00018,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP13-AP_13_ADI_4815-00019,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP13-AP_13_ADI_4815-00021,classificado,1,0,0,0,1,False,"[""Outros""]",A,[],False,False,False,False,False,False,True
+AP13-AP_13_ADI_4815-00022,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP13-AP_13_ADI_4815-00023,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP13-AP_13_ADI_4815-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP13-AP_13_ADI_4815-00025,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP13-AP_13_ADI_4815-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP13-AP_13_ADI_4815-00027,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP13-AP_13_ADI_4815-00028,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP13-AP_13_ADI_4815-00029,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP13-AP_13_ADI_4815-00030,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP13-AP_13_ADI_4815-00031,classificado,1,1,0,0,1,False,"[""Atores privados""]",A+B,[],False,False,True,False,False,False,False
+AP13-AP_13_ADI_4815-00032,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP13-AP_13_ADI_4815-00033,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP13-AP_13_ADI_4815-00034,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP13-AP_13_ADI_4815-00035,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP13-AP_13_ADI_4815-00036,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP14-AP_14_ADI_5035-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP14-AP_14_ADI_5035-00007,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP14-AP_14_ADI_5035-00008,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP14-AP_14_ADI_5035-00009,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP14-AP_14_ADI_5035-00010,classificado,1,0,0,0,1,False,"[""Atores públicos""]",A,[],False,True,False,False,False,False,False
+AP14-AP_14_ADI_5035-00011,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP14-AP_14_ADI_5035-00012,classificado,1,0,0,0,1,False,"[""Outros""]",A,[],False,False,False,False,False,False,True
+AP14-AP_14_ADI_5035-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP14-AP_14_ADI_5035-00014,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP14-AP_14_ADI_5035-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP14-AP_14_ADI_5035-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP14-AP_14_ADI_5035-00025,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP14-AP_14_ADI_5035-00026,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP14-AP_14_ADI_5035-00027,classificado,1,0,0,0,1,False,"[""Outros""]",A,[],False,False,False,False,False,False,True
+AP14-AP_14_ADI_5035-00028,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP14-AP_14_ADI_5035-00029,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP14-AP_14_ADI_5035-00038,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP14-AP_14_ADI_5035-00039,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP14-AP_14_ADI_5035-00041,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP14-AP_14_ADI_5037-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP14-AP_14_ADI_5037-00005,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP14-AP_14_ADI_5037-00007,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP14-AP_14_ADI_5037-00008,classificado,1,0,0,0,1,False,"[""Atores públicos""]",A,[],False,True,False,False,False,False,False
+AP14-AP_14_ADI_5037-00009,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP14-AP_14_ADI_5037-00010,classificado,1,0,0,0,1,False,"[""Outros""]",A,[],False,False,False,False,False,False,True
+AP14-AP_14_ADI_5037-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP14-AP_14_ADI_5037-00012,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP14-AP_14_ADI_5037-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP14-AP_14_ADI_5037-00021,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP14-AP_14_ADI_5037-00023,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP14-AP_14_ADI_5037-00024,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP14-AP_14_ADI_5037-00025,classificado,1,0,0,0,1,False,"[""Outros""]",A,[],False,False,False,False,False,False,True
+AP14-AP_14_ADI_5037-00026,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP14-AP_14_ADI_5037-00027,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5062-00012,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00018,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00019,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00020,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00022,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00023,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5062-00028,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00030,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5062-00031,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00032,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00033,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00036,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5062-00038,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5062-00039,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5062-00040,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5062-00046,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP15-AP_15_ADI_5062-00048,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5062-00051,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5062-00052,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP15-AP_15_ADI_5065-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5065-00009,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5065-00015,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5065-00017,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5065-00019,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5065-00020,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP15-AP_15_ADI_5065-00021,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5065-00027,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5065-00028,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5065-00029,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5065-00031,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5065-00033,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP15-AP_15_ADI_5065-00035,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5065-00036,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5065-00037,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5065-00043,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP15-AP_15_ADI_5065-00044,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP15-AP_15_ADI_5065-00048,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP15-AP_15_ADI_5065-00049,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP16-AP_16_RE_581488-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00002,classificado,3,1,0,3,4,True,"[""Acadêmicos"", ""Atores privados"", ""Atores públicos"", ""Sociedade civil""]",A+B,"[""Sociedade civil""]",True,True,True,True,True,False,False
+AP16-AP_16_RE_581488-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00012,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00016,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00017,classificado,1,0,0,1,1,False,"[""Acadêmicos""]",A,[],True,False,False,False,True,False,False
+AP16-AP_16_RE_581488-00018,identificado_sem_classificacao,0,0,0,1,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00020,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00021,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00023,classificado,1,0,0,1,1,False,"[""Atores públicos""]",A,[],True,True,False,False,False,False,False
+AP16-AP_16_RE_581488-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP16-AP_16_RE_581488-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00002,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00012,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP17-AP_17_ADI_4439-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP18-AP_18_ADI_5072-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP18-AP_18_ADI_5072-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP18-AP_18_ADI_5072-00020,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP18-AP_18_ADI_5072-00023,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP18-AP_18_ADI_5072-00029,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP18-AP_18_ADI_5072-00030,classificado,1,0,0,0,1,False,"[""Atores públicos""]",A,[],False,True,False,False,False,False,False
+AP18-AP_18_ADI_5072-00036,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP18-AP_18_ADI_5072-00041,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP18-AP_18_ADI_5072-00042,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP18-AP_18_ADI_5072-00043,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00012,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4901-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00016,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00017,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00018,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4901-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00020,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4901-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00029,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00034,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00035,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4901-00036,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4901-00037,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4902-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00012,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4902-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00016,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00017,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00018,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4902-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00020,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4902-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00033,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00034,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4902-00035,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4902-00036,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4903-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00012,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4903-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00016,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00017,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00018,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4903-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00020,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4903-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00029,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00034,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00035,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4903-00036,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4903-00037,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4937-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00012,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4937-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00016,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00017,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00018,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4937-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00020,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4937-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00029,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00034,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00035,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP19-AP_19_ADI_4937-00036,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP19-AP_19_ADI_4937-00037,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP22-AP_22_RE_1010606-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP22-AP_22_RE_1010606-00004,classificado,4,3,0,1,3,True,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",A+B,[],True,True,False,True,True,False,False
+AP22-AP_22_RE_1010606-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP22-AP_22_RE_1010606-00007,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP22-AP_22_RE_1010606-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP22-AP_22_RE_1010606-00011,classificado,1,0,0,1,1,False,"[""Acadêmicos""]",A,[],True,False,False,False,True,False,False
+AP22-AP_22_RE_1010606-00012,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP22-AP_22_RE_1010606-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP22-AP_22_RE_1010606-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP22-AP_22_RE_1010606-00018,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP22-AP_22_RE_1010606-00020,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP22-AP_22_RE_1010606-00021,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP22-AP_22_RE_1010606-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP22-AP_22_RE_1010606-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP22-AP_22_RE_1010606-00027,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP22-AP_22_RE_1010606-00028,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP28-AP_28_RE_1238853-00002,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP28-AP_28_RE_1238853-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP29-AP_29_ADC_051-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP29-AP_29_ADC_051-00002,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP29-AP_29_ADC_051-00003,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP29-AP_29_ADC_051-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP29-AP_29_ADC_051-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP29-AP_29_ADC_051-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP29-AP_29_ADC_051-00009,classificado,1,0,0,0,1,False,"[""Acadêmicos""]",A,[],False,False,False,False,True,False,False
+AP29-AP_29_ADC_051-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP30-AP_30_ADPF_708-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP30-AP_30_ADPF_708-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP30-AP_30_ADPF_708-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP30-AP_30_ADPF_708-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00001,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00005,classificado,0,1,0,0,1,False,"[""Acadêmicos""]",B,"[""Acadêmicos""]",False,False,False,False,True,False,False
+AP31-AP_31_ADO_059-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00009,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP31-AP_31_ADO_059-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00012,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP31-AP_31_ADO_059-00013,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP31-AP_31_ADO_059-00014,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP31-AP_31_ADO_059-00015,classificado,1,0,0,1,1,False,"[""Sociedade civil""]",A,[],True,False,False,True,False,False,False
+AP31-AP_31_ADO_059-00016,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00017,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00018,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00020,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00021,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP31-AP_31_ADO_059-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00027,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00030,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00032,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00033,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP31-AP_31_ADO_059-00035,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00036,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00038,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00040,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00041,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00042,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00044,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00045,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00049,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00051,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00052,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00054,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00055,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00056,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00059,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00061,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00062,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00063,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP31-AP_31_ADO_059-00065,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00002,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP32-AP_32_ADPF_635-00040,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00041,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00044,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00048,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00057,classificado,1,1,0,0,1,False,"[""Acadêmicos""]",A+B,[],False,False,False,False,True,False,False
+AP32-AP_32_ADPF_635-00058,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00082,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP32-AP_32_ADPF_635-00084,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00094,classificado,0,2,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00097,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00098,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00102,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00103,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00108,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00110,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00118,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00120,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00122,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00128,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00140,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00143,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00151,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00152,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP32-AP_32_ADPF_635-00153,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00157,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00162,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00174,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00202,classificado,0,2,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00203,classificado,1,3,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP32-AP_32_ADPF_635-00224,classificado,0,2,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00225,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00226,classificado,0,3,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP32-AP_32_ADPF_635-00239,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00255,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00257,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00278,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP32-AP_32_ADPF_635-00296,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00323,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00361,classificado,0,2,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP32-AP_32_ADPF_635-00362,classificado,1,2,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP32-AP_32_ADPF_635-00375,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP33-AP_33_HC_165704-00001,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP33-AP_33_HC_165704-00002,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP33-AP_33_HC_165704-00010,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00004,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00005,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00019,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00021,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00022,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00029,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00030,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00031,classificado,2,3,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,False,False,False
+AP35-AP_35_ADI_6298-00032,classificado,5,4,0,0,3,True,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,True,False,False
+AP35-AP_35_ADI_6298-00033,classificado,8,6,0,0,3,True,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,True,False,False
+AP35-AP_35_ADI_6298-00034,classificado,2,2,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,False,False,False
+AP35-AP_35_ADI_6298-00035,classificado,2,3,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,False,False,False
+AP35-AP_35_ADI_6298-00039,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00054,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00057,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00063,classificado,1,3,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00067,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00073,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00076,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00078,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00079,classificado,0,7,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",B,"[""Atores públicos"", ""Sociedade civil""]",False,True,False,True,False,False,False
+AP35-AP_35_ADI_6298-00112,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00118,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00138,classificado,1,3,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00143,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00154,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00163,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00164,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00165,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00173,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00174,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00175,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00180,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00190,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00194,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00195,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00218,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00219,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00237,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00238,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00241,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00269,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00280,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00290,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6298-00294,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00295,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6298-00299,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00306,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00322,classificado,0,3,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6298-00323,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00001,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00016,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00027,classificado,2,3,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,False,False,False
+AP35-AP_35_ADI_6299-00028,classificado,5,4,0,0,3,True,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,True,False,False
+AP35-AP_35_ADI_6299-00029,classificado,8,6,0,0,3,True,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,True,False,False
+AP35-AP_35_ADI_6299-00030,classificado,2,2,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,False,False,False
+AP35-AP_35_ADI_6299-00031,classificado,2,3,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,False,False,False
+AP35-AP_35_ADI_6299-00035,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00041,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00045,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00053,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00054,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00062,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00063,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00065,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00066,classificado,0,7,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",B,"[""Atores públicos"", ""Sociedade civil""]",False,True,False,True,False,False,False
+AP35-AP_35_ADI_6299-00105,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00106,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00118,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00119,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00135,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00143,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00144,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00152,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00153,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00154,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00160,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00170,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00171,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00187,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00188,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00193,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00194,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00210,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00211,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00214,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00239,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00240,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00251,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00255,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00261,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6299-00265,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00266,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00268,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00269,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00270,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00277,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00282,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00283,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP35-AP_35_ADI_6299-00290,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6299-00291,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00001,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00002,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6300-00016,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6300-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6300-00026,classificado,4,5,0,0,3,True,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,True,False,False
+AP35-AP_35_ADI_6300-00027,classificado,5,3,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,False,False,False
+AP35-AP_35_ADI_6300-00028,classificado,6,5,0,0,3,True,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,True,False,False
+AP35-AP_35_ADI_6300-00029,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00030,classificado,2,3,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,False,False,False
+AP35-AP_35_ADI_6300-00031,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00035,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00040,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00050,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00058,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6300-00059,classificado,0,7,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",B,"[""Atores públicos"", ""Sociedade civil""]",False,True,False,True,False,False,False
+AP35-AP_35_ADI_6300-00062,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00065,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00097,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00103,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00105,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00106,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00122,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00129,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6300-00130,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00138,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00139,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00144,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00153,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6300-00154,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6300-00169,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00174,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6300-00175,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00190,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6300-00191,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6300-00218,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00229,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00230,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00233,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00239,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6300-00243,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00244,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00247,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6300-00248,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00259,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6300-00265,classificado,0,2,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6305-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6305-00014,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6305-00021,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6305-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6305-00023,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00024,classificado,5,5,0,0,3,True,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,True,False,False
+AP35-AP_35_ADI_6305-00025,classificado,7,4,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,False,False,False
+AP35-AP_35_ADI_6305-00026,classificado,3,3,0,0,2,True,"[""Acadêmicos"", ""Sociedade civil""]",A+B,[],False,False,False,True,True,False,False
+AP35-AP_35_ADI_6305-00027,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00028,classificado,3,4,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",A+B,[],False,True,False,True,False,False,False
+AP35-AP_35_ADI_6305-00033,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00037,classificado,1,0,0,0,1,False,"[""Sociedade civil""]",A,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6305-00043,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6305-00046,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6305-00048,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6305-00049,classificado,0,7,0,0,2,True,"[""Atores públicos"", ""Sociedade civil""]",B,"[""Atores públicos"", ""Sociedade civil""]",False,True,False,True,False,False,False
+AP35-AP_35_ADI_6305-00055,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00090,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6305-00107,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6305-00114,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00122,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00123,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00124,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00130,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP35-AP_35_ADI_6305-00134,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6305-00135,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6305-00152,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6305-00153,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6305-00167,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6305-00168,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6305-00204,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00211,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP35-AP_35_ADI_6305-00214,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP35-AP_35_ADI_6305-00218,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00219,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00222,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP35-AP_35_ADI_6305-00223,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP36-AP_36_ADI_7187-00002,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00003,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00005,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00010,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP36-AP_36_ADI_7187-00011,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00012,classificado,1,1,0,0,1,False,"[""Atores públicos""]",A+B,[],False,True,False,False,False,False,False
+AP36-AP_36_ADI_7187-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00014,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00015,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00016,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00017,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00018,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00020,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00021,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00022,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00029,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00030,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP36-AP_36_ADI_7187-00031,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP36-AP_36_ADI_7187-00032,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP36-AP_36_ADI_7187-00033,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00041,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00042,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00043,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP36-AP_36_ADI_7187-00044,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00045,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP36-AP_36_ADI_7187-00046,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00002,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00007,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00012,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00013,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00015,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00023,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00027,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00029,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00033,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00034,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00035,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00036,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00037,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00038,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00039,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00046,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00053,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00056,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00057,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00058,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00059,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00060,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00061,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00062,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00063,classificado,1,1,0,0,1,False,"[""Sociedade civil""]",A+B,[],False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00064,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00071,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00072,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00080,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00081,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00083,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00084,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00085,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00086,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00087,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00091,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00092,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00099,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00111,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00113,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00114,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00120,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00121,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00123,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00125,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP38-AP_38_RE_1037396-00137,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00151,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00157,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00158,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00167,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00168,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00169,classificado,0,1,0,0,1,False,"[""Atores privados""]",B,"[""Atores privados""]",False,False,True,False,False,False,False
+AP38-AP_38_RE_1037396-00170,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00177,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00178,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00180,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00186,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00193,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00196,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1037396-00205,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1037396-00211,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1057258-00002,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00004,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00006,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00007,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00008,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00009,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00010,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00011,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1057258-00013,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1057258-00015,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1057258-00016,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1057258-00017,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1057258-00018,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1057258-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00023,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00029,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1057258-00030,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00031,classificado,0,1,0,0,1,False,"[""Sociedade civil""]",B,"[""Sociedade civil""]",False,False,False,True,False,False,False
+AP38-AP_38_RE_1057258-00032,classificado,0,1,0,0,1,False,"[""Atores privados""]",B,"[""Atores privados""]",False,False,True,False,False,False,False
+AP38-AP_38_RE_1057258-00033,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00035,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00036,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP38-AP_38_RE_1057258-00037,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00003,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP41-AP_41_ADI_5553-00005,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP41-AP_41_ADI_5553-00007,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP41-AP_41_ADI_5553-00009,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP41-AP_41_ADI_5553-00011,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP41-AP_41_ADI_5553-00019,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00024,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00025,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00026,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00032,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00033,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP41-AP_41_ADI_5553-00034,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00036,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP41-AP_41_ADI_5553-00040,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00041,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00042,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00044,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00045,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00046,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00047,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00049,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP41-AP_41_ADI_5553-00050,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00054,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00055,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00063,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00066,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00067,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00068,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00070,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00071,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00076,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP41-AP_41_ADI_5553-00077,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False
+AP41-AP_41_ADI_5553-00080,classificado,0,1,0,0,1,False,"[""Atores públicos""]",B,"[""Atores públicos""]",False,True,False,False,False,False,False
+AP41-AP_41_ADI_5553-00081,generica_nao_aplicavel,0,0,0,0,0,False,[],,[],False,False,False,False,False,False,False

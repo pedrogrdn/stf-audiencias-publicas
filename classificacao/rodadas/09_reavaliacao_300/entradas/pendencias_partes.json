@@ -1,0 +1,50 @@
+[
+  {
+    "id": "AP14-AP_14_ADI_5037-00006",
+    "motivo": "Associação Médica Brasileira: requerente da ADI 5035, mas ocorrência na ADI 5037. Não propagar condição de parte entre ações conexas sem decisão metodológica.",
+    "gabarito_provisorio": {
+      "id": "AP14-AP_14_ADI_5037-00006",
+      "audiencia": "14",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "alvo": "ASSOCIAÇÃO MÉDICA BRASILEIRA",
+    "frase": "Na continuação dos trabalhos, José Luiz Bonamigo Filho, diretor da Associação Médica Brasileira, realçou a importância da aplicação do Revalida, avaliação instituída pelo governo para validar diplomas obtidos no exterior."
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00015",
+    "motivo": "Manifestação de Eunice Durham lida pela procuradora do DEM. Não confundir leitura de contribuição alheia com alegação própria da parte.",
+    "gabarito_provisorio": {
+      "id": "AP05-AP_05_ADPF_186-00015",
+      "audiencia": "5",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "alvo": "audiência pública",
+    "frase": "Eunice Ribeiro Durham, que também não pode comparecer à Audiência Pública, teve sua manifestação lida pela procuradora do DEM."
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00049",
+    "motivo": "Humberto Costa / Senado: Congresso consta como interessado. Não equiparar automaticamente senador, Senado, Congresso e parte.",
+    "gabarito_provisorio": {
+      "id": "AP15-AP_15_ADI_5062-00049",
+      "audiencia": "15",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "alvo": "HUMBERTO COSTA | SENADO FEDERAL",
+    "frase": "“O SENHOR HUMBERTO COSTA (SENADO FEDERAL) - (…) Conclusões de que havia pessoas que não detinham os direitos autorais e que, em algum momento, foram indevidamente beneficiadas; associações que foram excluídas da participação, dentro do ECAD, segundo a CPI, de forma arbitrária; a criação de prêmios e participações a gerentes e dirigentes do ECAD, na visão da CPI, contra a lei; e ilegalidade na utilização de créditos retidos."
+  },
+  {
+    "id": "AP15-AP_15_ADI_5065-00046",
+    "motivo": "Mesmo ponto sobre Humberto Costa / Senado em ação conexa.",
+    "gabarito_provisorio": {
+      "id": "AP15-AP_15_ADI_5065-00046",
+      "audiencia": "15",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "alvo": "HUMBERTO COSTA | SENADO FEDERAL",
+    "frase": "“O SENHOR HUMBERTO COSTA (SENADO FEDERAL) - (…) Conclusões de que havia pessoas que não detinham os direitos autorais e que, em algum momento, foram indevidamente beneficiadas; associações que foram excluídas da participação, dentro do ECAD, segundo a CPI, de forma arbitrária; a criação de prêmios e participações a gerentes e dirigentes do ECAD, na visão da CPI, contra a lei; e ilegalidade na utilização de créditos retidos."
+  }
+]

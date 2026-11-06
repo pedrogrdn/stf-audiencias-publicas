@@ -1,0 +1,236 @@
+﻿tabela,campo,tipo,descricao,vazios,valores_observados_se_ate_8
+entidades_sensibilidade.csv,audiencia,integer,Número identificador da audiência pública no cadastro da pesquisa; não é número de processo.,0,
+entidades_sensibilidade.csv,entidade_norm,string,Entidade normalizada para comparação dentro da audiência.,0,
+entidades_sensibilidade.csv,entidade,string,"Vínculo institucional cadastrado da participação; atributo da pessoa, não nova participação.",0,
+entidades_sensibilidade.csv,n_grafias_entidade,integer,Número de grafias reunidas na chave de entidade por audiência.,0,"[""1"", ""2""]"
+entidades_sensibilidade.csv,n_pessoas_afiliadas,integer,"Número de participações cadastradas vinculadas à entidade, não número de pessoas citadas.",0,"[""1"", ""2"", ""3"", ""8""]"
+entidades_sensibilidade.csv,categorias,string,Lista de categorias resolvidas associadas à menção ou entidade; pode ter sobreposição; codificada como JSON.,0,"[""[\""Acadêmicos\""]"", ""[\""Atores públicos\""]"", ""[\""Atores privados\""]"", ""[\""Sociedade civil\""]"", ""[\""Partido Político\""]"", ""[\""Outros\""]""]"
+entidades_sensibilidade.csv,n_categorias,integer,Quantidade de categorias institucionais distintas associadas ao registro.,0,"[""1""]"
+entidades_sensibilidade.csv,status_categoria,string,Categoria única ou contradição entre afiliados; instituição contraditória não recebe categoria por suposição.,0,"[""unica""]"
+entidades_sensibilidade.csv,categoria_entidade,string,"Categoria inferida para a entidade a partir das afiliações, apenas para a sensibilidade B.",0,"[""Acadêmicos"", ""Atores públicos"", ""Atores privados"", ""Sociedade civil"", ""Partido Político"", ""Outros""]"
+entidades_sensibilidade.csv,n_mencoes_que_citam,integer,Número de menções que citam a entidade no recorte de vínculo institucional.,0,
+mencoes_incorporadas.csv,id,string,"Identificador único e estável da ocorrência textual; chave para relacionar propostas, revisão e resultado final.",0,
+mencoes_incorporadas.csv,audiencia,integer,Número identificador da audiência pública no cadastro da pesquisa; não é número de processo.,0,
+mencoes_incorporadas.csv,ano_audiencia,integer,Ano cadastrado de realização da audiência.,0,
+mencoes_incorporadas.csv,processo,string,Identificação da ação ou recurso associado ao acórdão.,0,
+mencoes_incorporadas.csv,pagina_pdf,integer,"Página do arquivo PDF, contada no documento digital; pode diferir da página impressa.",0,
+mencoes_incorporadas.csv,ministro,string,Nome atribuído à passagem pela extração; interpretar com metodo_ministro e autoria_plena.,0,
+mencoes_incorporadas.csv,alvo,string,"Nome, instituição ou expressão recuperada pela busca na ocorrência.",0,
+mencoes_incorporadas.csv,mencao,string,Frase ou passagem recuperada; unidade textual de registro contextualizada.,0,
+mencoes_incorporadas.csv,corpus,string,Decisão final de incorporar ou excluir a ocorrência; coluna autoritativa de elegibilidade.,0,"[""Incorporar""]"
+mencoes_incorporadas.csv,tipo,string,"Classificação textual final: Contexto, Relato ou Argumento para menções incorporadas; não equivale a concordância.",0,"[""Contexto"", ""Relato"", ""Argumento""]"
+mencoes_incorporadas.csv,tema,string,Descrição temática da audiência no cadastro da pesquisa.,0,
+mencoes_incorporadas.csv,local,string,"Parte do acórdão: Relatório, Voto do Relator ou Voto.",0,"[""Relatório"", ""Voto do Relator"", ""Voto""]"
+mencoes_incorporadas.csv,ano_julgamento,integer,Ano cadastrado do julgamento do documento associado à ocorrência.,0,
+mencoes_incorporadas.csv,data_julgamento,string,Data do julgamento cadastrada; não é data de publicação no DJe.,0,
+mencoes_incorporadas.csv,pessoa,string,"Pessoa ou pessoas identificadas nos campos da ocorrência, separadas por | quando múltiplas.",981,
+mencoes_incorporadas.csv,instituicao,string,Instituição ou instituições identificadas na ocorrência; não atribuir automaticamente a todos os afiliados.,765,
+mencoes_incorporadas.csv,numero_alvos,integer,Número de alvos distintos reunidos na mesma ocorrência pela extração.,0,
+mencoes_incorporadas.csv,arquivo,string,Nome do arquivo de acórdão da ocorrência; consultar índice de fontes para hash e URL.,0,
+mencoes_incorporadas.csv,url,string,URL de procedência do acórdão.,0,
+mencoes_incorporadas.csv,eixo,string,Eixo temático atribuído à audiência pelo desenho da pesquisa.,0,"[""Direitos da Personalidade"", ""Direitos ambientais, políticas públicas e liberdade de mercado""]"
+mencoes_incorporadas.csv,ext_tipo_alvo,string,"Tipo de alvo registrado na extração histórica, antes da classificação final.",0,
+mencoes_incorporadas.csv,ext_alvo_id,string,Identificador de alvo da extração histórica.,0,
+mencoes_incorporadas.csv,ext_alvo_canonico,string,Forma canônica do alvo na extração histórica.,0,
+mencoes_incorporadas.csv,ext_pessoa,string,Campo pessoa preservado da extração histórica.,981,
+mencoes_incorporadas.csv,ext_instituicao,string,Campo instituição preservado da extração histórica.,765,
+mencoes_incorporadas.csv,origem,string,Procedência da decisão consolidada; distingue decisão humana de classificação automática sem revisão registrada.,0,"[""Claude sem revisão humana"", ""Humana consolidada""]"
+mencoes_incorporadas.csv,metodo_ministro,string,Método de atribuição de autoria à passagem; metadados de relatoria não equivalem a fala identificada.,0,"[""cabeçalho ou fala no acórdão"", ""relator identificado nos metadados do acórdão"", ""não identificado""]"
+mencoes_incorporadas.csv,modalidade_revisao,string,Tipo ou modo registrado de revisão humana; não presumir revisão em todos os casos.,0,"[""Sem revisão humana"", ""Revisão humana anterior"", ""Confirmação de sugestão do Codex"", ""Rótulo indicado pelo pesquisador""]"
+mencoes_incorporadas.csv,tipo_consolidado,string,Tipo final no registro de proveniência; coincide com tipo para incorporados.,0,"[""Contexto"", ""Relato"", ""Argumento""]"
+mencoes_incorporadas.csv,corpus_consolidado,string,Decisão final de elegibilidade no registro de proveniência; coincide com corpus.,0,"[""Incorporar""]"
+mencoes_incorporadas.csv,estado_ator,string,"Estado mutuamente exclusivo: classificado, identificado sem classificação ou genérica não aplicável, com estados técnicos adicionais se presentes.",0,"[""generica_nao_aplicavel"", ""classificado"", ""identificado_sem_classificacao""]"
+mencoes_incorporadas.csv,n_atores_A,integer,Quantidade de participações resolvidas pelo vínculo nominal A na menção.,0,
+mencoes_incorporadas.csv,n_categorias,integer,Quantidade de categorias institucionais distintas associadas ao registro.,0,"[""0"", ""1"", ""2"", ""3""]"
+mencoes_incorporadas.csv,multirrotulo,boolean,Indica menção associada a mais de uma categoria; não duplicar a ocorrência no total do corpus.,0,"[""False"", ""True""]"
+mencoes_incorporadas.csv,categorias,string,Lista de categorias resolvidas associadas à menção ou entidade; pode ter sobreposição; codificada como JSON.,0,
+mencoes_incorporadas.csv,mista_classificado_e_nao_resolvido,boolean,Indica menção com algum ator classificado e algum alvo não resolvido.,0,"[""False""]"
+mencoes_incorporadas.csv,n_pessoas_tokens,integer,Quantidade de nomes de pessoa separados do campo original da menção.,0,
+mencoes_incorporadas.csv,n_pessoas_resolvidas_tokens,integer,Quantidade de nomes do campo resolvidos no cadastro da audiência.,0,
+mencoes_incorporadas.csv,n_pessoas_ambiguas,integer,Quantidade de nomes com correspondência ambígua no cadastro.,0,"[""0""]"
+mencoes_incorporadas.csv,n_pessoas_sem_correspondencia,integer,Quantidade de nomes do campo sem correspondência no cadastro.,0,"[""0""]"
+mencoes_incorporadas.csv,tem_pessoa_campo,boolean,Indicador de existência de pessoa preenchida no campo da ocorrência.,0,"[""False"", ""True""]"
+mencoes_incorporadas.csv,tem_instituicao_campo,boolean,Indicador de existência de instituição preenchida no campo da ocorrência.,0,"[""False"", ""True""]"
+mencoes_incorporadas.csv,classificado_com_instituicao_nao_vinculada_A,boolean,Indica pessoa nominal resolvida acompanhada de instituição que não é usada como atribuição nominal A.,0,"[""False"", ""True""]"
+mencoes_incorporadas.csv,tem_divergencia_json_xlsx,boolean,Sinaliza divergência entre registro de proveniência e planilha final.,0,"[""False""]"
+mencoes_incorporadas.csv,cat_atores_publicos,boolean,Indicador de presença da categoria atores publicos. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False"", ""True""]"
+mencoes_incorporadas.csv,cat_atores_privados,boolean,Indicador de presença da categoria atores privados. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False"", ""True""]"
+mencoes_incorporadas.csv,cat_sociedade_civil,boolean,Indicador de presença da categoria sociedade civil. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False"", ""True""]"
+mencoes_incorporadas.csv,cat_academicos,boolean,Indicador de presença da categoria academicos. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False"", ""True""]"
+mencoes_incorporadas.csv,cat_partido_politico,boolean,Indicador de presença da categoria partido politico. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False""]"
+mencoes_incorporadas.csv,cat_outros,boolean,Indicador de presença da categoria outros. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False"", ""True""]"
+mencoes_incorporadas.csv,arg,integer,"Indicador derivado: 1 se Argumento, 0 se outra função textual incorporada.",0,"[""0"", ""1""]"
+mencoes_incorporadas.csv,classe,string,Classe processual derivada do identificador do processo.,0,"[""ADI"", ""ADPF"", ""SS"", ""STA"", ""RE"", ""ADC"", ""ADO"", ""HC""]"
+mencoes_incorporadas.csv,tipo_alvo_derivado,string,Tipo de identificação derivado dos campos pessoa e instituição; distinto da função textual.,0,"[""Sem pessoa/instituição nos campos"", ""Pessoa"", ""Instituição"", ""Pessoa e instituição""]"
+mencoes_incorporadas.csv,individualizada,integer,Indicador derivado de existência de identificação nominal de pessoa ou instituição.,0,"[""0"", ""1""]"
+mencoes_incorporadas.csv,autoria_plena,integer,Indicador operacional de preenchimento de autoria conforme regras de limpeza; não garante identificação individual em todos os registros.,0,"[""1"", ""0""]"
+mencoes_incorporadas.csv,atribuicao_metadado,integer,Indica autoria atribuída por metadados de relatoria em vez de fala identificada.,0,"[""0"", ""1""]"
+mencoes_incorporadas.csv,intervalo_anos,integer,Ano do julgamento menos ano da audiência; AP33 tem inconsistência negativa preservada e não é duração verdadeira.,0,"[""1"", ""4"", ""2"", ""10"", ""5"", ""3"", ""6"", ""-1""]"
+mencoes_incorporadas.csv,relator_identificado,string,Nome do relator registrado no resumo documental.,0,
+mencoes_incorporadas.csv,ministro_eh_relator,integer,"Indica coincidência entre autoria atribuída e relator do documento, sob as regras de identificação.",0,"[""1"", ""0""]"
+mencoes_incorporadas.csv,relator_indeterminado,integer,Indica impossibilidade de determinar a relação de relatoria.,0,"[""0"", ""1""]"
+mencoes_incorporadas.csv,documento,string,Identificador documental usado na agregação estatística; não atesta sessão conjunta de julgamento.,0,
+mencoes_incorporadas.csv,contexto_acordao,string,Contexto ampliado fornecido para interpretar a ocorrência; não é o acórdão completo.,0,
+mencoes_incorporadas.csv,arquivo_audiencia,string,"Documento de audiência usado como suporte contextual, quando recuperado.",749,
+mencoes_incorporadas.csv,pagina_audiencia,string,"Página do documento de audiência associada ao contexto recuperado, quando disponível.",749,
+mencoes_incorporadas.csv,trecho_audiencia,string,"Excerto da audiência associado à ocorrência, quando recuperado; vazio significa ausência desse suporte no registro.",749,
+mencoes_sensibilidade_AB.csv,id,string,"Identificador único e estável da ocorrência textual; chave para relacionar propostas, revisão e resultado final.",0,
+mencoes_sensibilidade_AB.csv,estado_ator,string,"Estado mutuamente exclusivo: classificado, identificado sem classificação ou genérica não aplicável, com estados técnicos adicionais se presentes.",0,"[""generica_nao_aplicavel"", ""classificado"", ""identificado_sem_classificacao""]"
+mencoes_sensibilidade_AB.csv,n_atores_A,integer,Quantidade de participações resolvidas pelo vínculo nominal A na menção.,0,
+mencoes_sensibilidade_AB.csv,n_entidades_B_resolvidas,integer,Quantidade de entidades citadas com categoria resolvida pelo vínculo institucional B.,0,"[""0"", ""1"", ""7"", ""2"", ""3"", ""4"", ""6"", ""5""]"
+mencoes_sensibilidade_AB.csv,n_entidades_B_contraditorias,integer,Quantidade de entidades citadas com categorias contraditórias entre afiliados; não são resolvidas por suposição.,0,"[""0""]"
+mencoes_sensibilidade_AB.csv,n_entidades_B_sem_correspondencia,integer,Quantidade de entidades citadas sem correspondência institucional no cadastro da audiência.,0,"[""0"", ""1"", ""3""]"
+mencoes_sensibilidade_AB.csv,n_categorias,integer,Quantidade de categorias institucionais distintas associadas ao registro.,0,"[""0"", ""1"", ""3"", ""2"", ""4""]"
+mencoes_sensibilidade_AB.csv,multirrotulo,boolean,Indica menção associada a mais de uma categoria; não duplicar a ocorrência no total do corpus.,0,"[""False"", ""True""]"
+mencoes_sensibilidade_AB.csv,categorias,string,Lista de categorias resolvidas associadas à menção ou entidade; pode ter sobreposição; codificada como JSON.,0,
+mencoes_sensibilidade_AB.csv,fonte_categoria,string,"Origem da categoria na sensibilidade, distinguindo A e B.",672,"[""A"", ""B"", ""A+B""]"
+mencoes_sensibilidade_AB.csv,categorias_somente_via_B,string,"Lista JSON das categorias acrescentadas somente pela instituição, não pelo nome da pessoa.",0,"[""[]"", ""[\""Atores públicos\""]"", ""[\""Acadêmicos\""]"", ""[\""Atores públicos\"", \""Sociedade civil\""]"", ""[\""Sociedade civil\""]"", ""[\""Atores privados\""]""]"
+mencoes_sensibilidade_AB.csv,misto_classificado_e_nao_resolvido,boolean,Indica mistura de vínculos classificados e não resolvidos na sensibilidade.,0,"[""False"", ""True""]"
+mencoes_sensibilidade_AB.csv,cat_atores_publicos,boolean,Indicador de presença da categoria atores publicos. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False"", ""True""]"
+mencoes_sensibilidade_AB.csv,cat_atores_privados,boolean,Indicador de presença da categoria atores privados. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False"", ""True""]"
+mencoes_sensibilidade_AB.csv,cat_sociedade_civil,boolean,Indicador de presença da categoria sociedade civil. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False"", ""True""]"
+mencoes_sensibilidade_AB.csv,cat_academicos,boolean,Indicador de presença da categoria academicos. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False"", ""True""]"
+mencoes_sensibilidade_AB.csv,cat_partido_politico,boolean,Indicador de presença da categoria partido politico. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False""]"
+mencoes_sensibilidade_AB.csv,cat_outros,boolean,Indicador de presença da categoria outros. Categorias podem coexistir na mesma menção; não somar como partição.,0,"[""False"", ""True""]"
+mencoes_todas.csv,id,string,"Identificador único e estável da ocorrência textual; chave para relacionar propostas, revisão e resultado final.",0,
+mencoes_todas.csv,audiencia,integer,Número identificador da audiência pública no cadastro da pesquisa; não é número de processo.,0,
+mencoes_todas.csv,ano_audiencia,integer,Ano cadastrado de realização da audiência.,0,
+mencoes_todas.csv,processo,string,Identificação da ação ou recurso associado ao acórdão.,0,
+mencoes_todas.csv,pagina_pdf,integer,"Página do arquivo PDF, contada no documento digital; pode diferir da página impressa.",0,
+mencoes_todas.csv,ministro,string,Nome atribuído à passagem pela extração; interpretar com metodo_ministro e autoria_plena.,0,
+mencoes_todas.csv,alvo,string,"Nome, instituição ou expressão recuperada pela busca na ocorrência.",0,
+mencoes_todas.csv,mencao,string,Frase ou passagem recuperada; unidade textual de registro contextualizada.,0,
+mencoes_todas.csv,corpus,string,Decisão final de incorporar ou excluir a ocorrência; coluna autoritativa de elegibilidade.,0,"[""Incorporar"", ""Excluir""]"
+mencoes_todas.csv,tipo,string,"Classificação textual final: Contexto, Relato ou Argumento para menções incorporadas; não equivale a concordância.",2167,"[""Contexto"", ""Relato"", ""Argumento""]"
+mencoes_todas.csv,tema,string,Descrição temática da audiência no cadastro da pesquisa.,0,
+mencoes_todas.csv,local,string,"Parte do acórdão: Relatório, Voto do Relator ou Voto.",0,"[""Relatório"", ""Voto do Relator"", ""Voto""]"
+mencoes_todas.csv,ano_julgamento,integer,Ano cadastrado do julgamento do documento associado à ocorrência.,0,
+mencoes_todas.csv,data_julgamento,string,Data do julgamento cadastrada; não é data de publicação no DJe.,0,
+mencoes_todas.csv,pessoa,string,"Pessoa ou pessoas identificadas nos campos da ocorrência, separadas por | quando múltiplas.",2864,
+mencoes_todas.csv,instituicao,string,Instituição ou instituições identificadas na ocorrência; não atribuir automaticamente a todos os afiliados.,1389,
+mencoes_todas.csv,numero_alvos,integer,Número de alvos distintos reunidos na mesma ocorrência pela extração.,0,
+mencoes_todas.csv,arquivo,string,Nome do arquivo de acórdão da ocorrência; consultar índice de fontes para hash e URL.,0,
+mencoes_todas.csv,url,string,URL de procedência do acórdão.,0,
+mencoes_todas.csv,eixo,string,Eixo temático atribuído à audiência pelo desenho da pesquisa.,0,"[""Direitos da Personalidade"", ""Direitos ambientais, políticas públicas e liberdade de mercado""]"
+mencoes_todas.csv,origem,string,Procedência da decisão consolidada; distingue decisão humana de classificação automática sem revisão registrada.,0,"[""Claude sem revisão humana"", ""Humana consolidada""]"
+mencoes_todas.csv,corpus_claude,string,"Proposta original de elegibilidade do modelo, antes da consolidação da revisão.",3,"[""Incorporar"", ""Excluir"", ""Indeterminado""]"
+mencoes_todas.csv,tipo_claude,string,Proposta original de tipo pelo modelo; não substituir o rótulo final por esta coluna.,2155,"[""Contexto"", ""Relato"", ""Argumento"", ""Indeterminado""]"
+mencoes_todas.csv,corpus_humano,string,"Decisão humana registrada, quando disponível; vazio não é decisão de exclusão.",2898,"[""Incorporar"", ""Excluir""]"
+mencoes_todas.csv,tipo_humano,string,"Tipo atribuído pela revisão humana registrada, quando disponível.",3186,"[""Contexto"", ""Relato"", ""Argumento""]"
+mencoes_todas.csv,fonte_decisao,string,Registro ou etapa de origem da decisão final; caminhos históricos servem à proveniência.,0,"[""outputs/execucao_integral_20261105/respostas.json"", ""outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"", ""outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/consolidacao_integral_revisada_20261105/decisoes_revisadas.json"", ""outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"", ""outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json""]"
+mencoes_todas.csv,modelo,string,Identificador histórico do modelo utilizado na proposta automática.,0,"[""claude-sonnet-5""]"
+mencoes_todas.csv,instrucoes,string,Identificação histórica das instruções aplicadas; consultar instruções preservadas na classificação.,0,"[""v6.1""]"
+mencoes_todas.csv,metodo_ministro,string,Método de atribuição de autoria à passagem; metadados de relatoria não equivalem a fala identificada.,0,"[""cabeçalho ou fala no acórdão"", ""relator identificado nos metadados do acórdão"", ""não identificado""]"
+mencoes_todas.csv,modalidade_revisao,string,Tipo ou modo registrado de revisão humana; não presumir revisão em todos os casos.,0,"[""Sem revisão humana"", ""Revisão humana anterior"", ""Confirmação de sugestão do Codex"", ""Rótulo indicado pelo pesquisador""]"
+mencoes_todas.csv,contexto_acordao,string,Contexto ampliado fornecido para interpretar a ocorrência; não é o acórdão completo.,0,
+mencoes_todas.csv,arquivo_audiencia,string,"Documento de audiência usado como suporte contextual, quando recuperado.",1527,
+mencoes_todas.csv,pagina_audiencia,string,"Página do documento de audiência associada ao contexto recuperado, quando disponível.",1527,
+mencoes_todas.csv,trecho_audiencia,string,"Excerto da audiência associado à ocorrência, quando recuperado; vazio significa ausência desse suporte no registro.",1527,
+participantes.csv,audiencia,integer,Número identificador da audiência pública no cadastro da pesquisa; não é número de processo.,0,
+participantes.csv,nome,string,Nome original do participante no cadastro.,0,
+participantes.csv,entidade,string,"Vínculo institucional cadastrado da participação; atributo da pessoa, não nova participação.",53,
+participantes.csv,mencao_incorporada_xlsx,string,"Indicador Sim/Não na planilha de participantes; metadado, nunca filtro de denominador.",0,"[""Sim"", ""Não""]"
+participantes.csv,categoria_final,string,Categoria institucional final da participação; o XLSX final é a autoridade.,0,"[""Acadêmicos"", ""Atores públicos"", ""Atores privados"", ""Sociedade civil"", ""Outros"", ""Partido Político""]"
+participantes.csv,nome_norm,string,"Nome normalizado para chave: sem acentos e pontuação, caixa padronizada; não é novo nome atribuído.",0,
+participantes.csv,entidade_norm,string,Entidade normalizada para comparação dentro da audiência.,53,
+participantes.csv,ator_id,string,Identificador da participação pessoa × audiência (APxx_Pxxx); não representa pessoa única no conjunto de audiências.,0,
+participantes.csv,categoria_json_classificacao,string,Categoria do campo classificacao no sidecar JSON; conferida contra a categoria final do XLSX.,0,"[""Acadêmicos"", ""Atores públicos"", ""Atores privados"", ""Sociedade civil"", ""Outros"", ""Partido Político""]"
+participantes.csv,categoria_json_revisada,string,Campo histórico categoria_revisada do sidecar; Pendente pode ser histórico e não substitui a categoria final.,353,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil"", ""Atores privados"", ""Outros"", ""Pendente""]"
+participantes.csv,comentario_json,string,"Comentário registrado na revisão do participante, quando existente.",398,"[""Partido Político""]"
+participantes.csv,entidade_json,string,Vínculo institucional preservado no sidecar de proveniência.,53,
+participantes.csv,mencao_json,string,Indicador histórico de menção no sidecar; não determina inclusão do corpus.,0,"[""Sim"", ""Não""]"
+participantes.csv,divergencia_categoria_json,boolean,Sinaliza diferença entre classificação do sidecar e a categoria final do XLSX.,0,"[""False""]"
+participantes.csv,historico_json_revisada_pendente,boolean,Indica valor Pendente no campo histórico; a categoria final continua válida.,0,"[""False"", ""True""]"
+participantes.csv,mencao_derivada_nivel_A,boolean,Presença de menção derivada do vínculo nominal direto no corpus incorporado.,0,"[""True"", ""False""]"
+participantes.csv,mencao_derivada_texto,string,Versão textual do indicador derivado de vínculo A.,0,"[""Sim"", ""Não""]"
+participantes.csv,discorda_indicador_xlsx,boolean,Sinaliza divergência entre indicador de menção do XLSX e o vínculo A derivado.,0,"[""False""]"
+participantes.csv,n_mencoes_nivel_A,integer,Número de menções incorporadas ligadas nominalmente à participação.,0,
+participantes_H23.csv,ator_id,string,Identificador da participação pessoa × audiência (APxx_Pxxx); não representa pessoa única no conjunto de audiências.,0,
+participantes_H23.csv,audiencia,integer,Número identificador da audiência pública no cadastro da pesquisa; não é número de processo.,0,
+participantes_H23.csv,nome,string,Nome original do participante no cadastro.,0,
+participantes_H23.csv,nome_norm,string,"Nome normalizado para chave: sem acentos e pontuação, caixa padronizada; não é novo nome atribuído.",0,
+participantes_H23.csv,entidade,string,"Vínculo institucional cadastrado da participação; atributo da pessoa, não nova participação.",53,
+participantes_H23.csv,categoria_original,string,"Categoria final da planilha, preservada antes da derivação de macrogrupo em H23.",0,"[""Acadêmicos"", ""Atores públicos"", ""Atores privados"", ""Sociedade civil"", ""Outros"", ""Partido Político""]"
+participantes_H23.csv,indicador_mencao_xlsx_metadado,string,Indicador Sim/Não preservado em H23; não utilizado para filtrar participantes.,0,"[""Sim"", ""Não""]"
+participantes_H23.csv,macrogrupo,string,Público = Atores públicos; demais = as outras cinco categorias; derivação sem alterar a categoria original.,0,"[""demais"", ""publico""]"
+participantes_H23.csv,n_mencoes_nominais,integer,Número de menções incorporadas com vínculo nominal direto à participação.,0,
+participantes_H23.csv,n_argumento_nominais,integer,"Número de menções Argumento nominalmente associadas à participação, incluindo ocorrências distintas repetidas.",0,
+participantes_H23.csv,n_relato_nominais,integer,Número de menções Relato nominalmente associadas à participação.,0,"[""0"", ""1"", ""2"", ""3"", ""5"", ""4""]"
+participantes_H23.csv,n_contexto_nominais,integer,Número de menções Contexto nominalmente associadas à participação.,0,
+participantes_H23.csv,n_argumento_unipessoa,integer,Número de Argumentos associados em passagens com um único nome de pessoa no campo.,0,"[""1"", ""2"", ""0"", ""6"", ""4"", ""3"", ""16"", ""8""]"
+participantes_H23.csv,any_mencao,integer,1 se a participação tem ao menos uma menção nominal incorporada; 0 se nenhuma recuperada.,0,"[""1"", ""0""]"
+participantes_H23.csv,any_arg,integer,"1 se a participação tem ao menos um Argumento nominal; mede alcance, não frequência.",0,"[""1"", ""0""]"
+participantes_H23.csv,any_arg_unipessoa,integer,Indicador de alcance usando apenas Argumentos com uma pessoa na menção.,0,"[""1"", ""0""]"
+participantes_H23.csv,nome_repete_em_outra_AP,boolean,Indica nome normalizado presente em outra audiência; cada participação continua distinta.,0,"[""False"", ""True""]"
+resumo_audiencias_H23.csv,audiencia,integer,Número identificador da audiência pública no cadastro da pesquisa; não é número de processo.,0,
+resumo_audiencias_H23.csv,n_participantes,integer,Número de participações cadastradas na audiência; inclui não mencionados.,0,
+resumo_audiencias_H23.csv,n_publico,integer,Participações cadastradas no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,k_arg_publico,integer,Participações com ao menos um Argumento nominal no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,0,"[""0"", ""3"", ""1""]"
+resumo_audiencias_H23.csv,k_arg_uni_publico,integer,Participações com Argumento unipessoa no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,0,"[""0"", ""3"", ""1""]"
+resumo_audiencias_H23.csv,k_qualquer_mencao_publico,integer,Participações com alguma menção nominal incorporada no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,0,"[""0"", ""2"", ""4"", ""3"", ""1"", ""9"", ""8""]"
+resumo_audiencias_H23.csv,alcance_publico,number,Proporção de participantes com Argumento nominal no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,3,"[""0.0"", ""0.375"", ""0.2"", ""0.3333333333333333"", ""0.5"", ""0.125""]"
+resumo_audiencias_H23.csv,alcance_uni_publico,number,Alcance restrito a Argumentos unipessoa no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,3,"[""0.0"", ""0.375"", ""0.2"", ""0.3333333333333333"", ""0.5"", ""0.125""]"
+resumo_audiencias_H23.csv,mencoes_arg_A_publico,integer,"Número de passagens Argumento com vínculo nominal A, uma vez por macrogrupo no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.",0,"[""0"", ""6"", ""1"", ""2""]"
+resumo_audiencias_H23.csv,intens_A_publico,number,Passagens Argumento nominais por participante no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,3,"[""0.0"", ""0.75"", ""0.2"", ""0.6666666666666666"", ""0.5"", ""0.125"", ""0.3333333333333333""]"
+resumo_audiencias_H23.csv,docs_arg_A_publico,integer,Número de documentos distintos com Argumento associado ao macrogrupo no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,0,"[""0"", ""1"", ""2""]"
+resumo_audiencias_H23.csv,intens_docs_A_publico,number,Documentos distintos com Argumento por participante no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,3,"[""0.0"", ""0.125"", ""0.2"", ""0.6666666666666666"", ""0.5"", ""0.3333333333333333""]"
+resumo_audiencias_H23.csv,mencoes_arg_AB_publico,integer,Número de passagens Argumento por vínculo A+B em sensibilidade no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,0,"[""0"", ""1"", ""10"", ""15"", ""17"", ""6"", ""2"", ""32""]"
+resumo_audiencias_H23.csv,intens_AB_publico,number,Passagens Argumento por participante em A+B; não atribui a todos os afiliados no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,3,
+resumo_audiencias_H23.csv,n_demais,integer,Participações cadastradas no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,k_arg_demais,integer,Participações com ao menos um Argumento nominal no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,"[""12"", ""0"", ""17"", ""1"", ""2""]"
+resumo_audiencias_H23.csv,k_arg_uni_demais,integer,Participações com Argumento unipessoa no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,"[""12"", ""0"", ""17"", ""1"", ""2""]"
+resumo_audiencias_H23.csv,k_qualquer_mencao_demais,integer,Participações com alguma menção nominal incorporada no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,alcance_demais,number,Proporção de participantes com Argumento nominal no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,alcance_uni_demais,number,Alcance restrito a Argumentos unipessoa no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,mencoes_arg_A_demais,integer,"Número de passagens Argumento com vínculo nominal A, uma vez por macrogrupo no grupo demais atores. Taxa indefinida se não há participantes no grupo.",0,"[""19"", ""0"", ""39"", ""2"", ""3"", ""1"", ""20"", ""9""]"
+resumo_audiencias_H23.csv,intens_A_demais,number,Passagens Argumento nominais por participante no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,docs_arg_A_demais,integer,Número de documentos distintos com Argumento associado ao macrogrupo no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,"[""1"", ""0"", ""2"", ""3"", ""4""]"
+resumo_audiencias_H23.csv,intens_docs_A_demais,number,Documentos distintos com Argumento por participante no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,mencoes_arg_AB_demais,integer,Número de passagens Argumento por vínculo A+B em sensibilidade no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,intens_AB_demais,number,Passagens Argumento por participante em A+B; não atribui a todos os afiliados no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,k_arg_total,integer,Total de participações com pelo menos um Argumento nominal nos dois macrogrupos.,0,"[""12"", ""0"", ""20"", ""1"", ""2""]"
+resumo_audiencias_H23.csv,elegivel,boolean,Audiência com ao menos um participante em cada macrogrupo; elegível para contraste pareado H23.,0,"[""False"", ""True""]"
+resumo_audiencias_H23.csv,motivo_inelegivel,string,"Razão de ausência da audiência no contraste entre grupos, sem excluí-la da descrição.",28,"[""sem participante público""]"
+resumo_audiencias_H23.csv,elegivel_ge3,boolean,Audiência com pelo menos três participantes em cada macrogrupo; sensibilidade de elegibilidade.,0,"[""False"", ""True""]"
+resumo_audiencias_H23.csv,esperado_arg_publico,number,Participantes com Argumento esperados pela proporção do grupo na audiência no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,obs_menos_esp_publico,number,Participantes com Argumento observados menos esperados sob a referência proporcional no grupo Atores públicos. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,esperado_arg_demais,number,Participantes com Argumento esperados pela proporção do grupo na audiência no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,obs_menos_esp_demais,number,Participantes com Argumento observados menos esperados sob a referência proporcional no grupo demais atores. Taxa indefinida se não há participantes no grupo.,0,
+resumo_audiencias_H23.csv,dif_alcance,number,"Diferença de alcance demais menos públicos, em pontos percentuais; uni limita a menções unipessoa.",3,
+resumo_audiencias_H23.csv,dif_alcance_uni,number,"Diferença de alcance demais menos públicos, em pontos percentuais; uni limita a menções unipessoa.",3,
+resumo_audiencias_H23.csv,dif_intens_A,number,"Diferença de intensidade demais menos públicos, em menções por participante; A é nominal, AB acrescenta instituições e docs conta documentos.",3,
+resumo_audiencias_H23.csv,dif_intens_AB,number,"Diferença de intensidade demais menos públicos, em menções por participante; A é nominal, AB acrescenta instituições e docs conta documentos.",3,
+resumo_audiencias_H23.csv,dif_intens_docs,number,"Diferença de intensidade demais menos públicos, em menções por participante; A é nominal, AB acrescenta instituições e docs conta documentos.",3,
+resumo_audiencias_mencoes.csv,audiencia,integer,Número identificador da audiência pública no cadastro da pesquisa; não é número de processo.,0,
+resumo_audiencias_mencoes.csv,eixo,string,Eixo temático atribuído à audiência pelo desenho da pesquisa.,0,"[""Direitos da Personalidade"", ""Direitos ambientais, políticas públicas e liberdade de mercado""]"
+resumo_audiencias_mencoes.csv,ano_audiencia,integer,Ano cadastrado de realização da audiência.,0,
+resumo_audiencias_mencoes.csv,tema,string,Descrição temática da audiência no cadastro da pesquisa.,0,
+resumo_audiencias_mencoes.csv,n_mencoes,integer,Número de menções incorporadas na unidade agregada.,0,
+resumo_audiencias_mencoes.csv,n_contexto,integer,Quantidade de menções Contexto incorporadas na unidade agregada.,0,
+resumo_audiencias_mencoes.csv,n_relato,integer,Quantidade de menções Relato incorporadas na unidade agregada.,0,
+resumo_audiencias_mencoes.csv,n_argumento,integer,Quantidade de menções Argumento incorporadas na unidade agregada.,0,
+resumo_audiencias_mencoes.csv,taxa_argumentativa,number,"Argumentos divididos por menções incorporadas; proporção entre 0 e 1, não porcentagem de todas as falas utilizada.",0,
+resumo_audiencias_mencoes.csv,n_arquivos,integer,Quantidade de arquivos documentais com menções na unidade.,0,"[""1"", ""2"", ""4"", ""5"", ""3""]"
+resumo_audiencias_mencoes.csv,n_processos,integer,Quantidade de processos com menções na unidade.,0,"[""1"", ""2"", ""4"", ""5"", ""3""]"
+resumo_audiencias_mencoes.csv,n_rotulos_ministro,integer,Quantidade de rótulos de autoria distintos; pode incluir autoria indeterminada.,0,
+resumo_audiencias_mencoes.csv,n_ap,integer,Quantidade de audiências na unidade agregada.,0,"[""1""]"
+resumo_audiencias_mencoes.csv,n_relatorio,integer,Número de menções no Relatório.,0,
+resumo_audiencias_mencoes.csv,n_voto_relator,integer,Número de menções no Voto do Relator.,0,
+resumo_audiencias_mencoes.csv,n_voto,integer,Número de menções nos demais votos.,0,
+resumo_audiencias_mencoes.csv,n_autoria_nao_plena,integer,Número de menções sem autoria operacionalmente plena.,0,"[""0"", ""8"", ""2"", ""4"", ""3""]"
+resumo_audiencias_mencoes.csv,n_atribuicao_por_metadados,integer,Número de ocorrências com autoria atribuída por metadados.,0,
+resumo_audiencias_mencoes.csv,ids_ocorrencias,string,Lista JSON de identificadores de menções reunidas na unidade agregada.,0,
+vinculos_mencao_participante.csv,ocorrencia_id,string,Chave estrangeira para o ID da ocorrência de menção.,0,
+vinculos_mencao_participante.csv,audiencia,integer,Número identificador da audiência pública no cadastro da pesquisa; não é número de processo.,0,
+vinculos_mencao_participante.csv,ordem_no_campo,integer,Posição do nome no campo multivalorado da menção; não é ordem de fala.,0,"[""0"", ""1"", ""2"", ""3"", ""4"", ""5"", ""6"", ""7""]"
+vinculos_mencao_participante.csv,campo_origem,string,Campo da menção que forneceu o nome usado no vínculo.,0,"[""pessoa""]"
+vinculos_mencao_participante.csv,nome_ou_entidade_original,string,Texto original do nome ou entidade usado para vinculação.,0,
+vinculos_mencao_participante.csv,nome_ou_entidade_normalizado,string,Chave normalizada do nome ou entidade na vinculação.,0,
+vinculos_mencao_participante.csv,nivel_vinculo,string,A = nome de pessoa resolvido; B = instituição apenas em sensibilidade.,0,"[""A""]"
+vinculos_mencao_participante.csv,status,string,Estado de resolução do vínculo; não se confunde com categoria Outros.,0,"[""resolvido""]"
+vinculos_mencao_participante.csv,ator_id,string,Identificador da participação pessoa × audiência (APxx_Pxxx); não representa pessoa única no conjunto de audiências.,0,
+vinculos_mencao_participante.csv,categoria_final,string,Categoria institucional final da participação; o XLSX final é a autoridade.,0,"[""Acadêmicos"", ""Atores públicos"", ""Atores privados"", ""Sociedade civil"", ""Outros""]"
+vinculos_mencao_participante.csv,categoria_json,string,Categoria de origem no sidecar do vínculo.,0,"[""Acadêmicos"", ""Atores públicos"", ""Atores privados"", ""Sociedade civil"", ""Outros""]"
+vinculos_mencao_participante.csv,flag_divergencia_json_xlsx,boolean,Sinaliza divergência de categoria entre sidecar e planilha.,0,"[""False""]"
+vinculos_mencao_participante.csv,caminho_match,string,Regra ou caminho documental que resolveu a correspondência.,0,"[""exato""]"
+vinculos_mencao_participante.csv,rotulo_exibicao,string,Rótulo usado nas tabelas ou gráficos; não altera o valor original da categoria.,0,"[""Acadêmicos"", ""Atores públicos"", ""Atores privados"", ""Sociedade civil"", ""Outros""]"

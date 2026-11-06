@@ -1,0 +1,121 @@
+﻿ministro,categoria,n_mencoes_com_categoria,n_argumento,taxa_argumento,n_audiencias,n_atribuicao_metadado,autoria_plena
+Alexandre,Atores públicos,0,0,,0,0,0
+Alexandre,Atores privados,0,0,,0,0,0
+Alexandre,Sociedade civil,4,4,1.0,1,0,0
+Alexandre,Acadêmicos,0,0,,0,0,0
+Alexandre,Partido Político,0,0,,0,0,0
+Alexandre,Outros,0,0,,0,0,0
+Alexandre de Moraes,Atores públicos,4,1,0.25,3,0,1
+Alexandre de Moraes,Atores privados,2,0,0.0,1,0,1
+Alexandre de Moraes,Sociedade civil,6,0,0.0,2,0,1
+Alexandre de Moraes,Acadêmicos,2,0,0.0,2,0,1
+Alexandre de Moraes,Partido Político,0,0,,0,0,1
+Alexandre de Moraes,Outros,0,0,,0,0,1
+André Mendonça,Atores públicos,0,0,,0,0,1
+André Mendonça,Atores privados,0,0,,0,0,1
+André Mendonça,Sociedade civil,10,4,0.4,3,0,1
+André Mendonça,Acadêmicos,0,0,,0,0,1
+André Mendonça,Partido Político,0,0,,0,0,1
+André Mendonça,Outros,0,0,,0,0,1
+Ayres Britto,Atores públicos,2,1,0.5,1,0,1
+Ayres Britto,Atores privados,0,0,,0,0,1
+Ayres Britto,Sociedade civil,0,0,,0,0,1
+Ayres Britto,Acadêmicos,9,7,0.7777777777777778,2,0,1
+Ayres Britto,Partido Político,0,0,,0,0,1
+Ayres Britto,Outros,0,0,,0,0,1
+Celso de Mello,Atores públicos,1,1,1.0,1,0,1
+Celso de Mello,Atores privados,0,0,,0,0,1
+Celso de Mello,Sociedade civil,0,0,,0,0,1
+Celso de Mello,Acadêmicos,13,13,1.0,3,0,1
+Celso de Mello,Partido Político,0,0,,0,0,1
+Celso de Mello,Outros,0,0,,0,0,1
+Cezar Peluso,Atores públicos,2,0,0.0,1,0,1
+Cezar Peluso,Atores privados,0,0,,0,0,1
+Cezar Peluso,Sociedade civil,16,8,0.5,1,0,1
+Cezar Peluso,Acadêmicos,13,8,0.6153846153846154,2,0,1
+Cezar Peluso,Partido Político,0,0,,0,0,1
+Cezar Peluso,Outros,0,0,,0,0,1
+Cristiano Zanin,Atores públicos,17,15,0.8823529411764706,1,0,1
+Cristiano Zanin,Atores privados,0,0,,0,0,1
+Cristiano Zanin,Sociedade civil,1,0,0.0,1,0,1
+Cristiano Zanin,Acadêmicos,0,0,,0,0,1
+Cristiano Zanin,Partido Político,0,0,,0,0,1
+Cristiano Zanin,Outros,0,0,,0,0,1
+Cármen Lúcia,Atores públicos,14,6,0.42857142857142855,5,0,1
+Cármen Lúcia,Atores privados,3,0,0.0,2,0,1
+Cármen Lúcia,Sociedade civil,9,2,0.2222222222222222,3,0,1
+Cármen Lúcia,Acadêmicos,4,2,0.5,3,0,1
+Cármen Lúcia,Partido Político,0,0,,0,0,1
+Cármen Lúcia,Outros,3,0,0.0,1,0,1
+Dias Toffoli,Atores públicos,11,0,0.0,5,3,1
+Dias Toffoli,Atores privados,3,1,0.3333333333333333,3,2,1
+Dias Toffoli,Sociedade civil,32,8,0.25,5,12,1
+Dias Toffoli,Acadêmicos,4,0,0.0,2,2,1
+Dias Toffoli,Partido Político,0,0,,0,0,1
+Dias Toffoli,Outros,0,0,,0,0,1
+Edson Fachin,Atores públicos,33,5,0.15151515151515152,5,6,1
+Edson Fachin,Atores privados,0,0,,0,0,1
+Edson Fachin,Sociedade civil,8,1,0.125,2,1,1
+Edson Fachin,Acadêmicos,8,8,1.0,1,0,1
+Edson Fachin,Partido Político,0,0,,0,0,1
+Edson Fachin,Outros,0,0,,0,0,1
+Flávio Dino,Atores públicos,1,0,0.0,1,0,1
+Flávio Dino,Atores privados,0,0,,0,0,1
+Flávio Dino,Sociedade civil,2,0,0.0,1,0,1
+Flávio Dino,Acadêmicos,0,0,,0,0,1
+Flávio Dino,Partido Político,0,0,,0,0,1
+Flávio Dino,Outros,0,0,,0,0,1
+Gilmar Mendes,Atores públicos,47,31,0.6595744680851063,8,6,1
+Gilmar Mendes,Atores privados,0,0,,0,0,1
+Gilmar Mendes,Sociedade civil,14,5,0.35714285714285715,5,3,1
+Gilmar Mendes,Acadêmicos,2,1,0.5,2,0,1
+Gilmar Mendes,Partido Político,0,0,,0,0,1
+Gilmar Mendes,Outros,1,1,1.0,1,0,1
+Joaquim Barbosa,Atores públicos,0,0,,0,0,1
+Joaquim Barbosa,Atores privados,0,0,,0,0,1
+Joaquim Barbosa,Sociedade civil,1,0,0.0,1,0,1
+Joaquim Barbosa,Acadêmicos,0,0,,0,0,1
+Joaquim Barbosa,Partido Político,0,0,,0,0,1
+Joaquim Barbosa,Outros,0,0,,0,0,1
+Luiz Fux,Atores públicos,76,25,0.32894736842105265,6,37,1
+Luiz Fux,Atores privados,6,3,0.5,2,3,1
+Luiz Fux,Sociedade civil,57,2,0.03508771929824561,4,32,1
+Luiz Fux,Acadêmicos,16,6,0.375,4,10,1
+Luiz Fux,Partido Político,0,0,,0,0,1
+Luiz Fux,Outros,0,0,,0,0,1
+Luís Roberto Barroso,Atores públicos,5,1,0.2,2,0,1
+Luís Roberto Barroso,Atores privados,0,0,,0,0,1
+Luís Roberto Barroso,Sociedade civil,7,0,0.0,3,0,1
+Luís Roberto Barroso,Acadêmicos,0,0,,0,0,1
+Luís Roberto Barroso,Partido Político,0,0,,0,0,1
+Luís Roberto Barroso,Outros,0,0,,0,0,1
+Marco Aurélio,Atores públicos,36,13,0.3611111111111111,3,17,1
+Marco Aurélio,Atores privados,7,0,0.0,1,7,1
+Marco Aurélio,Sociedade civil,69,20,0.2898550724637681,3,31,1
+Marco Aurélio,Acadêmicos,24,10,0.4166666666666667,3,8,1
+Marco Aurélio,Partido Político,0,0,,0,0,1
+Marco Aurélio,Outros,6,0,0.0,2,4,1
+Menezes Direito,Atores públicos,0,0,,0,0,1
+Menezes Direito,Atores privados,0,0,,0,0,1
+Menezes Direito,Sociedade civil,0,0,,0,0,1
+Menezes Direito,Acadêmicos,8,4,0.5,1,0,1
+Menezes Direito,Partido Político,0,0,,0,0,1
+Menezes Direito,Outros,0,0,,0,0,1
+Nunes Marques,Atores públicos,2,1,0.5,1,0,1
+Nunes Marques,Atores privados,0,0,,0,0,1
+Nunes Marques,Sociedade civil,0,0,,0,0,1
+Nunes Marques,Acadêmicos,0,0,,0,0,1
+Nunes Marques,Partido Político,0,0,,0,0,1
+Nunes Marques,Outros,0,0,,0,0,1
+Ricardo Lewandowski,Atores públicos,3,0,0.0,1,3,1
+Ricardo Lewandowski,Atores privados,0,0,,0,0,1
+Ricardo Lewandowski,Sociedade civil,8,1,0.125,3,6,1
+Ricardo Lewandowski,Acadêmicos,7,0,0.0,1,7,1
+Ricardo Lewandowski,Partido Político,0,0,,0,0,1
+Ricardo Lewandowski,Outros,0,0,,0,0,1
+Rosa Weber,Atores públicos,9,1,0.1111111111111111,3,1,1
+Rosa Weber,Atores privados,0,0,,0,0,1
+Rosa Weber,Sociedade civil,6,1,0.16666666666666666,3,0,1
+Rosa Weber,Acadêmicos,4,0,0.0,2,1,1
+Rosa Weber,Partido Político,0,0,,0,0,1
+Rosa Weber,Outros,0,0,,0,0,1

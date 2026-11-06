@@ -1,0 +1,19 @@
+{
+  "n": 3010,
+  "respostas_invalidas": 3,
+  "corpus": {
+    "Incorporar": 1047,
+    "Excluir": 1879,
+    "Indeterminado": 81
+  },
+  "tipo_incorporados": {
+    "Contexto": 435,
+    "Argumento": 371,
+    "Relato": 213,
+    "Indeterminado": 28
+  },
+  "tokens_entrada": 14611678,
+  "tokens_saida": 72119,
+  "custo_estimado_usd": 29.944546,
+  "nota": "Distribuição de previsões, NÃO acurácia. Decisões humanas anteriores preservadas separadamente."
+}

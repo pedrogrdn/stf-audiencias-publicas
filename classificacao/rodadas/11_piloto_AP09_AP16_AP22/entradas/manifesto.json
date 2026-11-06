@@ -1,0 +1,43 @@
+{
+  "n": 84,
+  "audiencias": {
+    "9": 29,
+    "16": 25,
+    "22": 30
+  },
+  "sha256": {
+    "entradas.json": "ea54a71b0bee41059feccba1b57d6639fa772425bd7d7083fc9a443349446b12",
+    "metadados_originais.json": "309505f372d483076533fd3af48df8ff6594a34f2b9efb60da0d94491ba9981e",
+    "instrucoes.txt": "44437f55f69c0c52ee561af71d2db58fb62152d4a0a9b13cfa0b29d1c7bb9ca5"
+  },
+  "fontes_sha256": {
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/resultados/analise_integral/ocorrencias_classificadas.csv": "cfc75dce3a9a0a114ac0ba1b45a56f356fc14f2a04a97ad772a4e17af39aecf0",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/reavaliacao_total_conciliada_v6_1/instrucoes.txt": "44437f55f69c0c52ee561af71d2db58fb62152d4a0a9b13cfa0b29d1c7bb9ca5"
+  },
+  "predicoes_anteriores_sha256": {
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_ajuste_corpus_v2/predicoes.json": "b6ca835fdfef11d94d8452066a008e9f6e6e5511ea02ef5d639c11b62d499a60",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_engajamento_v1/predicoes.json": "f8a785c8d89d31dadaf8d0308beeee0534ce9559d12fc31650b0d37400f3cffb",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_multiaudiencias_v1/predicoes.json": "4be63be3116196af92ca09f6576279800efc82ef2065fc2d41dea6c9c4307e86",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_novo_lote_v3/predicoes.json": "5036c7b34353a0674339ba98021e34ceed7e7fd45bdd9c32bf061a5b2a113a9f",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_novo_lote_v4/predicoes.json": "0b651cda0ea4597b11f3086ba45e876f083b382810168c7d561bf1e94b44c970",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_novo_lote_v5/predicoes.json": "e89311fd20ecea71ff411e88e4d823500ff4de642cf3726dd9cacdde3677328f",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_piloto_ap02_ap13_v1/predicoes.json": "9efcb8751e5ffe5953ff2fe69adbbe827aa908d43d50689acab74dd1b94ccf99",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_reavaliacao_total_conciliada_v6_1/predicoes.json": "40a6471c6ca3310e56250eaffe2c77846d9869fb527a31ad570d48b7851bad52",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_reservado_v1/predicoes.json": "da82beacbf48e66b3ea30a46c5a927c7af1078aecb34e6546144f2bed6fc8433",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_tipo_v1/predicoes.json": "1cb5b7da9f8f2e1e7e12772315d9d548476518952597d5d515f3d195e6b7bb5f"
+  },
+  "status_automaticos_originais": {
+    "Parte do corpus - automático": 41,
+    "pendente": 31,
+    "Excluído do corpus - automático": 12
+  },
+  "finalidade": "Piloto integral dos candidatos recuperados nas APs 9, 16 e 22. Revisão humana de todas as respostas, inclusive exclusões. Não há gabarito humano desta rodada.",
+  "limites": [
+    "84 ocorrências candidatas da extração de 31/08/2026, não censo garantido de todas as menções existentes nos PDFs.",
+    "Instruções v6.1 congeladas e idênticas às da reavaliação dos 300.",
+    "Pré-classificações automáticas são apenas metadados locais: não são gabarito nem são enviadas à API.",
+    "Recortes originais preservados, sem leitura autônoma de PDFs pela API. Vínculos de transcrição não foram reconferidos.",
+    "IDs não encontrados nas predições anteriores consultadas. Isso não assegura independência semântica de todos os trechos.",
+    "Audiências escolhidas intencionalmente por diversidade e viabilidade; não constituem amostra probabilística."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "modelo": "claude-sonnet-5",
+  "estimativa_usd": 0.290616,
+  "thinking": "disabled",
+  "max_tokens": 200,
+  "manifesto": {
+    "n": 30,
+    "finalidade": "Diagnóstico com gabarito histórico: 19 Argumentos, 4 Relatos, 7 exclusões, nenhum Contexto. Casos ainda não avaliados pelo Claude por ID ou menção normalizada, oriundos do treino local. Não é validação independente. Composição diferente dos lotes anteriores; porcentagens globais não diretamente comparáveis.",
+    "sha256": {
+      "entradas.json": "5e01f0af499bc90839caf60020ef92e1ea125b131463318c233edcbac1082102",
+      "gabarito_original.json": "5b2921cc2f1aba82701deb803cee361fb6d596fd3318d59607faa9ffd7303f99",
+      "instrucoes.txt": "3324797433d4807720db54ce6e629759b1fe9087b94715c0cd28469173d9bd0f",
+      "gabarito_v4_revisado.json": "fdfb8ca795ee995ceae141e44ba58f0d9412c46e25f966caa7e6d9d22850d823",
+      "revisao_v4.json": "001f749c0ab0d1ed9df7c6ab952f135c8206d6cb9ab9bbd823a708308677c0c6"
+    },
+    "fonte_sha256": "4d7611d51b571249bccd9d156f44770ce9caa2d273e524a6a6d52ec40ee7332d",
+    "predicoes_anteriores_sha256": {
+      "claude_ajuste_corpus_v2/predicoes.json": "b6ca835fdfef11d94d8452066a008e9f6e6e5511ea02ef5d639c11b62d499a60",
+      "claude_engajamento_v1/predicoes.json": "f8a785c8d89d31dadaf8d0308beeee0534ce9559d12fc31650b0d37400f3cffb",
+      "claude_multiaudiencias_v1/predicoes.json": "4be63be3116196af92ca09f6576279800efc82ef2065fc2d41dea6c9c4307e86",
+      "claude_novo_lote_v3/predicoes.json": "5036c7b34353a0674339ba98021e34ceed7e7fd45bdd9c32bf061a5b2a113a9f",
+      "claude_novo_lote_v4/predicoes.json": "0b651cda0ea4597b11f3086ba45e876f083b382810168c7d561bf1e94b44c970",
+      "claude_reservado_v1/predicoes.json": "da82beacbf48e66b3ea30a46c5a927c7af1078aecb34e6546144f2bed6fc8433",
+      "claude_tipo_v1/predicoes.json": "1cb5b7da9f8f2e1e7e12772315d9d548476518952597d5d515f3d195e6b7bb5f"
+    },
+    "audiencias": {
+      "1": 5,
+      "3": 13,
+      "4": 1,
+      "5": 3,
+      "8": 1,
+      "12": 1,
+      "14": 4,
+      "15": 1,
+      "18": 1
+    },
+    "selecao": "Todos os 23 incorporados inéditos restantes no treino local e 7 exclusões; rodízio por audiência dentro da categoria.",
+    "limites": [
+      "Sem exemplos de Contexto. Não mede desempenho nessa categoria.",
+      "Gabarito histórico pode divergir das regras atuais.",
+      "Recortes originais preservados: chamados de notas podem estar ausentes. Nenhum contexto novo foi extraído de PDFs.",
+      "Não houve controle de equivalência semântica nem separação por audiência inédita."
+    ]
+  }
+}

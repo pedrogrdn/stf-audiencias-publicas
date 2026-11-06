@@ -1,0 +1,9 @@
+﻿classe_processual,n_mencoes,n_contexto,n_relato,n_argumento,taxa_argumentativa,n_arquivos,n_processos,n_rotulos_ministro,n_ap,n_relatorio,n_voto_relator,n_voto,n_autoria_nao_plena,n_atribuicao_por_metadados
+ADC,8,2,1,5,0.625,1,1,3,1,2,4,2,0,2
+ADI,701,312,118,271,0.38659058487874465,24,24,20,14,117,256,328,13,161
+ADO,48,17,10,21,0.4375,1,1,8,1,3,33,12,0,18
+ADPF,274,64,106,104,0.3795620437956204,5,5,13,5,64,136,74,0,64
+HC,3,1,0,2,0.6666666666666666,1,1,2,1,0,2,1,0,0
+RE,179,98,36,45,0.25139664804469275,9,9,14,8,30,73,76,0,46
+SS,59,12,5,42,0.711864406779661,4,4,3,1,26,0,33,3,0
+STA,16,3,2,11,0.6875,1,1,2,1,0,0,16,1,0

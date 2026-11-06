@@ -60,3 +60,5 @@ O quadro institucional de 49 audiências, suas fontes oficiais, o controle docum
 ## Primeira publicação no GitHub
 
 O conteúdo desta pasta deve ser a raiz de um repositório público novo, separado do projeto privado. Não inclui ZIP de distribuição nem histórico Git do projeto privado. Consulte [COMO_SUBIR_NO_GITHUB.md](COMO_SUBIR_NO_GITHUB.md) para os comandos e a ligação posterior ao Zenodo.
+
+Repositório público: https://github.com/pedrogrdn/stf-audiencias-publicas . A publicação no GitHub permanece separada do depósito posterior no Zenodo; não há DOI ou release atribuídos nesta preparação.

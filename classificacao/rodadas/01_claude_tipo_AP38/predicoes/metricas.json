@@ -1,0 +1,31 @@
+{
+  "n": 11,
+  "acertos": 5,
+  "invalidas": 4,
+  "por_categoria": {
+    "Contexto": {
+      "suporte": 5,
+      "acertos": 4,
+      "precisao": 0.8,
+      "recall": 0.8,
+      "f1": 0.8
+    },
+    "Relato": {
+      "suporte": 2,
+      "acertos": 1,
+      "precisao": 0.5,
+      "recall": 0.5,
+      "f1": 0.5
+    },
+    "Argumento": {
+      "suporte": 4,
+      "acertos": 0,
+      "precisao": null,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "tokens_entrada": 19663,
+  "tokens_saida": 180,
+  "custo_estimado_usd": 0.041126
+}

@@ -1,0 +1,10 @@
+﻿analise,n_AP,media,mediana,n_pos,n_neg,n_zero,p_bruto,metodo_p,ic95_lo,ic95_hi,ic_metodo,p_ajust,nota,p_wilcoxon,elegivel,n_participantes,mencoes_nominais
+A_alcance,28,1.867477760334903,0.0,11.0,5.0,12.0,0.5872,"Monte Carlo (9999 inversões, +1); simetria das diferenças sob H0",-4.942176870748299,7.972462061747768,bootstrap percentil de AP inteiras (B=9999),0.5872,,,,,
+B_intensidade,28,0.1534536891679749,0.0,11.0,5.0,12.0,0.1879,"Monte Carlo (9999 inversões, +1); simetria das diferenças sob H0",-0.030520015698587127,0.4044238945578231,bootstrap percentil de AP inteiras (B=9999),0.3758,,,,,
+S1_alcance_ge3,15,0.6288156288156289,0.0,7.0,4.0,4.0,0.892578125,exato (32768 inversões); simetria das diferenças sob H0,-7.849908424908422,8.3831807081807,bootstrap percentil de AP inteiras (B=9999),,AP com ≥3 por grupo,,,,
+S1_intens_ge3,15,0.05311355311355311,0.0,7.0,4.0,4.0,0.55859375,exato (32768 inversões); simetria das diferenças sob H0,-0.10474358974358974,0.2177420634920634,bootstrap percentil de AP inteiras (B=9999),,AP com ≥3 por grupo,,,,
+S4_alcance_unipessoa,28,1.867477760334903,0.0,11.0,5.0,12.0,0.5892,"Monte Carlo (9999 inversões, +1); simetria das diferenças sob H0",-4.990777080062794,8.09953885400314,bootstrap percentil de AP inteiras (B=9999),,só menções unipessoa (todo participante com Argumento tem ≥1 Argumento unipessoa: estimativa idêntica),,,,
+S5_intens_AB,28,-0.3775682650682651,0.0,10.0,11.0,7.0,0.2708,"Monte Carlo (9999 inversões, +1); simetria das diferenças sob H0",-1.0538428089767375,0.13109481292516983,bootstrap percentil de AP inteiras (B=9999),,"A+B em macrogrupo, sem atribuição individual; inclui referências a instituições",,,,
+S6_intens_docs,28,0.02358058608058608,0.0,10.0,6.0,12.0,0.6406,"Monte Carlo (9999 inversões, +1); simetria das diferenças sob H0",-0.07262117346938775,0.1203960622710622,bootstrap percentil de AP inteiras (B=9999),,documentos distintos,,,,
+B_wilcoxon,28,0.0,,,,,0.21437196767777944,,,,,,"S7: coluna ""diferença"" = MEDIANA; p = Wilcoxon signed-rank (zeros descartados)",0.21437196767777944,,,
+S8_AP44,0,,,,,,,,,,,,,,False,2.0,0.0

@@ -1,0 +1,195 @@
+{
+  "contagens_e_verificacoes": {
+    "planilha_ids_unicos": true,
+    "n_linhas_planilha": 3455,
+    "n_colunas_planilha": 20,
+    "n_incorporadas_recalculado": 1288,
+    "corpus_igual_planilha": true,
+    "mencoes_ids_unicos": true,
+    "tipos_recalculados": {
+      "Contexto": 509,
+      "Argumento": 501,
+      "Relato": 278
+    },
+    "argumento_confere": true,
+    "n_atores_xlsx_recalculado": 405,
+    "atores_ids_unicos": true,
+    "xlsx_chave_unica": true,
+    "xlsx_categorias_validas": true,
+    "categoria_final_igual_xlsx": true,
+    "categorias_xlsx_recalculado": {
+      "Atores públicos": 138,
+      "Sociedade civil": 120,
+      "Acadêmicos": 83,
+      "Atores privados": 38,
+      "Outros": 19,
+      "Partido Político": 7
+    },
+    "contagens_categoria_confere": true,
+    "json_classificacao_igual_xlsx": 405,
+    "historico_json_revisada_pendente": 7,
+    "historico_json_revisada_pendente_categoria_final": {
+      "Partido Político": 7
+    },
+    "partido_politico_preservado": true,
+    "ponte_todos_resolvidos": 380,
+    "ponte_sem_duplicatas": true,
+    "ponte_mesma_audiencia": true,
+    "ponte_categoria_igual_cadastro": true,
+    "pares_mencao_pessoa_A": 380,
+    "mencoes_diretas_A": 307,
+    "atores_diretos_A": 141,
+    "confere_pares_mencao_pessoa_A": 380,
+    "confere_mencoes_diretas_A": 307,
+    "confere_atores_diretos_A": 141,
+    "estados_A_particao": true,
+    "AB_uma_linha_por_mencao": true,
+    "AB_flags_consistentes": true,
+    "AB_classificado_iff_categoria": true,
+    "AB_contem_A": true,
+    "generica_exige_alvo_audiencia": true,
+    "outros_nao_e_NA": true,
+    "entidades_chave_unica": true,
+    "contraditoria_irresolvida": true,
+    "AB_entidades_contraditorias": 0,
+    "A_estados": {
+      "generica_nao_aplicavel": 670,
+      "identificado_sem_classificacao": 311,
+      "classificado": 307
+    },
+    "AB_estados": {
+      "generica_nao_aplicavel": 670,
+      "classificado": 616,
+      "identificado_sem_classificacao": 2
+    },
+    "categorias_flags_A": {
+      "Atores públicos": 77,
+      "Atores privados": 10,
+      "Sociedade civil": 141,
+      "Acadêmicos": 102,
+      "Partido Político": 0,
+      "Outros": 10
+    },
+    "categorias_flags_AB": {
+      "Atores públicos": 263,
+      "Atores privados": 21,
+      "Sociedade civil": 250,
+      "Acadêmicos": 114,
+      "Partido Político": 0,
+      "Outros": 10
+    },
+    "intervalo_ap33_preservado_dado_original": -1
+  },
+  "integracao": {
+    "n_linhas_planilha": 3455,
+    "n_colunas_planilha": 20,
+    "ids_unicos_planilha": true,
+    "n_incorporadas": 1288,
+    "tipos_incorporadas": {
+      "Contexto": 509,
+      "Argumento": 501,
+      "Relato": 278
+    },
+    "sidecars_sem_correspondencia": 0,
+    "xlsx_igual_proveniencia_tipo_corpus": true,
+    "origem_incorporadas": {
+      "Claude sem revisão humana": 1019,
+      "Humana consolidada": 269
+    },
+    "pessoa_xlsx_igual_extracao": true,
+    "instituicao_xlsx_igual_extracao": true,
+    "atores_xlsx": 405,
+    "atores_chave_unica_xlsx": true,
+    "atores_chave_unica_json": true,
+    "atores_linhas_igualdade_xlsx_json": 405,
+    "ator_ids_unicos": true,
+    "ator_ids_padrao_APxx_Pxxx": true,
+    "atores_prefixo_E": 0,
+    "atores_entidade_igual": true,
+    "atores_indicador_igual": true,
+    "atores_categorias_xlsx": {
+      "Atores públicos": 138,
+      "Sociedade civil": 120,
+      "Acadêmicos": 83,
+      "Atores privados": 38,
+      "Outros": 19,
+      "Partido Político": 7
+    },
+    "atores_categoria_vazia": 0,
+    "atores_categoria_fora_do_esquema": [],
+    "atores_divergencia_json_xlsx": 0,
+    "atores_historico_json_revisada_pendente": 7,
+    "atores_historico_pendente_por_categoria_final": {
+      "Partido Político": 7
+    },
+    "divergencia_json_xlsx_por_categoria_final": {},
+    "tokens_pessoa_total": 380,
+    "tokens_pessoa_status": {
+      "resolvido": 380
+    },
+    "pares_A_antes_dedup": 380,
+    "pares_mencao_pessoa_A": 380,
+    "mencoes_diretas_A": 307,
+    "atores_diretos_A": 141,
+    "caminho_match": {
+      "exato": 380
+    },
+    "indicador_discordancias_com_derivado_A": 0,
+    "indicador_sim_xlsx": 141,
+    "B_mencoes_com_instituicao": 523,
+    "B_mencoes_com_correspondencia": 512,
+    "B_mencoes_categoria_unica": 484,
+    "B_mencoes_ambiguas": 28,
+    "B_uso": "somente_sensibilidade_A+B (decisão do pesquisador em config/decisao_vinculo_institucional.json)",
+    "estados": {
+      "generica_nao_aplicavel": 670,
+      "identificado_sem_classificacao": 311,
+      "classificado": 307
+    },
+    "soma_estados_igual_incorporadas": true,
+    "mencoes_classificadas": 307,
+    "mencoes_mistas": 0,
+    "mencoes_multirrotulo": 24,
+    "categorias_mencoes_flags": {
+      "Atores públicos": 77,
+      "Atores privados": 10,
+      "Sociedade civil": 141,
+      "Acadêmicos": 102,
+      "Partido Político": 0,
+      "Outros": 10
+    },
+    "genericas_tipo_alvo": {
+      "audiencia_publica": 670
+    },
+    "sem_nome_nao_generico_tipo_alvo": {},
+    "confere_referencia_plano": {
+      "pares_mencao_pessoa": true,
+      "mencoes_diretas": true,
+      "atores_diretos": true,
+      "incorporadas": true,
+      "atores": true,
+      "tipos": true,
+      "origem_claude": true,
+      "origem_humana": true
+    },
+    "AB_estados": {
+      "generica_nao_aplicavel": 670,
+      "classificado": 616,
+      "identificado_sem_classificacao": 2
+    },
+    "AB_mencoes_classificadas": 616,
+    "AB_mencoes_classificadas_somente_via_B": 309,
+    "AB_mencoes_mistas": 11,
+    "AB_mencoes_multirrotulo": 31,
+    "AB_entidades_total": 326,
+    "AB_entidades_contraditorias": 0,
+    "AB_categorias_mencoes_flags": {
+      "Atores públicos": 263,
+      "Atores privados": 21,
+      "Sociedade civil": 250,
+      "Acadêmicos": 114,
+      "Partido Político": 0,
+      "Outros": 10
+    }
+  }
+}

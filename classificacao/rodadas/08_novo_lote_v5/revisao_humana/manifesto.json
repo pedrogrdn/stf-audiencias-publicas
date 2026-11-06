@@ -1,0 +1,17 @@
+{
+  "fontes_sha256": {
+    "revisao_9_casos_lote_v5.xlsx": "e400103b3178ef19f4e07fc0b92e1296956afcca3d2d6da3fbeb6adc4c0b2162",
+    "corpus_novo_lote_v5/gabarito_original.json": "5b2921cc2f1aba82701deb803cee361fb6d596fd3318d59607faa9ffd7303f99",
+    "claude_novo_lote_v5/predicoes.json": "e89311fd20ecea71ff411e88e4d823500ff4de642cf3726dd9cacdde3677328f",
+    "corpus_novo_lote_v5/instrucoes.txt": "3324797433d4807720db54ce6e629759b1fe9087b94715c0cd28469173d9bd0f"
+  },
+  "arquivos_sha256": {
+    "instrucoes_v6.txt": "313ad6679fc8d44d0cd0297b95a3c15ea1c5c7471170df439d63a2ceadc513d3",
+    "pendencias_metodologicas.json": "7ed0186517c42eea253517ad839d045dd00ab1d78514002e0ef1be432a4122a9",
+    "divergencias_remanescentes.json": "5c451434bcd60654ad3aa1bd6672273a5c887b820fb6930a913ac742a4fa7264",
+    "gabarito_revisado.json": "dd709345bb4e721a8ff32e2eea765b31b88a783054cee832e530b5b94773cac2",
+    "decisoes.json": "ca5f5de3dcfcad543403338a17b7b7ec1b5df3bd267e7de6e4e12bee05a4a19b",
+    "metricas_pos_revisao.json": "e735580464939ab9df0914fd568bb0a8007d970be0e063d73c08b42f92fb019a"
+  },
+  "estado": "Instruções v6 preparadas, não executadas e sem alteração das instruções históricas ou da planilha."
+}

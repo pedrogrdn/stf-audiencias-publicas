@@ -1,0 +1,19 @@
+{
+  "fontes_sha256": {
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_piloto_ap02_ap13.xlsx": "b764f38f537ab3339c3884136f43f9466ccbac17e66b1c381b62dc6c6f23c5c6",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_piloto_ap02_ap13_v1/predicoes.json": "9efcb8751e5ffe5953ff2fe69adbbe827aa908d43d50689acab74dd1b94ccf99"
+  },
+  "data": "2026-10-14",
+  "confirmacoes_chat": {
+    "AP13-AP_13_ADI_4815-00003": 25,
+    "AP13-AP_13_ADI_4815-00039": 61
+  },
+  "observacao": "A planilha original foi preservada. As decisões finais, incluindo as confirmações do chat, estão em decisoes.json e gabarito_revisado.json.",
+  "arquivos_sha256": {
+    "divergencias_remanescentes.json": "202f1ccc0fee2e156e32f01d7e810ff997dc63cc88b1511d5844735e6d7bfddf",
+    "gabarito_revisado.json": "85ea8c6d6fcedf0b0d312929de785ca1c00fa6eebf309d90ff2be278c40a6010",
+    "decisoes.json": "04c2fa6bc160ff49e76b8345c9a7bd9450fff70a76c557f9332b12f27121f7bf",
+    "pendencias.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "metricas_pos_revisao.json": "ea7ac7a8725e9e7b9e9596b03dc4a23c918daaf9596473ac87da684978d9f36a"
+  }
+}

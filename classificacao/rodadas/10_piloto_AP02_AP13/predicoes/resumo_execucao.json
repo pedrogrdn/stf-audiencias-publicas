@@ -1,0 +1,34 @@
+{
+  "n": 61,
+  "respostas_invalidas": 0,
+  "por_audiencia": {
+    "2": {
+      "n": 22,
+      "corpus": {
+        "Excluir": 8,
+        "Incorporar": 14
+      },
+      "tipo_incorporados": {
+        "Contexto": 6,
+        "Argumento": 3,
+        "Relato": 5
+      }
+    },
+    "13": {
+      "n": 39,
+      "corpus": {
+        "Incorporar": 32,
+        "Excluir": 7
+      },
+      "tipo_incorporados": {
+        "Contexto": 14,
+        "Relato": 16,
+        "Argumento": 2
+      }
+    }
+  },
+  "tokens_entrada": 300003,
+  "tokens_saida": 1606,
+  "custo_estimado_usd": 0.6160659999999999,
+  "nota": "Distribuição das predições, NÃO acurácia. Aguarda revisão humana integral; nenhuma pré-classificação automática foi usada como gabarito."
+}

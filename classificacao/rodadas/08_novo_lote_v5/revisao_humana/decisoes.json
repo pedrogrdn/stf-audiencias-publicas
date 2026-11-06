@@ -1,0 +1,137 @@
+[
+  {
+    "caso": 1,
+    "id": "AP01-AP_01_ADI_3510-00017",
+    "decisao": "Manter",
+    "original": {
+      "id": "AP01-AP_01_ADI_3510-00017",
+      "audiencia": "1",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "comentario": null,
+    "celulas": "Revisão!D6:G6"
+  },
+  {
+    "caso": 2,
+    "id": "AP01-AP_01_ADI_3510-00020",
+    "decisao": "Manter",
+    "original": {
+      "id": "AP01-AP_01_ADI_3510-00020",
+      "audiencia": "1",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "comentario": null,
+    "celulas": "Revisão!D7:G7"
+  },
+  {
+    "caso": 3,
+    "id": "AP01-AP_01_ADI_3510-00034",
+    "decisao": "Alterar",
+    "original": {
+      "id": "AP01-AP_01_ADI_3510-00034",
+      "audiencia": "1",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "comentario": null,
+    "celulas": "Revisão!D8:G8"
+  },
+  {
+    "caso": 4,
+    "id": "AP03-AP_03_ADPF_054-00076",
+    "decisao": "Manter",
+    "original": {
+      "id": "AP03-AP_03_ADPF_054-00076",
+      "audiencia": "3",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "comentario": null,
+    "celulas": "Revisão!D9:G9"
+  },
+  {
+    "caso": 5,
+    "id": "AP03-AP_03_ADPF_054-00122",
+    "decisao": "Alterar",
+    "original": {
+      "id": "AP03-AP_03_ADPF_054-00122",
+      "audiencia": "3",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "comentario": null,
+    "celulas": "Revisão!D10:G10"
+  },
+  {
+    "caso": 6,
+    "id": "AP03-AP_03_ADPF_054-00227",
+    "decisao": "Manter",
+    "original": {
+      "id": "AP03-AP_03_ADPF_054-00227",
+      "audiencia": "3",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "comentario": "A menção se deu como nota de rodapé, mas faz parte da argumentação",
+    "celulas": "Revisão!D11:G11"
+  },
+  {
+    "caso": 7,
+    "id": "AP05-AP_05_ADPF_186-00036",
+    "decisao": "Alterar",
+    "original": {
+      "id": "AP05-AP_05_ADPF_186-00036",
+      "audiencia": "5",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Excluir",
+    "tipo": null,
+    "comentario": null,
+    "celulas": "Revisão!D12:G12"
+  },
+  {
+    "caso": 8,
+    "id": "AP05-AP_05_ADPF_186-00038",
+    "decisao": "Manter",
+    "original": {
+      "id": "AP05-AP_05_ADPF_186-00038",
+      "audiencia": "5",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "comentario": null,
+    "celulas": "Revisão!D13:G13"
+  },
+  {
+    "caso": 9,
+    "id": "AP14-AP_14_ADI_5035-00039",
+    "decisao": "Alterar",
+    "original": {
+      "id": "AP14-AP_14_ADI_5035-00039",
+      "audiencia": "14",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "comentario": null,
+    "celulas": "Revisão!D14:G14"
+  }
+]

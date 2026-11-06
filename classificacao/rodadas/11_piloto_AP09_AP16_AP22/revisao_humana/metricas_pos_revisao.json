@@ -1,0 +1,134 @@
+{
+  "n": 84,
+  "corpus_acertos": 76,
+  "classificacao_completa_acertos": 75,
+  "distribuicao_humana": {
+    "Contexto": 27,
+    "Excluir": 22,
+    "Argumento": 27,
+    "Relato": 8
+  },
+  "matriz_corpus": {
+    "Incorporar -> Incorporar": 60,
+    "Excluir -> Excluir": 16,
+    "Incorporar -> Excluir": 2,
+    "Excluir -> Incorporar": 6
+  },
+  "por_tipo": {
+    "Contexto": {
+      "suporte_humano": 27,
+      "acertos": 26,
+      "recall": 0.9629629629629629
+    },
+    "Relato": {
+      "suporte_humano": 8,
+      "acertos": 7,
+      "recall": 0.875
+    },
+    "Argumento": {
+      "suporte_humano": 27,
+      "acertos": 26,
+      "recall": 0.9629629629629629
+    }
+  },
+  "por_audiencia": {
+    "9": {
+      "n": 29,
+      "corpus_acertos": 29,
+      "classificacao_completa_acertos": 29,
+      "distribuicao_humana": {
+        "Contexto": 10,
+        "Excluir": 5,
+        "Argumento": 14
+      },
+      "matriz_corpus": {
+        "Incorporar -> Incorporar": 24,
+        "Excluir -> Excluir": 5
+      },
+      "por_tipo": {
+        "Contexto": {
+          "suporte_humano": 10,
+          "acertos": 10,
+          "recall": 1.0
+        },
+        "Relato": {
+          "suporte_humano": 0,
+          "acertos": 0,
+          "recall": null
+        },
+        "Argumento": {
+          "suporte_humano": 14,
+          "acertos": 14,
+          "recall": 1.0
+        }
+      }
+    },
+    "16": {
+      "n": 25,
+      "corpus_acertos": 23,
+      "classificacao_completa_acertos": 22,
+      "distribuicao_humana": {
+        "Contexto": 9,
+        "Argumento": 9,
+        "Excluir": 3,
+        "Relato": 4
+      },
+      "matriz_corpus": {
+        "Incorporar -> Incorporar": 20,
+        "Excluir -> Excluir": 3,
+        "Incorporar -> Excluir": 2
+      },
+      "por_tipo": {
+        "Contexto": {
+          "suporte_humano": 9,
+          "acertos": 8,
+          "recall": 0.8888888888888888
+        },
+        "Relato": {
+          "suporte_humano": 4,
+          "acertos": 3,
+          "recall": 0.75
+        },
+        "Argumento": {
+          "suporte_humano": 9,
+          "acertos": 8,
+          "recall": 0.8888888888888888
+        }
+      }
+    },
+    "22": {
+      "n": 30,
+      "corpus_acertos": 24,
+      "classificacao_completa_acertos": 24,
+      "distribuicao_humana": {
+        "Excluir": 14,
+        "Contexto": 8,
+        "Relato": 4,
+        "Argumento": 4
+      },
+      "matriz_corpus": {
+        "Excluir -> Incorporar": 6,
+        "Incorporar -> Incorporar": 16,
+        "Excluir -> Excluir": 8
+      },
+      "por_tipo": {
+        "Contexto": {
+          "suporte_humano": 8,
+          "acertos": 8,
+          "recall": 1.0
+        },
+        "Relato": {
+          "suporte_humano": 4,
+          "acertos": 4,
+          "recall": 1.0
+        },
+        "Argumento": {
+          "suporte_humano": 4,
+          "acertos": 4,
+          "recall": 1.0
+        }
+      }
+    }
+  },
+  "nota": "Concordância das predições congeladas com revisão humana integral e duas confirmações no chat. Revisão não cega, com respostas do Claude visíveis. Três audiências selecionadas intencionalmente. Não mede recuperação de menções ausentes da extração nem generalização para todas as audiências. Nenhuma nova API chamada."
+}

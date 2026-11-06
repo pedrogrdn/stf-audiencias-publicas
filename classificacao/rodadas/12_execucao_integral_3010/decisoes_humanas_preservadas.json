@@ -1,0 +1,3562 @@
+[
+  {
+    "id": "AP01-AP_01_ADI_3510-00002",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00005",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00004",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00006",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00008",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00007",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00009",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00011",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00016",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00017",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00020",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00023",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00033",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00034",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00046",
+    "audiencia": "1",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00012",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00011",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00013",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00015",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00026",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00030",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00031",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00034",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00042",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00043",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00046",
+    "audiencia": "3",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00047",
+    "audiencia": "3",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00052",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00057",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00064",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00067",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00071",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00072",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00076",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00077",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00081",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00086",
+    "audiencia": "3",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00115",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00122",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00136",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00132",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00175",
+    "audiencia": "3",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00194",
+    "audiencia": "3",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00227",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00231",
+    "audiencia": "3",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3345-00001",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3355-00001",
+    "audiencia": "4",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_2361-00001",
+    "audiencia": "4",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_2944-00003",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_STA_278-00003",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3345-00003",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3355-00003",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3355-00004",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3355-00007",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3355-00008",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_STA_278-00008",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_2944-00005",
+    "audiencia": "4",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_2361-00016",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_2944-00012",
+    "audiencia": "4",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3345-00015",
+    "audiencia": "4",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3345-00013",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_STA_278-00015",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3355-00015",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3355-00017",
+    "audiencia": "4",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3355-00018",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3355-00021",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_STA_278-00021",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_2944-00022",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_3355-00028",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP04-AP_04_SS_2361-00024",
+    "audiencia": "4",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00003",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4679-00005",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4679-00004",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00006",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00008",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00012",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00013",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4679-00014",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00013",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00018",
+    "audiencia": "8",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4679-00020",
+    "audiencia": "8",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00020",
+    "audiencia": "8",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00024",
+    "audiencia": "8",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00032",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00032",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4679-00036",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00039",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4679-00043",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00046",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00049",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00050",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00052",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4679-00055",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00054",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00057",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00058",
+    "audiencia": "8",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00058",
+    "audiencia": "8",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00064",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00067",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00068",
+    "audiencia": "8",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5037-00004",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5037-00006",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00005",
+    "audiencia": "14",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00006",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5037-00008",
+    "audiencia": "14",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5037-00009",
+    "audiencia": "14",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5037-00011",
+    "audiencia": "14",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00013",
+    "audiencia": "14",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00014",
+    "audiencia": "14",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00021",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5037-00022",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00024",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00029",
+    "audiencia": "14",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5037-00029",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00037",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00036",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00039",
+    "audiencia": "14",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00042",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00045",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00048",
+    "audiencia": "14",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_RE_597285-00002",
+    "audiencia": "5",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00012",
+    "audiencia": "5",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00015",
+    "audiencia": "5",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00021",
+    "audiencia": "5",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00022",
+    "audiencia": "5",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_RE_597285-00003",
+    "audiencia": "5",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00024",
+    "audiencia": "5",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00027",
+    "audiencia": "5",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00026",
+    "audiencia": "5",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00028",
+    "audiencia": "5",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00031",
+    "audiencia": "5",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00033",
+    "audiencia": "5",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00036",
+    "audiencia": "5",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00037",
+    "audiencia": "5",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00038",
+    "audiencia": "5",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00005",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00006",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00007",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00014",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00013",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00015",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00016",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00017",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00022",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00031",
+    "audiencia": "12",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00040",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00045",
+    "audiencia": "12",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00046",
+    "audiencia": "12",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00053",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00058",
+    "audiencia": "12",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5065-00001",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00004",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5065-00002",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00005",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5065-00013",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00010",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00023",
+    "audiencia": "15",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5065-00023",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00026",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5065-00025",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5065-00035",
+    "audiencia": "15",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00037",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00038",
+    "audiencia": "15",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00045",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5065-00046",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5065-00047",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00049",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00050",
+    "audiencia": "15",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00051",
+    "audiencia": "15",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5065-00049",
+    "audiencia": "15",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00003",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00005",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00006",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00007",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00011",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00010",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00013",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00015",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00019",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00022",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00023",
+    "audiencia": "18",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00027",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00028",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00033",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00037",
+    "audiencia": "18",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00015",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00017",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00019",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00029",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00041",
+    "audiencia": "32",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00043",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00050",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00052",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00059",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00087",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00105",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00125",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00133",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00137",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00144",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00150",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00225",
+    "audiencia": "32",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00256",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00268",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00299",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00309",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00322",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00366",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00373",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00378",
+    "audiencia": "32",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1057258-00002",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00038",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00054",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00058",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00064",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00065",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00073",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00082",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1057258-00011",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1057258-00013",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1057258-00014",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00083",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00087",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00090",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00100",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1057258-00020",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00112",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00122",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00123",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00124",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1057258-00024",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1057258-00032",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00152",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00159",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00169",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00171",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00179",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00180",
+    "audiencia": "38",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00194",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00212",
+    "audiencia": "38",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4903-00003",
+    "audiencia": "19",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4937-00003",
+    "audiencia": "19",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4901-00003",
+    "audiencia": "19",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4902-00003",
+    "audiencia": "19",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4903-00010",
+    "audiencia": "19",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4901-00010",
+    "audiencia": "19",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4937-00010",
+    "audiencia": "19",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4902-00010",
+    "audiencia": "19",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4902-00018",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4937-00018",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4901-00018",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4903-00018",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4902-00020",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4937-00020",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4903-00020",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4901-00020",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4903-00022",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4901-00025",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4901-00028",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4903-00028",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4937-00028",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4937-00031",
+    "audiencia": "19",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4902-00035",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4902-00036",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4901-00036",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4937-00037",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4901-00037",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4903-00037",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4903-00036",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP19-AP_19_ADI_4937-00036",
+    "audiencia": "19",
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6299-00014",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6300-00013",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6300-00014",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6300-00019",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6299-00021",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6299-00024",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6305-00023",
+    "audiencia": "35",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6299-00027",
+    "audiencia": "35",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6300-00029",
+    "audiencia": "35",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6300-00030",
+    "audiencia": "35",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6298-00031",
+    "audiencia": "35",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6299-00033",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6299-00034",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6305-00035",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6305-00049",
+    "audiencia": "35",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6300-00059",
+    "audiencia": "35",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6299-00066",
+    "audiencia": "35",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6298-00079",
+    "audiencia": "35",
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6305-00077",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6300-00093",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6305-00096",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6298-00155",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6299-00175",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6305-00150",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6298-00226",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6305-00196",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6298-00293",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6305-00235",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6305-00239",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP35-AP_35_ADI_6300-00271",
+    "audiencia": "35",
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00001",
+    "audiencia": 2,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00002",
+    "audiencia": 2,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00003",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00004",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00005",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00006",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00007",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00008",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00009",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00010",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00011",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00012",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00013",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00014",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00015",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00016",
+    "audiencia": 2,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00017",
+    "audiencia": 2,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00018",
+    "audiencia": 2,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00019",
+    "audiencia": 2,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00020",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00021",
+    "audiencia": 2,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP02-AP_02_ADPF_101-00022",
+    "audiencia": 2,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00001",
+    "audiencia": 13,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00002",
+    "audiencia": 13,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00003",
+    "audiencia": 13,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00004",
+    "audiencia": 13,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00005",
+    "audiencia": 13,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00006",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00007",
+    "audiencia": 13,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00008",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00009",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00010",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00011",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00012",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00013",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00014",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00015",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00016",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00017",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00018",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00019",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00020",
+    "audiencia": 13,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00021",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00022",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00023",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00024",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00025",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00026",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00027",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00028",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00029",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00030",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00031",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00032",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00033",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00034",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00035",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00036",
+    "audiencia": 13,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00037",
+    "audiencia": 13,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00038",
+    "audiencia": 13,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP13-AP_13_ADI_4815-00039",
+    "audiencia": 13,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00001",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00002",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00003",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00004",
+    "audiencia": 9,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00005",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00006",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00007",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00008",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00009",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00010",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00011",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00012",
+    "audiencia": 9,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00013",
+    "audiencia": 9,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00014",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00015",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00016",
+    "audiencia": 9,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00017",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00018",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00019",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00020",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00021",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00022",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00023",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00024",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00025",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00026",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00027",
+    "audiencia": 9,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00028",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP09-AP_09_RE_627189-00029",
+    "audiencia": 9,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00001",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00002",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00003",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00004",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00005",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00006",
+    "audiencia": 16,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00007",
+    "audiencia": 16,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00008",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00009",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00010",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00011",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00012",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00013",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00014",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00015",
+    "audiencia": 16,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00016",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00017",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00018",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00019",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00020",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00021",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00022",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00023",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00024",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP16-AP_16_RE_581488-00025",
+    "audiencia": 16,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00001",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00002",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00003",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00004",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00005",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00006",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00007",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00008",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00009",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00010",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00011",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00012",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00013",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00014",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00015",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00016",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00017",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00018",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00019",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00020",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00021",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00022",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00023",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00024",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00025",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00026",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00027",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Relato",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00028",
+    "audiencia": 22,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00029",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  },
+  {
+    "id": "AP22-AP_22_RE_1010606-00030",
+    "audiencia": 22,
+    "corpus": "Excluir",
+    "tipo": null,
+    "origem": "revisao_humana",
+    "fonte": "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json"
+  }
+]

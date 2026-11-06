@@ -1,0 +1,406 @@
+﻿ator_id,audiencia,nome,nome_norm,entidade,categoria_original,indicador_mencao_xlsx_metadado,macrogrupo,n_mencoes_nominais,n_argumento_nominais,n_relato_nominais,n_contexto_nominais,n_argumento_unipessoa,any_mencao,any_arg,any_arg_unipessoa,nome_repete_em_outra_AP
+AP01_P001,1,ALICE TEIXEIRA FERREIRA,alice teixeira ferreira,Universidade Federal de São Paulo,Acadêmicos,Sim,demais,1,1,0,0,1,1,1,1,False
+AP01_P002,1,ANTONIO CARLOS CAMPOS DE CARVALHO,antonio carlos campos de carvalho,Universidade Federal do Rio de Janeiro / Instituto Nacional de Cardiologia,Acadêmicos,Sim,demais,2,2,0,0,2,1,1,1,False
+AP01_P003,1,ANTÔNIO JOSÉ EÇA,antonio jose eca,,Acadêmicos,Sim,demais,1,0,1,0,0,1,0,0,False
+AP01_P004,1,CLÁUDIA MARIA DE CASTRO BATISTA,claudia maria de castro batista,UFRJ,Acadêmicos,Sim,demais,1,0,1,0,0,1,0,0,False
+AP01_P005,1,DALTON LUIZ DE PAULA RAMOS,dalton luiz de paula ramos,Universidade de São Paulo,Acadêmicos,Sim,demais,1,1,0,0,1,1,1,1,False
+AP01_P006,1,DÉBORA DINIZ,debora diniz,Universidade de Brasília / ONG Anis,Acadêmicos,Sim,demais,2,2,0,0,2,1,1,1,True
+AP01_P007,1,ELIZABETH KIPMAN CERQUEIRA,elizabeth kipman cerqueira,,Acadêmicos,Sim,demais,1,0,1,0,0,1,0,0,True
+AP01_P008,1,HERBERT PRAXEDES,herbert praxedes,Universidade Federal Fluminense,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP01_P009,1,JÚLIO CÉSAR VOLTARELLI,julio cesar voltarelli,Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto - USP,Acadêmicos,Sim,demais,1,1,0,0,1,1,1,1,False
+AP01_P010,1,LENISE APARECIDA MARTINS GARCIA,lenise aparecida martins garcia,,Acadêmicos,Sim,demais,2,0,2,0,0,1,0,0,True
+AP01_P011,1,LILIAN PIÑERO EÇA,lilian pinero eca,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP01_P012,1,LÚCIA BRAGA,lucia braga,Rede Sarah de Hospitais,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP01_P013,1,LUIZ EUGÊNIO ARAÚJO DE MORAES MELLO,luiz eugenio araujo de moraes mello,,Acadêmicos,Sim,demais,1,1,0,0,1,1,1,1,False
+AP01_P014,1,LYGIA PEREIRA,lygia pereira,USP - Departamento de Genética e Biologia Evolutiva,Acadêmicos,Sim,demais,3,1,2,0,1,1,1,1,False
+AP01_P015,1,MARCELO VACCARI,marcelo vaccari,Universidade Federal de São Paulo / USC de Bauru,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP01_P016,1,MAYANA ZATZ,mayana zatz,Universidade de São Paulo - Centro de Estudos do Genoma Humano,Acadêmicos,Sim,demais,7,6,1,0,6,1,1,1,False
+AP01_P017,1,PATRÍCIA HELENA LUCAS PRANKE,patricia helena lucas pranke,Universidade Federal do Rio Grande do Sul,Acadêmicos,Sim,demais,1,1,0,0,1,1,1,1,False
+AP01_P018,1,RICARDO RIBEIRO DOS SANTOS,ricardo ribeiro dos santos,USP / FIOCRUZ-BA,Acadêmicos,Sim,demais,2,1,1,0,1,1,1,1,False
+AP01_P019,1,RODOLFO ACATAUASSÚ NUNES,rodolfo acatauassu nunes,,Acadêmicos,Sim,demais,1,1,0,0,1,1,1,1,True
+AP01_P020,1,ROGÉRIO PAZETTI,rogerio pazetti,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP01_P021,1,ROSALIA MENDES OTERO,rosalia mendes otero,Universidade Federal do Rio de Janeiro,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP01_P022,1,STEVENS REHEN,stevens rehen,Universidade Federal do Rio de Janeiro,Acadêmicos,Sim,demais,1,1,0,0,1,1,1,1,False
+AP02_P023,2,EVANDRO DE SAMPAIO DIDONET,evandro de sampaio didonet,MINISTÉRIO DAS RELAÇÕES EXTERIORES,Atores públicos,Sim,publico,1,0,1,0,0,1,0,0,False
+AP02_P024,2,HAROLDO SÉRGIO DA SILVA BEZERRA,haroldo sergio da silva bezerra,MINISTÉRIO DA SAÚDE,Atores públicos,Sim,publico,1,0,1,0,0,1,0,0,False
+AP02_P025,2,EMANUEL ROBERTO DE NORA SERRA,emanuel roberto de nora serra,Pneuback (advogado defensor em ação civil pública),Atores privados,Sim,demais,1,0,1,0,0,1,0,0,False
+AP02_P026,2,PAULO JANISSEK,paulo janissek,Universidade Positivo,Acadêmicos,Sim,demais,1,0,1,0,0,1,0,0,False
+AP03_P027,3,Amélia Thereza de Moura Vasconcellos,amelia thereza de moura vasconcellos,Associação Médico-Espírita do Brasil (AME),Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP03_P028,3,Carlos Macedo de Oliveira,carlos macedo de oliveira,Igreja Universal do Reino de Deus,Sociedade civil,Sim,demais,1,0,1,0,0,1,0,0,False
+AP03_P029,3,Cinthia Macedo Specian,cinthia macedo specian,Hospital São Francisco,Acadêmicos,Sim,demais,3,0,3,0,0,1,0,0,False
+AP03_P030,3,Claudia Werneck,claudia werneck,Escola de Gente,Sociedade civil,Sim,demais,6,3,3,0,2,1,1,1,False
+AP03_P031,3,Débora Diniz,debora diniz,"Instituto de Bioética, Direitos Humanos e Gênero (ANIS)",Acadêmicos,Sim,demais,8,7,1,0,6,1,1,1,True
+AP03_P032,3,Dernival da Silva Brandão,dernival da silva brandao,Academia Fluminense de Medicina,Sociedade civil,Sim,demais,2,1,1,0,1,1,1,1,False
+AP03_P033,3,Dóris Hipólito Pires,doris hipolito pires,Associação de Mulheres do Rio de Janeiro,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP03_P034,3,Eleonora Menecucci de Oliveira,eleonora menecucci de oliveira,Universidade Federal de São Paulo (UNIFESP),Acadêmicos,Sim,demais,2,1,1,0,1,1,1,1,False
+AP03_P035,3,Elizabeth Kipman Cerqueira,elizabeth kipman cerqueira,Hospital e Maternidade São Francisco de Assis,Acadêmicos,Sim,demais,4,2,2,0,2,1,1,1,True
+AP03_P036,3,Evandro Costa Gama,evandro costa gama,Advocacia-Geral da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP03_P037,3,Grace Maria Fernandes Mendonça,grace maria fernandes mendonca,Advocacia-Geral da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP03_P038,3,Heverton Neves Pettersen,heverton neves pettersen,Sociedade Brasileira de Medicina Fetal,Sociedade civil,Sim,demais,4,1,3,0,1,1,1,1,False
+AP03_P039,3,Ieda Therezinha do Nascimento Verreschi,ieda therezinha do nascimento verreschi,Associação de Desenvolvimento da Família (ADEF),Sociedade civil,Sim,demais,1,1,0,0,1,1,1,1,False
+AP03_P040,3,Irvênia Luíza de Santis Prada,irvenia luiza de santis prada,Associação Médico-Espírita do Brasil (AME),Sociedade civil,Sim,demais,1,0,0,1,0,1,0,0,False
+AP03_P041,3,Jacqueline Pitanguy,jacqueline pitanguy,Conselho Nacional dos Direitos da Mulher,Atores públicos,Sim,publico,2,1,1,0,1,1,1,1,False
+AP03_P042,3,Jorge Andalaft Neto,jorge andalaft neto,Federação Brasileira das Associações de Ginecologia e Obstetrícia,Sociedade civil,Sim,demais,4,2,2,0,2,1,1,1,False
+AP03_P043,3,José Antonio Toffoli,jose antonio toffoli,Advocacia-Geral da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP03_P044,3,José Gomes Temporão,jose gomes temporao,Ministério da Saúde,Atores públicos,Sim,publico,7,4,3,0,4,1,1,1,True
+AP03_P045,3,Lenise Aparecida Martins Garcia,lenise aparecida martins garcia,Movimento Nacional da Cidadania em Defesa da Vida – Brasil Sem Aborto,Sociedade civil,Sim,demais,6,3,3,0,2,1,1,1,True
+AP03_P046,3,Lia Zanotta Machado,lia zanotta machado,"Rede Nacional Feminista de Saúde, Direitos Sexuais e Direitos Reprodutivos",Sociedade civil,Sim,demais,5,1,3,1,1,1,1,1,False
+AP03_P047,3,Luiz Antônio Bento,luiz antonio bento,Conferência Nacional dos Bispos do Brasil (CNBB),Sociedade civil,Sim,demais,3,1,2,0,1,1,1,1,False
+AP03_P048,3,Maria José Fontelas Rosado Nunes,maria jose fontelas rosado nunes,Católicas pelo Direito de Decidir,Sociedade civil,Sim,demais,1,0,1,0,0,1,0,0,False
+AP03_P049,3,Mário José Gisi,mario jose gisi,Ministério Público Federal,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP03_P050,3,Marlene Rossi Severino Nobre,marlene rossi severino nobre,Associação Médico-Espírita do Brasil (AME),Sociedade civil,Sim,demais,2,0,1,1,0,1,0,0,False
+AP03_P051,3,Nilcéa Freire,nilcea freire,Secretaria Especial de Políticas para as Mulheres / Conselho Nacional dos Direitos da Mulher,Atores públicos,Sim,publico,2,1,1,0,1,1,1,1,False
+AP03_P052,3,Paulo Silveira Martins Leão Junior,paulo silveira martins leao junior,Conferência Nacional dos Bispos do Brasil (CNBB),Sociedade civil,Sim,demais,2,1,1,0,1,1,1,1,False
+AP03_P053,3,Roberto Luiz D’Ávila,roberto luiz d avila,Conselho Federal de Medicina,Atores públicos,Sim,publico,3,0,3,0,0,1,0,0,False
+AP03_P054,3,Rodolfo Acatauassú Nunes,rodolfo acatauassu nunes,Associação Nacional Pró-Vida e Pró-Família,Sociedade civil,Sim,demais,7,2,5,0,2,1,1,1,True
+AP03_P055,3,Salmo Raskin,salmo raskin,Sociedade Brasileira de Genética Médica,Sociedade civil,Sim,demais,5,3,2,0,1,1,1,1,False
+AP03_P056,3,Talvane Marins de Moraes,talvane marins de moraes,Associação Brasileira de Psiquiatria,Sociedade civil,Sim,demais,6,2,4,0,2,1,1,1,False
+AP03_P057,3,Thomaz Rafael Gollop,thomaz rafael gollop,Sociedade Brasileira para o Progresso da Ciência,Sociedade civil,Sim,demais,10,6,4,0,6,1,1,1,False
+AP03_P058,3,Ailton Maranhão de Almeida,ailton maranhao de almeida,,Outros,Sim,demais,1,0,1,0,0,1,0,0,False
+AP03_P059,3,Érica Souza do Nascimento,erica souza do nascimento,,Outros,Não,demais,0,0,0,0,0,0,0,0,False
+AP03_P060,3,José Aristodemo Pinotti,jose aristodemo pinotti,Universidade de São Paulo e Universidade Estadual de Campinas,Acadêmicos,Sim,demais,8,5,2,1,4,1,1,1,True
+AP03_P061,3,Luiz Bassuma,luiz bassuma,,Outros,Sim,demais,1,0,1,0,0,1,0,0,False
+AP03_P062,3,Michele Gomes de Almeida,michele gomes de almeida,,Outros,Sim,demais,1,0,1,0,0,1,0,0,False
+AP04_P063,4,Adib Domingos Jatene,adib domingos jatene,Hospital do Coração em São Paulo,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P064,4,Agnaldo Gomes da Costa,agnaldo gomes da costa,Secretaria de Estado da Saúde do Amazonas,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P065,4,Alberto Beltrame,alberto beltrame,Ministério da Saúde,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P066,4,Alexandre Sampaio Zakir,alexandre sampaio zakir,Secretaria de Segurança Pública do Estado de São Paulo,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P067,4,Ana Beatriz Pinto de Almeida Vasconcellos,ana beatriz pinto de almeida vasconcellos,Ministério da Saúde,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P068,4,André da Silva Ordacgy,andre da silva ordacgy,Defensoria Pública da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P069,4,Antonio Barbosa da Silva,antonio barbosa da silva,Instituto de Defesa dos Usuários de Medicamentos,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P070,4,Antônio Carlos Figueiredo Nardi,antonio carlos figueiredo nardi,Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS),Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P071,4,Antonio Fernando Barros e Silva de Souza,antonio fernando barros e silva de souza,Ministério Público Federal,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P072,4,Cátia Gisele Martins Vergara,catia gisele martins vergara,Associação Nacional do Ministério Público de Contas,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P073,4,Ciro Mortella,ciro mortella,Federação Brasileira da Indústria Farmacêutica,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P074,4,Cláudia Fernanda de Oliveira Pereira,claudia fernanda de oliveira pereira,Associação Nacional do Ministério Público de Contas,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P075,4,Claudio Maierovitch Pessanha Henrique,claudio maierovitch pessanha henrique,Ministério da Saúde,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P076,4,Cleusa da Silveira Bernardo,cleusa da silveira bernardo,Ministério da Saúde,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P077,4,Débora Diniz,debora diniz,Instituto de Bioética Direitos Humanos e Gênero (ANIS),Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,True
+AP04_P078,4,Dirceu Raposo de Mello,dirceu raposo de mello,Agência Nacional de Vigilância Sanitária (ANVISA),Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P079,4,Edelberto Luiz da Silva,edelberto luiz da silva,Ministério da Saúde,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P080,4,Flávio Pansiere,flavio pansiere,Conselho Federal da Ordem dos Advogados do Brasil,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P081,4,Francisco Batista Júnior,francisco batista junior,Conselho Nacional de Saúde (CNS),Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P082,4,Geraldo Guedes,geraldo guedes,Conselho Federal de Medicina,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P083,4,Heloisa Machado de Almeida,heloisa machado de almeida,Conectas Direitos Humanos,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P084,4,Ingo W. Sarlet,ingo w sarlet,Pontifícia Universidade Católica do Rio Grande do Sul (PUC/RS),Acadêmicos,Sim,demais,2,2,0,0,2,1,1,1,False
+AP04_P085,4,Jairo Bisol,jairo bisol,Associação Nacional do Ministério Público de Defesa da Saúde,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P086,4,Janaína Barbier Gonçalves,janaina barbier goncalves,Procuradoria-Geral do Estado do Rio Grande do Sul,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P087,4,Jorge André de Carvalho Mendonça,jorge andre de carvalho mendonca,Justiça Federal em Pernambuco,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P088,4,José Antônio Rosa,jose antonio rosa,Fórum Nacional dos Procuradores-Gerais das Capitais Brasileiras,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P089,4,José Aristodemo Pinotti,jose aristodemo pinotti,Universidade de São Paulo,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,True
+AP04_P090,4,José Getulio Martins Segalla,jose getulio martins segalla,Sociedade Brasileira de Oncologia Clínica,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P091,4,José Gomes Temporão,jose gomes temporao,Ministério da Saúde,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,True
+AP04_P092,4,Josué Félix de Araújo,josue felix de araujo,Associação Brasileira de Mucopolissacaridoses,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P093,4,Leonardo Bandarra,leonardo bandarra,Conselho Nacional dos Procuradores-Gerais de Justiça do Ministério Público dos Estados e da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P094,4,Leonardo Lorea Mattar,leonardo lorea mattar,Defensoria Pública da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P095,4,Luiz Alberto Simões Volpe,luiz alberto simoes volpe,Grupo Hipupiara Integração e Vida,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P096,4,Marcos Salles,marcos salles,Associação dos Magistrados Brasileiros (AMB),Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P097,4,Maria Helena Barros de Oliveira,maria helena barros de oliveira,Fundação Oswaldo Cruz (FIOCRUZ),Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P098,4,Maria Inês Pordeus Gadelha,maria ines pordeus gadelha,Ministério da Saúde,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P099,4,Osmar Gasparini Terra,osmar gasparini terra,Conselho Nacional de Secretários de Saúde (CONASS),Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P100,4,Paulo Dornelles Picon,paulo dornelles picon,Universidade Federal do Rio Grande do Sul,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P101,4,Paulo Marcelo Gehm Hoff,paulo marcelo gehm hoff,Secretaria de Saúde do Estado de São Paulo,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P102,4,Paulo Menezes,paulo menezes,Associação Brasileira de Amigos e Familiares de Portadores de Hipertensão Arterial Pulmonar,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P103,4,Paulo Ziulkoski,paulo ziulkoski,Confederação Nacional dos Municípios,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P104,4,Raul Cutait,raul cutait,Faculdade de Medicina da Universidade de São Paulo,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P105,4,Reinaldo Felipe Nery Guimarães,reinaldo felipe nery guimaraes,Ministério da Saúde,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P106,4,Rodrigo Tostes de Alencar Mascarenhas,rodrigo tostes de alencar mascarenhas,Procuradoria-Geral do Estado do Rio de Janeiro,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP04_P107,4,Sérgio Henrique Sampaio,sergio henrique sampaio,Associação Brasileira de Assistência à Mucoviscidose,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P108,4,Sueli Gandolfi Dallari,sueli gandolfi dallari,Centro de Estudos e Pesquisa de Direito Sanitário,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P109,4,Valderilio Feijó Azevedo,valderilio feijo azevedo,Associação Brasileira de Grupos de Pacientes Reumáticos,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP04_P110,4,Vitore Maximiano,vitore maximiano,Defensoria Pública do Estado de São Paulo,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP05_P111,5,AUGUSTO CANIZELLA CHAGAS,augusto canizella chagas,União Nacional dos Estudantes (UNE),Sociedade civil,Sim,demais,1,0,1,0,0,1,0,0,False
+AP05_P112,5,CARLOS EDUARDO DE SOUZA GONÇALVES,carlos eduardo de souza goncalves,Universidade do Estado do Amazonas,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP05_P113,5,JÂNIA MARIA LOPES SALDANHA,jania maria lopes saldanha,UNIVERSIDADE FEDERAL DE SANTA MARIA -UFSM,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP05_P114,5,JOSÉ ROBERTO FERREIRA MILITÃO,jose roberto ferreira militao,CONAD - Comissão Nacional de Assuntos Antidiscriminatórios,Sociedade civil,Sim,demais,1,0,1,0,0,1,0,0,False
+AP05_P115,5,MARCELO TRAGTENBERG,marcelo tragtenberg,UNIVERSIDADE FEDERAL DE SANTA CATARINA,Acadêmicos,Sim,demais,1,0,1,0,0,1,0,0,False
+AP05_P116,5,MARIA PAULA DALLARI BUCCI,maria paula dallari bucci,Ministério da Educação,Atores públicos,Sim,publico,1,0,1,0,0,1,0,0,False
+AP05_P117,5,CARLOS ALBERTO DA COSTA DIAS,carlos alberto da costa dias,2ª Vara Federal de Florianópolis,Atores públicos,Sim,publico,1,0,1,0,0,1,0,0,False
+AP05_P118,5,CARLOS FREDERICO DE SOUZA MARES,carlos frederico de souza mares,Fundação Nacional do Índio (FUNAI),Atores públicos,Sim,publico,1,0,1,0,0,1,0,0,False
+AP05_P119,5,FÁBIO KONDER COMPARATO,fabio konder comparato,Educafro,Sociedade civil,Sim,demais,1,0,1,0,0,1,0,0,False
+AP05_P120,5,FERNANDA DUARTE LOPES LUCAS DA SILVA,fernanda duarte lopes lucas da silva,Associação dos Juízes Federais do Brasil - AJUFE,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP05_P121,5,FERNANDO HENRIQUE CARDOSO,fernando henrique cardoso,,Outros,Sim,demais,1,1,0,0,1,1,1,1,False
+AP05_P122,5,FLÁVIA PIOVESAN,flavia piovesan,Fundação Cultural Palmares / Pontifícia Universidade Católica de São Paulo - PUC/SP e PUC/PR,Acadêmicos,Sim,demais,2,1,1,0,1,1,1,1,False
+AP05_P123,5,GEORGE DE CERQUEIRA LEITE ZARUR,george de cerqueira leite zarur,Faculdade Latino-Americana de Ciências Sociais,Acadêmicos,Sim,demais,1,0,1,0,0,1,0,0,False
+AP05_P124,5,JOSÉ CARLOS MIRANDA,jose carlos miranda,Movimento Negro Socialista,Sociedade civil,Sim,demais,1,0,1,0,0,1,0,0,False
+AP05_P125,5,LUIS INÁCIO LUCENA ADAMS,luis inacio lucena adams,Advocacia-Geral da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,True
+AP05_P126,5,MARCOS ANTÔNIO CARDOSO,marcos antonio cardoso,Coordenação Nacional de Entidades Negras - CONEN,Sociedade civil,Sim,demais,1,0,1,0,0,1,0,0,False
+AP05_P127,5,PAULO PAIM,paulo paim,Senado Federal,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP05_P128,5,ROBERTA FRAGOSO MENEZES KAUFMANN,roberta fragoso menezes kaufmann,,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP05_P129,5,SUELI CARNEIRO,sueli carneiro,Instituto da Mulher Negra de São Paulo - Geledés,Sociedade civil,Sim,demais,1,0,1,0,0,1,0,0,False
+AP06_P130,6,ANTÔNIO GERALDO DA SILVA,antonio geraldo da silva,ASSOCIAÇÃO BRASILEIRA DE PSIQUIATRIA,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP06_P131,6,NELSON DE FREITAS LEITE JÚNIOR,nelson de freitas leite junior,DEPARTAMENTO DE TRÂNSITO DO DISTRITO FEDERAL,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP06_P132,6,TAYSSA MARINS DE OLIVEIRA SATO,tayssa marins de oliveira sato,UNIVERSIDADE CÂNDIDO MENDES,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP06_P133,6,VILMA LEYTON,vilma leyton,MINISTÉRIO DA SAÚDE,Atores públicos,Sim,publico,1,0,1,0,0,1,0,0,False
+AP06_P134,6,HUGO LEAL,hugo leal,,Atores públicos,Sim,publico,4,0,0,4,0,1,0,0,False
+AP06_P135,6,LUÍS INÁCIO LUCENA ADAMS,luis inacio lucena adams,ADVOCACIA-GERAL DA UNIÃO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,True
+AP06_P136,6,MARCO ANDRADE,marco andrade,OPERAÇÃO LEI SECA DO RIO DE JANEIRO / GOVERNO DO ESTADO DO RIO DE JANEIRO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP06_P137,6,NELSON FARIA DE OLIVEIRA,nelson faria de oliveira,Comunidade de Juristas de Língua Portuguesa,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP06_P138,6,RENATO DEVITTO,renato devitto,Associação Nacional de Defensores Públicos - ANADEP,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP07_P139,7,EDUARDO AZEREDO COSTA,eduardo azeredo costa,FUNDACENTRO,Atores públicos,Sim,publico,1,0,1,0,0,1,0,0,False
+AP07_P140,7,HERMANO ALBUQUERQUE DE CASTRO,hermano albuquerque de castro,ASSOCIAÇÃO BRASILEIRA DOS EXPOSTOS AO AMIANTO,Sociedade civil,Sim,demais,2,0,2,0,0,1,0,0,False
+AP07_P141,7,ROSEMARY ISHII SANAE ZAMATARO,rosemary ishii sanae zamataro,CONFEDERAÇÃO NACIONAL DOS TRABALHADORES NA INDÚSTRIA,Atores privados,Sim,demais,1,0,0,1,0,1,0,0,False
+AP08_P142,8,MARCELO BECHARA DE SOUZA HOBAIKA,marcelo bechara de souza hobaika,ANATEL,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,True
+AP08_P143,8,MAURÍCIO FITTIPALDI,mauricio fittipaldi,SICAV-RJ,Atores privados,Sim,demais,3,3,0,0,3,1,1,1,False
+AP08_P144,8,OSCAR VICENTE SIMÕES DE OLIVEIRA,oscar vicente simoes de oliveira,ASSOCIAÇÃO BRASILEIRA DE TELEVISÃO POR ASSINATURA - ABTA,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP08_P145,8,PAULO ROBERTO SCHMIDT,paulo roberto schmidt,APRO - Associação Brasileira de Produção de Obras Audiovisuais,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP08_P146,8,MARCELO PROENÇA,marcelo proenca,TV Cidade S.A.,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP08_P147,8,PAULO ROBERTO BARRETO BORNHAUSEN,paulo roberto barreto bornhausen,Câmara dos Deputados,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP09_P148,9,DALTON DE OLIVEIRA CAMPONÊS DO BRASIL,dalton de oliveira campones do brasil,Operador Nacional do Sistema Elétrico - ONS,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP09_P149,9,JOSÉ CARLOS DE MIRANDA FARIA,jose carlos de miranda faria,Empresa de Pesquisa Energética,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP09_P150,9,JÚLIO CESAR ALVES DE AGUIAR,julio cesar alves de aguiar,Eletrobras,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP09_P151,9,PAOLO VECCHIA,paolo vecchia,,Atores privados,Sim,demais,1,0,0,1,0,1,0,0,False
+AP10_P152,10,ANTÔNIO CÂNDIDO DE AZEVEDO SODRÉ FILHO,antonio candido de azevedo sodre filho,ASSOMOGI - Associação dos Produtores de Cana do Vale do Mogi,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P153,10,ANTÔNIO LUCAS FILHO,antonio lucas filho,CONTAG,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P154,10,CARLOS EDUARDO CHAVES SILVA,carlos eduardo chaves silva,CONTAG,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P155,10,CARLOS EDUARDO DE SIQUEIRA CAVALCANTI,carlos eduardo de siqueira cavalcanti,BNDES,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP10_P156,10,CARLOS GUSTAVO JACOIA,carlos gustavo jacoia,ASCANA,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P157,10,CHRISTINA PACHECO,christina pacheco,ORPLANA,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P158,10,DJALMA EUZÉBIO SIMÕES NETO,djalma euzebio simoes neto,SINDAÇÚCAR,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P159,10,GÉRSON CARNEIRO LEÃO,gerson carneiro leao,SINDAÇÚCAR,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P160,10,HÉLIO GURGEL,helio gurgel,ABEMA,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P161,10,ISMAEL PERINA JUNIOR,ismael perina junior,ORPLANA,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P162,10,MÁRCIA AZANHA FERRAZ DIAS DE MORAES,marcia azanha ferraz dias de moraes,ESALQ/USP,Acadêmicos,Sim,demais,1,1,0,0,1,1,1,1,False
+AP10_P163,10,MIGUEL RUBENS TRANIN,miguel rubens tranin,ALCOPAR,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P164,10,NOEL MONTENEGRO LOUREIRO,noel montenegro loureiro,FEDERAÇÃO DA AGRICULTURA DE ALAGOAS - FAEAL,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P165,10,PAULO SÉRGIO LEAL,paulo sergio leal,FEPLANA,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P166,10,ROBERT MICHAEL BODDEY,robert michael boddey,EMBRAPA,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP10_P167,10,RODRIGO FERNANDO MAULE,rodrigo fernando maule,ASCANA,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP10_P168,10,SIMONE OLIVEIRA TEIXEIRA,simone oliveira teixeira,MINISTÉRIO PÚBLICO DO TRABALHO - MPT,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP10_P169,10,ZILMAR JOSÉ DE SOUZA,zilmar jose de souza,UNIÃO DA AGROINDÚSTRIA CANAVIEIRA DO ESTADO DE SÃO PAULO - UNICA,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP11_P170,11,ALINE LIMA DE PAULA MIRANDA,aline lima de paula miranda,DEFENSORIA PÚBLICA DA UNIÃO,Atores públicos,Sim,publico,1,0,0,1,0,1,0,0,False
+AP11_P171,11,ANDREZZA DUARTE CANÇADO,andrezza duarte cancado,CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO,Atores públicos,Sim,publico,1,0,0,1,0,1,0,0,False
+AP11_P172,11,ARTHUR CORRÊA DA SILVA NETO,arthur correa da silva neto,DEFENSORIA PÚBLICA DO ESTADO DO PARÁ,Atores públicos,Sim,publico,1,0,0,1,0,1,0,0,False
+AP11_P173,11,DANIELA SOLLBERGER CEMBRANELLI,daniela sollberger cembranelli,DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO,Atores públicos,Sim,publico,1,0,0,1,0,1,0,0,False
+AP11_P174,11,DEUSDETE SOUZA DE OLIVEIRA FILHO,deusdete souza de oliveira filho,AGÊNCIA PENITENCIÁRIA DO MATO GROSSO DO SUL,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP11_P175,11,FERNANDO SANTANA ROCHA,fernando santana rocha,CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO BRASIL,Sociedade civil,Sim,demais,1,0,0,1,0,1,0,0,False
+AP11_P176,11,JOSÉ DE RIBAMAR FRÓZ SOBRINHO,jose de ribamar froz sobrinho,TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO,Atores públicos,Sim,publico,1,0,0,1,0,1,0,0,False
+AP11_P177,11,MIGUEL TASSINARI DE OLIVEIRA,miguel tassinari de oliveira,MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO,Atores públicos,Sim,publico,1,0,0,1,0,1,0,0,False
+AP11_P178,11,NILTON LEONEL ARNECKE MARIA,nilton leonel arnecke maria,DEFENSORIA PÚBLICA-GERAL DO ESTADO DO RIO GRANDE DO SUL,Atores públicos,Sim,publico,1,0,0,1,0,1,0,0,False
+AP11_P179,11,JOSÉ ADAUMIR ARRUDA DA SILVA,jose adaumir arruda da silva,,Atores públicos,Sim,publico,1,0,0,1,0,1,0,0,False
+AP11_P180,11,MARCOS ROGÉRIO DA SILVA BRITO,marcos rogerio da silva brito,,Atores públicos,Sim,publico,1,0,0,1,0,1,0,0,False
+AP11_P181,11,MASSIMILIANO ANTÔNIO RUSSO,massimiliano antonio russo,PASTORAL CARCERÁRIA - CNBB,Sociedade civil,Sim,demais,1,0,0,1,0,1,0,0,False
+AP11_P182,11,RAQUEL ELIAS FERREIRA DODGE,raquel elias ferreira dodge,,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP12_P183,12,ADRIANA CUOCO PORTUGAL,adriana cuoco portugal,TRIBUNAL DE CONTAS DO DISTRITO FEDERAL,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP12_P184,12,ENEIDA DESIREE SALGADO,eneida desiree salgado,UNIVERSIDADE FEDERAL DO PARANÁ,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP12_P185,12,GERALDO TADEU MOREIRA MONTEIRO,geraldo tadeu moreira monteiro,INSTITUTO UNIVERSITÁRIO DE PESQUISA DO RIO DE JANEIRO - IUPRJ,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP12_P186,12,LEONARDO ULRICH STEINER,leonardo ulrich steiner,CONFERÊNCIA NACIONAL DOS BISPOS DO BRASIL,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP12_P187,12,LUIZ MÁRCIO VICTOR ALVES PEREIRA,luiz marcio victor alves pereira,ESCOLA NACIONAL DA MAGISTRATURA,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP12_P188,12,MARTÔNIO MONT'ALVERNE BARRETO LIMA,martonio mont alverne barreto lima,ASSOCIAÇÃO NACIONAL DOS PROCURADORES MUNICIPAIS,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP12_P189,12,MAURÍCIO SOARES BUGARINI,mauricio soares bugarini,UNIVERSIDADE DE BRASÍLIA,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP12_P190,12,PAULO HENRIQUE DOS SANTOS LUCON,paulo henrique dos santos lucon,INSTITUTO DOS ADVOGADOS DE SÃO PAULO -IASP,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP12_P191,12,RAIMUNDO CEZAR BRITTO ARAGÃO,raimundo cezar britto aragao,CONSELHO FEDERAL DA OAB,Sociedade civil,Sim,demais,3,0,0,3,0,1,0,0,False
+AP12_P192,12,EDUARDO MENDONÇA,eduardo mendonca,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP12_P193,12,HENRIQUE FONTANA JÚNIOR,henrique fontana junior,,Outros,Não,demais,0,0,0,0,0,0,0,0,False
+AP13_P194,13,CLÁUDIO LINS DE VASCONCELOS,claudio lins de vasconcelos,SINDICATO INTERESTADUAL DA INDÚSTRIA ÁUDIO VISUAL,Atores privados,Sim,demais,1,0,1,0,0,1,0,0,False
+AP13_P195,13,IVAR ALBERTO MARTINS HARTMANN,ivar alberto martins hartmann,INSTITUTO HISTÓRICO E GEOGRÁFICO BRASILEIRO,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP13_P196,13,JOSÉ MURILO DE CARVALHO,jose murilo de carvalho,UFRJ,Acadêmicos,Sim,demais,3,0,1,2,0,1,0,0,False
+AP13_P197,13,MARCUS VINÍCIUS FURTADO COELHO,marcus vinicius furtado coelho,ORDEM DOS ADVOGADOS DO BRASIL,Sociedade civil,Sim,demais,2,1,0,1,1,1,1,1,False
+AP13_P198,13,RENATO DE ANDRADE LESSA,renato de andrade lessa,MINISTÉRIO DA CULTURA,Atores públicos,Sim,publico,1,0,1,0,0,1,0,0,False
+AP13_P199,13,SÔNIA DA CRUZ MACHADO DE MORAES,sonia da cruz machado de moraes,SINDICATO NACIONAL DOS EDITORES DE LIVROS,Atores privados,Sim,demais,2,1,1,0,1,1,1,1,False
+AP13_P200,13,JOÃO RIBEIRO DE MORAES,joao ribeiro de moraes,,Outros,Sim,demais,1,0,1,0,0,1,0,0,False
+AP13_P201,13,MARCOS ROGÉRIO,marcos rogerio,,Outros,Sim,demais,1,0,1,0,0,1,0,0,False
+AP13_P202,13,NEWTON LIMA,newton lima,,Outros,Sim,demais,1,0,1,0,0,1,0,0,False
+AP13_P203,13,ODIM BRANDÃO FERREIRA,odim brandao ferreira,Ministério Público Federal,Atores públicos,Sim,publico,1,0,1,0,0,1,0,0,True
+AP14_P204,14,FLORENTINO DE ARAÚJO CARDOSO FILHO,florentino de araujo cardoso filho,Associação Médica Brasileira,Sociedade civil,Sim,demais,2,0,2,0,0,1,0,0,False
+AP14_P205,14,JADETE BARBOSA LAMPERT,jadete barbosa lampert,Associação Brasileira de Educação Médica,Sociedade civil,Sim,demais,2,0,2,0,0,1,0,0,False
+AP14_P206,14,LUÍS INÁCIO LUCENA ADAMS,luis inacio lucena adams,Advocacia-Geral da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,True
+AP14_P207,14,MARCELO ANDRÉ BARBOZA DA ROCHA CHAVES,marcelo andre barboza da rocha chaves,Tribunal de Contas da União,Atores públicos,Sim,publico,2,0,2,0,0,1,0,0,False
+AP14_P208,14,SEBASTIÃO VIEIRA CAIXETA,sebastiao vieira caixeta,Ministério Público do Trabalho,Atores públicos,Sim,publico,5,1,4,0,1,1,1,1,False
+AP14_P209,14,ODIM BRANDÃO FERREIRA,odim brandao ferreira,Ministério Público,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,True
+AP14_P210,14,RUY FERNANDO GOMES LEME CAVALHEIRO,ruy fernando gomes leme cavalheiro,Ministério Público do Trabalho - CONAP,Atores públicos,Sim,publico,2,0,2,0,0,1,0,0,False
+AP14_P211,14,WILLIAM JOSÉ BICALHO HASTENREITER PAULO,william jose bicalho hastenreiter paulo,,Outros,Sim,demais,4,0,4,0,0,1,0,0,False
+AP15_P212,15,CARLOS RAGAZZO,carlos ragazzo,CADE,Atores públicos,Sim,publico,2,2,0,0,2,1,1,1,False
+AP15_P213,15,HUMBERTO COSTA,humberto costa,Senado Federal,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP15_P214,15,ROBERTO CORRÊA DE MELLO,roberto correa de mello,ABRAMUS,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP15_P215,15,JOÃO LUIZ WOERDENBAG FILHO,joao luiz woerdenbag filho,,Outros,Não,demais,0,0,0,0,0,0,0,0,False
+AP15_P216,15,JOSÉ DE ARAÚJO NOVAES NETO,jose de araujo novaes neto,ABRAMUS; OAB,Sociedade civil,Sim,demais,2,0,2,0,0,1,0,0,False
+AP15_P217,15,WELLINGTON SARAIVA,wellington saraiva,Ministério Público Federal,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP16_P218,16,ALEXANDRE VENZON ZANETTI,alexandre venzon zanetti,Confederação Nacional de Saúde (CNS) / Federação Nacional dos Estabelecimentos de Serviços de Saúde (FNAES),Atores privados,Sim,demais,1,0,0,1,0,1,0,0,False
+AP16_P219,16,ANA LUIZA D'ÁVILA VIANA,ana luiza d avila viana,ABRASCO / Universidade de São Paulo,Acadêmicos,Sim,demais,2,0,1,1,0,1,0,0,False
+AP16_P220,16,ANDRÉ LONGO ARAÚJO DE MELO,andre longo araujo de melo,Agência Nacional de Saúde Suplementar (ANS),Atores públicos,Sim,publico,2,1,0,1,1,1,1,1,False
+AP16_P221,16,MARIA DO SOCORRO SOUZA,maria do socorro souza,Conselho Nacional de Saúde,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP16_P222,16,LUÍS INÁCIO LUCENA ADAMS,luis inacio lucena adams,Advocacia-Geral da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,True
+AP17_P223,17,LUIZ FELIPE DE SEIXAS CORRÊA,luiz felipe de seixas correa,,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP18_P224,18,JOÃO RICARDO DOS SANTOS COSTA,joao ricardo dos santos costa,Associação dos Magistrados Brasileiros,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP18_P225,18,JORGE ELIAS NEHME,jorge elias nehme,BANCO DO BRASIL,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP18_P226,18,JOSÉ AQUINO FLÔRES DE CAMARGO,jose aquino flores de camargo,TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP18_P227,18,JOSÉ SERRA,jose serra,SENADO FEDERAL,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP18_P228,18,LUIS CARLOS HACKMANN,luis carlos hackmann,GOVERNO DO RIO GRANDE DO SUL,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP18_P229,18,ONOFRE ALVES BATISTA JÚNIOR,onofre alves batista junior,ADVOCACIA-GERAL DO ESTADO DE MINAS GERAIS,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP18_P230,18,SAINT-CLAIR DINIZ MARTINS SOUTO,saint clair diniz martins souto,GOVERNO DO RIO DE JANEIRO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP18_P231,18,TARCIO DA SILVA PESSOA RODRIGUES,tarcio da silva pessoa rodrigues,GOVERNO DA PARAÍBA,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP18_P232,18,JOSÉ ROBERTO AFONSO,jose roberto afonso,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP18_P233,18,MARTUS ANTÔNIO RODRIGUES TAVARES,martus antonio rodrigues tavares,,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP18_P234,18,MAURO RICARDO,mauro ricardo,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP18_P235,18,Otávio Damaso,otavio damaso,Banco Central do Brasil,Atores públicos,Sim,publico,1,1,0,0,1,1,1,1,False
+AP18_P236,18,RAUL VELOSO,raul veloso,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP19_P237,19,ANTÔNIO DONATO NOBRE,antonio donato nobre,Instituto Nacional de Pesquisas da Amazônia,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP19_P238,19,JOSÉ ALDO REBELO FIGUEIREDO,jose aldo rebelo figueiredo,Ministério da Defesa,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP19_P239,19,SÂMIA SERRA NUNES,samia serra nunes,IMAZON,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP19_P240,19,SARNEY FILHO,sarney filho,Frente Parlamentar Ambientalista,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP19_P241,19,ALMERITA FRANCISCA DA SILVA,almerita francisca da silva,,Outros,Não,demais,0,0,0,0,0,0,0,0,False
+AP19_P242,19,ANNELISE VENDRAMINI,annelise vendramini,Centro de Estudos em Sustentabilidade da Escola de Administração da Fundação Getúlio Vargas,Acadêmicos,Sim,demais,4,4,0,0,4,1,1,1,False
+AP19_P243,19,EDÍS MILARÉ,edis milare,,Acadêmicos,Sim,demais,16,16,0,0,16,1,1,1,False
+AP19_P244,19,LUIZ HENRIQUE GOMES DE MOURA,luiz henrique gomes de moura,Movimento dos Trabalhadores Rurais Sem Terra,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP19_P245,19,UBIRATAN CAZETTA,ubiratan cazetta,Procurador da República / Ministério Público,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP22_P246,22,CARLOS AFFONSO PEREIRA DE SOUZA,carlos affonso pereira de souza,Instituto de Tecnologia e Sociedade do Rio de Janeiro - ITS Rio,Acadêmicos,Sim,demais,2,0,1,1,0,1,0,0,False
+AP22_P247,22,CÍNTIA ROSA PEREIRA DE LIMA,cintia rosa pereira de lima,Faculdade de Direito de Ribeirão Preto - Universidade de São Paulo,Acadêmicos,Sim,demais,2,0,1,1,0,1,0,0,False
+AP22_P248,22,GUSTAVO MASCARENHAS LACERDA PEDRINA,gustavo mascarenhas lacerda pedrina,Instituto Brasileiro de Ciências Criminais - IBCCRIM,Sociedade civil,Sim,demais,1,0,0,1,0,1,0,0,False
+AP22_P249,22,JOSÉ CARLOS COSTA NETTO,jose carlos costa netto,Tribunal de Justiça de São Paulo,Atores públicos,Sim,publico,2,0,1,1,0,1,0,0,False
+AP28_P250,28,AMÂNCIO JORGE SILVA NUNES DE OLIVEIRA,amancio jorge silva nunes de oliveira,Universidade do Estado de São Paulo,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P251,28,ANTÔNIO REGINALDO COSTA MOREIRA,antonio reginaldo costa moreira,Partido da Mobilização Nacional - PMN,Partido Político,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P252,28,ARLINDO FERNANDES DE OLIVEIRA,arlindo fernandes de oliveira,Senado Federal,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP28_P253,28,CARLOS MELO,carlos melo,INSPER,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P254,28,CARLOS RANULFO MELO,carlos ranulfo melo,UFMG,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P255,28,DANIEL FALCÃO PIMENTEL DOS REIS,daniel falcao pimentel dos reis,Instituto Brasiliense de Direito Público,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P256,28,FABRÍCIO JULIANO MENDES MEDEIROS,fabricio juliano mendes medeiros,Partido Democratas - DEM,Partido Político,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P257,28,FLÁVIO AURÉLIO NOGUEIRA JÚNIOR,flavio aurelio nogueira junior,PARTIDO SOLIDARIEDADE,Partido Político,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P258,28,FLÁVIO BRITO,flavio brito,PARTIDO REPUBLICANO,Partido Político,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P259,28,MARCEL VAN HATTEM,marcel van hattem,PARTIDO NOVO,Partido Político,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P260,28,BRASILINO PEREIRA DOS SANTOS,brasilino pereira dos santos,Ministério Público Federal,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP28_P261,28,GABRIEL SOUSA MARQUES DE AZEVEDO,gabriel sousa marques de azevedo,Movimento Livres e Renova BR,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P262,28,LUCIANO CAPARROZ PEREIRA DOS SANTOS,luciano caparroz pereira dos santos,Movimento de Combate à Corrupção Eleitoral - MCCE,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P263,28,MARIANA LOPES,mariana lopes,Movimento Acredito,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P264,28,MARINA SILVA,marina silva,Rede Sustentabilidade,Partido Político,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P265,28,PEDRO HENRIQUE DE CRISTO,pedro henrique de cristo,Brasil 21,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P266,28,PEDRO TELLES,pedro telles,Bancada Ativista,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP28_P267,28,RENAN FREITAS,renan freitas,Movimento Acredito,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP29_P268,29,NEIDE MARA CAVALCANTI CARDOSO,neide mara cavalcanti cardoso,Ministério Público Federal,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP29_P269,29,VINICIUS MARQUES DE CARVALHO,vinicius marques de carvalho,Universidade de São Paulo - USP,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP29_P270,29,ANDRÉ GIACCHETA,andre giaccheta,Yahoo! Brasil,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP29_P271,29,ANDRÉ GIACCHETTA,andre giacchetta,Yahoo! Brasil,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP29_P272,29,ANDREA KIRKPATRICK,andrea kirkpatrick,Facebook Serviços Online do Brasil Ltda.,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP29_P273,29,FLÁVIO HENRIQUE UNES PEREIRA,flavio henrique unes pereira,OAB - Comissão Especial de Produção de Dados,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP29_P274,29,JACQUELINE DE SOUZA ABREU,jacqueline de souza abreu,,Acadêmicos,Sim,demais,1,1,0,0,1,1,1,1,False
+AP29_P275,29,NATALIA PEPPI,natalia peppi,,Acadêmicos,Sim,demais,1,0,1,0,0,1,0,0,False
+AP30_P276,30,ALESSANDRO MOLON,alessandro molon,PARTIDO SOCIALISTA BRASILEIRO,Outros,Não,demais,0,0,0,0,0,0,0,0,False
+AP30_P277,30,ALEXANDRE MENDONÇA DE BARROS,alexandre mendonca de barros,ASSOCIAÇÃO BRASILEIRA DO AGRONEGÓCIO - ABAG,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP30_P278,30,ALEXANDRE VIDIGAL DE OLIVEIRA,alexandre vidigal de oliveira,MINISTÉRIO DE ESTADO DE MINAS E ENERGIA,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP30_P279,30,JOÃO PAULO RIBEIRO CAPOBIANCO,joao paulo ribeiro capobianco,INSTITUTO DEMOCRACIA E SUSTENTABILIDADE,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP30_P280,30,DENISE HAMÚ MARCOS DE LA PENHA,denise hamu marcos de la penha,PROGRAMA DAS NAÇÕES UNIDAS PARA O MEIO AMBIENTE - PNUMA,Outros,Não,demais,0,0,0,0,0,0,0,0,False
+AP30_P281,30,FABIANA FERREIRA ALVES,fabiana ferreira alves,Greenpeace Brasil,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP30_P282,30,FLÁVIA WITKOWSKI FRANGETTO,flavia witkowski frangetto,,Outros,Não,demais,0,0,0,0,0,0,0,0,False
+AP30_P283,30,HUGO BARRETO,hugo barreto,Vale S/A,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP30_P284,30,JOSÉ LEVI DE MELLO DO AMARAL JÚNIOR,jose levi de mello do amaral junior,Advocacia-Geral da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP30_P285,30,JULIANO BAIOCCHI VILLA,juliano baiocchi villa,Procuradoria-Geral da República / Ministério Público Federal,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP30_P286,30,PEDRO DE CAMARGO NETO,pedro de camargo neto,,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP30_P287,30,TEREZA CRISTINA CORRÊA DA COSTA DIAS,tereza cristina correa da costa dias,"Ministério da Agricultura, Pecuária e Abastecimento",Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP31_P288,31,ANTONIA MARIA RAMOS FRANCO PEREIRA,antonia maria ramos franco pereira,Instituto Nacional de Pesquisas da Amazônia – INPA,Acadêmicos,Sim,demais,1,0,1,0,0,1,0,0,False
+AP31_P289,31,DIEGO FERNANDES MENDES ROLIM,diego fernandes mendes rolim,SECRETARIA ESTADUAL DO MEIO AMBIENTE DO MARANHÃO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP31_P290,31,GERALDO ISRAEL MILANI DE NOGUEIRA,geraldo israel milani de nogueira,SECRETARIA ESTADUAL DO MEIO AMBIENTE DO ACRE,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP31_P291,31,JOSÉ MAURO DE LIMA O'DE ALMEIDA,jose mauro de lima o de almeida,SECRETARIA ESTADUAL DO MEIO AMBIENTE DO PARÁ,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP31_P292,31,JULIANO BAIOCCHI DE CARVALHO,juliano baiocchi de carvalho,MINISTÉRIO PÚBLICO FEDERAL,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP31_P293,31,PAULA CRISTINA DE LIMA NETO SANTANA,paula cristina de lima neto santana,FUNDAÇÃO NACIONAL DO ÍNDIO - FUNAI,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP31_P294,31,PAULO MAURÍCIO LIMA DE ALENCASTRO GRAÇA,paulo mauricio lima de alencastro graca,INSTITUTO NACIONAL DE PESQUISAS DA AMAZÔNIA – INPA,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP31_P295,31,RICARDO MAGNUS OSÓRIO GALVÃO,ricardo magnus osorio galvao,DEPARTAMENTO DE FÍSICA APLICADA DA USP E EX-DIRETOR DO INPE,Acadêmicos,Sim,demais,1,0,1,0,0,1,0,0,False
+AP31_P296,31,ROBÉRIO ALEIXO ANSELMO NOBRE,roberio aleixo anselmo nobre,SECRETARIA ESTADUAL DO MEIO AMBIENTE DO AMAPÁ,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP31_P297,31,SUELY MARA VAZ GUIMARÃES DE ARAÚJO,suely mara vaz guimaraes de araujo,Observatório do Clima,Sociedade civil,Sim,demais,1,1,0,0,1,1,1,1,False
+AP31_P298,31,JOCÉLIO XUCURU,jocelio xucuru,,Outros,Não,demais,0,0,0,0,0,0,0,0,False
+AP31_P299,31,JOSÉ LEVI MELLO DO AMARAL JÚNIOR,jose levi mello do amaral junior,Advocacia-Geral da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP31_P300,31,MARCOS JOSÉ ROCHA DOS SANTOS,marcos jose rocha dos santos,Governo do Estado de Rondônia,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP32_P301,32,ALEXANDRA MONTGOMERY,alexandra montgomery,Anistia Internacional Brasil,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P302,32,ANTONIO HENRIQUE GRACIANO SUXBERGER,antonio henrique graciano suxberger,Conselho Nacional do Ministério Público,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP32_P303,32,CARLOS ALBERTO VILHENA,carlos alberto vilhena,Procuradoria Federal dos Direitos do Cidadão / Ministério Público Federal,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP32_P304,32,CÉSAR MUÑOZ,cesar munoz,Human Rights Watch,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P305,32,DANIEL LOZOYA CONSTANT LOPES,daniel lozoya constant lopes,DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP32_P306,32,DANIEL SARMENTO,daniel sarmento,UNIVERSIDADE ESTADUAL DO RIO DE JANEIRO,Acadêmicos,Sim,demais,1,0,1,0,0,1,0,0,False
+AP32_P307,32,FLÁVIA MEDEIROS SANTOS,flavia medeiros santos,UNIVERSIDADE FEDERAL DE SANTA CATARINA - UFSC,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P308,32,MARCELO WEITZEL RABELLO DE SOUZA,marcelo weitzel rabello de souza,CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP32_P309,32,MARINA PINHÃO COELHO ARAÚJO,marina pinhao coelho araujo,INSTITUTO BRASILEIRO DE CIÊNCIAS CRIMINAIS,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,True
+AP32_P310,32,PEDRO HARTUNG,pedro hartung,INSTITUTO ALANA,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P311,32,SANDRO CABRAL,sandro cabral,INSPER,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P312,32,TIAGO GONÇALVES VERAS GOMES,tiago goncalves veras gomes,MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP32_P313,32,WALLACE CORBO,wallace corbo,EDUCAFRO,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P314,32,CLÁUDIA OLIVEIRA GUIMARÃES,claudia oliveira guimaraes,GRUPO MÃES DA MARÉ VÍTIMAS DA VIOLÊNCIA DO ESTADO,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P315,32,DANIEL HIRATA,daniel hirata,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P316,32,DESMOND ARIAS,desmond arias,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P317,32,ELIANA SOUSA SILVA,eliana sousa silva,Rede da Maré,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P318,32,FELIPE DA SILVA FREITAS,felipe da silva freitas,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P319,32,FRANSÉRGIO GOULART DE OLIVEIRA SILVA,fransergio goulart de oliveira silva,INICIATIVA DIREITO À MEMÓRIA E JUSTIÇA RACIAL,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P320,32,GABRIEL DE CARVALHO SAMPAIO,gabriel de carvalho sampaio,CONECTAS DIREITOS HUMANOS,Sociedade civil,Sim,demais,2,0,0,2,0,1,0,0,False
+AP32_P321,32,JACQUELINE MUNIZ,jacqueline muniz,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P322,32,LUIZ EDUARDO SOARES,luiz eduardo soares,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P323,32,MÁRCIA GATTO,marcia gatto,Rede Rio Criança,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P324,32,MARIA BEATRIZ GALLI BEVILACQUIAN,maria beatriz galli bevilacquian,Centro pela Justiça e Direito Internacional - CEJIL,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P325,32,MARIA CECÍLIA DE OLIVEIRA ROSA,maria cecilia de oliveira rosa,Instituto Fogo Cruzado,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P326,32,MARIA DA PENHA SILIVA,maria da penha siliva,,Outros,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P327,32,MARIA DA PENHA SILVA,maria da penha silva,,Outros,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P328,32,MICHEL MISSE,michel misse,Núcleo de Estudos da Cidadania Conflito e Violência Urbana da Universidade Federal do Rio de Janeiro,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P329,32,PABLO NUNES,pablo nunes,CESeC / Observatório da Segurança do Rio,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P330,32,PAULO HENRIQUE DE OLIVEIRA,paulo henrique de oliveira,Movimento Parem de Nos Matar,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P331,32,RENATA TRAJANO,renata trajano,Coletivo Papo Reto,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P332,32,ROBERTO EFREM FILHO,roberto efrem filho,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP32_P333,32,WALDECK CARNEIRO,waldeck carneiro,Assembleia Legislativa do Estado do Rio de Janeiro,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP32_P334,32,YANILDA GONZALES,yanilda gonzales,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP33_P335,33,ALBERTO NETO,alberto neto,Câmara dos Deputados,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP33_P336,33,ANDREA FERREIRA LIMA ESMERALDO,andrea ferreira lima esmeraldo,Conselho Federal de Psicologia - CFP,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP33_P337,33,DANDARA QUEIROZ TINOCO MELO,dandara queiroz tinoco melo,INSTITUTO IGARAPÉ,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP33_P338,33,FERNANDO ZARDINI ANTONIO,fernando zardini antonio,TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP33_P339,33,IRAPUÃ SANTANA DO NASCIMENTO DA SILVA,irapua santana do nascimento da silva,EDUCAFRO,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP33_P340,33,LILIANA MARIA CABRAL DE BARROS,liliana maria cabral de barros,FRENTE ESTADUAL PELO DESENCARCERAMENTO DE PERNAMBUCO,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP33_P341,33,LÚCIA HELENA SILVA BARROS DE OLIVEIRA,lucia helena silva barros de oliveira,DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP33_P342,33,MARCELO WEITZEL RABELO DE SOUZA,marcelo weitzel rabelo de souza,CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP33_P343,33,MARIA TEREZA UILLE GOMES,maria tereza uille gomes,CONSELHO NACIONAL DE JUSTIÇA,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP33_P344,33,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,True
+AP33_P345,33,RUY MUGGIATI,ruy muggiati,TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP33_P346,33,EVELINE ARAÚJO DUARTE MARQUES,eveline araujo duarte marques,AGENDA NACIONAL PELO DESENCACERARMENTO,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP33_P347,33,ISABEL LIMA,isabel lima,JUSTIÇA GLOBAL,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP33_P348,33,MONIQUE CRUZ,monique cruz,JUSTIÇA GLOBAL,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP33_P349,33,RODRIGO DUQUE ESTRADA ROIG,rodrigo duque estrada roig,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP33_P350,33,TAÍS SCHILLING FERRAZ,tais schilling ferraz,,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP35_P351,35,ANTONIO FERNANDES RUIZ FILHO,antonio fernandes ruiz filho,FEDERAÇÃO NACIONAL DOS ADVOGADOS,Sociedade civil,Sim,demais,9,0,0,9,0,1,0,0,False
+AP35_P352,35,BÁRBARA PRADO SIMÃO,barbara prado simao,INTERNETLAB,Acadêmicos,Sim,demais,4,0,0,4,0,1,0,0,False
+AP35_P353,35,BRENO RANGEL NUNES DA COSTA,breno rangel nunes da costa,MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ,Atores públicos,Sim,publico,4,0,0,4,0,1,0,0,False
+AP35_P354,35,BRUNO AUGUSTO VIGO MILANEZ,bruno augusto vigo milanez,OBSERVATÓRIO DA MENTALIDADE INQUISITÓRIA,Sociedade civil,Sim,demais,4,0,0,4,0,1,0,0,False
+AP35_P355,35,FERNANDO BRAGA,fernando braga,TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO,Atores públicos,Sim,publico,4,0,0,4,0,1,0,0,False
+AP35_P356,35,FLÁVIO WERNECK MENEGUELLI,flavio werneck meneguelli,FEDERAÇÃO NACIONAL DOS POLICIAIS FEDERAIS,Sociedade civil,Sim,demais,4,0,0,4,0,1,0,0,False
+AP35_P357,35,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,ORDEM DOS ADVOGADOS DO BRASIL,Sociedade civil,Sim,demais,14,8,2,4,8,1,1,1,False
+AP35_P358,35,JÚLIO CEZAR LEMOS TRAVESSA,julio cezar lemos travessa,TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA,Atores públicos,Sim,publico,4,0,0,4,0,1,0,0,False
+AP35_P359,35,MANOEL GUSTAVO NEUBARTH TRINDADE,manoel gustavo neubarth trindade,INSTITUTO DE DIREITO E ECONOMIA DO RIO GRANDE DO SUL,Acadêmicos,Sim,demais,4,0,0,4,0,1,0,0,False
+AP35_P360,35,MÁRCIO ALBERTO GOMES DA SILVA,marcio alberto gomes da silva,DEPARTAMENTO DE POLÍCIA FEDERAL,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP35_P361,35,MARCO AURÉLIO RAMOS FONSECA,marco aurelio ramos fonseca,MINISTÉRIO PÚBLICO DO ESTADO DO MARANHÃO,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP35_P362,35,MARCOS VIDIGAL DE FREITAS CRISSIÚMA,marcos vidigal de freitas crissiuma,INSTITUTO DE PROTEÇÃO DAS GARANTIAS INDIVIDUAIS,Sociedade civil,Sim,demais,4,0,0,4,0,1,0,0,False
+AP35_P363,35,MARIA COTINHA BEZERRA PEREIRA,maria cotinha bezerra pereira,MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS,Atores públicos,Sim,publico,4,0,0,4,0,1,0,0,False
+AP35_P364,35,MARINA PINHÃO COELHO ARAÚJO,marina pinhao coelho araujo,INSTITUTO BRASILEIRO DE CIÊNCIAS CRIMINAIS - IBCCRIM,Sociedade civil,Sim,demais,4,0,0,4,0,1,0,0,True
+AP35_P365,35,MÁRIO AUGUSTO DE FIGUEIREDO LACERDA GUERREIRO,mario augusto de figueiredo lacerda guerreiro,CONSELHO NACIONAL DE JUSTIÇA,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP35_P366,35,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO,Atores públicos,Sim,publico,13,0,0,13,0,1,0,0,True
+AP35_P367,35,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,INSTITUTO DE GARANTIAS PENAIS - IGP,Sociedade civil,Sim,demais,12,0,0,12,0,1,0,0,False
+AP35_P368,35,SANDRO CARVALHO LOBATO DE CARVALHO,sandro carvalho lobato de carvalho,MINISTÉRIO PÚBLICO DO ESTADO DO MARANHÃO,Atores públicos,Sim,publico,4,0,0,4,0,1,0,0,False
+AP35_P369,35,WALTER NUNES DA SILVA JÚNIOR,walter nunes da silva junior,ASSOCIAÇÃO DOS JUÍZES FEDERAIS - AJUFE,Sociedade civil,Sim,demais,4,0,0,4,0,1,0,0,False
+AP35_P370,35,ÉRICA DE OLIVEIRA HARTMANN,erica de oliveira hartmann,Defensoria Pública da União,Atores públicos,Sim,publico,4,0,0,4,0,1,0,0,False
+AP35_P371,35,FÁBIO TOFIC SIMANTOB,fabio tofic simantob,Grupo Prerrogativas,Sociedade civil,Sim,demais,8,1,2,5,1,1,1,1,False
+AP35_P372,35,JOÃO CARLOS CASTELLAR,joao carlos castellar,Sociedade dos Advogados Criminais do Rio de Janeiro,Sociedade civil,Sim,demais,4,0,0,4,0,1,0,0,False
+AP35_P373,35,MARCELO LUZIO MARQUES ARAÚJO,marcelo luzio marques araujo,Tribunal Regional Federal da 2ª Região,Atores públicos,Sim,publico,4,0,0,4,0,1,0,0,False
+AP36_P374,36,ALEXANDRE HOLTHAUSEN CAMPOS,alexandre holthausen campos,Sociedade Beneficente Israelita Brasileira Albert Einstein,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP36_P375,36,CARLOS EDUARDO DE SOUZA MIRANDA,carlos eduardo de souza miranda,Sociedade Brasileira de Cardiologia,Sociedade civil,Sim,demais,1,1,0,0,1,1,1,1,False
+AP36_P376,36,FLAVIO GOMES FIGUEIRA CAMACHO,flavio gomes figueira camacho,Sociedade Brasileira de Epidemiologia,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP36_P377,36,IARA DE MORAES XAVIER BRAGA,iara de moraes xavier braga,Associação Brasileira de Mantenedoras de Ensino Superior,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP36_P378,36,JEANCARLO FERNANDES CAVALCANTE,jeancarlo fernandes cavalcante,Conselho Federal de Medicina,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP36_P379,36,JOSÉ LÚCIO MARTINS MACHADO,jose lucio martins machado,Associação Nacional dos Centros Universitários,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP36_P380,36,LAINA GABRIELE RAMOS PASSOS LÔBO,laina gabriele ramos passos lobo,"Secretaria de Saúde do Município de Alagoinhas, BA",Atores públicos,Sim,publico,1,1,0,0,1,1,1,1,False
+AP36_P381,36,MARIA DO SOCORRO MENDONÇA DE CAMPOS,maria do socorro mendonca de campos,Associação Brasileira de Cirurgia Pediátrica,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP36_P382,36,NÉSIO FERNANDES DE MEDEIROS JUNIOR,nesio fernandes de medeiros junior,Conselho Nacional de Secretários de Saúde - CONASS,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP36_P383,36,SANDRO SCHREIBER DE OLIVEIRA,sandro schreiber de oliveira,Associação Brasileira de Educação Médica - ABEM,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP36_P384,36,HIRAN GONÇALVES,hiran goncalves,,Outros,Não,demais,0,0,0,0,0,0,0,0,False
+AP36_P385,36,LUDHMILA ABRAHÃO HAJJAR,ludhmila abrahao hajjar,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP36_P386,36,MARCELO ANTÔNIO CARTAXO QUEIROGA LOPES,marcelo antonio cartaxo queiroga lopes,Ministério da Saúde,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP38_P387,38,FRANCISCO BRITO CRUZ,francisco brito cruz,INTERNETLAB,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False
+AP38_P388,38,GUILHERME MAGALHÃES MARTINS,guilherme magalhaes martins,INSTITUTO BRASILEIRO DE POLÍTICA E DIREITO DO CONSUMIDOR,Sociedade civil,Sim,demais,2,0,2,0,0,1,0,0,False
+AP38_P389,38,ISABELLA HENRIQUES,isabella henriques,INSTITUTO ALANA,Sociedade civil,Sim,demais,1,1,0,0,1,1,1,1,False
+AP38_P390,38,JOSÉ EMILIANO PAES LANDIM NETO,jose emiliano paes landim neto,GETEDU,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP38_P391,38,MARCELO BECHARA DE SOUZA HOBAIKA,marcelo bechara de souza hobaika,ASSOCIAÇÃO NACIONAL DOS EDITORES DE REVISTAS - ANER,Atores privados,Não,demais,0,0,0,0,0,0,0,0,True
+AP38_P392,38,MAXIMILIANO SALVADORI MARTINHÃO,maximiliano salvadori martinhao,Ministério das Comunicações - MC,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP38_P393,38,WALDEMAR GONÇALVES ORTUNHO JÚNIOR,waldemar goncalves ortunho junior,Autoridade Nacional de Proteção de Dados Pessoais - ANPD,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP38_P394,38,BRUNO HENRIQUE TREVIZAN FORTI,bruno henrique trevizan forti,,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP38_P395,38,HUMBERTO CHIESI FILHO,humberto chiesi filho,Mercado Livre,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP38_P396,38,JACQUELINE ABREU,jacqueline abreu,Twitter Brasil,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP38_P397,38,LUIZ AUGUSTO SANTOS LIMA,luiz augusto santos lima,Procuradoria-Geral da República,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP38_P398,38,ORLANDO SILVA,orlando silva,Câmara dos Deputados,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP41_P399,41,ANDERSON RICARDO LEWANDOWSKI BELLOLI,anderson ricardo lewandowski belloli,FEDEARROZ - Federação das Associações de Arrozeiros do Rio Grande do Sul,Atores privados,Não,demais,0,0,0,0,0,0,0,0,False
+AP41_P400,41,FERNANDO DA CUNHA CAVALCANTI,fernando da cunha cavalcanti,Defensoria Pública da União,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP41_P401,41,LAURO RODRIGUES DE MORAES RÊGO JÚNIOR,lauro rodrigues de moraes rego junior,,Partido Político,Não,demais,0,0,0,0,0,0,0,0,False
+AP41_P402,41,PAULO VASCONCELOS JACOBINA,paulo vasconcelos jacobina,Ministério Público Federal,Atores públicos,Não,publico,0,0,0,0,0,0,0,0,False
+AP41_P403,41,SERGIO GRAFF,sergio graff,,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP44_P404,44,PAULA CAROLINA DE OLIVEIRA AZEVEDO DA MATA,paula carolina de oliveira azevedo da mata,Observatório da Qualidade da Lei - UFMG - Legislab,Acadêmicos,Não,demais,0,0,0,0,0,0,0,0,False
+AP44_P405,44,JULIANA SAKAI,juliana sakai,Transparência Brasil,Sociedade civil,Não,demais,0,0,0,0,0,0,0,0,False

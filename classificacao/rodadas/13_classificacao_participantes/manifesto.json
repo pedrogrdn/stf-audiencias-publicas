@@ -1,0 +1,19 @@
+{
+  "modelo": "claude-sonnet-5",
+  "registros": 405,
+  "sha256_cadastro": "6ec7826fb1e2e13927b9af4db9764f4b07561ee2f62e1f19f4cdd1365f63802a",
+  "sha256_entradas": "3fb01ef7dad8c8718ca925f0066c23c6bcdd062052ab5346c1c9aa1877c345e8",
+  "categorias": [
+    "Atores públicos",
+    "Atores privados",
+    "Sociedade civil",
+    "Acadêmicos",
+    "Outros"
+  ],
+  "unidade": "pessoa por audiência",
+  "precos_referencia_usd_milhao": {
+    "entrada": 2,
+    "saida": 10
+  },
+  "nota": "Classificação documental por instruções, sem fine-tuning. Não estima acurácia. Fontes restritas ao repositório."
+}

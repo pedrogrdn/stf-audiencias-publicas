@@ -1,0 +1,11 @@
+{
+  "modelo": "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/.local-mlx/modelo",
+  "iteracoes": 210,
+  "seed": 42,
+  "num_layers": 4,
+  "batch_size": 1,
+  "max_seq_length": 1889,
+  "learning_rate": 1e-05,
+  "teor": false,
+  "participantes": false
+}

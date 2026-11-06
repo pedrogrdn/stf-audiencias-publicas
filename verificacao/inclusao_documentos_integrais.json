@@ -1,0 +1,20 @@
+{
+  "data": "2026-11-06",
+  "acordaos_integrais": 50,
+  "documentos_audiencias": 125,
+  "formatos_documentos": {
+    ".pdf": 166,
+    ".docx": 6,
+    ".html": 3
+  },
+  "metadados_coleta": [
+    {
+      "arquivo_no_pacote": "fontes_documentais/documentos_audiencias/manifesto.json",
+      "sha256": "53b550817004563e5d060a3f4ff2b1021ee84b177eea02bb7543ac5a0852c29e"
+    }
+  ],
+  "copias_byte_a_byte": true,
+  "verificacao_por_sha256": 175,
+  "alteracoes_dados_analiticos": false,
+  "novas_chamadas_api": 0
+}

@@ -1,0 +1,68 @@
+{
+  "fonte": "Decisões da planilha conferidas na conversa e autorizadas pelo pesquisador",
+  "planilha_sha256": "54fe082d891fa76c50ce53e7c0ba4a307bed865a50c1fc5fa9fe0b94d8a1049b",
+  "gabarito_original_sha256": "fca8e792eaffc4fe8d5e51ad3d27b2a64e84f64898e9c11f4f2ec9e11a3c7892",
+  "decisoes": [
+    {
+      "caso": 1,
+      "id": "AP01-AP_01_ADI_3510-00016",
+      "decisao": "Alterar",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    {
+      "caso": 2,
+      "id": "AP03-AP_03_ADPF_054-00047",
+      "decisao": "Manter",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    {
+      "caso": 3,
+      "id": "AP12-AP_12_ADI_4650-00007",
+      "decisao": "Alterar",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    {
+      "caso": 4,
+      "id": "AP12-AP_12_ADI_4650-00017",
+      "decisao": "Alterar",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    {
+      "caso": 5,
+      "id": "AP14-AP_14_ADI_5035-00006",
+      "decisao": "Alterar",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    {
+      "caso": 6,
+      "id": "AP14-AP_14_ADI_5035-00013",
+      "decisao": "Manter",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    {
+      "caso": 7,
+      "id": "AP15-AP_15_ADI_5062-00038",
+      "decisao": "Alterar",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    {
+      "caso": 8,
+      "id": "AP32-AP_32_ADPF_635-00256",
+      "decisao": "Alterar",
+      "corpus": "Excluir",
+      "tipo": null
+    }
+  ],
+  "n": 30,
+  "revisados": 8,
+  "corpus_acertos": 29,
+  "classificacao_completa_acertos": 28,
+  "nota": "Concordância pós-revisão de divergências. Outros 22 gabaritos preservados. Não é nova validação."
+}

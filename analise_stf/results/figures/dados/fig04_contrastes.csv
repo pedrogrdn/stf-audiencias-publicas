@@ -1,0 +1,23 @@
+﻿Hipotese,Teste,N,estimativa_num,ic_inf,ic_sup
+H4,Relator cadastrado − demais julgadores (fora do Relatório; associação documental exploratória),24 audiências elegíveis; 959 menções,0.23557437719928273,0.11326883689826657,0.35509245557548363
+H8,Taxa argumentativa: Voto do Relator − Relatório,16 audiências elegíveis; 595 menções,0.5398131543427935,0.4033543341323625,0.6642100500444573
+H8,Taxa argumentativa: Voto − Relatório,17 audiências elegíveis; 676 menções,0.31684005516201136,0.20103705815093917,0.43193016601113254
+H8,Taxa argumentativa: Voto − Voto do Relator,20 audiências elegíveis; 931 menções,-0.20127511539869342,-0.33786747580914017,-0.06736129478457802
+H11,Taxa argumentativa: Pessoa − Sem pessoa/instituição nos campos,8 audiências elegíveis; 342 menções,0.05684124799706426,,
+H11,Taxa argumentativa: Instituição − Sem pessoa/instituição nos campos,16 audiências elegíveis; 746 menções,-0.03658205547471852,-0.16521988910847604,0.1020980061228023
+H11,Taxa argumentativa: Pessoa e instituição − Sem pessoa/instituição nos campos,14 audiências elegíveis; 565 menções,-0.15137828963016933,-0.2858376001609084,-0.014033243802980596
+H12,Individualizada (pessoa ou instituição nos campos) − sem nome,23 audiências elegíveis; 1222 menções,-0.05166112380805839,-0.16135039939632898,0.061272708249894704
+H15,"Prevalência de menções em ""Relatório"": ambiental/mercado − personalidade",17+12 audiências (≥3 menções); 1286 menções,-0.03822258066038506,-0.19369880579996107,0.10709527566904
+H15,"Prevalência de menções em ""Voto do Relator"": ambiental/mercado − personalidade",17+12 audiências (≥3 menções); 1286 menções,0.1115038610625056,-0.05830114534015515,0.27530704426915614
+H15,"Prevalência de menções em ""Voto"": ambiental/mercado − personalidade",17+12 audiências (≥3 menções); 1286 menções,-0.07328128040212045,-0.22702611329072206,0.08447657012288219
+H15,[análise adicional] Contraste de Argumento Voto do Relator − Relatório: diferença entre eixos,10+6 audiências elegíveis,0.06559020017782896,,
+H15,[análise adicional] Contraste de Argumento Voto − Relatório: diferença entre eixos,10+7 audiências elegíveis,-0.02378618107820868,,
+H15,[análise adicional] Contraste de Argumento Voto − Voto do Relator: diferença entre eixos,12+8 audiências elegíveis,-0.028522371837316318,,
+H17,Proporção individualizada (alvo com nome): Voto do Relator − Relatório,16 audiências elegíveis; 595 menções,-0.031300526920779226,-0.247660857381676,0.16237501214063718
+H17,Proporção individualizada (alvo com nome): Voto − Relatório,17 audiências elegíveis; 676 menções,-0.0696491656397693,-0.26346381394966134,0.13453511495941525
+H17,Proporção individualizada (alvo com nome): Voto − Voto do Relator,20 audiências elegíveis; 931 menções,-0.08663481667810694,-0.20211053191718598,0.045759050400471436
+H20,Incidência de Atores públicos: ambiental − personalidade,9+10 audiências elegíveis; 298 menções classificadas,-0.0816835045378922,,
+H20,Incidência de Atores privados: ambiental − personalidade,9+10 audiências elegíveis; 298 menções classificadas,0.11025641025641025,,
+H20,Incidência de Sociedade civil: ambiental − personalidade,9+10 audiências elegíveis; 298 menções classificadas,-0.03211472355638223,,
+H20,Incidência de Acadêmicos: ambiental − personalidade,9+10 audiências elegíveis; 298 menções classificadas,-0.15205266803627462,,
+H20,Incidência de Outros: ambiental − personalidade,9+10 audiências elegíveis; 298 menções classificadas,-0.006096191390309039,,

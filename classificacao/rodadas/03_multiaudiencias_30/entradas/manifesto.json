@@ -1,0 +1,22 @@
+{
+  "dados_sha256": {
+    "valid": "14544af746722db054123c835e2081ea9ed3d3430bd8d6fd36523404f5501596"
+  },
+  "fonte_sha256": "4d7611d51b571249bccd9d156f44770ce9caa2d273e524a6a6d52ec40ee7332d",
+  "selecao": "10 por categoria; rodízio por audiência em ordem numérica e ID; remove menções textualmente idênticas. Não elimina toda duplicação semântica.",
+  "audiencias": {
+    "1": 5,
+    "3": 7,
+    "4": 4,
+    "8": 2,
+    "12": 2,
+    "32": 3,
+    "5": 3,
+    "14": 2,
+    "15": 2
+  },
+  "origem": "treino local; diagnóstico adicional do Claude, não teste final independente",
+  "contexto": "recortes originais; não expansão automática de páginas",
+  "gabaritos": "Preservados; esclarecimentos metodológicos podem revelar novas divergências humanas.",
+  "teste_reservado_selecionado": false
+}

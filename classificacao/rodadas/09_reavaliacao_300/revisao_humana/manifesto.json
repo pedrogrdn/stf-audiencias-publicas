@@ -1,0 +1,19 @@
+{
+  "fontes_sha256": {
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_20261013/gabarito_revisado.json": "fc8c01adddbe069ca6731c439d83d1684b801b281dea800bab5072537bae043f",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_20261013/decisoes.json": "710837b2ad4d5e7478f5ec22ed57eeaee7978af118487da0c2390cca4fc132e5",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_20261013/pendencias.json": "a86b3954317c519b8ad3e96861bc6b3123dff1de5517a936f07ea187035e0f58",
+    "/Users/iamgiordano/Meu Drive/PUC - PPGD/STF_Acordaos/outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/claude_reavaliacao_total_conciliada_v6_1/predicoes.json": "40a6471c6ca3310e56250eaffe2c77846d9869fb527a31ad570d48b7851bad52"
+  },
+  "ids_fora_metricas_principais": [],
+  "fonte_complementar": "Decisões expressas no chat: caso 1 aceita Claude; caso 3 mantém gabarito.",
+  "arquivos_sha256": {
+    "divergencias_remanescentes.json": "0ae748cfd459b32a88feab8caf01465f26961ec0015417da65edfa7fdeee507e",
+    "decisoes_confirmadas_chat.json": "9d705e52f53a6942e78ec375b89b326f8556b1c0e1bcdd20ba41c62a2ab88ddc",
+    "gabarito_revisado.json": "05b4f8041968807ae5d8e2abbcece1960fae00a9935b3ed71f1efa9d63a556df",
+    "decisoes.json": "90d27a40c33b42dc7b050ff4c52695324c5f664ac31a9e11f5aec9f0d15a141d",
+    "pendencias.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "metricas_pos_revisao.json": "8896e2f8b8b3e33f0133770d88979cab89273bfa347f235ff64f351ad9726605"
+  },
+  "preservacao": "Planilha recebida, consolidação anterior e predições não alteradas."
+}

@@ -1,0 +1,19 @@
+{
+  "sha256": {
+    "entradas.json": "6cb6190523ce720920c182907094e2b80e4bbef636182d3fb1d82317f46b3ac2",
+    "gabarito_original.json": "1767e9b0bf71fdb1fc9dbbcb9d22a8b7380b94ba015e1ce0ef24b2e764406557",
+    "instrucoes.txt": "736ee7e4e64856bd29191a8d139690b51c605510327c96baa7e5a1f0af32aa21"
+  },
+  "fonte_sha256": "4d7611d51b571249bccd9d156f44770ce9caa2d273e524a6a6d52ec40ee7332d",
+  "n": 60,
+  "audiencias": [
+    19,
+    35
+  ],
+  "limites": [
+    "Gabarito histórico não reclassificado pela nova regra de partes antes da execução.",
+    "Recortes originais; papel processual e contexto podem estar incompletos.",
+    "Tipos incorporados no gabarito: 21 Argumento, 9 Contexto, nenhum Relato. Não valida recall de Relato.",
+    "Preservar primeira avaliação. Revisões pós-resposta devem ser reportadas separadamente."
+  ]
+}

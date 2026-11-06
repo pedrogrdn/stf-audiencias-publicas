@@ -1,0 +1,5 @@
+﻿tipo_alvo_derivado,n_mencoes,n_contexto,n_relato,n_argumento,taxa_argumentativa,n_arquivos,n_processos,n_rotulos_ministro,n_ap,n_relatorio,n_voto_relator,n_voto,n_autoria_nao_plena,n_atribuicao_por_metadados
+Instituição,311,108,97,106,0.3408360128617363,33,33,17,21,56,131,124,0,77
+Pessoa e instituição,212,65,82,65,0.30660377358490565,29,29,17,21,70,82,60,4,75
+Pessoa,95,9,38,48,0.5052631578947369,21,21,13,13,19,26,50,0,17
+Sem pessoa/instituição nos campos,670,327,61,282,0.4208955223880597,45,45,22,29,97,265,308,13,122

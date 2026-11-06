@@ -1,0 +1,17 @@
+{
+  "n": 30,
+  "casos_revisados": 9,
+  "alterados": 4,
+  "corpus_acertos": 29,
+  "classificacao_completa_acertos": 25,
+  "tipo_nos_incorporados": {
+    "n": 22,
+    "acertos": 17
+  },
+  "matriz_corpus": {
+    "Incorporar -> Incorporar": 21,
+    "Excluir -> Excluir": 8,
+    "Incorporar -> Indeterminado": 1
+  },
+  "nota": "Concordância pós-revisão das nove divergências; 21 gabaritos não revistos. Mesmas predições, nenhuma nova execução. Não é validação independente."
+}

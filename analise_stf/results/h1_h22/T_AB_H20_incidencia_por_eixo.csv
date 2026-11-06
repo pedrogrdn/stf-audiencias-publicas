@@ -1,0 +1,13 @@
+﻿eixo,categoria,n_com_categoria,denominador_mencoes_classificadas,incidencia,denominador_total_mencoes_eixo
+Ambiental/políticas/mercado,Atores públicos,74,189,0.3915343915343915,585
+Ambiental/políticas/mercado,Atores privados,17,189,0.08994708994708994,585
+Ambiental/políticas/mercado,Sociedade civil,67,189,0.3544973544973545,585
+Ambiental/políticas/mercado,Acadêmicos,29,189,0.15343915343915343,585
+Ambiental/políticas/mercado,Partido Político,0,189,0.0,585
+Ambiental/políticas/mercado,Outros,4,189,0.021164021164021163,585
+Personalidade,Atores públicos,189,427,0.4426229508196721,703
+Personalidade,Atores privados,4,427,0.00936768149882904,703
+Personalidade,Sociedade civil,183,427,0.42857142857142855,703
+Personalidade,Acadêmicos,85,427,0.1990632318501171,703
+Personalidade,Partido Político,0,427,0.0,703
+Personalidade,Outros,6,427,0.01405152224824356,703

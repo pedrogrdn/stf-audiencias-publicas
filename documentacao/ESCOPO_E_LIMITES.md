@@ -1,0 +1,25 @@
+# Escopo, decisões e limites
+
+O acervo pesquisado contém 50 documentos de 31 audiências; a busca recuperou 3.455 candidatos. A base final tem 1.288 incorporações (509 Contextos, 278 Relatos, 501 Argumentos), 2.167 exclusões, 46 documentos e 30 audiências com menções incorporadas. O cadastro de atores contém 405 participações, 391 nomes normalizados distintos e 31 audiências; todas as participações receberam uma das seis categorias finais. Não representa automaticamente todas as audiências do STF.
+
+Entre as 1.288 inclusões, 269 têm decisão humana consolidada registrada e 1.019 não têm revisão humana registrada. Os dois pilotos de cinco audiências tiveram revisão integral, mas a aplicação ampliada não. A concordância dos pilotos e diagnósticos não é uma estimativa independente e universal de acurácia; muitos lotes foram reutilizados e seu gabarito revisto. As propostas originais e decisões finais são preservadas separadamente.
+
+A unidade de ocorrência é a frase contextualizada. Nomes encontrados várias vezes na mesma ocorrência não multiplicam o registro; menções em frases diferentes permanecem. Menções a livros e artigos com ideias substantivas de participantes confirmados são elegíveis por escolha metodológica, sem prova de que a ideia tenha sido apresentada oralmente. Partes requerentes e requeridas são excluídas conforme o papel processual, enquanto terceiros e amici não são excluídos como categoria geral.
+
+Contexto registra evento/participação; Relato descreve a posição sem mobilizá-la no raciocínio; Argumento usa a contribuição como premissa, apoio, evidência ou contraponto, sem exigir concordância. Reitera/Refuta/Convence não foram incorporadas como tipologia avaliada nesta base.
+
+As categorias de ator são Atores públicos, Atores privados, Sociedade civil, Acadêmicos, Partido Político e Outros. Outros é rótulo válido, não falta de informação. Menção genérica à audiência é não aplicável para categoria de ator. Identificação sem vínculo resolvido é outro estado e não pode ser convertida automaticamente em Outros. O XLSX final de atores prevalece sobre o campo histórico categoria_revisada do JSON.
+
+Vínculo A: pessoa identificada por audiência e nome normalizado. São 307 menções resolvidas, 380 pares menção–participante e 141 participações referenciadas. As outras menções são 670 genéricas e 311 identificadas sem classificação pelo vínculo A. Vínculo B: instituição usada somente em sensibilidade, sem atribuir uma menção institucional a todos os afiliados. A+B resolve 616 menções. Categorias podem se sobrepor numa menção.
+
+H23 mantém todos os 405 participantes no denominador, inclusive sem menção recuperada. Alcance conta uma vez quem tem ao menos um Argumento nominal; intensidade preserva menções distintas e conta uma passagem uma vez por macrogrupo. Os grupos são públicos versus as outras cinco categorias. AP01, AP17 e AP44 não têm públicos e ficam fora do contraste pareado, mas não da descrição. AP44 não tem menções recuperadas. As 28 audiências comparáveis incluem eventos com zero observado nos dois grupos. H19, ao contrário, compara composição de menções por categoria, sem tomar o cadastro de pessoas como denominador.
+
+A unidade inferencial operacional é a audiência; não se tratam as 1.288 menções como réplicas independentes. Testes, elegibilidade, sementes e famílias BH estão preservados nas configurações. H23 é exploratória e posterior a H1–H22, não pré-registro confirmatório. Os intervalos descrevem variabilidade sob reamostragem, não erros de classificação e cobertura. A inconsistência de data da AP33 é preservada e excluída dos cálculos de intervalo H2/H16.
+
+O banco não mede todo argumento oral, duração da fala, concordância, mudança de convicção ou influência causal. Ausência de recuperação não prova ausência de consideração. A comparação de presença nominal e a sensibilidade institucional podem apontar direções diferentes. Dados de classificação parcial por IA devem ser reconhecidos em qualquer reutilização.
+
+O corpus institucional de 49 audiências é um quadro de seleção com atualização própria; ele não se confunde com as 31 audiências com acórdãos examinados. Os arquivos de fontes que contêm colunas de triagem automática são insumos históricos de recuperação, não o gabarito final. Para resultados, usar corpus/tipo finais nas tabelas de consulta.
+
+Os manifestos históricos preservam hashes e caminhos da execução original. Ao rodar os testes no pacote, um novo manifesto H23 é produzido somente na cópia isolada antes das verificações, para registrar seus caminhos locais sem alterar o snapshot distribuído. A equivalência estatística é conferida separadamente por campos numéricos.
+
+O depósito inclui o acervo documental integral disponível: 50 acórdãos e 125 documentos de audiências. Estes últimos abrangem fontes de participação e fontes auxiliares, cuja função metodológica permanece distinta. Os arquivos integrais não foram usados como licença para atribuir participação ou função argumentativa sem os critérios descritos acima.

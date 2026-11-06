@@ -1,0 +1,752 @@
+[
+  {
+    "id": "AP01-AP_01_ADI_3510-00006",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "saida_bruta": "{\"corpus\": \"Incorporar\", \"tipo\": \"Argumento\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2276,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 27,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00007",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Incorporar\", \"tipo\": \"Argumento\"}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2157,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00016",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "saida_bruta": "{\"corpus\": \"Incorporar\", \"tipo\": \"Argumento\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2488,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 27,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00026",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "saida_bruta": "{\"corpus\": \"Incorporar\", \"tipo\": \"Relato\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3600,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00031",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Incorporar\", \"tipo\": \"Relato\"}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2764,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00046",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Excluir\", \"tipo\": null}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3529,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00047",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "saida_bruta": "{\"corpus\": \"Incorporar\", \"tipo\": \"Relato\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3223,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP04-AP_04_SS_2361-00016",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "{\"corpus\": \"Excluir\", \"tipo\": null}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2417,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP04-AP_04_SS_2361-00024",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Excluir\", \"tipo\": null}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2437,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00012",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "{\"corpus\": \"Excluir\", \"tipo\": null}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3125,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00022",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Incorporar\", \"tipo\": \"Relato\"}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3001,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00024",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Incorporar\", \"tipo\": \"Relato\"}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3091,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00037",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "{\"corpus\": \"Excluir\", \"tipo\": null}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3093,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4679-00004",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Excluir\", \"tipo\": null}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2684,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4679-00005",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Excluir\", \"tipo\": null}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2733,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4747-00018",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "saida_bruta": "{\"corpus\": \"Incorporar\", \"tipo\": \"Argumento\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2282,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 27,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP08-AP_08_ADI_4756-00020",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Incorporar\", \"tipo\": \"Argumento\"}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2860,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 32,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00005",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "{\"corpus\": \"Excluir\", \"tipo\": null}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2958,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00007",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "{\"corpus\": \"Excluir\", \"tipo\": null}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2775,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00013",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "{\"corpus\": \"Excluir\", \"tipo\": null}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3215,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP12-AP_12_ADI_4650-00017",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Excluir\", \"tipo\": null}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3006,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00006",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Excluir\", \"tipo\": null}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3057,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00013",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "saida_bruta": "{\"corpus\": \"Incorporar\", \"tipo\": \"Contexto\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2342,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 27,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP14-AP_14_ADI_5035-00021",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Excluir\", \"tipo\": null}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3017,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00004",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Excluir\", \"tipo\": null}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3031,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00038",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "saida_bruta": "{\"corpus\": \"Incorporar\", \"tipo\": \"Relato\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2446,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00051",
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Incorporar\", \"tipo\": \"Relato\"}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2674,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 31,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP18-AP_18_ADI_5072-00003",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "{\"corpus\": \"Excluir\", \"tipo\": null}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2846,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00015",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "```json\n{\"corpus\": \"Excluir\", \"tipo\": null}\n```",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 3504,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 26,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  },
+  {
+    "id": "AP32-AP_32_ADPF_635-00256",
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "saida_bruta": "{\"corpus\": \"Excluir\", \"tipo\": null}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 2544,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 21,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5"
+  }
+]

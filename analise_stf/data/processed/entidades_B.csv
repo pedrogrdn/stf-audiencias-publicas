@@ -1,0 +1,327 @@
+﻿audiencia,entidade_norm,entidade,n_grafias_entidade,n_pessoas_afiliadas,categorias,n_categorias,status_categoria,categoria_entidade,n_mencoes_que_citam
+1,hospital das clinicas da faculdade de medicina de ribeirao preto usp,Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto - USP,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,rede sarah de hospitais,Rede Sarah de Hospitais,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,ufrj,UFRJ,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,universidade de brasilia ong anis,Universidade de Brasília / ONG Anis,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,universidade de sao paulo,Universidade de São Paulo,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,universidade de sao paulo centro de estudos do genoma humano,Universidade de São Paulo - Centro de Estudos do Genoma Humano,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,universidade federal de sao paulo,Universidade Federal de São Paulo,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,universidade federal de sao paulo usc de bauru,Universidade Federal de São Paulo / USC de Bauru,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,universidade federal do rio de janeiro,Universidade Federal do Rio de Janeiro,1,2,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,universidade federal do rio de janeiro instituto nacional de cardiologia,Universidade Federal do Rio de Janeiro / Instituto Nacional de Cardiologia,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,universidade federal do rio grande do sul,Universidade Federal do Rio Grande do Sul,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,universidade federal fluminense,Universidade Federal Fluminense,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,usp departamento de genetica e biologia evolutiva,USP - Departamento de Genética e Biologia Evolutiva,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+1,usp fiocruz ba,USP / FIOCRUZ-BA,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+2,ministerio da saude,MINISTÉRIO DA SAÚDE,1,1,"[""Atores públicos""]",1,unica,Atores públicos,2
+2,ministerio das relacoes exteriores,MINISTÉRIO DAS RELAÇÕES EXTERIORES,1,1,"[""Atores públicos""]",1,unica,Atores públicos,3
+2,pneuback advogado defensor em acao civil publica,Pneuback (advogado defensor em ação civil pública),1,1,"[""Atores privados""]",1,unica,Atores privados,0
+2,universidade positivo,Universidade Positivo,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+3,academia fluminense de medicina,Academia Fluminense de Medicina,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,2
+3,advocacia geral da uniao,Advocacia-Geral da União,1,3,"[""Atores públicos""]",1,unica,Atores públicos,0
+3,associacao brasileira de psiquiatria,Associação Brasileira de Psiquiatria,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,8
+3,associacao de desenvolvimento da familia adef,Associação de Desenvolvimento da Família (ADEF),1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,2
+3,associacao de mulheres do rio de janeiro,Associação de Mulheres do Rio de Janeiro,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+3,associacao medico espirita do brasil ame,Associação Médico-Espírita do Brasil (AME),1,3,"[""Sociedade civil""]",1,unica,Sociedade civil,3
+3,associacao nacional pro vida e pro familia,Associação Nacional Pró-Vida e Pró-Família,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,8
+3,catolicas pelo direito de decidir,Católicas pelo Direito de Decidir,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,2
+3,conferencia nacional dos bispos do brasil cnbb,Conferência Nacional dos Bispos do Brasil (CNBB),1,2,"[""Sociedade civil""]",1,unica,Sociedade civil,6
+3,conselho federal de medicina,Conselho Federal de Medicina,1,1,"[""Atores públicos""]",1,unica,Atores públicos,9
+3,conselho nacional dos direitos da mulher,Conselho Nacional dos Direitos da Mulher,1,1,"[""Atores públicos""]",1,unica,Atores públicos,5
+3,escola de gente,Escola de Gente,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,7
+3,federacao brasileira das associacoes de ginecologia e obstetricia,Federação Brasileira das Associações de Ginecologia e Obstetrícia,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,5
+3,hospital e maternidade sao francisco de assis,Hospital e Maternidade São Francisco de Assis,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,4
+3,hospital sao francisco,Hospital São Francisco,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,5
+3,igreja universal do reino de deus,Igreja Universal do Reino de Deus,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,1
+3,instituto de bioetica direitos humanos e genero anis,"Instituto de Bioética, Direitos Humanos e Gênero (ANIS)",1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,12
+3,ministerio da saude,Ministério da Saúde,1,1,"[""Atores públicos""]",1,unica,Atores públicos,11
+3,ministerio publico federal,Ministério Público Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+3,movimento nacional da cidadania em defesa da vida brasil sem aborto,Movimento Nacional da Cidadania em Defesa da Vida – Brasil Sem Aborto,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,6
+3,rede nacional feminista de saude direitos sexuais e direitos reprodutivos,"Rede Nacional Feminista de Saúde, Direitos Sexuais e Direitos Reprodutivos",1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,5
+3,secretaria especial de politicas para as mulheres conselho nacional dos direitos da mulher,Secretaria Especial de Políticas para as Mulheres / Conselho Nacional dos Direitos da Mulher,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+3,sociedade brasileira de genetica medica,Sociedade Brasileira de Genética Médica,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,6
+3,sociedade brasileira de medicina fetal,Sociedade Brasileira de Medicina Fetal,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,7
+3,sociedade brasileira para o progresso da ciencia,Sociedade Brasileira para o Progresso da Ciência,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,10
+3,universidade de sao paulo e universidade estadual de campinas,Universidade de São Paulo e Universidade Estadual de Campinas,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+3,universidade federal de sao paulo unifesp,Universidade Federal de São Paulo (UNIFESP),1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+4,agencia nacional de vigilancia sanitaria anvisa,Agência Nacional de Vigilância Sanitária (ANVISA),1,1,"[""Atores públicos""]",1,unica,Atores públicos,23
+4,associacao brasileira de amigos e familiares de portadores de hipertensao arterial pulmonar,Associação Brasileira de Amigos e Familiares de Portadores de Hipertensão Arterial Pulmonar,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,associacao brasileira de assistencia a mucoviscidose,Associação Brasileira de Assistência à Mucoviscidose,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,associacao brasileira de grupos de pacientes reumaticos,Associação Brasileira de Grupos de Pacientes Reumáticos,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,associacao brasileira de mucopolissacaridoses,Associação Brasileira de Mucopolissacaridoses,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,associacao dos magistrados brasileiros amb,Associação dos Magistrados Brasileiros (AMB),1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,associacao nacional do ministerio publico de contas,Associação Nacional do Ministério Público de Contas,1,2,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,associacao nacional do ministerio publico de defesa da saude,Associação Nacional do Ministério Público de Defesa da Saúde,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,centro de estudos e pesquisa de direito sanitario,Centro de Estudos e Pesquisa de Direito Sanitário,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,conectas direitos humanos,Conectas Direitos Humanos,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,confederacao nacional dos municipios,Confederação Nacional dos Municípios,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,conselho federal da ordem dos advogados do brasil,Conselho Federal da Ordem dos Advogados do Brasil,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,conselho federal de medicina,Conselho Federal de Medicina,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,conselho nacional de saude cns,Conselho Nacional de Saúde (CNS),1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,conselho nacional de secretarias municipais de saude conasems,Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS),1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,conselho nacional de secretarios de saude conass,Conselho Nacional de Secretários de Saúde (CONASS),1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,conselho nacional dos procuradores gerais de justica do ministerio publico dos estados e da uniao,Conselho Nacional dos Procuradores-Gerais de Justiça do Ministério Público dos Estados e da União,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,defensoria publica da uniao,Defensoria Pública da União,1,2,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,defensoria publica do estado de sao paulo,Defensoria Pública do Estado de São Paulo,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,faculdade de medicina da universidade de sao paulo,Faculdade de Medicina da Universidade de São Paulo,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+4,federacao brasileira da industria farmaceutica,Federação Brasileira da Indústria Farmacêutica,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+4,forum nacional dos procuradores gerais das capitais brasileiras,Fórum Nacional dos Procuradores-Gerais das Capitais Brasileiras,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,fundacao oswaldo cruz fiocruz,Fundação Oswaldo Cruz (FIOCRUZ),1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,grupo hipupiara integracao e vida,Grupo Hipupiara Integração e Vida,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,hospital do coracao em sao paulo,Hospital do Coração em São Paulo,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+4,instituto de bioetica direitos humanos e genero anis,Instituto de Bioética Direitos Humanos e Gênero (ANIS),1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,instituto de defesa dos usuarios de medicamentos,Instituto de Defesa dos Usuários de Medicamentos,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,justica federal em pernambuco,Justiça Federal em Pernambuco,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,ministerio da saude,Ministério da Saúde,1,8,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,ministerio publico federal,Ministério Público Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,pontificia universidade catolica do rio grande do sul puc rs,Pontifícia Universidade Católica do Rio Grande do Sul (PUC/RS),1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,2
+4,procuradoria geral do estado do rio de janeiro,Procuradoria-Geral do Estado do Rio de Janeiro,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,procuradoria geral do estado do rio grande do sul,Procuradoria-Geral do Estado do Rio Grande do Sul,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,secretaria de estado da saude do amazonas,Secretaria de Estado da Saúde do Amazonas,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,secretaria de saude do estado de sao paulo,Secretaria de Saúde do Estado de São Paulo,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,secretaria de seguranca publica do estado de sao paulo,Secretaria de Segurança Pública do Estado de São Paulo,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+4,sociedade brasileira de oncologia clinica,Sociedade Brasileira de Oncologia Clínica,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+4,universidade de sao paulo,Universidade de São Paulo,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+4,universidade federal do rio grande do sul,Universidade Federal do Rio Grande do Sul,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+5,2a vara federal de florianopolis,2ª Vara Federal de Florianópolis,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+5,advocacia geral da uniao,Advocacia-Geral da União,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+5,associacao dos juizes federais do brasil ajufe,Associação dos Juízes Federais do Brasil - AJUFE,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+5,conad comissao nacional de assuntos antidiscriminatorios,CONAD - Comissão Nacional de Assuntos Antidiscriminatórios,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+5,coordenacao nacional de entidades negras conen,Coordenação Nacional de Entidades Negras - CONEN,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+5,educafro,Educafro,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+5,faculdade latino americana de ciencias sociais,Faculdade Latino-Americana de Ciências Sociais,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+5,fundacao cultural palmares pontificia universidade catolica de sao paulo puc sp e puc pr,Fundação Cultural Palmares / Pontifícia Universidade Católica de São Paulo - PUC/SP e PUC/PR,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+5,fundacao nacional do indio funai,Fundação Nacional do Índio (FUNAI),1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+5,instituto da mulher negra de sao paulo geledes,Instituto da Mulher Negra de São Paulo - Geledés,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+5,ministerio da educacao,Ministério da Educação,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+5,movimento negro socialista,Movimento Negro Socialista,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+5,senado federal,Senado Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+5,uniao nacional dos estudantes une,União Nacional dos Estudantes (UNE),1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+5,universidade do estado do amazonas,Universidade do Estado do Amazonas,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,1
+5,universidade federal de santa catarina,UNIVERSIDADE FEDERAL DE SANTA CATARINA,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,2
+5,universidade federal de santa maria ufsm,UNIVERSIDADE FEDERAL DE SANTA MARIA -UFSM,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,2
+6,advocacia geral da uniao,ADVOCACIA-GERAL DA UNIÃO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+6,associacao brasileira de psiquiatria,ASSOCIAÇÃO BRASILEIRA DE PSIQUIATRIA,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+6,associacao nacional de defensores publicos anadep,Associação Nacional de Defensores Públicos - ANADEP,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+6,comunidade de juristas de lingua portuguesa,Comunidade de Juristas de Língua Portuguesa,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+6,departamento de transito do distrito federal,DEPARTAMENTO DE TRÂNSITO DO DISTRITO FEDERAL,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+6,ministerio da saude,MINISTÉRIO DA SAÚDE,1,1,"[""Atores públicos""]",1,unica,Atores públicos,2
+6,operacao lei seca do rio de janeiro governo do estado do rio de janeiro,OPERAÇÃO LEI SECA DO RIO DE JANEIRO / GOVERNO DO ESTADO DO RIO DE JANEIRO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+6,universidade candido mendes,UNIVERSIDADE CÂNDIDO MENDES,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+7,associacao brasileira dos expostos ao amianto,ASSOCIAÇÃO BRASILEIRA DOS EXPOSTOS AO AMIANTO,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,11
+7,confederacao nacional dos trabalhadores na industria,CONFEDERAÇÃO NACIONAL DOS TRABALHADORES NA INDÚSTRIA,1,1,"[""Atores privados""]",1,unica,Atores privados,7
+7,fundacentro,FUNDACENTRO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,3
+8,anatel,ANATEL,1,1,"[""Atores públicos""]",1,unica,Atores públicos,22
+8,apro associacao brasileira de producao de obras audiovisuais,APRO - Associação Brasileira de Produção de Obras Audiovisuais,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+8,associacao brasileira de televisao por assinatura abta,ASSOCIAÇÃO BRASILEIRA DE TELEVISÃO POR ASSINATURA - ABTA,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+8,camara dos deputados,Câmara dos Deputados,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+8,sicav rj,SICAV-RJ,1,1,"[""Atores privados""]",1,unica,Atores privados,3
+8,tv cidade s a,TV Cidade S.A.,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+9,eletrobras,Eletrobras,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+9,empresa de pesquisa energetica,Empresa de Pesquisa Energética,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+9,operador nacional do sistema eletrico ons,Operador Nacional do Sistema Elétrico - ONS,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+10,abema,ABEMA,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+10,alcopar,ALCOPAR,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+10,ascana,ASCANA,1,2,"[""Atores privados""]",1,unica,Atores privados,1
+10,assomogi associacao dos produtores de cana do vale do mogi,ASSOMOGI - Associação dos Produtores de Cana do Vale do Mogi,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+10,bndes,BNDES,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+10,contag,CONTAG,1,2,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+10,embrapa,EMBRAPA,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+10,esalq usp,ESALQ/USP,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,3
+10,federacao da agricultura de alagoas faeal,FEDERAÇÃO DA AGRICULTURA DE ALAGOAS - FAEAL,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+10,feplana,FEPLANA,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+10,ministerio publico do trabalho mpt,MINISTÉRIO PÚBLICO DO TRABALHO - MPT,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+10,orplana,ORPLANA,1,2,"[""Atores privados""]",1,unica,Atores privados,1
+10,sindacucar,SINDAÇÚCAR,1,2,"[""Atores privados""]",1,unica,Atores privados,1
+10,uniao da agroindustria canavieira do estado de sao paulo unica,UNIÃO DA AGROINDÚSTRIA CANAVIEIRA DO ESTADO DE SÃO PAULO - UNICA,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+11,agencia penitenciaria do mato grosso do sul,AGÊNCIA PENITENCIÁRIA DO MATO GROSSO DO SUL,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+11,conselho federal da ordem dos advogados do brasil,CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO BRASIL,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,1
+11,conselho nacional do ministerio publico,CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+11,defensoria publica da uniao,DEFENSORIA PÚBLICA DA UNIÃO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+11,defensoria publica do estado de sao paulo,DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+11,defensoria publica do estado do para,DEFENSORIA PÚBLICA DO ESTADO DO PARÁ,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+11,defensoria publica geral do estado do rio grande do sul,DEFENSORIA PÚBLICA-GERAL DO ESTADO DO RIO GRANDE DO SUL,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+11,ministerio publico do estado de sao paulo,MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+11,pastoral carceraria cnbb,PASTORAL CARCERÁRIA - CNBB,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+11,tribunal de justica do estado do maranhao,TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+12,associacao nacional dos procuradores municipais,ASSOCIAÇÃO NACIONAL DOS PROCURADORES MUNICIPAIS,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+12,conferencia nacional dos bispos do brasil,CONFERÊNCIA NACIONAL DOS BISPOS DO BRASIL,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,3
+12,conselho federal da oab,CONSELHO FEDERAL DA OAB,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,3
+12,escola nacional da magistratura,ESCOLA NACIONAL DA MAGISTRATURA,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+12,instituto dos advogados de sao paulo iasp,INSTITUTO DOS ADVOGADOS DE SÃO PAULO -IASP,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+12,instituto universitario de pesquisa do rio de janeiro iuprj,INSTITUTO UNIVERSITÁRIO DE PESQUISA DO RIO DE JANEIRO - IUPRJ,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+12,tribunal de contas do distrito federal,TRIBUNAL DE CONTAS DO DISTRITO FEDERAL,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+12,universidade de brasilia,UNIVERSIDADE DE BRASÍLIA,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+12,universidade federal do parana,UNIVERSIDADE FEDERAL DO PARANÁ,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+13,instituto historico e geografico brasileiro,INSTITUTO HISTÓRICO E GEOGRÁFICO BRASILEIRO,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,2
+13,ministerio da cultura,MINISTÉRIO DA CULTURA,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+13,ministerio publico federal,Ministério Público Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+13,ordem dos advogados do brasil,ORDEM DOS ADVOGADOS DO BRASIL,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,5
+13,sindicato interestadual da industria audio visual,SINDICATO INTERESTADUAL DA INDÚSTRIA ÁUDIO VISUAL,1,1,"[""Atores privados""]",1,unica,Atores privados,1
+13,sindicato nacional dos editores de livros,SINDICATO NACIONAL DOS EDITORES DE LIVROS,1,1,"[""Atores privados""]",1,unica,Atores privados,2
+13,ufrj,UFRJ,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,3
+14,advocacia geral da uniao,Advocacia-Geral da União,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+14,associacao brasileira de educacao medica,Associação Brasileira de Educação Médica,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,2
+14,associacao medica brasileira,Associação Médica Brasileira,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,3
+14,ministerio publico,Ministério Público,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+14,ministerio publico do trabalho,Ministério Público do Trabalho,1,1,"[""Atores públicos""]",1,unica,Atores públicos,9
+14,ministerio publico do trabalho conap,Ministério Público do Trabalho - CONAP,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+14,tribunal de contas da uniao,Tribunal de Contas da União,1,1,"[""Atores públicos""]",1,unica,Atores públicos,4
+15,abramus,ABRAMUS,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,3
+15,abramus oab,ABRAMUS; OAB,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+15,cade,CADE,1,1,"[""Atores públicos""]",1,unica,Atores públicos,14
+15,ministerio publico federal,Ministério Público Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+15,senado federal,Senado Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,6
+16,abrasco universidade de sao paulo,ABRASCO / Universidade de São Paulo,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+16,advocacia geral da uniao,Advocacia-Geral da União,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+16,agencia nacional de saude suplementar ans,Agência Nacional de Saúde Suplementar (ANS),1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+16,confederacao nacional de saude cns federacao nacional dos estabelecimentos de servicos de saude fnaes,Confederação Nacional de Saúde (CNS) / Federação Nacional dos Estabelecimentos de Serviços de Saúde (FNAES),1,1,"[""Atores privados""]",1,unica,Atores privados,0
+16,conselho nacional de saude,Conselho Nacional de Saúde,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,1
+18,advocacia geral do estado de minas gerais,ADVOCACIA-GERAL DO ESTADO DE MINAS GERAIS,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+18,associacao dos magistrados brasileiros,Associação dos Magistrados Brasileiros,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+18,banco central do brasil,Banco Central do Brasil,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+18,banco do brasil,BANCO DO BRASIL,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+18,governo da paraiba,GOVERNO DA PARAÍBA,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+18,governo do rio de janeiro,GOVERNO DO RIO DE JANEIRO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+18,governo do rio grande do sul,GOVERNO DO RIO GRANDE DO SUL,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+18,senado federal,SENADO FEDERAL,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+18,tribunal de justica do estado do rio grande do sul,TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+19,centro de estudos em sustentabilidade da escola de administracao da fundacao getulio vargas,Centro de Estudos em Sustentabilidade da Escola de Administração da Fundação Getúlio Vargas,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+19,frente parlamentar ambientalista,Frente Parlamentar Ambientalista,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+19,imazon,IMAZON,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+19,instituto nacional de pesquisas da amazonia,Instituto Nacional de Pesquisas da Amazônia,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+19,ministerio da defesa,Ministério da Defesa,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+19,movimento dos trabalhadores rurais sem terra,Movimento dos Trabalhadores Rurais Sem Terra,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+19,procurador da republica ministerio publico,Procurador da República / Ministério Público,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+22,faculdade de direito de ribeirao preto universidade de sao paulo,Faculdade de Direito de Ribeirão Preto - Universidade de São Paulo,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+22,instituto brasileiro de ciencias criminais ibccrim,Instituto Brasileiro de Ciências Criminais - IBCCRIM,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,2
+22,instituto de tecnologia e sociedade do rio de janeiro its rio,Instituto de Tecnologia e Sociedade do Rio de Janeiro - ITS Rio,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,2
+22,tribunal de justica de sao paulo,Tribunal de Justiça de São Paulo,1,1,"[""Atores públicos""]",1,unica,Atores públicos,2
+28,bancada ativista,Bancada Ativista,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+28,brasil 21,Brasil 21,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+28,insper,INSPER,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+28,instituto brasiliense de direito publico,Instituto Brasiliense de Direito Público,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+28,ministerio publico federal,Ministério Público Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+28,movimento acredito,Movimento Acredito,1,2,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+28,movimento de combate a corrupcao eleitoral mcce,Movimento de Combate à Corrupção Eleitoral - MCCE,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+28,movimento livres e renova br,Movimento Livres e Renova BR,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+28,partido da mobilizacao nacional pmn,Partido da Mobilização Nacional - PMN,1,1,"[""Partido Político""]",1,unica,Partido Político,0
+28,partido democratas dem,Partido Democratas - DEM,1,1,"[""Partido Político""]",1,unica,Partido Político,0
+28,partido novo,PARTIDO NOVO,1,1,"[""Partido Político""]",1,unica,Partido Político,0
+28,partido republicano,PARTIDO REPUBLICANO,1,1,"[""Partido Político""]",1,unica,Partido Político,0
+28,partido solidariedade,PARTIDO SOLIDARIEDADE,1,1,"[""Partido Político""]",1,unica,Partido Político,0
+28,rede sustentabilidade,Rede Sustentabilidade,1,1,"[""Partido Político""]",1,unica,Partido Político,0
+28,senado federal,Senado Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+28,ufmg,UFMG,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+28,universidade do estado de sao paulo,Universidade do Estado de São Paulo,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+29,facebook servicos online do brasil ltda,Facebook Serviços Online do Brasil Ltda.,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+29,ministerio publico federal,Ministério Público Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+29,oab comissao especial de producao de dados,OAB - Comissão Especial de Produção de Dados,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+29,universidade de sao paulo usp,Universidade de São Paulo - USP,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+29,yahoo brasil,Yahoo! Brasil,1,2,"[""Atores privados""]",1,unica,Atores privados,0
+30,advocacia geral da uniao,Advocacia-Geral da União,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+30,associacao brasileira do agronegocio abag,ASSOCIAÇÃO BRASILEIRA DO AGRONEGÓCIO - ABAG,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+30,greenpeace brasil,Greenpeace Brasil,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+30,instituto democracia e sustentabilidade,INSTITUTO DEMOCRACIA E SUSTENTABILIDADE,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+30,ministerio da agricultura pecuaria e abastecimento,"Ministério da Agricultura, Pecuária e Abastecimento",1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+30,ministerio de estado de minas e energia,MINISTÉRIO DE ESTADO DE MINAS E ENERGIA,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+30,partido socialista brasileiro,PARTIDO SOCIALISTA BRASILEIRO,1,1,"[""Outros""]",1,unica,Outros,0
+30,procuradoria geral da republica ministerio publico federal,Procuradoria-Geral da República / Ministério Público Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+30,programa das nacoes unidas para o meio ambiente pnuma,PROGRAMA DAS NAÇÕES UNIDAS PARA O MEIO AMBIENTE - PNUMA,1,1,"[""Outros""]",1,unica,Outros,0
+30,vale s a,Vale S/A,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+31,advocacia geral da uniao,Advocacia-Geral da União,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+31,departamento de fisica aplicada da usp e ex diretor do inpe,DEPARTAMENTO DE FÍSICA APLICADA DA USP E EX-DIRETOR DO INPE,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,1
+31,fundacao nacional do indio funai,FUNDAÇÃO NACIONAL DO ÍNDIO - FUNAI,1,1,"[""Atores públicos""]",1,unica,Atores públicos,4
+31,governo do estado de rondonia,Governo do Estado de Rondônia,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+31,instituto nacional de pesquisas da amazonia inpa,Instituto Nacional de Pesquisas da Amazônia – INPA,2,2,"[""Acadêmicos""]",1,unica,Acadêmicos,2
+31,ministerio publico federal,MINISTÉRIO PÚBLICO FEDERAL,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+31,observatorio do clima,Observatório do Clima,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+31,secretaria estadual do meio ambiente do acre,SECRETARIA ESTADUAL DO MEIO AMBIENTE DO ACRE,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+31,secretaria estadual do meio ambiente do amapa,SECRETARIA ESTADUAL DO MEIO AMBIENTE DO AMAPÁ,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+31,secretaria estadual do meio ambiente do maranhao,SECRETARIA ESTADUAL DO MEIO AMBIENTE DO MARANHÃO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+31,secretaria estadual do meio ambiente do para,SECRETARIA ESTADUAL DO MEIO AMBIENTE DO PARÁ,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+32,anistia internacional brasil,Anistia Internacional Brasil,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+32,assembleia legislativa do estado do rio de janeiro,Assembleia Legislativa do Estado do Rio de Janeiro,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+32,centro pela justica e direito internacional cejil,Centro pela Justiça e Direito Internacional - CEJIL,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+32,cesec observatorio da seguranca do rio,CESeC / Observatório da Segurança do Rio,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+32,coletivo papo reto,Coletivo Papo Reto,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+32,conectas direitos humanos,CONECTAS DIREITOS HUMANOS,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+32,conselho nacional do ministerio publico,Conselho Nacional do Ministério Público,2,2,"[""Atores públicos""]",1,unica,Atores públicos,3
+32,defensoria publica do estado do rio de janeiro,DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,10
+32,educafro,EDUCAFRO,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,5
+32,grupo maes da mare vitimas da violencia do estado,GRUPO MÃES DA MARÉ VÍTIMAS DA VIOLÊNCIA DO ESTADO,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+32,human rights watch,Human Rights Watch,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+32,iniciativa direito a memoria e justica racial,INICIATIVA DIREITO À MEMÓRIA E JUSTIÇA RACIAL,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+32,insper,INSPER,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+32,instituto alana,INSTITUTO ALANA,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,3
+32,instituto brasileiro de ciencias criminais,INSTITUTO BRASILEIRO DE CIÊNCIAS CRIMINAIS,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,3
+32,instituto fogo cruzado,Instituto Fogo Cruzado,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+32,ministerio publico do estado do rio de janeiro,MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,15
+32,movimento parem de nos matar,Movimento Parem de Nos Matar,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+32,nucleo de estudos da cidadania conflito e violencia urbana da universidade federal do rio de janeiro,Núcleo de Estudos da Cidadania Conflito e Violência Urbana da Universidade Federal do Rio de Janeiro,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+32,procuradoria federal dos direitos do cidadao ministerio publico federal,Procuradoria Federal dos Direitos do Cidadão / Ministério Público Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+32,rede da mare,Rede da Maré,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+32,rede rio crianca,Rede Rio Criança,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+32,universidade estadual do rio de janeiro,UNIVERSIDADE ESTADUAL DO RIO DE JANEIRO,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,1
+32,universidade federal de santa catarina ufsc,UNIVERSIDADE FEDERAL DE SANTA CATARINA - UFSC,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+33,agenda nacional pelo desencacerarmento,AGENDA NACIONAL PELO DESENCACERARMENTO,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+33,camara dos deputados,Câmara dos Deputados,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+33,conselho federal de psicologia cfp,Conselho Federal de Psicologia - CFP,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+33,conselho nacional de justica,CONSELHO NACIONAL DE JUSTIÇA,1,1,"[""Atores públicos""]",1,unica,Atores públicos,3
+33,conselho nacional do ministerio publico,CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+33,defensoria publica do estado do rio de janeiro,DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO,1,2,"[""Atores públicos""]",1,unica,Atores públicos,0
+33,educafro,EDUCAFRO,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+33,frente estadual pelo desencarceramento de pernambuco,FRENTE ESTADUAL PELO DESENCARCERAMENTO DE PERNAMBUCO,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+33,instituto igarape,INSTITUTO IGARAPÉ,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+33,justica global,JUSTIÇA GLOBAL,1,2,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+33,tribunal de justica do estado do espirito santo,TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+33,tribunal de justica do estado do parana,TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+35,associacao dos juizes federais ajufe,ASSOCIAÇÃO DOS JUÍZES FEDERAIS - AJUFE,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,8
+35,conselho nacional de justica,CONSELHO NACIONAL DE JUSTIÇA,1,1,"[""Atores públicos""]",1,unica,Atores públicos,42
+35,defensoria publica da uniao,Defensoria Pública da União,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+35,defensoria publica do estado do rio de janeiro,DEFENSORIA PÚBLICA DO ESTADO DO RIO DE JANEIRO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,17
+35,departamento de policia federal,DEPARTAMENTO DE POLÍCIA FEDERAL,1,1,"[""Atores públicos""]",1,unica,Atores públicos,4
+35,federacao nacional dos advogados,FEDERAÇÃO NACIONAL DOS ADVOGADOS,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,13
+35,federacao nacional dos policiais federais,FEDERAÇÃO NACIONAL DOS POLICIAIS FEDERAIS,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,4
+35,grupo prerrogativas,Grupo Prerrogativas,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+35,instituto brasileiro de ciencias criminais ibccrim,INSTITUTO BRASILEIRO DE CIÊNCIAS CRIMINAIS - IBCCRIM,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,11
+35,instituto de direito e economia do rio grande do sul,INSTITUTO DE DIREITO E ECONOMIA DO RIO GRANDE DO SUL,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,4
+35,instituto de garantias penais igp,INSTITUTO DE GARANTIAS PENAIS - IGP,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,35
+35,instituto de protecao das garantias individuais,INSTITUTO DE PROTEÇÃO DAS GARANTIAS INDIVIDUAIS,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,32
+35,internetlab,INTERNETLAB,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,4
+35,ministerio publico do estado do ceara,MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ,1,1,"[""Atores públicos""]",1,unica,Atores públicos,4
+35,ministerio publico do estado do maranhao,MINISTÉRIO PÚBLICO DO ESTADO DO MARANHÃO,1,2,"[""Atores públicos""]",1,unica,Atores públicos,15
+35,ministerio publico do estado do tocantins,MINISTÉRIO PÚBLICO DO ESTADO DO TOCANTINS,1,1,"[""Atores públicos""]",1,unica,Atores públicos,4
+35,observatorio da mentalidade inquisitoria,OBSERVATÓRIO DA MENTALIDADE INQUISITÓRIA,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,4
+35,ordem dos advogados do brasil,ORDEM DOS ADVOGADOS DO BRASIL,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,21
+35,sociedade dos advogados criminais do rio de janeiro,Sociedade dos Advogados Criminais do Rio de Janeiro,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+35,tribunal de justica do estado da bahia,TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA,1,1,"[""Atores públicos""]",1,unica,Atores públicos,9
+35,tribunal regional federal da 2a regiao,Tribunal Regional Federal da 2ª Região,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+35,tribunal regional federal da 5a regiao,TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO,1,1,"[""Atores públicos""]",1,unica,Atores públicos,4
+36,associacao brasileira de cirurgia pediatrica,Associação Brasileira de Cirurgia Pediátrica,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+36,associacao brasileira de educacao medica abem,Associação Brasileira de Educação Médica - ABEM,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+36,associacao brasileira de mantenedoras de ensino superior,Associação Brasileira de Mantenedoras de Ensino Superior,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+36,associacao nacional dos centros universitarios,Associação Nacional dos Centros Universitários,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+36,conselho federal de medicina,Conselho Federal de Medicina,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,4
+36,conselho nacional de secretarios de saude conass,Conselho Nacional de Secretários de Saúde - CONASS,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+36,ministerio da saude,Ministério da Saúde,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+36,secretaria de saude do municipio de alagoinhas ba,"Secretaria de Saúde do Município de Alagoinhas, BA",1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+36,sociedade beneficente israelita brasileira albert einstein,Sociedade Beneficente Israelita Brasileira Albert Einstein,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+36,sociedade brasileira de cardiologia,Sociedade Brasileira de Cardiologia,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,1
+36,sociedade brasileira de epidemiologia,Sociedade Brasileira de Epidemiologia,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0
+38,associacao nacional dos editores de revistas aner,ASSOCIAÇÃO NACIONAL DOS EDITORES DE REVISTAS - ANER,1,1,"[""Atores privados""]",1,unica,Atores privados,2
+38,autoridade nacional de protecao de dados pessoais anpd,Autoridade Nacional de Proteção de Dados Pessoais - ANPD,1,1,"[""Atores públicos""]",1,unica,Atores públicos,1
+38,camara dos deputados,Câmara dos Deputados,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+38,getedu,GETEDU,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+38,instituto alana,INSTITUTO ALANA,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,10
+38,instituto brasileiro de politica e direito do consumidor,INSTITUTO BRASILEIRO DE POLÍTICA E DIREITO DO CONSUMIDOR,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,22
+38,internetlab,INTERNETLAB,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,10
+38,mercado livre,Mercado Livre,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+38,ministerio das comunicacoes mc,Ministério das Comunicações - MC,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+38,procuradoria geral da republica,Procuradoria-Geral da República,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+38,twitter brasil,Twitter Brasil,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+41,defensoria publica da uniao,Defensoria Pública da União,1,1,"[""Atores públicos""]",1,unica,Atores públicos,10
+41,fedearroz federacao das associacoes de arrozeiros do rio grande do sul,FEDEARROZ - Federação das Associações de Arrozeiros do Rio Grande do Sul,1,1,"[""Atores privados""]",1,unica,Atores privados,0
+41,ministerio publico federal,Ministério Público Federal,1,1,"[""Atores públicos""]",1,unica,Atores públicos,0
+44,observatorio da qualidade da lei ufmg legislab,Observatório da Qualidade da Lei - UFMG - Legislab,1,1,"[""Acadêmicos""]",1,unica,Acadêmicos,0
+44,transparencia brasil,Transparência Brasil,1,1,"[""Sociedade civil""]",1,unica,Sociedade civil,0

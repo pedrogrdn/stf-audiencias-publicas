@@ -1,0 +1,52 @@
+[
+  {
+    "caso": 1,
+    "id": "AP01-AP_01_ADI_3510-00002",
+    "celulas": "Revisão!D6:G6",
+    "decisao": "Alterar",
+    "comentario": null,
+    "original": {
+      "id": "AP01-AP_01_ADI_3510-00002",
+      "audiencia": "1",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "alvo": "audiência pública",
+    "frase": "dessa tão alongada quanto substanciosa audiência pública, o que",
+    "audiencia": 1,
+    "processo": "ADI 3510",
+    "pagina_pdf": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "fonte_decisao": "Confirmação expressa do usuário no chat em 2026-10-13"
+  },
+  {
+    "caso": 3,
+    "id": "AP01-AP_01_ADI_3510-00020",
+    "celulas": "Revisão!D8:G8",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP01-AP_01_ADI_3510-00020",
+      "audiencia": "1",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "alvo": "ANTONIO CARLOS CAMPOS DE CARVALHO",
+    "frase": "Antonio Carlos Campos de Carvalho busca mecanismos de diferenciação e uso",
+    "audiencia": 1,
+    "processo": "ADI 3510",
+    "pagina_pdf": 119,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "fonte_decisao": "Confirmação expressa do usuário no chat em 2026-10-13"
+  }
+]

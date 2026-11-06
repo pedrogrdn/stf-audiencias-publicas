@@ -1,0 +1,21 @@
+{
+  "validacoes": {
+    "3455_candidatos_ids_unicos": true,
+    "1288_incorporados_ids_unicos": true,
+    "decisoes_conclusivas": true,
+    "tipos_finais": true,
+    "corpus_final_vista_incorporados": true,
+    "405_participacoes_unicas": true,
+    "6_categorias_405_classificados": true,
+    "380_pares_307_mencoes_141_participacoes": true,
+    "chaves_estrangeiras_validas": true,
+    "H23_preserva_405_participantes": true,
+    "H23_31_AP_28_comparaveis": true,
+    "contexto_preservado": true,
+    "50_acordaos_125_documentos_audiencias": true,
+    "documentos_integrais_hashes_validos": true
+  },
+  "arquivos_sha256_verificados": 0,
+  "chamadas_api": 0,
+  "estado": "aprovado"
+}

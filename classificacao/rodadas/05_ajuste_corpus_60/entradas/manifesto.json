@@ -1,0 +1,13 @@
+{
+  "sha256": {
+    "entradas.json": "1d3e2a07e44ae100c67edd740a96ab03aff85ac63e76f2d63646e33bd65564e7",
+    "gabarito_original.json": "1767e9b0bf71fdb1fc9dbbcb9d22a8b7380b94ba015e1ce0ef24b2e764406557",
+    "instrucoes.txt": "585767b6f8e47c075131eae8ab5c8adaca38086a2611d928f03c6ece44dabc24"
+  },
+  "planilha_revisada_sha256": "c93929ff38610b1a219269b6e262517376cdd8572a512c593ebc1848fdc2fe0d",
+  "n": 60,
+  "finalidade": "Ajuste nos mesmos 60 casos já revisados; não é validação independente. Corpus comparado à revisão humana; tipos históricos não foram revistos nesta etapa e são apenas diagnósticos.",
+  "alteracoes": "Regras gerais revistas e confirmação de participação de Édis Milaré fornecida pelo pesquisador. Nenhum rótulo por caso é enviado.",
+  "contextos": "Mesmos recortes de v1; listas sem introdução podem continuar indeterminadas.",
+  "precos": "Tarifas de referência herdadas; limite estimado US$ 0,50."
+}

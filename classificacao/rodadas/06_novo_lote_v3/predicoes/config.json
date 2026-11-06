@@ -1,0 +1,30 @@
+{
+  "modelo": "claude-sonnet-5",
+  "estimativa_usd": 0.23035,
+  "thinking": "disabled",
+  "max_tokens": 200,
+  "manifesto": {
+    "n": 30,
+    "sha256": {
+      "entradas.json": "f0859d711bc2eff0ac26286b0a0c6ec2e1fd647e95823516e457e82a6861528e",
+      "gabarito_original.json": "fca8e792eaffc4fe8d5e51ad3d27b2a64e84f64898e9c11f4f2ec9e11a3c7892",
+      "instrucoes.txt": "00dba008b3334190a30b978c5bd53e94d18fe01be2a43378838c944ee1659664"
+    },
+    "fonte_sha256": "4d7611d51b571249bccd9d156f44770ce9caa2d273e524a6a6d52ec40ee7332d",
+    "finalidade": "Novo lote diagnóstico, não avaliado anteriormente pelo Claude por ID ou menção idêntica. Origem: treino local. Gabarito histórico; corpus é o foco e tipos são diagnósticos. Não é teste independente da pesquisa.",
+    "audiencias": {
+      "1": 3,
+      "3": 4,
+      "4": 2,
+      "5": 4,
+      "8": 4,
+      "12": 4,
+      "14": 3,
+      "15": 3,
+      "18": 1,
+      "32": 2
+    },
+    "selecao": "15 Excluir e 15 Incorporar. Rodízio por audiência; IDs e menções textualmente idênticas às já avaliadas são evitados, não toda equivalência semântica.",
+    "contexto": "Recortes originais preservados. Não houve expansão das páginas nem verificação adicional de posição processual."
+  }
+}

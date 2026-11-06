@@ -1,0 +1,277 @@
+[
+  {
+    "id": "AP38-AP_38_RE_1057258-00002",
+    "humano": "Contexto",
+    "ia": "Contexto",
+    "saida_bruta": "{\"tipo\": \"Contexto\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 9105,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5",
+    "response_id": "msg_011CevgDCpdLimmu8RiaEFw9",
+    "segundos": 1.569
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00038",
+    "humano": "Relato",
+    "ia": "Relato",
+    "saida_bruta": "{\"tipo\": \"Relato\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 9123,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5",
+    "response_id": "msg_011CevgDJmpRsfSTsaALNdkD",
+    "segundos": 1.397
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00058",
+    "humano": "Relato",
+    "ia": "Relato",
+    "saida_bruta": "{\"tipo\": \"Relato\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 8637,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5",
+    "response_id": "msg_011CevgDR9Hn6wwpTowFYv1z",
+    "segundos": 1.443
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00064",
+    "humano": "Argumento",
+    "ia": "Argumento",
+    "saida_bruta": "{\"tipo\": \"Argumento\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 7458,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5",
+    "response_id": "msg_011CevgDXCfuoaKPWFRVowAX",
+    "segundos": 1.425
+  },
+  {
+    "id": "AP38-AP_38_RE_1057258-00011",
+    "humano": "Argumento",
+    "ia": "Contexto",
+    "saida_bruta": "{\"tipo\": \"Contexto\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 8095,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5",
+    "response_id": "msg_011CevgDcebGRhdWA7U9qLgK",
+    "segundos": 1.291
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00083",
+    "humano": "Contexto",
+    "ia": "Argumento",
+    "saida_bruta": "{\"tipo\": \"Argumento\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 13734,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5",
+    "response_id": "msg_011CevgDiXojr7J8Vtw4239G",
+    "segundos": 1.458
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00087",
+    "humano": "Contexto",
+    "ia": "Contexto",
+    "saida_bruta": "{\"tipo\": \"Contexto\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 7152,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5",
+    "response_id": "msg_011CevgDpnMKrDYHVdhpki7r",
+    "segundos": 1.39
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00123",
+    "humano": "Contexto",
+    "ia": "Contexto",
+    "saida_bruta": "{\"tipo\": \"Contexto\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 14032,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5",
+    "response_id": "msg_011CevgDvfpCJG2ugUQCG34Y",
+    "segundos": 1.352
+  },
+  {
+    "id": "AP38-AP_38_RE_1057258-00032",
+    "humano": "Argumento",
+    "ia": "Relato",
+    "saida_bruta": "{\"tipo\": \"Relato\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 6650,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5",
+    "response_id": "msg_011CevgE2Y2iJSHSKGH7ATyH",
+    "segundos": 1.392
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00169",
+    "humano": "Argumento",
+    "ia": "Relato",
+    "saida_bruta": "{\"tipo\": \"Relato\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 6554,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 14,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5",
+    "response_id": "msg_011CevgE8WhXQhdtvHkkk5aL",
+    "segundos": 1.445
+  },
+  {
+    "id": "AP38-AP_38_RE_1037396-00180",
+    "humano": "Contexto",
+    "ia": "Contexto",
+    "saida_bruta": "{\"tipo\": \"Contexto\"}",
+    "stop_reason": "end_turn",
+    "usage": {
+      "input_tokens": 12791,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 15,
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "modelo_retornado": "claude-sonnet-5",
+    "response_id": "msg_011CevgEEY6V4kABr8R15L6E",
+    "segundos": 1.389
+  }
+]

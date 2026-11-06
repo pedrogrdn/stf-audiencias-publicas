@@ -1,0 +1,85 @@
+﻿ano_julgamento,categoria,n_classificadas_ano,n_com_categoria,incidencia,n_argumento_com_categoria,taxa_argumento_com_categoria,n_audiencias_com_categoria
+2008,Atores públicos,28,0,0.0,0,,0
+2009,Atores públicos,7,5,0.7142857142857143,1,0.2,1
+2010,Atores públicos,25,23,0.92,15,0.6521739130434783,1
+2012,Atores públicos,140,28,0.2,10,0.35714285714285715,2
+2015,Atores públicos,31,5,0.16129032258064516,1,0.2,3
+2016,Atores públicos,33,26,0.7878787878787878,6,0.23076923076923078,3
+2017,Atores públicos,69,40,0.5797101449275363,23,0.575,3
+2018,Atores públicos,20,0,0.0,0,,0
+2020,Atores públicos,5,5,1.0,4,0.8,2
+2021,Atores públicos,5,2,0.4,0,0.0,1
+2022,Atores públicos,14,10,0.7142857142857143,2,0.2,2
+2023,Atores públicos,147,83,0.564625850340136,32,0.3855421686746988,1
+2024,Atores públicos,6,1,0.16666666666666666,1,1.0,1
+2025,Atores públicos,86,35,0.4069767441860465,6,0.17142857142857143,3
+2008,Atores privados,28,0,0.0,0,,0
+2009,Atores privados,7,1,0.14285714285714285,0,0.0,1
+2010,Atores privados,25,0,0.0,0,,0
+2012,Atores privados,140,0,0.0,0,,0
+2015,Atores privados,31,7,0.22580645161290322,1,0.14285714285714285,3
+2016,Atores privados,33,1,0.030303030303030304,0,0.0,1
+2017,Atores privados,69,10,0.14492753623188406,3,0.3,2
+2018,Atores privados,20,0,0.0,0,,0
+2020,Atores privados,5,0,0.0,0,,0
+2021,Atores privados,5,0,0.0,0,,0
+2022,Atores privados,14,0,0.0,0,,0
+2023,Atores privados,147,0,0.0,0,,0
+2024,Atores privados,6,0,0.0,0,,0
+2025,Atores privados,86,2,0.023255813953488372,0,0.0,1
+2008,Sociedade civil,28,0,0.0,0,,0
+2009,Sociedade civil,7,0,0.0,0,,0
+2010,Sociedade civil,25,0,0.0,0,,0
+2012,Sociedade civil,140,77,0.55,28,0.36363636363636365,2
+2015,Sociedade civil,31,11,0.3548387096774194,2,0.18181818181818182,3
+2016,Sociedade civil,33,7,0.21212121212121213,1,0.14285714285714285,2
+2017,Sociedade civil,69,16,0.2318840579710145,1,0.0625,2
+2018,Sociedade civil,20,0,0.0,0,,0
+2020,Sociedade civil,5,0,0.0,0,,0
+2021,Sociedade civil,5,2,0.4,0,0.0,1
+2022,Sociedade civil,14,1,0.07142857142857142,1,1.0,1
+2023,Sociedade civil,147,83,0.564625850340136,13,0.1566265060240964,1
+2024,Sociedade civil,6,5,0.8333333333333334,4,0.8,1
+2025,Sociedade civil,86,48,0.5581395348837209,6,0.125,2
+2008,Acadêmicos,28,28,1.0,19,0.6785714285714286,1
+2009,Acadêmicos,7,1,0.14285714285714285,0,0.0,1
+2010,Acadêmicos,25,2,0.08,2,1.0,1
+2012,Acadêmicos,140,38,0.2714285714285714,16,0.42105263157894735,2
+2015,Acadêmicos,31,8,0.25806451612903225,1,0.125,3
+2016,Acadêmicos,33,0,0.0,0,,0
+2017,Acadêmicos,69,0,0.0,0,,0
+2018,Acadêmicos,20,20,1.0,20,1.0,1
+2020,Acadêmicos,5,0,0.0,0,,0
+2021,Acadêmicos,5,3,0.6,0,0.0,1
+2022,Acadêmicos,14,3,0.21428571428571427,0,0.0,1
+2023,Acadêmicos,147,10,0.06802721088435375,1,0.1,2
+2024,Acadêmicos,6,0,0.0,0,,0
+2025,Acadêmicos,86,1,0.011627906976744186,0,0.0,1
+2008,Partido Político,28,0,0.0,0,,0
+2009,Partido Político,7,0,0.0,0,,0
+2010,Partido Político,25,0,0.0,0,,0
+2012,Partido Político,140,0,0.0,0,,0
+2015,Partido Político,31,0,0.0,0,,0
+2016,Partido Político,33,0,0.0,0,,0
+2017,Partido Político,69,0,0.0,0,,0
+2018,Partido Político,20,0,0.0,0,,0
+2020,Partido Político,5,0,0.0,0,,0
+2021,Partido Político,5,0,0.0,0,,0
+2022,Partido Político,14,0,0.0,0,,0
+2023,Partido Político,147,0,0.0,0,,0
+2024,Partido Político,6,0,0.0,0,,0
+2025,Partido Político,86,0,0.0,0,,0
+2008,Outros,28,0,0.0,0,,0
+2009,Outros,7,0,0.0,0,,0
+2010,Outros,25,0,0.0,0,,0
+2012,Outros,140,3,0.02142857142857143,1,0.3333333333333333,2
+2015,Outros,31,3,0.0967741935483871,0,0.0,1
+2016,Outros,33,0,0.0,0,,0
+2017,Outros,69,4,0.057971014492753624,0,0.0,1
+2018,Outros,20,0,0.0,0,,0
+2020,Outros,5,0,0.0,0,,0
+2021,Outros,5,0,0.0,0,,0
+2022,Outros,14,0,0.0,0,,0
+2023,Outros,147,0,0.0,0,,0
+2024,Outros,6,0,0.0,0,,0
+2025,Outros,86,0,0.0,0,,0

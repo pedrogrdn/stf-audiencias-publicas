@@ -1,0 +1,381 @@
+﻿ocorrencia_id,audiencia,ordem_no_campo,campo_origem,nome_ou_entidade_original,nome_ou_entidade_normalizado,nivel_vinculo,status,ator_id,categoria_final,categoria_json,flag_divergencia_json_xlsx,caminho_match,rotulo_exibicao
+AP01-AP_01_ADI_3510-00004,1,0,pessoa,MAYANA ZATZ,mayana zatz,A,resolvido,AP01_P016,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00005,1,0,pessoa,LENISE APARECIDA MARTINS GARCIA,lenise aparecida martins garcia,A,resolvido,AP01_P010,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00006,1,0,pessoa,DÉBORA DINIZ,debora diniz,A,resolvido,AP01_P006,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00007,1,0,pessoa,DÉBORA DINIZ,debora diniz,A,resolvido,AP01_P006,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00009,1,0,pessoa,RICARDO RIBEIRO DOS SANTOS,ricardo ribeiro dos santos,A,resolvido,AP01_P018,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00010,1,0,pessoa,PATRÍCIA HELENA LUCAS PRANKE,patricia helena lucas pranke,A,resolvido,AP01_P017,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00011,1,0,pessoa,MAYANA ZATZ,mayana zatz,A,resolvido,AP01_P016,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00016,1,0,pessoa,STEVENS REHEN,stevens rehen,A,resolvido,AP01_P022,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00017,1,0,pessoa,JÚLIO CÉSAR VOLTARELLI,julio cesar voltarelli,A,resolvido,AP01_P009,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00019,1,0,pessoa,RICARDO RIBEIRO DOS SANTOS,ricardo ribeiro dos santos,A,resolvido,AP01_P018,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00020,1,0,pessoa,ANTONIO CARLOS CAMPOS DE CARVALHO,antonio carlos campos de carvalho,A,resolvido,AP01_P002,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00021,1,0,pessoa,LYGIA PEREIRA,lygia pereira,A,resolvido,AP01_P014,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00022,1,0,pessoa,CLÁUDIA MARIA DE CASTRO BATISTA,claudia maria de castro batista,A,resolvido,AP01_P004,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00023,1,0,pessoa,DALTON LUIZ DE PAULA RAMOS,dalton luiz de paula ramos,A,resolvido,AP01_P005,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00026,1,0,pessoa,LYGIA PEREIRA,lygia pereira,A,resolvido,AP01_P014,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00031,1,0,pessoa,MAYANA ZATZ,mayana zatz,A,resolvido,AP01_P016,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00032,1,0,pessoa,LENISE APARECIDA MARTINS GARCIA,lenise aparecida martins garcia,A,resolvido,AP01_P010,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00033,1,0,pessoa,ANTÔNIO JOSÉ EÇA,antonio jose eca,A,resolvido,AP01_P003,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00034,1,0,pessoa,ELIZABETH KIPMAN CERQUEIRA,elizabeth kipman cerqueira,A,resolvido,AP01_P007,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00036,1,0,pessoa,ALICE TEIXEIRA FERREIRA,alice teixeira ferreira,A,resolvido,AP01_P001,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00037,1,0,pessoa,RODOLFO ACATAUASSÚ NUNES,rodolfo acatauassu nunes,A,resolvido,AP01_P019,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00038,1,0,pessoa,LYGIA PEREIRA,lygia pereira,A,resolvido,AP01_P014,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00039,1,0,pessoa,MAYANA ZATZ,mayana zatz,A,resolvido,AP01_P016,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00041,1,0,pessoa,LUIZ EUGÊNIO ARAÚJO DE MORAES MELLO,luiz eugenio araujo de moraes mello,A,resolvido,AP01_P013,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00042,1,0,pessoa,MAYANA ZATZ,mayana zatz,A,resolvido,AP01_P016,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00044,1,0,pessoa,MAYANA ZATZ,mayana zatz,A,resolvido,AP01_P016,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00045,1,0,pessoa,ANTONIO CARLOS CAMPOS DE CARVALHO,antonio carlos campos de carvalho,A,resolvido,AP01_P002,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP01-AP_01_ADI_3510-00046,1,0,pessoa,MAYANA ZATZ,mayana zatz,A,resolvido,AP01_P016,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP02-AP_02_ADPF_101-00011,2,0,pessoa,EVANDRO DE SAMPAIO DIDONET,evandro de sampaio didonet,A,resolvido,AP02_P023,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP02-AP_02_ADPF_101-00013,2,0,pessoa,HAROLDO SÉRGIO DA SILVA BEZERRA,haroldo sergio da silva bezerra,A,resolvido,AP02_P024,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP02-AP_02_ADPF_101-00014,2,0,pessoa,EMANUEL ROBERTO DE NORA SERRA,emanuel roberto de nora serra,A,resolvido,AP02_P025,Atores privados,Atores privados,False,exato,Atores privados
+AP02-AP_02_ADPF_101-00015,2,0,pessoa,PAULO JANISSEK,paulo janissek,A,resolvido,AP02_P026,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00010,3,0,pessoa,José Aristodemo Pinotti,jose aristodemo pinotti,A,resolvido,AP03_P060,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00013,3,0,pessoa,Luiz Antônio Bento,luiz antonio bento,A,resolvido,AP03_P047,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00013,3,1,pessoa,Paulo Silveira Martins Leão Junior,paulo silveira martins leao junior,A,resolvido,AP03_P052,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00014,3,0,pessoa,Carlos Macedo de Oliveira,carlos macedo de oliveira,A,resolvido,AP03_P028,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00015,3,0,pessoa,Rodolfo Acatauassú Nunes,rodolfo acatauassu nunes,A,resolvido,AP03_P054,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00017,3,0,pessoa,Maria José Fontelas Rosado Nunes,maria jose fontelas rosado nunes,A,resolvido,AP03_P048,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00018,3,0,pessoa,Irvênia Luíza de Santis Prada,irvenia luiza de santis prada,A,resolvido,AP03_P040,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00018,3,1,pessoa,Marlene Rossi Severino Nobre,marlene rossi severino nobre,A,resolvido,AP03_P050,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00020,3,0,pessoa,Roberto Luiz D’Ávila,roberto luiz d avila,A,resolvido,AP03_P053,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00021,3,0,pessoa,Jorge Andalaft Neto,jorge andalaft neto,A,resolvido,AP03_P042,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00023,3,0,pessoa,Luiz Bassuma,luiz bassuma,A,resolvido,AP03_P061,Outros,Outros,False,exato,Outros
+AP03-AP_03_ADPF_054-00024,3,0,pessoa,Salmo Raskin,salmo raskin,A,resolvido,AP03_P055,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00025,3,0,pessoa,José Aristodemo Pinotti,jose aristodemo pinotti,A,resolvido,AP03_P060,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00026,3,0,pessoa,Lenise Aparecida Martins Garcia,lenise aparecida martins garcia,A,resolvido,AP03_P045,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00027,3,0,pessoa,Thomaz Rafael Gollop,thomaz rafael gollop,A,resolvido,AP03_P057,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00028,3,0,pessoa,Débora Diniz,debora diniz,A,resolvido,AP03_P031,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00030,3,0,pessoa,José Gomes Temporão,jose gomes temporao,A,resolvido,AP03_P044,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00032,3,0,pessoa,Claudia Werneck,claudia werneck,A,resolvido,AP03_P030,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00033,3,0,pessoa,Lia Zanotta Machado,lia zanotta machado,A,resolvido,AP03_P046,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00034,3,0,pessoa,Michele Gomes de Almeida,michele gomes de almeida,A,resolvido,AP03_P062,Outros,Outros,False,exato,Outros
+AP03-AP_03_ADPF_054-00034,3,1,pessoa,Ailton Maranhão de Almeida,ailton maranhao de almeida,A,resolvido,AP03_P058,Outros,Outros,False,exato,Outros
+AP03-AP_03_ADPF_054-00035,3,0,pessoa,Cinthia Macedo Specian,cinthia macedo specian,A,resolvido,AP03_P029,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00037,3,0,pessoa,Dernival da Silva Brandão,dernival da silva brandao,A,resolvido,AP03_P032,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00038,3,0,pessoa,Jacqueline Pitanguy,jacqueline pitanguy,A,resolvido,AP03_P041,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00039,3,0,pessoa,Elizabeth Kipman Cerqueira,elizabeth kipman cerqueira,A,resolvido,AP03_P035,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00040,3,0,pessoa,Eleonora Menecucci de Oliveira,eleonora menecucci de oliveira,A,resolvido,AP03_P034,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00041,3,0,pessoa,Nilcéa Freire,nilcea freire,A,resolvido,AP03_P051,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00042,3,0,pessoa,Talvane Marins de Moraes,talvane marins de moraes,A,resolvido,AP03_P056,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00051,3,0,pessoa,Heverton Neves Pettersen,heverton neves pettersen,A,resolvido,AP03_P038,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00052,3,0,pessoa,Thomaz Rafael Gollop,thomaz rafael gollop,A,resolvido,AP03_P057,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00054,3,0,pessoa,José Aristodemo Pinotti,jose aristodemo pinotti,A,resolvido,AP03_P060,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00055,3,0,pessoa,Heverton Neves Pettersen,heverton neves pettersen,A,resolvido,AP03_P038,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00056,3,0,pessoa,Thomaz Rafael Gollop,thomaz rafael gollop,A,resolvido,AP03_P057,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00057,3,0,pessoa,Jorge Andalaft Neto,jorge andalaft neto,A,resolvido,AP03_P042,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00058,3,0,pessoa,José Gomes Temporão,jose gomes temporao,A,resolvido,AP03_P044,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00061,3,0,pessoa,Thomaz Rafael Gollop,thomaz rafael gollop,A,resolvido,AP03_P057,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00063,3,0,pessoa,Heverton Neves Pettersen,heverton neves pettersen,A,resolvido,AP03_P038,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00064,3,0,pessoa,Lia Zanotta Machado,lia zanotta machado,A,resolvido,AP03_P046,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00065,3,0,pessoa,Claudia Werneck,claudia werneck,A,resolvido,AP03_P030,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00067,3,0,pessoa,Thomaz Rafael Gollop,thomaz rafael gollop,A,resolvido,AP03_P057,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00068,3,0,pessoa,José Gomes Temporão,jose gomes temporao,A,resolvido,AP03_P044,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00069,3,0,pessoa,Débora Diniz,debora diniz,A,resolvido,AP03_P031,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00071,3,0,pessoa,Salmo Raskin,salmo raskin,A,resolvido,AP03_P055,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00071,3,1,pessoa,José Aristodemo Pinotti,jose aristodemo pinotti,A,resolvido,AP03_P060,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00072,3,0,pessoa,Salmo Raskin,salmo raskin,A,resolvido,AP03_P055,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00076,3,0,pessoa,Elizabeth Kipman Cerqueira,elizabeth kipman cerqueira,A,resolvido,AP03_P035,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00077,3,0,pessoa,Jorge Andalaft Neto,jorge andalaft neto,A,resolvido,AP03_P042,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00078,3,0,pessoa,José Gomes Temporão,jose gomes temporao,A,resolvido,AP03_P044,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00079,3,0,pessoa,Talvane Marins de Moraes,talvane marins de moraes,A,resolvido,AP03_P056,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00081,3,0,pessoa,Talvane Marins de Moraes,talvane marins de moraes,A,resolvido,AP03_P056,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00083,3,0,pessoa,Talvane Marins de Moraes,talvane marins de moraes,A,resolvido,AP03_P056,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00084,3,0,pessoa,Jacqueline Pitanguy,jacqueline pitanguy,A,resolvido,AP03_P041,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00085,3,0,pessoa,Elizabeth Kipman Cerqueira,elizabeth kipman cerqueira,A,resolvido,AP03_P035,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00087,3,0,pessoa,Nilcéa Freire,nilcea freire,A,resolvido,AP03_P051,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00089,3,0,pessoa,Débora Diniz,debora diniz,A,resolvido,AP03_P031,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00094,3,0,pessoa,Thomaz Rafael Gollop,thomaz rafael gollop,A,resolvido,AP03_P057,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00096,3,0,pessoa,Rodolfo Acatauassú Nunes,rodolfo acatauassu nunes,A,resolvido,AP03_P054,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00097,3,0,pessoa,Marlene Rossi Severino Nobre,marlene rossi severino nobre,A,resolvido,AP03_P050,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00098,3,0,pessoa,Roberto Luiz D’Ávila,roberto luiz d avila,A,resolvido,AP03_P053,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00098,3,1,pessoa,Jorge Andalaft Neto,jorge andalaft neto,A,resolvido,AP03_P042,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00098,3,2,pessoa,Salmo Raskin,salmo raskin,A,resolvido,AP03_P055,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00099,3,0,pessoa,José Aristodemo Pinotti,jose aristodemo pinotti,A,resolvido,AP03_P060,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00100,3,0,pessoa,Lenise Aparecida Martins Garcia,lenise aparecida martins garcia,A,resolvido,AP03_P045,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00101,3,0,pessoa,Thomaz Rafael Gollop,thomaz rafael gollop,A,resolvido,AP03_P057,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00102,3,0,pessoa,José Gomes Temporão,jose gomes temporao,A,resolvido,AP03_P044,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00103,3,0,pessoa,Claudia Werneck,claudia werneck,A,resolvido,AP03_P030,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00104,3,0,pessoa,Elizabeth Kipman Cerqueira,elizabeth kipman cerqueira,A,resolvido,AP03_P035,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00104,3,1,pessoa,Talvane Marins de Moraes,talvane marins de moraes,A,resolvido,AP03_P056,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00105,3,0,pessoa,Thomaz Rafael Gollop,thomaz rafael gollop,A,resolvido,AP03_P057,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00113,3,0,pessoa,Rodolfo Acatauassú Nunes,rodolfo acatauassu nunes,A,resolvido,AP03_P054,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00115,3,0,pessoa,Salmo Raskin,salmo raskin,A,resolvido,AP03_P055,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00115,3,1,pessoa,Lenise Aparecida Martins Garcia,lenise aparecida martins garcia,A,resolvido,AP03_P045,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00116,3,0,pessoa,Ieda Therezinha do Nascimento Verreschi,ieda therezinha do nascimento verreschi,A,resolvido,AP03_P039,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00117,3,0,pessoa,Talvane Marins de Moraes,talvane marins de moraes,A,resolvido,AP03_P056,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00118,3,0,pessoa,Thomaz Rafael Gollop,thomaz rafael gollop,A,resolvido,AP03_P057,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00122,3,0,pessoa,Lia Zanotta Machado,lia zanotta machado,A,resolvido,AP03_P046,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00124,3,0,pessoa,Débora Diniz,debora diniz,A,resolvido,AP03_P031,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00126,3,0,pessoa,Heverton Neves Pettersen,heverton neves pettersen,A,resolvido,AP03_P038,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00133,3,0,pessoa,Roberto Luiz D’Ávila,roberto luiz d avila,A,resolvido,AP03_P053,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00136,3,0,pessoa,Dernival da Silva Brandão,dernival da silva brandao,A,resolvido,AP03_P032,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00140,3,0,pessoa,Lia Zanotta Machado,lia zanotta machado,A,resolvido,AP03_P046,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00143,3,0,pessoa,Eleonora Menecucci de Oliveira,eleonora menecucci de oliveira,A,resolvido,AP03_P034,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00164,3,0,pessoa,Débora Diniz,debora diniz,A,resolvido,AP03_P031,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00168,3,0,pessoa,Débora Diniz,debora diniz,A,resolvido,AP03_P031,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00183,3,0,pessoa,José Aristodemo Pinotti,jose aristodemo pinotti,A,resolvido,AP03_P060,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00205,3,0,pessoa,Débora Diniz,debora diniz,A,resolvido,AP03_P031,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00206,3,0,pessoa,José Gomes Temporão,jose gomes temporao,A,resolvido,AP03_P044,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00210,3,0,pessoa,Lenise Aparecida Martins Garcia,lenise aparecida martins garcia,A,resolvido,AP03_P045,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00214,3,0,pessoa,Paulo Silveira Martins Leão Junior,paulo silveira martins leao junior,A,resolvido,AP03_P052,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00215,3,0,pessoa,Luiz Antônio Bento,luiz antonio bento,A,resolvido,AP03_P047,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00216,3,0,pessoa,Rodolfo Acatauassú Nunes,rodolfo acatauassu nunes,A,resolvido,AP03_P054,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00217,3,0,pessoa,Lenise Aparecida Martins Garcia,lenise aparecida martins garcia,A,resolvido,AP03_P045,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00218,3,0,pessoa,Cinthia Macedo Specian,cinthia macedo specian,A,resolvido,AP03_P029,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00219,3,0,pessoa,Thomaz Rafael Gollop,thomaz rafael gollop,A,resolvido,AP03_P057,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00220,3,0,pessoa,Cinthia Macedo Specian,cinthia macedo specian,A,resolvido,AP03_P029,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00221,3,0,pessoa,Rodolfo Acatauassú Nunes,rodolfo acatauassu nunes,A,resolvido,AP03_P054,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00222,3,0,pessoa,Rodolfo Acatauassú Nunes,rodolfo acatauassu nunes,A,resolvido,AP03_P054,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00226,3,0,pessoa,Luiz Antônio Bento,luiz antonio bento,A,resolvido,AP03_P047,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00227,3,0,pessoa,Débora Diniz,debora diniz,A,resolvido,AP03_P031,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00227,3,1,pessoa,Claudia Werneck,claudia werneck,A,resolvido,AP03_P030,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00228,3,0,pessoa,Rodolfo Acatauassú Nunes,rodolfo acatauassu nunes,A,resolvido,AP03_P054,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00230,3,0,pessoa,Claudia Werneck,claudia werneck,A,resolvido,AP03_P030,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00233,3,0,pessoa,José Aristodemo Pinotti,jose aristodemo pinotti,A,resolvido,AP03_P060,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00234,3,0,pessoa,José Aristodemo Pinotti,jose aristodemo pinotti,A,resolvido,AP03_P060,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP03-AP_03_ADPF_054-00236,3,0,pessoa,Lenise Aparecida Martins Garcia,lenise aparecida martins garcia,A,resolvido,AP03_P045,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00239,3,0,pessoa,José Gomes Temporão,jose gomes temporao,A,resolvido,AP03_P044,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP03-AP_03_ADPF_054-00240,3,0,pessoa,Claudia Werneck,claudia werneck,A,resolvido,AP03_P030,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP03-AP_03_ADPF_054-00241,3,0,pessoa,Lia Zanotta Machado,lia zanotta machado,A,resolvido,AP03_P046,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP04-AP_04_SS_2944-00025,4,0,pessoa,Ingo W. Sarlet,ingo w sarlet,A,resolvido,AP04_P084,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP04-AP_04_SS_3355-00031,4,0,pessoa,Ingo W. Sarlet,ingo w sarlet,A,resolvido,AP04_P084,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP05-AP_05_ADPF_186-00010,5,0,pessoa,MARIA PAULA DALLARI BUCCI,maria paula dallari bucci,A,resolvido,AP05_P116,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP05-AP_05_ADPF_186-00011,5,0,pessoa,CARLOS FREDERICO DE SOUZA MARES,carlos frederico de souza mares,A,resolvido,AP05_P118,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP05-AP_05_ADPF_186-00014,5,0,pessoa,GEORGE DE CERQUEIRA LEITE ZARUR,george de cerqueira leite zarur,A,resolvido,AP05_P123,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP05-AP_05_ADPF_186-00016,5,0,pessoa,FÁBIO KONDER COMPARATO,fabio konder comparato,A,resolvido,AP05_P119,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP05-AP_05_ADPF_186-00017,5,0,pessoa,FLÁVIA PIOVESAN,flavia piovesan,A,resolvido,AP05_P122,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP05-AP_05_ADPF_186-00018,5,0,pessoa,MARCOS ANTÔNIO CARDOSO,marcos antonio cardoso,A,resolvido,AP05_P126,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP05-AP_05_ADPF_186-00019,5,0,pessoa,SUELI CARNEIRO,sueli carneiro,A,resolvido,AP05_P129,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP05-AP_05_ADPF_186-00020,5,0,pessoa,CARLOS ALBERTO DA COSTA DIAS,carlos alberto da costa dias,A,resolvido,AP05_P117,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP05-AP_05_ADPF_186-00021,5,0,pessoa,JOSÉ ROBERTO FERREIRA MILITÃO,jose roberto ferreira militao,A,resolvido,AP05_P114,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP05-AP_05_ADPF_186-00022,5,0,pessoa,JOSÉ CARLOS MIRANDA,jose carlos miranda,A,resolvido,AP05_P124,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP05-AP_05_ADPF_186-00023,5,0,pessoa,AUGUSTO CANIZELLA CHAGAS,augusto canizella chagas,A,resolvido,AP05_P111,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP05-AP_05_ADPF_186-00027,5,0,pessoa,MARCELO TRAGTENBERG,marcelo tragtenberg,A,resolvido,AP05_P115,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP05-AP_05_ADPF_186-00031,5,0,pessoa,FLÁVIA PIOVESAN,flavia piovesan,A,resolvido,AP05_P122,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP05-AP_05_ADPF_186-00038,5,0,pessoa,FERNANDO HENRIQUE CARDOSO,fernando henrique cardoso,A,resolvido,AP05_P121,Outros,Outros,False,exato,Outros
+AP06-AP_06_ADI_4103-00005,6,0,pessoa,HUGO LEAL,hugo leal,A,resolvido,AP06_P134,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP06-AP_06_ADI_4103-00010,6,0,pessoa,HUGO LEAL,hugo leal,A,resolvido,AP06_P134,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP06-AP_06_ADI_4103-00013,6,0,pessoa,HUGO LEAL,hugo leal,A,resolvido,AP06_P134,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP06-AP_06_ADI_4103-00015,6,0,pessoa,VILMA LEYTON,vilma leyton,A,resolvido,AP06_P133,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP06-AP_06_ADI_4103-00019,6,0,pessoa,HUGO LEAL,hugo leal,A,resolvido,AP06_P134,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP07-AP_07_ADI_3937-00009,7,0,pessoa,EDUARDO AZEREDO COSTA,eduardo azeredo costa,A,resolvido,AP07_P139,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP07-AP_07_ADI_3937-00011,7,0,pessoa,HERMANO ALBUQUERQUE DE CASTRO,hermano albuquerque de castro,A,resolvido,AP07_P140,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP07-AP_07_ADI_3937-00018,7,0,pessoa,ROSEMARY ISHII SANAE ZAMATARO,rosemary ishii sanae zamataro,A,resolvido,AP07_P141,Atores privados,Atores privados,False,exato,Atores privados
+AP07-AP_07_ADI_3937-00070,7,0,pessoa,HERMANO ALBUQUERQUE DE CASTRO,hermano albuquerque de castro,A,resolvido,AP07_P140,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP08-AP_08_ADI_4679-00024,8,0,pessoa,MAURÍCIO FITTIPALDI,mauricio fittipaldi,A,resolvido,AP08_P143,Atores privados,Atores privados,False,exato,Atores privados
+AP08-AP_08_ADI_4747-00023,8,0,pessoa,MAURÍCIO FITTIPALDI,mauricio fittipaldi,A,resolvido,AP08_P143,Atores privados,Atores privados,False,exato,Atores privados
+AP08-AP_08_ADI_4756-00023,8,0,pessoa,MAURÍCIO FITTIPALDI,mauricio fittipaldi,A,resolvido,AP08_P143,Atores privados,Atores privados,False,exato,Atores privados
+AP09-AP_09_RE_627189-00002,9,0,pessoa,PAOLO VECCHIA,paolo vecchia,A,resolvido,AP09_P151,Atores privados,Atores privados,False,exato,Atores privados
+AP10-AP_10_RE_586224-00011,10,0,pessoa,MÁRCIA AZANHA FERRAZ DIAS DE MORAES,marcia azanha ferraz dias de moraes,A,resolvido,AP10_P162,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP11-AP_11_RE_641320-00004,11,0,pessoa,MARCOS ROGÉRIO DA SILVA BRITO,marcos rogerio da silva brito,A,resolvido,AP11_P180,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP11-AP_11_RE_641320-00005,11,0,pessoa,ANDREZZA DUARTE CANÇADO,andrezza duarte cancado,A,resolvido,AP11_P171,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP11-AP_11_RE_641320-00006,11,0,pessoa,FERNANDO SANTANA ROCHA,fernando santana rocha,A,resolvido,AP11_P175,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP11-AP_11_RE_641320-00007,11,0,pessoa,ALINE LIMA DE PAULA MIRANDA,aline lima de paula miranda,A,resolvido,AP11_P170,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP11-AP_11_RE_641320-00007,11,1,pessoa,NILTON LEONEL ARNECKE MARIA,nilton leonel arnecke maria,A,resolvido,AP11_P178,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP11-AP_11_RE_641320-00007,11,2,pessoa,JOSÉ ADAUMIR ARRUDA DA SILVA,jose adaumir arruda da silva,A,resolvido,AP11_P179,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP11-AP_11_RE_641320-00007,11,3,pessoa,ARTHUR CORRÊA DA SILVA NETO,arthur correa da silva neto,A,resolvido,AP11_P172,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP11-AP_11_RE_641320-00007,11,4,pessoa,DANIELA SOLLBERGER CEMBRANELLI,daniela sollberger cembranelli,A,resolvido,AP11_P173,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP11-AP_11_RE_641320-00008,11,0,pessoa,MASSIMILIANO ANTÔNIO RUSSO,massimiliano antonio russo,A,resolvido,AP11_P181,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP11-AP_11_RE_641320-00009,11,0,pessoa,JOSÉ DE RIBAMAR FRÓZ SOBRINHO,jose de ribamar froz sobrinho,A,resolvido,AP11_P176,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP11-AP_11_RE_641320-00010,11,0,pessoa,MIGUEL TASSINARI DE OLIVEIRA,miguel tassinari de oliveira,A,resolvido,AP11_P177,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP12-AP_12_ADI_4650-00021,12,0,pessoa,RAIMUNDO CEZAR BRITTO ARAGÃO,raimundo cezar britto aragao,A,resolvido,AP12_P191,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP12-AP_12_ADI_4650-00043,12,0,pessoa,RAIMUNDO CEZAR BRITTO ARAGÃO,raimundo cezar britto aragao,A,resolvido,AP12_P191,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP12-AP_12_ADI_4650-00057,12,0,pessoa,RAIMUNDO CEZAR BRITTO ARAGÃO,raimundo cezar britto aragao,A,resolvido,AP12_P191,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP13-AP_13_ADI_4815-00012,13,0,pessoa,ODIM BRANDÃO FERREIRA,odim brandao ferreira,A,resolvido,AP13_P203,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP13-AP_13_ADI_4815-00013,13,0,pessoa,JOSÉ MURILO DE CARVALHO,jose murilo de carvalho,A,resolvido,AP13_P196,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP13-AP_13_ADI_4815-00014,13,0,pessoa,NEWTON LIMA,newton lima,A,resolvido,AP13_P202,Outros,Outros,False,exato,Outros
+AP13-AP_13_ADI_4815-00015,13,0,pessoa,CLÁUDIO LINS DE VASCONCELOS,claudio lins de vasconcelos,A,resolvido,AP13_P194,Atores privados,Atores privados,False,exato,Atores privados
+AP13-AP_13_ADI_4815-00016,13,0,pessoa,MARCOS ROGÉRIO,marcos rogerio,A,resolvido,AP13_P201,Outros,Outros,False,exato,Outros
+AP13-AP_13_ADI_4815-00017,13,0,pessoa,SÔNIA DA CRUZ MACHADO DE MORAES,sonia da cruz machado de moraes,A,resolvido,AP13_P199,Atores privados,Atores privados,False,exato,Atores privados
+AP13-AP_13_ADI_4815-00019,13,0,pessoa,RENATO DE ANDRADE LESSA,renato de andrade lessa,A,resolvido,AP13_P198,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP13-AP_13_ADI_4815-00021,13,0,pessoa,JOÃO RIBEIRO DE MORAES,joao ribeiro de moraes,A,resolvido,AP13_P200,Outros,Outros,False,exato,Outros
+AP13-AP_13_ADI_4815-00025,13,0,pessoa,MARCUS VINÍCIUS FURTADO COELHO,marcus vinicius furtado coelho,A,resolvido,AP13_P197,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP13-AP_13_ADI_4815-00031,13,0,pessoa,SÔNIA DA CRUZ MACHADO DE MORAES,sonia da cruz machado de moraes,A,resolvido,AP13_P199,Atores privados,Atores privados,False,exato,Atores privados
+AP13-AP_13_ADI_4815-00034,13,0,pessoa,JOSÉ MURILO DE CARVALHO,jose murilo de carvalho,A,resolvido,AP13_P196,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP13-AP_13_ADI_4815-00035,13,0,pessoa,JOSÉ MURILO DE CARVALHO,jose murilo de carvalho,A,resolvido,AP13_P196,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP13-AP_13_ADI_4815-00036,13,0,pessoa,MARCUS VINÍCIUS FURTADO COELHO,marcus vinicius furtado coelho,A,resolvido,AP13_P197,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP14-AP_14_ADI_5035-00007,14,0,pessoa,FLORENTINO DE ARAÚJO CARDOSO FILHO,florentino de araujo cardoso filho,A,resolvido,AP14_P204,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP14-AP_14_ADI_5035-00009,14,0,pessoa,SEBASTIÃO VIEIRA CAIXETA,sebastiao vieira caixeta,A,resolvido,AP14_P208,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP14-AP_14_ADI_5035-00010,14,0,pessoa,RUY FERNANDO GOMES LEME CAVALHEIRO,ruy fernando gomes leme cavalheiro,A,resolvido,AP14_P210,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP14-AP_14_ADI_5035-00011,14,0,pessoa,MARCELO ANDRÉ BARBOZA DA ROCHA CHAVES,marcelo andre barboza da rocha chaves,A,resolvido,AP14_P207,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP14-AP_14_ADI_5035-00012,14,0,pessoa,WILLIAM JOSÉ BICALHO HASTENREITER PAULO,william jose bicalho hastenreiter paulo,A,resolvido,AP14_P211,Outros,Outros,False,exato,Outros
+AP14-AP_14_ADI_5035-00014,14,0,pessoa,JADETE BARBOSA LAMPERT,jadete barbosa lampert,A,resolvido,AP14_P205,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP14-AP_14_ADI_5035-00025,14,0,pessoa,SEBASTIÃO VIEIRA CAIXETA,sebastiao vieira caixeta,A,resolvido,AP14_P208,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP14-AP_14_ADI_5035-00027,14,0,pessoa,WILLIAM JOSÉ BICALHO HASTENREITER PAULO,william jose bicalho hastenreiter paulo,A,resolvido,AP14_P211,Outros,Outros,False,exato,Outros
+AP14-AP_14_ADI_5035-00039,14,0,pessoa,SEBASTIÃO VIEIRA CAIXETA,sebastiao vieira caixeta,A,resolvido,AP14_P208,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP14-AP_14_ADI_5037-00005,14,0,pessoa,FLORENTINO DE ARAÚJO CARDOSO FILHO,florentino de araujo cardoso filho,A,resolvido,AP14_P204,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP14-AP_14_ADI_5037-00007,14,0,pessoa,SEBASTIÃO VIEIRA CAIXETA,sebastiao vieira caixeta,A,resolvido,AP14_P208,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP14-AP_14_ADI_5037-00008,14,0,pessoa,RUY FERNANDO GOMES LEME CAVALHEIRO,ruy fernando gomes leme cavalheiro,A,resolvido,AP14_P210,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP14-AP_14_ADI_5037-00009,14,0,pessoa,MARCELO ANDRÉ BARBOZA DA ROCHA CHAVES,marcelo andre barboza da rocha chaves,A,resolvido,AP14_P207,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP14-AP_14_ADI_5037-00010,14,0,pessoa,WILLIAM JOSÉ BICALHO HASTENREITER PAULO,william jose bicalho hastenreiter paulo,A,resolvido,AP14_P211,Outros,Outros,False,exato,Outros
+AP14-AP_14_ADI_5037-00012,14,0,pessoa,JADETE BARBOSA LAMPERT,jadete barbosa lampert,A,resolvido,AP14_P205,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP14-AP_14_ADI_5037-00023,14,0,pessoa,SEBASTIÃO VIEIRA CAIXETA,sebastiao vieira caixeta,A,resolvido,AP14_P208,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP14-AP_14_ADI_5037-00025,14,0,pessoa,WILLIAM JOSÉ BICALHO HASTENREITER PAULO,william jose bicalho hastenreiter paulo,A,resolvido,AP14_P211,Outros,Outros,False,exato,Outros
+AP15-AP_15_ADI_5062-00023,15,0,pessoa,CARLOS RAGAZZO,carlos ragazzo,A,resolvido,AP15_P212,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP15-AP_15_ADI_5062-00052,15,0,pessoa,JOSÉ DE ARAÚJO NOVAES NETO,jose de araujo novaes neto,A,resolvido,AP15_P216,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP15-AP_15_ADI_5065-00020,15,0,pessoa,CARLOS RAGAZZO,carlos ragazzo,A,resolvido,AP15_P212,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP15-AP_15_ADI_5065-00049,15,0,pessoa,JOSÉ DE ARAÚJO NOVAES NETO,jose de araujo novaes neto,A,resolvido,AP15_P216,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP16-AP_16_RE_581488-00002,16,0,pessoa,ANDRÉ LONGO ARAÚJO DE MELO,andre longo araujo de melo,A,resolvido,AP16_P220,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP16-AP_16_RE_581488-00002,16,1,pessoa,ALEXANDRE VENZON ZANETTI,alexandre venzon zanetti,A,resolvido,AP16_P218,Atores privados,Atores privados,False,exato,Atores privados
+AP16-AP_16_RE_581488-00002,16,2,pessoa,ANA LUIZA D'ÁVILA VIANA,ana luiza d avila viana,A,resolvido,AP16_P219,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP16-AP_16_RE_581488-00017,16,0,pessoa,ANA LUIZA D'ÁVILA VIANA,ana luiza d avila viana,A,resolvido,AP16_P219,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP16-AP_16_RE_581488-00023,16,0,pessoa,ANDRÉ LONGO ARAÚJO DE MELO,andre longo araujo de melo,A,resolvido,AP16_P220,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP18-AP_18_ADI_5072-00030,18,0,pessoa,Otávio Damaso,otavio damaso,A,resolvido,AP18_P235,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP19-AP_19_ADI_4901-00012,19,0,pessoa,ANNELISE VENDRAMINI,annelise vendramini,A,resolvido,AP19_P242,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4901-00018,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4901-00020,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4901-00036,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4901-00037,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4902-00012,19,0,pessoa,ANNELISE VENDRAMINI,annelise vendramini,A,resolvido,AP19_P242,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4902-00018,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4902-00020,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4902-00035,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4902-00036,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4903-00012,19,0,pessoa,ANNELISE VENDRAMINI,annelise vendramini,A,resolvido,AP19_P242,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4903-00018,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4903-00020,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4903-00036,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4903-00037,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4937-00012,19,0,pessoa,ANNELISE VENDRAMINI,annelise vendramini,A,resolvido,AP19_P242,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4937-00018,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4937-00020,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4937-00036,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP19-AP_19_ADI_4937-00037,19,0,pessoa,EDÍS MILARÉ,edis milare,A,resolvido,AP19_P243,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP22-AP_22_RE_1010606-00004,22,0,pessoa,CÍNTIA ROSA PEREIRA DE LIMA,cintia rosa pereira de lima,A,resolvido,AP22_P247,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP22-AP_22_RE_1010606-00004,22,1,pessoa,JOSÉ CARLOS COSTA NETTO,jose carlos costa netto,A,resolvido,AP22_P249,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP22-AP_22_RE_1010606-00004,22,2,pessoa,GUSTAVO MASCARENHAS LACERDA PEDRINA,gustavo mascarenhas lacerda pedrina,A,resolvido,AP22_P248,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP22-AP_22_RE_1010606-00004,22,3,pessoa,CARLOS AFFONSO PEREIRA DE SOUZA,carlos affonso pereira de souza,A,resolvido,AP22_P246,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP22-AP_22_RE_1010606-00007,22,0,pessoa,CARLOS AFFONSO PEREIRA DE SOUZA,carlos affonso pereira de souza,A,resolvido,AP22_P246,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP22-AP_22_RE_1010606-00011,22,0,pessoa,CÍNTIA ROSA PEREIRA DE LIMA,cintia rosa pereira de lima,A,resolvido,AP22_P247,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP22-AP_22_RE_1010606-00012,22,0,pessoa,JOSÉ CARLOS COSTA NETTO,jose carlos costa netto,A,resolvido,AP22_P249,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP29-AP_29_ADC_051-00003,29,0,pessoa,JACQUELINE DE SOUZA ABREU,jacqueline de souza abreu,A,resolvido,AP29_P274,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP29-AP_29_ADC_051-00009,29,0,pessoa,NATALIA PEPPI,natalia peppi,A,resolvido,AP29_P275,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP31-AP_31_ADO_059-00009,31,0,pessoa,ANTONIA MARIA RAMOS FRANCO PEREIRA,antonia maria ramos franco pereira,A,resolvido,AP31_P288,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP31-AP_31_ADO_059-00012,31,0,pessoa,RICARDO MAGNUS OSÓRIO GALVÃO,ricardo magnus osorio galvao,A,resolvido,AP31_P295,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP31-AP_31_ADO_059-00015,31,0,pessoa,SUELY MARA VAZ GUIMARÃES DE ARAÚJO,suely mara vaz guimaraes de araujo,A,resolvido,AP31_P297,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP32-AP_32_ADPF_635-00057,32,0,pessoa,DANIEL SARMENTO,daniel sarmento,A,resolvido,AP32_P306,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP32-AP_32_ADPF_635-00203,32,0,pessoa,GABRIEL DE CARVALHO SAMPAIO,gabriel de carvalho sampaio,A,resolvido,AP32_P320,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP32-AP_32_ADPF_635-00362,32,0,pessoa,GABRIEL DE CARVALHO SAMPAIO,gabriel de carvalho sampaio,A,resolvido,AP32_P320,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00005,35,0,pessoa,ANTONIO FERNANDES RUIZ FILHO,antonio fernandes ruiz filho,A,resolvido,AP35_P351,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00019,35,0,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00022,35,0,pessoa,ANTONIO FERNANDES RUIZ FILHO,antonio fernandes ruiz filho,A,resolvido,AP35_P351,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00031,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00031,35,1,pessoa,FERNANDO BRAGA,fernando braga,A,resolvido,AP35_P355,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6298-00032,35,0,pessoa,MARINA PINHÃO COELHO ARAÚJO,marina pinhao coelho araujo,A,resolvido,AP35_P364,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00032,35,1,pessoa,BÁRBARA PRADO SIMÃO,barbara prado simao,A,resolvido,AP35_P352,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP35-AP_35_ADI_6298-00032,35,2,pessoa,FLÁVIO WERNECK MENEGUELLI,flavio werneck meneguelli,A,resolvido,AP35_P356,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00032,35,3,pessoa,JOÃO CARLOS CASTELLAR,joao carlos castellar,A,resolvido,AP35_P372,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00032,35,4,pessoa,JÚLIO CEZAR LEMOS TRAVESSA,julio cezar lemos travessa,A,resolvido,AP35_P358,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6298-00033,35,0,pessoa,MARCELO LUZIO MARQUES ARAÚJO,marcelo luzio marques araujo,A,resolvido,AP35_P373,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6298-00033,35,1,pessoa,BRUNO AUGUSTO VIGO MILANEZ,bruno augusto vigo milanez,A,resolvido,AP35_P354,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00033,35,2,pessoa,SANDRO CARVALHO LOBATO DE CARVALHO,sandro carvalho lobato de carvalho,A,resolvido,AP35_P368,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6298-00033,35,3,pessoa,ÉRICA DE OLIVEIRA HARTMANN,erica de oliveira hartmann,A,resolvido,AP35_P370,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6298-00033,35,4,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6298-00033,35,5,pessoa,WALTER NUNES DA SILVA JÚNIOR,walter nunes da silva junior,A,resolvido,AP35_P369,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00033,35,6,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00033,35,7,pessoa,MANOEL GUSTAVO NEUBARTH TRINDADE,manoel gustavo neubarth trindade,A,resolvido,AP35_P359,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP35-AP_35_ADI_6298-00034,35,0,pessoa,MARIA COTINHA BEZERRA PEREIRA,maria cotinha bezerra pereira,A,resolvido,AP35_P363,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6298-00034,35,1,pessoa,ANTONIO FERNANDES RUIZ FILHO,antonio fernandes ruiz filho,A,resolvido,AP35_P351,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00035,35,0,pessoa,BRENO RANGEL NUNES DA COSTA,breno rangel nunes da costa,A,resolvido,AP35_P353,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6298-00035,35,1,pessoa,MARCOS VIDIGAL DE FREITAS CRISSIÚMA,marcos vidigal de freitas crissiuma,A,resolvido,AP35_P362,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00063,35,0,pessoa,FÁBIO TOFIC SIMANTOB,fabio tofic simantob,A,resolvido,AP35_P371,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00076,35,0,pessoa,FÁBIO TOFIC SIMANTOB,fabio tofic simantob,A,resolvido,AP35_P371,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00138,35,0,pessoa,FÁBIO TOFIC SIMANTOB,fabio tofic simantob,A,resolvido,AP35_P371,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00163,35,0,pessoa,ANTONIO FERNANDES RUIZ FILHO,antonio fernandes ruiz filho,A,resolvido,AP35_P351,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00190,35,0,pessoa,ANTONIO FERNANDES RUIZ FILHO,antonio fernandes ruiz filho,A,resolvido,AP35_P351,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00219,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00269,35,0,pessoa,FÁBIO TOFIC SIMANTOB,fabio tofic simantob,A,resolvido,AP35_P371,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00299,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00306,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6298-00323,35,0,pessoa,FÁBIO TOFIC SIMANTOB,fabio tofic simantob,A,resolvido,AP35_P371,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00001,35,0,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00016,35,0,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00027,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00027,35,1,pessoa,FERNANDO BRAGA,fernando braga,A,resolvido,AP35_P355,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00028,35,0,pessoa,MARINA PINHÃO COELHO ARAÚJO,marina pinhao coelho araujo,A,resolvido,AP35_P364,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00028,35,1,pessoa,BÁRBARA PRADO SIMÃO,barbara prado simao,A,resolvido,AP35_P352,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP35-AP_35_ADI_6299-00028,35,2,pessoa,FLÁVIO WERNECK MENEGUELLI,flavio werneck meneguelli,A,resolvido,AP35_P356,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00028,35,3,pessoa,JOÃO CARLOS CASTELLAR,joao carlos castellar,A,resolvido,AP35_P372,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00028,35,4,pessoa,JÚLIO CEZAR LEMOS TRAVESSA,julio cezar lemos travessa,A,resolvido,AP35_P358,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00029,35,0,pessoa,MARCELO LUZIO MARQUES ARAÚJO,marcelo luzio marques araujo,A,resolvido,AP35_P373,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00029,35,1,pessoa,BRUNO AUGUSTO VIGO MILANEZ,bruno augusto vigo milanez,A,resolvido,AP35_P354,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00029,35,2,pessoa,SANDRO CARVALHO LOBATO DE CARVALHO,sandro carvalho lobato de carvalho,A,resolvido,AP35_P368,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00029,35,3,pessoa,ÉRICA DE OLIVEIRA HARTMANN,erica de oliveira hartmann,A,resolvido,AP35_P370,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00029,35,4,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00029,35,5,pessoa,WALTER NUNES DA SILVA JÚNIOR,walter nunes da silva junior,A,resolvido,AP35_P369,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00029,35,6,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00029,35,7,pessoa,MANOEL GUSTAVO NEUBARTH TRINDADE,manoel gustavo neubarth trindade,A,resolvido,AP35_P359,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP35-AP_35_ADI_6299-00030,35,0,pessoa,MARIA COTINHA BEZERRA PEREIRA,maria cotinha bezerra pereira,A,resolvido,AP35_P363,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00030,35,1,pessoa,ANTONIO FERNANDES RUIZ FILHO,antonio fernandes ruiz filho,A,resolvido,AP35_P351,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00031,35,0,pessoa,BRENO RANGEL NUNES DA COSTA,breno rangel nunes da costa,A,resolvido,AP35_P353,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00031,35,1,pessoa,MARCOS VIDIGAL DE FREITAS CRISSIÚMA,marcos vidigal de freitas crissiuma,A,resolvido,AP35_P362,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00041,35,0,pessoa,FÁBIO TOFIC SIMANTOB,fabio tofic simantob,A,resolvido,AP35_P371,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00045,35,0,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00054,35,0,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00063,35,0,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00106,35,0,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00119,35,0,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00160,35,0,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00188,35,0,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00194,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00240,35,0,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00255,35,0,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00270,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00277,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6299-00283,35,0,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6299-00291,35,0,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6300-00001,35,0,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00016,35,0,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00026,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00026,35,1,pessoa,FERNANDO BRAGA,fernando braga,A,resolvido,AP35_P355,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6300-00026,35,2,pessoa,MARINA PINHÃO COELHO ARAÚJO,marina pinhao coelho araujo,A,resolvido,AP35_P364,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00026,35,3,pessoa,BÁRBARA PRADO SIMÃO,barbara prado simao,A,resolvido,AP35_P352,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP35-AP_35_ADI_6300-00027,35,0,pessoa,FLÁVIO WERNECK MENEGUELLI,flavio werneck meneguelli,A,resolvido,AP35_P356,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00027,35,1,pessoa,JOÃO CARLOS CASTELLAR,joao carlos castellar,A,resolvido,AP35_P372,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00027,35,2,pessoa,JÚLIO CEZAR LEMOS TRAVESSA,julio cezar lemos travessa,A,resolvido,AP35_P358,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6300-00027,35,3,pessoa,MARCELO LUZIO MARQUES ARAÚJO,marcelo luzio marques araujo,A,resolvido,AP35_P373,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6300-00027,35,4,pessoa,BRUNO AUGUSTO VIGO MILANEZ,bruno augusto vigo milanez,A,resolvido,AP35_P354,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00028,35,0,pessoa,SANDRO CARVALHO LOBATO DE CARVALHO,sandro carvalho lobato de carvalho,A,resolvido,AP35_P368,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6300-00028,35,1,pessoa,ÉRICA DE OLIVEIRA HARTMANN,erica de oliveira hartmann,A,resolvido,AP35_P370,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6300-00028,35,2,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6300-00028,35,3,pessoa,WALTER NUNES DA SILVA JÚNIOR,walter nunes da silva junior,A,resolvido,AP35_P369,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00028,35,4,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00028,35,5,pessoa,MANOEL GUSTAVO NEUBARTH TRINDADE,manoel gustavo neubarth trindade,A,resolvido,AP35_P359,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP35-AP_35_ADI_6300-00029,35,0,pessoa,MARIA COTINHA BEZERRA PEREIRA,maria cotinha bezerra pereira,A,resolvido,AP35_P363,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6300-00030,35,0,pessoa,ANTONIO FERNANDES RUIZ FILHO,antonio fernandes ruiz filho,A,resolvido,AP35_P351,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00030,35,1,pessoa,BRENO RANGEL NUNES DA COSTA,breno rangel nunes da costa,A,resolvido,AP35_P353,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6300-00031,35,0,pessoa,MARCOS VIDIGAL DE FREITAS CRISSIÚMA,marcos vidigal de freitas crissiuma,A,resolvido,AP35_P362,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00040,35,0,pessoa,FÁBIO TOFIC SIMANTOB,fabio tofic simantob,A,resolvido,AP35_P371,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00175,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00233,35,0,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6300-00248,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00024,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00024,35,1,pessoa,FERNANDO BRAGA,fernando braga,A,resolvido,AP35_P355,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6305-00024,35,2,pessoa,MARINA PINHÃO COELHO ARAÚJO,marina pinhao coelho araujo,A,resolvido,AP35_P364,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00024,35,3,pessoa,BÁRBARA PRADO SIMÃO,barbara prado simao,A,resolvido,AP35_P352,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP35-AP_35_ADI_6305-00024,35,4,pessoa,FLÁVIO WERNECK MENEGUELLI,flavio werneck meneguelli,A,resolvido,AP35_P356,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00025,35,0,pessoa,JOÃO CARLOS CASTELLAR,joao carlos castellar,A,resolvido,AP35_P372,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00025,35,1,pessoa,JÚLIO CEZAR LEMOS TRAVESSA,julio cezar lemos travessa,A,resolvido,AP35_P358,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6305-00025,35,2,pessoa,MARCELO LUZIO MARQUES ARAÚJO,marcelo luzio marques araujo,A,resolvido,AP35_P373,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6305-00025,35,3,pessoa,BRUNO AUGUSTO VIGO MILANEZ,bruno augusto vigo milanez,A,resolvido,AP35_P354,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00025,35,4,pessoa,SANDRO CARVALHO LOBATO DE CARVALHO,sandro carvalho lobato de carvalho,A,resolvido,AP35_P368,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6305-00025,35,5,pessoa,ÉRICA DE OLIVEIRA HARTMANN,erica de oliveira hartmann,A,resolvido,AP35_P370,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6305-00025,35,6,pessoa,PEDRO PAULO LOURIVAL CARRIELLO,pedro paulo lourival carriello,A,resolvido,AP35_P366,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6305-00026,35,0,pessoa,WALTER NUNES DA SILVA JÚNIOR,walter nunes da silva junior,A,resolvido,AP35_P369,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00026,35,1,pessoa,RODRIGO DE BITTENCOURT MUDROVITSCH,rodrigo de bittencourt mudrovitsch,A,resolvido,AP35_P367,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00026,35,2,pessoa,MANOEL GUSTAVO NEUBARTH TRINDADE,manoel gustavo neubarth trindade,A,resolvido,AP35_P359,Acadêmicos,Acadêmicos,False,exato,Acadêmicos
+AP35-AP_35_ADI_6305-00027,35,0,pessoa,MARIA COTINHA BEZERRA PEREIRA,maria cotinha bezerra pereira,A,resolvido,AP35_P363,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6305-00028,35,0,pessoa,ANTONIO FERNANDES RUIZ FILHO,antonio fernandes ruiz filho,A,resolvido,AP35_P351,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00028,35,1,pessoa,BRENO RANGEL NUNES DA COSTA,breno rangel nunes da costa,A,resolvido,AP35_P353,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP35-AP_35_ADI_6305-00028,35,2,pessoa,MARCOS VIDIGAL DE FREITAS CRISSIÚMA,marcos vidigal de freitas crissiuma,A,resolvido,AP35_P362,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00037,35,0,pessoa,FÁBIO TOFIC SIMANTOB,fabio tofic simantob,A,resolvido,AP35_P371,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00153,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00211,35,0,pessoa,ANTONIO FERNANDES RUIZ FILHO,antonio fernandes ruiz filho,A,resolvido,AP35_P351,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP35-AP_35_ADI_6305-00223,35,0,pessoa,GUSTAVO HENRIQUE RIGHI IVAHY BADARÓ,gustavo henrique righi ivahy badaro,A,resolvido,AP35_P357,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP36-AP_36_ADI_7187-00010,36,0,pessoa,CARLOS EDUARDO DE SOUZA MIRANDA,carlos eduardo de souza miranda,A,resolvido,AP36_P375,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP36-AP_36_ADI_7187-00012,36,0,pessoa,LAINA GABRIELE RAMOS PASSOS LÔBO,laina gabriele ramos passos lobo,A,resolvido,AP36_P380,Atores públicos,Atores públicos,False,exato,Atores públicos
+AP38-AP_38_RE_1037396-00038,38,0,pessoa,GUILHERME MAGALHÃES MARTINS,guilherme magalhaes martins,A,resolvido,AP38_P388,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP38-AP_38_RE_1037396-00058,38,0,pessoa,GUILHERME MAGALHÃES MARTINS,guilherme magalhaes martins,A,resolvido,AP38_P388,Sociedade civil,Sociedade civil,False,exato,Sociedade civil
+AP38-AP_38_RE_1037396-00063,38,0,pessoa,ISABELLA HENRIQUES,isabella henriques,A,resolvido,AP38_P389,Sociedade civil,Sociedade civil,False,exato,Sociedade civil

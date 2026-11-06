@@ -1,0 +1,144 @@
+{
+  "valid": [
+    {
+      "id": "AP01-AP_01_ADI_3510-00002",
+      "audiencia": "1",
+      "tipo": "Relato"
+    },
+    {
+      "id": "AP03-AP_03_ADPF_054-00011",
+      "audiencia": "3",
+      "tipo": "Contexto"
+    },
+    {
+      "id": "AP04-AP_04_SS_2361-00001",
+      "audiencia": "4",
+      "tipo": "Contexto"
+    },
+    {
+      "id": "AP08-AP_08_ADI_4747-00058",
+      "audiencia": "8",
+      "tipo": "Contexto"
+    },
+    {
+      "id": "AP12-AP_12_ADI_4650-00045",
+      "audiencia": "12",
+      "tipo": "Contexto"
+    },
+    {
+      "id": "AP32-AP_32_ADPF_635-00041",
+      "audiencia": "32",
+      "tipo": "Contexto"
+    },
+    {
+      "id": "AP03-AP_03_ADPF_054-00012",
+      "audiencia": "3",
+      "tipo": "Contexto"
+    },
+    {
+      "id": "AP04-AP_04_SS_2944-00005",
+      "audiencia": "4",
+      "tipo": "Contexto"
+    },
+    {
+      "id": "AP32-AP_32_ADPF_635-00225",
+      "audiencia": "32",
+      "tipo": "Contexto"
+    },
+    {
+      "id": "AP03-AP_03_ADPF_054-00030",
+      "audiencia": "3",
+      "tipo": "Relato"
+    },
+    {
+      "id": "AP01-AP_01_ADI_3510-00011",
+      "audiencia": "1",
+      "tipo": "Argumento"
+    },
+    {
+      "id": "AP03-AP_03_ADPF_054-00013",
+      "audiencia": "3",
+      "tipo": "Relato"
+    },
+    {
+      "id": "AP04-AP_04_SS_2944-00012",
+      "audiencia": "4",
+      "tipo": "Argumento"
+    },
+    {
+      "id": "AP05-AP_05_ADPF_186-00015",
+      "audiencia": "5",
+      "tipo": "Relato"
+    },
+    {
+      "id": "AP14-AP_14_ADI_5035-00005",
+      "audiencia": "14",
+      "tipo": "Contexto"
+    },
+    {
+      "id": "AP15-AP_15_ADI_5062-00049",
+      "audiencia": "15",
+      "tipo": "Relato"
+    },
+    {
+      "id": "AP01-AP_01_ADI_3510-00033",
+      "audiencia": "1",
+      "tipo": "Relato"
+    },
+    {
+      "id": "AP03-AP_03_ADPF_054-00015",
+      "audiencia": "3",
+      "tipo": "Relato"
+    },
+    {
+      "id": "AP04-AP_04_SS_3345-00015",
+      "audiencia": "4",
+      "tipo": "Argumento"
+    },
+    {
+      "id": "AP05-AP_05_ADPF_186-00021",
+      "audiencia": "5",
+      "tipo": "Relato"
+    },
+    {
+      "id": "AP01-AP_01_ADI_3510-00004",
+      "audiencia": "1",
+      "tipo": "Relato"
+    },
+    {
+      "id": "AP03-AP_03_ADPF_054-00052",
+      "audiencia": "3",
+      "tipo": "Argumento"
+    },
+    {
+      "id": "AP05-AP_05_ADPF_186-00031",
+      "audiencia": "5",
+      "tipo": "Argumento"
+    },
+    {
+      "id": "AP08-AP_08_ADI_4679-00020",
+      "audiencia": "8",
+      "tipo": "Argumento"
+    },
+    {
+      "id": "AP14-AP_14_ADI_5035-00029",
+      "audiencia": "14",
+      "tipo": "Argumento"
+    },
+    {
+      "id": "AP15-AP_15_ADI_5062-00023",
+      "audiencia": "15",
+      "tipo": "Argumento"
+    },
+    {
+      "id": "AP01-AP_01_ADI_3510-00005",
+      "audiencia": "1",
+      "tipo": "Relato"
+    },
+    {
+      "id": "AP03-AP_03_ADPF_054-00057",
+      "audiencia": "3",
+      "tipo": "Argumento"
+    }
+  ]
+}

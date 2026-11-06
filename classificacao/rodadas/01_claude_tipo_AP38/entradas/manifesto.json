@@ -1,0 +1,27 @@
+{
+  "tarefa": "tipo apenas",
+  "modelo_base": "Qwen2.5-3B-Instruct-4bit",
+  "partida": "modelo-base, sem o adaptador conjunto anterior",
+  "train": {
+    "Contexto": 14,
+    "Argumento": 44,
+    "Relato": 32
+  },
+  "valid": {
+    "Contexto": 5,
+    "Relato": 2,
+    "Argumento": 4
+  },
+  "dados_sha256": {
+    "train": "236b9d7241cffc39d09c286f01c2d55cd69263a3069f030670613fec9ce20ce3",
+    "valid": "e43f5d51d045d4a71e06821bd70307467fdcb01059b1f7e7cda3710eaa73a5f3"
+  },
+  "fontes_sha256": {
+    "registros.json": "4d7611d51b571249bccd9d156f44770ce9caa2d273e524a6a6d52ec40ee7332d",
+    "contexto_v2/desenvolvimento_corrigido.json": "7b7b2c2bbb18f49b570ef6ad407631569b06becff9d720dfc4e896afeb393750"
+  },
+  "teste_final": "não exportado nem utilizado",
+  "iteracoes_planejadas": 270,
+  "passagens_planejadas": 3,
+  "novas_anotacoes_humanas": false
+}

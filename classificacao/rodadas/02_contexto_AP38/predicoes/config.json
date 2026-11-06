@@ -1,0 +1,25 @@
+{
+  "modelo": "claude-sonnet-5",
+  "thinking": "disabled",
+  "max_tokens": 500,
+  "tokens_contados": [
+    9105,
+    9123,
+    8637,
+    7458,
+    8095,
+    13734,
+    7152,
+    14032,
+    6650,
+    6554,
+    12791
+  ],
+  "estimativa_usd": 0.261662,
+  "precos_referencia": {
+    "entrada_por_milhao": 2,
+    "saida_por_milhao": 10
+  },
+  "sha256_dados": "6b91688bb6e841b002a08ce6590801f347216309934996c25441d990a76b41ad",
+  "nota": "Amostra de desenvolvimento. Comparação sem fine-tuning e sem gabarito enviado. Amostragem padrão do fornecedor, não temperatura zero."
+}

@@ -1,0 +1,69 @@
+﻿numero_audiencia,nome,tipo_evidencia,rotulo_fonte,arquivo_fonte,pagina_fonte,evidencia,motivo_exclusao
+1,CARLOS BRITTO,fala_transcrita,Notas Taquigráficas,documentos_audiencias/AP_01/120_notas_taquigr_ficas.pdf,231,O SR. MINISTRO CARLOS BRITTO (RELATOR) -,ministro_do_stf
+1,JOAQUIM BARBOSA,fala_transcrita,Notas Taquigráficas,documentos_audiencias/AP_01/120_notas_taquigr_ficas.pdf,88,O SR. MINISTRO JOAQUIM BARBOSA -,ministro_do_stf
+2,AYRES BRITTO,fala_transcrita,Transcrições,documentos_audiencias/AP_02/118_transcri_es.pdf,13,O SENHOR MINISTRO AYRES BRITTO -,ministro_do_stf
+2,CÁRMEN LÚCIA,fala_transcrita,Transcrições,documentos_audiencias/AP_02/118_transcri_es.pdf,110,A SENHORA MINISTRA CÁRMEN LÚCIA (RELATORA) -,ministro_do_stf
+2,GILMAR MENDES,fala_transcrita,Transcrições,documentos_audiencias/AP_02/118_transcri_es.pdf,2,O SENHOR MINISTRO GILMAR MENDES (PRESIDENTE) -,ministro_do_stf
+3,GILMAR MENDES,fala_transcrita,Notas Taquigráficas — 26 de agosto de 2008,documentos_audiencias/AP_03/122_notas_taquigraficas_2008-08-26.pdf,1,O SR. MINISTRO GILMAR MENDES (PRESIDENTE) –,ministro_do_stf
+3,GILMAR MENDES,fala_transcrita,Notas Taquigráficas — 28 de agosto de 2008,documentos_audiencias/AP_03/123_notas_taquigraficas_2008-08-28.pdf,80,O SR. MINISTRO GILMAR MENDES (PRESIDENTE) –,ministro_do_stf
+3,GILMAR MENDES,fala_transcrita,Notas Taquigráficas — 4 de setembro de 2008,documentos_audiencias/AP_03/124_notas_taquigraficas_2008-09-04.pdf,15,O SR. MINISTRO GILMAR MENDES (PRESIDENTE) –,ministro_do_stf
+3,LUÍS ROBERTO BARROSO,fala_transcrita,Notas Taquigráficas — 26 de agosto de 2008,documentos_audiencias/AP_03/122_notas_taquigraficas_2008-08-26.pdf,56,O SR. LUÍS ROBERTO BARROSO –,ministro_do_stf
+3,LUÍS ROBERTO BARROSO,fala_transcrita,Notas Taquigráficas — 28 de agosto de 2008,documentos_audiencias/AP_03/123_notas_taquigraficas_2008-08-28.pdf,112,O SR. LUÍS ROBERTO BARROSO –,ministro_do_stf
+3,LUÍS ROBERTO BARROSO,fala_transcrita,Notas Taquigráficas — 4 de setembro de 2008,documentos_audiencias/AP_03/124_notas_taquigraficas_2008-09-04.pdf,99,O SR. LUÍS ROBERTO BARROSO –,ministro_do_stf
+3,LUÍS ROBERTO BARROSO,fala_transcrita,Notas Taquigráficas — 16 de setembro de 2008,documentos_audiencias/AP_03/125_notas_taquigraficas_2008-09-16.pdf,67,O SR. LUÍS ROBERTO BARROSO -,ministro_do_stf
+3,MARCO AURÉLIO,fala_transcrita,Notas Taquigráficas — 26 de agosto de 2008,documentos_audiencias/AP_03/122_notas_taquigraficas_2008-08-26.pdf,57,O SENHOR MINISTRO MARCO AURÉLIO (PRESIDENTE E RELATOR) –,ministro_do_stf
+3,MARCO AURÉLIO,fala_transcrita,Notas Taquigráficas — 28 de agosto de 2008,documentos_audiencias/AP_03/123_notas_taquigraficas_2008-08-28.pdf,113,O SENHOR MINISTRO MARCO AURÉLIO (RELATOR) –,ministro_do_stf
+3,MARCO AURÉLIO,fala_transcrita,Notas Taquigráficas — 4 de setembro de 2008,documentos_audiencias/AP_03/124_notas_taquigraficas_2008-09-04.pdf,99,O SENHOR MINISTRO MARCO AURÉLIO (PRESIDENTE E RELATOR) –,ministro_do_stf
+3,MARCO AURÉLIO,fala_transcrita,Notas Taquigráficas — 16 de setembro de 2008,documentos_audiencias/AP_03/125_notas_taquigraficas_2008-09-16.pdf,20,O SENHOR MINISTRO MARCO AURÉLIO (PRESIDENTE) –,ministro_do_stf
+3,MENEZES DIREITO,fala_transcrita,Notas Taquigráficas — 28 de agosto de 2008,documentos_audiencias/AP_03/123_notas_taquigraficas_2008-08-28.pdf,36,O SR. MINISTRO MENEZES DIREITO –,ministro_do_stf
+5,CÁRMEN LÚCIA,fala_transcrita,Notas Taquigráficas,documentos_audiencias/AP_05/110_notas_taquigr_ficas.pdf,424,A SENHORA MINISTRA CÁRMEN LÚCIA -,ministro_do_stf
+5,ÊNIO CURSINO DOS SANTOS FILHO,fala_transcrita,Notas Taquigráficas,documentos_audiencias/AP_05/110_notas_taquigr_ficas.pdf,453,O SENHOR ÊNIO CURSINO DOS SANTOS FILHO (MESTRE DE CERIMÔNIAS) -,cerimonial_ou_mestre_de_cerimonias
+5,JOAQUIM BARBOSA,fala_transcrita,Notas Taquigráficas,documentos_audiencias/AP_05/110_notas_taquigr_ficas.pdf,7,O SENHOR MINISTRO JOAQUIM BARBOSA -,ministro_do_stf
+5,RICARDO LEWANDOWSKI,fala_transcrita,Notas Taquigráficas,documentos_audiencias/AP_05/110_notas_taquigr_ficas.pdf,450,O SENHOR MINISTRO RICARDO LEWANDOWSKI (PRESIDENTE E RELATOR) -,ministro_do_stf
+6,DE CERIMÔNIAS,fala_transcrita,Transcrições,documentos_audiencias/AP_06/108_transcri_es.pdf,185,O SENHOR MESTRE DE CERIMÔNIAS -,cerimonial_ou_mestre_de_cerimonias
+6,LUIZ FUX,fala_transcrita,Transcrições,documentos_audiencias/AP_06/108_transcri_es.pdf,246,O SENHOR MINISTRO LUIZ FUX (RELATOR) -,ministro_do_stf
+7,MARCO AURÉLIO,fala_transcrita,Transcrições,documentos_audiencias/AP_07/102_transcri_es.pdf,378,O SENHOR MINISTRO MARCO AURÉLIO -,ministro_do_stf
+7,RICARDO LEWANDOWSKI,fala_transcrita,Transcrições,documentos_audiencias/AP_07/102_transcri_es.pdf,251,O SENHOR MINISTRO RICARDO LEWANDOWSKI (PRESIDENTE) -,ministro_do_stf
+7,ROSA WEBER,fala_transcrita,Transcrições,documentos_audiencias/AP_07/102_transcri_es.pdf,237,A SENHORA MINISTRA ROSA WEBER (PRESIDENTE) -,ministro_do_stf
+11,DE CERIMÔNIA,fala_transcrita,Transcrições,documentos_audiencias/AP_11/086_transcri_es.pdf,178,O SENHOR MESTRE DE CERIMÔNIA -,cerimonial_ou_mestre_de_cerimonias
+12,Carlos Ayres Britto,expositor_expresso,Cronograma,documentos_audiencias/AP_12/080_cronograma.pdf,2,"lloso (Ministro aposentado do Supremo Tribunal Federal - STF) 11) Horário das 17:15 às 17:30 horas. Expositor: Ministro Carlos Ayres Britto (Ministro aposentado do Supremo Tribunal Federal – STF) 2 Supremo Tribunal Federal Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a I",ministro_do_stf
+12,Carlos Mario Velloso,expositor_expresso,Cronograma,documentos_audiencias/AP_12/080_cronograma.pdf,2,tto Aragão INTERVALO DE 30 MINUTOS - DAS 16:30 ÀS 17:00 HORAS 10) Horário das 17:00 às 17:15 horas. Expositor: Ministro Carlos Mario Velloso (Ministro aposentado do Supremo Tribunal Federal - STF) 11) Horário das 17:15 às 17:30 horas. Expositor: Ministro Carlos Ayres Britto (Ministro aposentado do Supremo Tribunal,ministro_do_stf
+12,DE CERIMÔNIA,fala_transcrita,Notas Taquigráficas,documentos_audiencias/AP_12/082_notas_taquigr_ficas.pdf,114,O SENHOR MESTRE DE CERIMÔNIA -,cerimonial_ou_mestre_de_cerimonias
+12,LUIZ FUX,fala_transcrita,Notas Taquigráficas,documentos_audiencias/AP_12/082_notas_taquigr_ficas.pdf,61,O SENHOR MINISTRO LUIZ FUX (RELATOR) -,ministro_do_stf
+14,MARCO AURÉLIO,fala_transcrita,Transcrições,documentos_audiencias/AP_14/074_transcri_es.pdf,17,O SENHOR MINISTRO MARCO AURÉLIO -,ministro_do_stf
+15,LUIZ FUX,fala_transcrita,Transcrições da Audiência,documentos_audiencias/AP_15/070_transcri_es_da_audi_ncia.pdf,158,O SENHOR MINISTRO LUIZ FUX (RELATOR) -,ministro_do_stf
+16,DIAS TOFFOLI,fala_transcrita,Transcrição da Audiência,documentos_audiencias/AP_16/066_transcri_o_da_audi_ncia.pdf,3,O SENHOR MINISTRO DIAS TOFFOLI (RELATOR) -,ministro_do_stf
+17,ROBERTO BARROSO,fala_transcrita,Transcrições,documentos_audiencias/AP_17/062_transcri_es.pdf,298,O SENHOR MINISTRO ROBERTO BARROSO (PRESIDENTE E RELATOR) -,ministro_do_stf
+18,EDSON FACHIN,fala_transcrita,Transcrições,documentos_audiencias/AP_18/059_transcri_es.pdf,262,O SENHOR MINISTRO EDSON FACHIN -,ministro_do_stf
+18,GILMAR MENDES,fala_transcrita,Transcrições,documentos_audiencias/AP_18/059_transcri_es.pdf,183,O SENHOR MINISTRO GILMAR MENDES -,ministro_do_stf
+19,LUIZ FUX,fala_transcrita,Transcrição da Audiência,documentos_audiencias/AP_19/056_transcri_o_da_audi_ncia.pdf,140,O SENHOR MINISTRO LUIZ FUX -,ministro_do_stf
+22,CÁRMEN LÚCIA,fala_transcrita,Transcrição da Audiência,documentos_audiencias/AP_22/053_transcri_o_da_audi_ncia.pdf,22,A SENHORA MINISTRA CÁRMEN LÚCIA (PRESIDENTE) -,ministro_do_stf
+22,DIAS TOFFOLI,fala_transcrita,Transcrição da Audiência,documentos_audiencias/AP_22/053_transcri_o_da_audi_ncia.pdf,206,O SENHOR MINISTRO DIAS TOFFOLI (RELATOR) -,ministro_do_stf
+28,André Luiz de Almeida Mendonça,expositor_expresso,Cronograma,documentos_audiencias/AP_28/046_cronograma.pdf,2,"RE 1238853 / RJ (expositor: Ministro André Luiz de Almeida Mendonça); Ordem dos Advogados do Brasil (expositora: Dra. Luciana Diniz Nepomuceno, Presidente da Comissão de Estudos da Reform",ministro_do_stf
+28,ROBERTO BARROSO,fala_transcrita,Transcrições,documentos_audiencias/AP_28/048_transcri_es.pdf,305,O SENHOR MINISTRO ROBERTO BARROSO (RELATOR) -,ministro_do_stf
+29,ANDRÉ LUIZ DE ALMEIDA MENDONÇA,fala_transcrita,Transcrições,documentos_audiencias/AP_29/044_transcri_es.pdf,77,O SENHOR ANDRÉ LUIZ DE ALMEIDA MENDONÇA (ADVOGADO-GERAL DA UNIÃO) -,ministro_do_stf
+29,Carlos Ayres Britto,expositor_expresso,lista final de inscritos,documentos_audiencias/AP_29/040_lista_final_de_inscritos.pdf,2,"om paridade dos pontos de vista a serem defendidos, defiro a participação das seguintes entidades e expositores: 1) Assespro Nacional (Prof. Dr. Carlos Ayres Britto, Prof. Dr. Francisco Rezek, Prof. Todd Hinnen e Dr. Eric H. Holder Jr.); 2) Facebook Serviços Online do Brasil Ltda. (Prof. Albert Gidari, Dra. Andrea Kirkpatrick, Dr. Marlio Martins); 3) Ya",ministro_do_stf
+29,GILMAR MENDES,fala_transcrita,Transcrições,documentos_audiencias/AP_29/044_transcri_es.pdf,241,O SENHOR MINISTRO GILMAR MENDES (RELATOR) -,ministro_do_stf
+30,ROBERTO BARROSO,fala_transcrita,Transcrições,documentos_audiencias/AP_30/039_transcri_es.pdf,594,O SENHOR MINISTRO ROBERTO BARROSO (RELATOR) -,ministro_do_stf
+31,EDSON FACHIN,fala_transcrita,Transcrições,documentos_audiencias/AP_31/035_transcri_es.pdf,121,O SENHOR MINISTRO EDSON FACHIN -,ministro_do_stf
+31,ROSA WEBER,fala_transcrita,Transcrições,documentos_audiencias/AP_31/035_transcri_es.pdf,326,A SENHORA MINISTRA ROSA WEBER (RELATORA) -,ministro_do_stf
+32,EDSON FACHIN,fala_transcrita,Transcrições,documentos_audiencias/AP_32/031_transcri_es.pdf,680,O SENHOR MINISTRO EDSON FACHIN (RELATOR) -,ministro_do_stf
+32,GILMAR MENDES,fala_transcrita,Transcrições,documentos_audiencias/AP_32/031_transcri_es.pdf,5,O SENHOR MINISTRO GILMAR MENDES -,ministro_do_stf
+33,CÁRMEN LÚCIA,fala_transcrita,Transcrições,documentos_audiencias/AP_33/027_transcri_es.pdf,9,A SENHORA MINISTRA CÁRMEN LÚCIA -,ministro_do_stf
+33,GILMAR MENDES,fala_transcrita,Transcrições,documentos_audiencias/AP_33/027_transcri_es.pdf,379,O SENHOR MINISTRO GILMAR MENDES (RELATOR) -,ministro_do_stf
+35,LUIZ FUX,fala_transcrita,Transcrições,documentos_audiencias/AP_35/023_transcri_es.pdf,401,O SENHOR MINISTRO LUIZ FUX (PRESIDENTE E RELATOR) -,ministro_do_stf
+36,GILMAR MENDES,fala_transcrita,Transcrições,documentos_audiencias/AP_36/021_transcri_es.pdf,331,O SENHOR MINISTRO GILMAR MENDES (RELATOR) -,ministro_do_stf
+38,ALEXANDRE DE MORAES,fala_transcrita,Transcrições,documentos_audiencias/AP_38/015_transcri_es.pdf,19,O SENHOR MINISTRO ALEXANDRE DE MORAES -,ministro_do_stf
+38,DE CERIMÔNIAS,fala_transcrita,Transcrições,documentos_audiencias/AP_38/015_transcri_es.pdf,2,O SENHOR MESTRE DE CERIMÔNIAS (ABERTURA) -,cerimonial_ou_mestre_de_cerimonias
+38,DIAS TOFFOLI,fala_transcrita,Transcrições,documentos_audiencias/AP_38/015_transcri_es.pdf,358,O SENHOR MINISTRO DIAS TOFFOLI -,ministro_do_stf
+38,GILMAR MENDES,fala_transcrita,Transcrições,documentos_audiencias/AP_38/015_transcri_es.pdf,13,O SENHOR MINISTRO GILMAR MENDES -,ministro_do_stf
+38,LUIZ FUX,fala_transcrita,Transcrições,documentos_audiencias/AP_38/015_transcri_es.pdf,356,O SENHOR MINISTRO LUIZ FUX -,ministro_do_stf
+38,ROBERTO BARROSO,fala_transcrita,Transcrições,documentos_audiencias/AP_38/015_transcri_es.pdf,40,O SENHOR MINISTRO ROBERTO BARROSO -,ministro_do_stf
+41,DE CERIMÔNIAS,fala_transcrita,Transcrição da audiência pública,documentos_audiencias/AP_41/012_transcri_o_da_audi_ncia_p_blica.pdf,142,O SENHOR MESTRE DE CERIMÔNIAS -,cerimonial_ou_mestre_de_cerimonias
+41,EDSON FACHIN,fala_transcrita,Transcrição da audiência pública,documentos_audiencias/AP_41/012_transcri_o_da_audi_ncia_p_blica.pdf,273,O SENHOR MINISTRO EDSON FACHIN (RELATOR) -,ministro_do_stf
+44,DE CERIMÔNIAS,fala_transcrita,Transcrição da audiência pública,documentos_audiencias/AP_44/008_transcri_o_da_audi_ncia_p_blica.pdf,4,O SENHOR MESTRE DE CERIMÔNIAS -,cerimonial_ou_mestre_de_cerimonias
+44,FLÁVIO DINO,fala_transcrita,íntegra do despacho convocatório,documentos_audiencias/AP_44/001_ntegra_do_despacho_convocat_rio.pdf,1,O SENHOR MINISTRO FLÁVIO DINO:,ministro_do_stf
+44,FLÁVIO DINO,fala_transcrita,íntegra do despacho da programação,documentos_audiencias/AP_44/002_ntegra_do_despacho_da_programa_o.pdf,1,O SENHOR MINISTRO FLÁVIO DINO:,ministro_do_stf
+44,FLÁVIO DINO,fala_transcrita,Despacho convocatório,documentos_audiencias/AP_44/003_despacho_convocat_rio.pdf,1,O SENHOR MINISTRO FLÁVIO DINO:,ministro_do_stf
+44,FLÁVIO DINO,fala_transcrita,"Expositores, programação e metodologia",documentos_audiencias/AP_44/005_expositores_programa_o_e_metodologia.pdf,1,O SENHOR MINISTRO FLÁVIO DINO:,ministro_do_stf
+44,FLÁVIO DINO,fala_transcrita,Transcrição da audiência pública,documentos_audiencias/AP_44/008_transcri_o_da_audi_ncia_p_blica.pdf,285,O SENHOR MINISTRO FLÁVIO DINO (RELATOR) -,ministro_do_stf

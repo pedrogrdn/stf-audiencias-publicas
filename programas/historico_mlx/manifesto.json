@@ -1,0 +1,63 @@
+{
+  "source": "teste_classificacao_mencoes.xlsx",
+  "sha256": "42be1a174aff6c6b5e1cb1193064b7406f2854220b34be71e74e5bf103f44679",
+  "splits": {
+    "treino": {
+      "ocorrencias": 210,
+      "corpus": {
+        "Incorporar": 90,
+        "Excluir": 120
+      },
+      "tipo": {
+        "Contexto": 14,
+        "Argumento": 44,
+        "Relato": 32
+      },
+      "sem_trecho_audiencia": 27,
+      "audiencias": [
+        "1",
+        "12",
+        "14",
+        "15",
+        "18",
+        "3",
+        "32",
+        "4",
+        "5",
+        "8"
+      ]
+    },
+    "desenvolvimento": {
+      "ocorrencias": 30,
+      "corpus": {
+        "Incorporar": 10,
+        "Excluir": 20
+      },
+      "tipo": {
+        "Contexto": 4,
+        "Relato": 2,
+        "Argumento": 4
+      },
+      "sem_trecho_audiencia": 4,
+      "audiencias": [
+        "38"
+      ]
+    },
+    "teste": {
+      "ocorrencias": 60,
+      "corpus": {
+        "Excluir": 30,
+        "Incorporar": 30
+      },
+      "tipo": {
+        "Argumento": 21,
+        "Contexto": 9
+      },
+      "sem_trecho_audiencia": 10,
+      "audiencias": [
+        "19",
+        "35"
+      ]
+    }
+  }
+}

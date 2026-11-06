@@ -1,0 +1,524 @@
+﻿ocorrencia_id,audiencia,n_instituicoes_citadas,n_instituicoes_com_entidade_correspondente,categorias_candidatas_B,n_categorias_candidatas_B,ambigua_B,tem_vinculo_A
+AP02-AP_02_ADPF_101-00006,2,1,1,"[""Atores públicos""]",1,False,False
+AP02-AP_02_ADPF_101-00008,2,1,1,"[""Atores públicos""]",1,False,False
+AP02-AP_02_ADPF_101-00011,2,1,1,"[""Atores públicos""]",1,False,True
+AP02-AP_02_ADPF_101-00012,2,1,1,"[""Atores públicos""]",1,False,False
+AP02-AP_02_ADPF_101-00013,2,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00001,3,1,1,"[""Acadêmicos""]",1,False,False
+AP03-AP_03_ADPF_054-00010,3,7,7,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP03-AP_03_ADPF_054-00013,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00014,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00015,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00016,3,1,1,"[""Atores públicos""]",1,False,False
+AP03-AP_03_ADPF_054-00017,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00018,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00019,3,1,1,"[""Sociedade civil""]",1,False,False
+AP03-AP_03_ADPF_054-00020,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00021,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00022,3,1,1,"[""Sociedade civil""]",1,False,False
+AP03-AP_03_ADPF_054-00024,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00026,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00027,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00028,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00029,3,1,1,"[""Acadêmicos""]",1,False,False
+AP03-AP_03_ADPF_054-00030,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00031,3,1,1,"[""Atores públicos""]",1,False,False
+AP03-AP_03_ADPF_054-00032,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00033,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00035,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00036,3,1,1,"[""Atores públicos""]",1,False,False
+AP03-AP_03_ADPF_054-00037,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00038,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00039,3,2,2,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00040,3,1,0,[],0,False,True
+AP03-AP_03_ADPF_054-00041,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00042,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00043,3,1,1,"[""Sociedade civil""]",1,False,False
+AP03-AP_03_ADPF_054-00051,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00052,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00055,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00056,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00057,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00058,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00061,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00063,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00064,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00065,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00067,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00068,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00069,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00071,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00072,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00074,3,1,1,"[""Atores públicos""]",1,False,False
+AP03-AP_03_ADPF_054-00076,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00077,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00078,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00079,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00080,3,1,1,"[""Sociedade civil""]",1,False,False
+AP03-AP_03_ADPF_054-00081,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00083,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00084,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00085,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00087,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00089,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00091,3,1,1,"[""Sociedade civil""]",1,False,False
+AP03-AP_03_ADPF_054-00094,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00096,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00097,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00098,3,3,3,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP03-AP_03_ADPF_054-00100,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00101,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00102,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00103,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00104,3,2,2,"[""Acadêmicos"", ""Sociedade civil""]",2,True,True
+AP03-AP_03_ADPF_054-00105,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00113,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00115,3,2,2,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00116,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00117,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00118,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00122,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00124,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00126,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00127,3,1,1,"[""Acadêmicos""]",1,False,False
+AP03-AP_03_ADPF_054-00128,3,1,1,"[""Sociedade civil""]",1,False,False
+AP03-AP_03_ADPF_054-00133,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00134,3,1,1,"[""Acadêmicos""]",1,False,False
+AP03-AP_03_ADPF_054-00136,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00137,3,1,1,"[""Sociedade civil""]",1,False,False
+AP03-AP_03_ADPF_054-00140,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00141,3,1,1,"[""Atores públicos""]",1,False,False
+AP03-AP_03_ADPF_054-00143,3,1,0,[],0,False,True
+AP03-AP_03_ADPF_054-00164,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00168,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00179,3,1,1,"[""Atores públicos""]",1,False,False
+AP03-AP_03_ADPF_054-00181,3,1,1,"[""Atores públicos""]",1,False,False
+AP03-AP_03_ADPF_054-00190,3,1,1,"[""Atores públicos""]",1,False,False
+AP03-AP_03_ADPF_054-00197,3,1,1,"[""Acadêmicos""]",1,False,False
+AP03-AP_03_ADPF_054-00201,3,1,1,"[""Atores públicos""]",1,False,False
+AP03-AP_03_ADPF_054-00205,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00206,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00210,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00214,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00215,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00216,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00217,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00218,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00219,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00220,3,1,1,"[""Acadêmicos""]",1,False,True
+AP03-AP_03_ADPF_054-00221,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00222,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00223,3,1,1,"[""Atores públicos""]",1,False,False
+AP03-AP_03_ADPF_054-00225,3,1,1,"[""Sociedade civil""]",1,False,False
+AP03-AP_03_ADPF_054-00226,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00227,3,2,2,"[""Acadêmicos"", ""Sociedade civil""]",2,True,True
+AP03-AP_03_ADPF_054-00228,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00230,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00236,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00239,3,1,1,"[""Atores públicos""]",1,False,True
+AP03-AP_03_ADPF_054-00240,3,1,1,"[""Sociedade civil""]",1,False,True
+AP03-AP_03_ADPF_054-00241,3,1,1,"[""Sociedade civil""]",1,False,True
+AP04-AP_04_SS_2361-00007,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_2361-00008,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_2361-00011,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_2361-00012,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_2361-00013,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_2361-00014,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_2944-00008,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_2944-00009,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_2944-00012,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_2944-00013,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_2944-00014,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_2944-00025,4,1,1,"[""Acadêmicos""]",1,False,True
+AP04-AP_04_SS_3345-00011,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_3345-00012,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_3345-00015,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_3355-00013,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_3355-00014,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_3355-00017,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_SS_3355-00031,4,1,1,"[""Acadêmicos""]",1,False,True
+AP04-AP_04_STA_278-00013,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_STA_278-00014,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_STA_278-00017,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_STA_278-00018,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_STA_278-00019,4,1,1,"[""Atores públicos""]",1,False,False
+AP04-AP_04_STA_278-00020,4,1,1,"[""Atores públicos""]",1,False,False
+AP05-AP_05_ADPF_186-00010,5,1,0,[],0,False,True
+AP05-AP_05_ADPF_186-00021,5,1,0,[],0,False,True
+AP05-AP_05_ADPF_186-00023,5,1,0,[],0,False,True
+AP05-AP_05_ADPF_186-00024,5,1,1,"[""Acadêmicos""]",1,False,False
+AP05-AP_05_ADPF_186-00025,5,1,1,"[""Acadêmicos""]",1,False,False
+AP05-AP_05_ADPF_186-00026,5,1,1,"[""Acadêmicos""]",1,False,False
+AP05-AP_05_ADPF_186-00027,5,1,1,"[""Acadêmicos""]",1,False,True
+AP05-AP_05_ADPF_186-00028,5,1,1,"[""Acadêmicos""]",1,False,False
+AP06-AP_06_ADI_4103-00007,6,1,1,"[""Atores públicos""]",1,False,False
+AP06-AP_06_ADI_4103-00015,6,1,1,"[""Atores públicos""]",1,False,True
+AP07-AP_07_ADI_3937-00009,7,1,1,"[""Atores públicos""]",1,False,True
+AP07-AP_07_ADI_3937-00010,7,1,1,"[""Atores privados""]",1,False,False
+AP07-AP_07_ADI_3937-00011,7,1,1,"[""Sociedade civil""]",1,False,True
+AP07-AP_07_ADI_3937-00012,7,1,1,"[""Atores privados""]",1,False,False
+AP07-AP_07_ADI_3937-00013,7,1,1,"[""Sociedade civil""]",1,False,False
+AP07-AP_07_ADI_3937-00014,7,1,1,"[""Atores privados""]",1,False,False
+AP07-AP_07_ADI_3937-00015,7,2,2,"[""Atores públicos"", ""Sociedade civil""]",2,True,False
+AP07-AP_07_ADI_3937-00016,7,1,1,"[""Atores públicos""]",1,False,False
+AP07-AP_07_ADI_3937-00017,7,1,1,"[""Atores privados""]",1,False,False
+AP07-AP_07_ADI_3937-00018,7,1,1,"[""Atores privados""]",1,False,True
+AP07-AP_07_ADI_3937-00019,7,1,1,"[""Atores privados""]",1,False,False
+AP07-AP_07_ADI_3937-00020,7,1,1,"[""Sociedade civil""]",1,False,False
+AP07-AP_07_ADI_3937-00021,7,1,1,"[""Sociedade civil""]",1,False,False
+AP07-AP_07_ADI_3937-00022,7,1,1,"[""Sociedade civil""]",1,False,False
+AP07-AP_07_ADI_3937-00023,7,1,1,"[""Sociedade civil""]",1,False,False
+AP07-AP_07_ADI_3937-00024,7,1,1,"[""Sociedade civil""]",1,False,False
+AP07-AP_07_ADI_3937-00025,7,1,1,"[""Atores privados""]",1,False,False
+AP07-AP_07_ADI_3937-00028,7,1,1,"[""Sociedade civil""]",1,False,False
+AP07-AP_07_ADI_3937-00070,7,1,1,"[""Sociedade civil""]",1,False,True
+AP07-AP_07_ADI_3937-00076,7,1,1,"[""Sociedade civil""]",1,False,False
+AP08-AP_08_ADI_4679-00001,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4679-00020,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4679-00021,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4679-00024,8,1,1,"[""Atores privados""]",1,False,True
+AP08-AP_08_ADI_4679-00037,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4679-00038,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4679-00060,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4679-00061,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4747-00001,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4747-00019,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4747-00020,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4747-00023,8,1,1,"[""Atores privados""]",1,False,True
+AP08-AP_08_ADI_4747-00036,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4747-00037,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4747-00040,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4747-00059,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4747-00060,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4756-00001,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4756-00019,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4756-00020,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4756-00023,8,1,1,"[""Atores privados""]",1,False,True
+AP08-AP_08_ADI_4756-00036,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4756-00037,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4756-00038,8,1,1,"[""Atores públicos""]",1,False,False
+AP08-AP_08_ADI_4756-00060,8,1,1,"[""Atores públicos""]",1,False,False
+AP09-AP_09_RE_627189-00002,9,3,3,"[""Atores públicos""]",1,False,True
+AP10-AP_10_RE_586224-00002,10,1,1,"[""Atores públicos""]",1,False,False
+AP10-AP_10_RE_586224-00003,10,1,1,"[""Atores privados""]",1,False,False
+AP10-AP_10_RE_586224-00004,10,1,1,"[""Acadêmicos""]",1,False,False
+AP10-AP_10_RE_586224-00005,10,1,1,"[""Atores privados""]",1,False,False
+AP10-AP_10_RE_586224-00006,10,1,1,"[""Acadêmicos""]",1,False,False
+AP10-AP_10_RE_586224-00007,10,1,0,[],0,False,False
+AP10-AP_10_RE_586224-00008,10,1,1,"[""Atores privados""]",1,False,False
+AP10-AP_10_RE_586224-00011,10,1,1,"[""Acadêmicos""]",1,False,True
+AP11-AP_11_RE_641320-00005,11,1,1,"[""Atores públicos""]",1,False,True
+AP11-AP_11_RE_641320-00006,11,1,1,"[""Sociedade civil""]",1,False,True
+AP11-AP_11_RE_641320-00007,11,4,4,"[""Atores públicos""]",1,False,True
+AP11-AP_11_RE_641320-00009,11,1,1,"[""Atores públicos""]",1,False,True
+AP11-AP_11_RE_641320-00010,11,1,1,"[""Atores públicos""]",1,False,True
+AP12-AP_12_ADI_4650-00021,12,2,2,"[""Sociedade civil""]",1,False,True
+AP12-AP_12_ADI_4650-00043,12,2,2,"[""Sociedade civil""]",1,False,True
+AP12-AP_12_ADI_4650-00057,12,2,2,"[""Sociedade civil""]",1,False,True
+AP13-AP_13_ADI_4815-00013,13,1,1,"[""Acadêmicos""]",1,False,True
+AP13-AP_13_ADI_4815-00015,13,1,1,"[""Atores privados""]",1,False,True
+AP13-AP_13_ADI_4815-00017,13,1,1,"[""Atores privados""]",1,False,True
+AP13-AP_13_ADI_4815-00018,13,1,1,"[""Sociedade civil""]",1,False,False
+AP13-AP_13_ADI_4815-00019,13,1,1,"[""Atores públicos""]",1,False,True
+AP13-AP_13_ADI_4815-00022,13,1,1,"[""Sociedade civil""]",1,False,False
+AP13-AP_13_ADI_4815-00023,13,1,1,"[""Sociedade civil""]",1,False,False
+AP13-AP_13_ADI_4815-00025,13,1,1,"[""Sociedade civil""]",1,False,True
+AP13-AP_13_ADI_4815-00028,13,1,1,"[""Sociedade civil""]",1,False,False
+AP13-AP_13_ADI_4815-00029,13,1,1,"[""Sociedade civil""]",1,False,False
+AP13-AP_13_ADI_4815-00031,13,1,1,"[""Atores privados""]",1,False,True
+AP13-AP_13_ADI_4815-00034,13,1,1,"[""Acadêmicos""]",1,False,True
+AP13-AP_13_ADI_4815-00035,13,1,1,"[""Acadêmicos""]",1,False,True
+AP13-AP_13_ADI_4815-00036,13,1,1,"[""Sociedade civil""]",1,False,True
+AP14-AP_14_ADI_5035-00007,14,1,1,"[""Sociedade civil""]",1,False,True
+AP14-AP_14_ADI_5035-00008,14,1,1,"[""Sociedade civil""]",1,False,False
+AP14-AP_14_ADI_5035-00009,14,1,1,"[""Atores públicos""]",1,False,True
+AP14-AP_14_ADI_5035-00011,14,1,1,"[""Atores públicos""]",1,False,True
+AP14-AP_14_ADI_5035-00014,14,1,1,"[""Sociedade civil""]",1,False,True
+AP14-AP_14_ADI_5035-00025,14,1,1,"[""Atores públicos""]",1,False,True
+AP14-AP_14_ADI_5035-00026,14,1,1,"[""Atores públicos""]",1,False,False
+AP14-AP_14_ADI_5035-00028,14,1,1,"[""Atores públicos""]",1,False,False
+AP14-AP_14_ADI_5035-00029,14,1,1,"[""Atores públicos""]",1,False,False
+AP14-AP_14_ADI_5035-00039,14,1,1,"[""Atores públicos""]",1,False,True
+AP14-AP_14_ADI_5037-00005,14,1,1,"[""Sociedade civil""]",1,False,True
+AP14-AP_14_ADI_5037-00007,14,1,1,"[""Atores públicos""]",1,False,True
+AP14-AP_14_ADI_5037-00009,14,1,1,"[""Atores públicos""]",1,False,True
+AP14-AP_14_ADI_5037-00012,14,1,1,"[""Sociedade civil""]",1,False,True
+AP14-AP_14_ADI_5037-00023,14,1,1,"[""Atores públicos""]",1,False,True
+AP14-AP_14_ADI_5037-00024,14,1,1,"[""Atores públicos""]",1,False,False
+AP14-AP_14_ADI_5037-00026,14,1,1,"[""Atores públicos""]",1,False,False
+AP14-AP_14_ADI_5037-00027,14,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5062-00012,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5062-00018,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5062-00019,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5062-00020,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5062-00022,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5062-00023,15,1,1,"[""Atores públicos""]",1,False,True
+AP15-AP_15_ADI_5062-00028,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5062-00031,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5062-00032,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5062-00033,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5062-00036,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5062-00046,15,1,1,"[""Sociedade civil""]",1,False,False
+AP15-AP_15_ADI_5065-00009,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5065-00015,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5065-00017,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5065-00019,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5065-00020,15,1,1,"[""Atores públicos""]",1,False,True
+AP15-AP_15_ADI_5065-00028,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5065-00029,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5065-00031,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5065-00033,15,1,1,"[""Atores públicos""]",1,False,False
+AP15-AP_15_ADI_5065-00043,15,1,1,"[""Sociedade civil""]",1,False,False
+AP15-AP_15_ADI_5065-00044,15,1,1,"[""Sociedade civil""]",1,False,False
+AP16-AP_16_RE_581488-00002,16,4,1,"[""Sociedade civil""]",1,False,True
+AP16-AP_16_RE_581488-00017,16,1,0,[],0,False,True
+AP16-AP_16_RE_581488-00018,16,1,0,[],0,False,False
+AP16-AP_16_RE_581488-00023,16,1,0,[],0,False,True
+AP18-AP_18_ADI_5072-00023,18,1,1,"[""Atores públicos""]",1,False,False
+AP22-AP_22_RE_1010606-00004,22,4,3,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",3,True,True
+AP22-AP_22_RE_1010606-00007,22,1,1,"[""Acadêmicos""]",1,False,True
+AP22-AP_22_RE_1010606-00011,22,1,0,[],0,False,True
+AP22-AP_22_RE_1010606-00012,22,1,1,"[""Atores públicos""]",1,False,True
+AP22-AP_22_RE_1010606-00027,22,1,1,"[""Sociedade civil""]",1,False,False
+AP31-AP_31_ADO_059-00005,31,1,1,"[""Acadêmicos""]",1,False,False
+AP31-AP_31_ADO_059-00009,31,1,1,"[""Acadêmicos""]",1,False,True
+AP31-AP_31_ADO_059-00012,31,1,1,"[""Acadêmicos""]",1,False,True
+AP31-AP_31_ADO_059-00013,31,1,1,"[""Atores públicos""]",1,False,False
+AP31-AP_31_ADO_059-00014,31,1,1,"[""Atores públicos""]",1,False,False
+AP31-AP_31_ADO_059-00015,31,1,0,[],0,False,True
+AP31-AP_31_ADO_059-00021,31,1,1,"[""Atores públicos""]",1,False,False
+AP31-AP_31_ADO_059-00033,31,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00002,32,1,1,"[""Sociedade civil""]",1,False,False
+AP32-AP_32_ADPF_635-00041,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00057,32,1,1,"[""Acadêmicos""]",1,False,True
+AP32-AP_32_ADPF_635-00058,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00082,32,1,1,"[""Sociedade civil""]",1,False,False
+AP32-AP_32_ADPF_635-00094,32,2,2,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00097,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00098,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00103,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00108,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00110,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00120,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00122,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00128,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00140,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00143,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00152,32,1,1,"[""Sociedade civil""]",1,False,False
+AP32-AP_32_ADPF_635-00153,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00157,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00162,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00202,32,2,2,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00203,32,3,3,"[""Sociedade civil""]",1,False,True
+AP32-AP_32_ADPF_635-00224,32,2,2,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00226,32,3,3,"[""Sociedade civil""]",1,False,False
+AP32-AP_32_ADPF_635-00239,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00255,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00296,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00323,32,1,1,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00361,32,2,2,"[""Atores públicos""]",1,False,False
+AP32-AP_32_ADPF_635-00362,32,2,2,"[""Sociedade civil""]",1,False,True
+AP32-AP_32_ADPF_635-00375,32,1,1,"[""Atores públicos""]",1,False,False
+AP33-AP_33_HC_165704-00001,33,1,1,"[""Atores públicos""]",1,False,False
+AP33-AP_33_HC_165704-00002,33,1,1,"[""Atores públicos""]",1,False,False
+AP33-AP_33_HC_165704-00010,33,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00004,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00005,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6298-00019,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6298-00021,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00022,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6298-00031,35,3,3,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP35-AP_35_ADI_6298-00032,35,4,4,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",3,True,True
+AP35-AP_35_ADI_6298-00033,35,6,6,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",3,True,True
+AP35-AP_35_ADI_6298-00034,35,2,2,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP35-AP_35_ADI_6298-00035,35,3,3,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP35-AP_35_ADI_6298-00039,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00054,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00063,35,3,3,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6298-00067,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00073,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00079,35,7,7,"[""Atores públicos"", ""Sociedade civil""]",2,True,False
+AP35-AP_35_ADI_6298-00112,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00118,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00138,35,3,3,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6298-00143,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00154,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6298-00163,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6298-00165,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00173,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00174,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00175,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00180,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00190,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6298-00219,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6298-00241,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00280,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00294,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00295,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6298-00299,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6298-00306,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6298-00322,35,3,3,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6299-00001,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6299-00016,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6299-00027,35,3,3,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP35-AP_35_ADI_6299-00028,35,4,4,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",3,True,True
+AP35-AP_35_ADI_6299-00029,35,6,6,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",3,True,True
+AP35-AP_35_ADI_6299-00030,35,2,2,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP35-AP_35_ADI_6299-00031,35,3,3,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP35-AP_35_ADI_6299-00035,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6299-00045,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6299-00053,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6299-00054,35,1,1,"[""Atores públicos""]",1,False,True
+AP35-AP_35_ADI_6299-00062,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6299-00063,35,1,1,"[""Atores públicos""]",1,False,True
+AP35-AP_35_ADI_6299-00066,35,7,7,"[""Atores públicos"", ""Sociedade civil""]",2,True,False
+AP35-AP_35_ADI_6299-00105,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6299-00106,35,1,1,"[""Atores públicos""]",1,False,True
+AP35-AP_35_ADI_6299-00118,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6299-00119,35,1,1,"[""Atores públicos""]",1,False,True
+AP35-AP_35_ADI_6299-00135,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6299-00144,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6299-00152,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6299-00153,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6299-00154,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6299-00160,35,1,1,"[""Atores públicos""]",1,False,True
+AP35-AP_35_ADI_6299-00187,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6299-00188,35,1,1,"[""Atores públicos""]",1,False,True
+AP35-AP_35_ADI_6299-00194,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6299-00214,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6299-00239,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6299-00240,35,1,1,"[""Atores públicos""]",1,False,True
+AP35-AP_35_ADI_6299-00251,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6299-00255,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6299-00265,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6299-00266,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6299-00268,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6299-00269,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6299-00270,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6299-00277,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6299-00282,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6299-00283,35,1,1,"[""Atores públicos""]",1,False,True
+AP35-AP_35_ADI_6299-00290,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6299-00291,35,1,1,"[""Atores públicos""]",1,False,True
+AP35-AP_35_ADI_6300-00001,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6300-00002,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6300-00016,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6300-00026,35,5,5,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",3,True,True
+AP35-AP_35_ADI_6300-00027,35,3,3,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP35-AP_35_ADI_6300-00028,35,5,5,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",3,True,True
+AP35-AP_35_ADI_6300-00029,35,1,1,"[""Atores públicos""]",1,False,True
+AP35-AP_35_ADI_6300-00030,35,3,3,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP35-AP_35_ADI_6300-00031,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6300-00035,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6300-00050,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6300-00059,35,7,7,"[""Atores públicos"", ""Sociedade civil""]",2,True,False
+AP35-AP_35_ADI_6300-00062,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6300-00065,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6300-00097,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6300-00103,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6300-00105,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6300-00106,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6300-00122,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6300-00130,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6300-00138,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6300-00139,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6300-00144,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6300-00169,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6300-00175,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6300-00218,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6300-00229,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6300-00230,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6300-00233,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6300-00243,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6300-00244,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6300-00247,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6300-00248,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6300-00259,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6300-00265,35,2,2,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6305-00014,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6305-00023,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6305-00024,35,5,5,"[""Acadêmicos"", ""Atores públicos"", ""Sociedade civil""]",3,True,True
+AP35-AP_35_ADI_6305-00025,35,4,4,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP35-AP_35_ADI_6305-00026,35,3,3,"[""Acadêmicos"", ""Sociedade civil""]",2,True,True
+AP35-AP_35_ADI_6305-00027,35,1,1,"[""Atores públicos""]",1,False,True
+AP35-AP_35_ADI_6305-00028,35,4,4,"[""Atores públicos"", ""Sociedade civil""]",2,True,True
+AP35-AP_35_ADI_6305-00033,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6305-00043,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6305-00046,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6305-00049,35,7,7,"[""Atores públicos"", ""Sociedade civil""]",2,True,False
+AP35-AP_35_ADI_6305-00055,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6305-00090,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6305-00107,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6305-00114,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6305-00122,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6305-00123,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6305-00124,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6305-00130,35,1,1,"[""Sociedade civil""]",1,False,False
+AP35-AP_35_ADI_6305-00153,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6305-00204,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6305-00211,35,1,1,"[""Sociedade civil""]",1,False,True
+AP35-AP_35_ADI_6305-00218,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6305-00219,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6305-00222,35,1,1,"[""Atores públicos""]",1,False,False
+AP35-AP_35_ADI_6305-00223,35,1,1,"[""Sociedade civil""]",1,False,True
+AP36-AP_36_ADI_7187-00010,36,1,1,"[""Sociedade civil""]",1,False,True
+AP36-AP_36_ADI_7187-00012,36,1,1,"[""Atores públicos""]",1,False,True
+AP36-AP_36_ADI_7187-00030,36,1,1,"[""Sociedade civil""]",1,False,False
+AP36-AP_36_ADI_7187-00031,36,1,1,"[""Sociedade civil""]",1,False,False
+AP36-AP_36_ADI_7187-00032,36,1,1,"[""Sociedade civil""]",1,False,False
+AP36-AP_36_ADI_7187-00043,36,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00002,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00007,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00012,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00015,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00023,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00029,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00038,38,1,1,"[""Sociedade civil""]",1,False,True
+AP38-AP_38_RE_1037396-00046,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00053,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00058,38,1,1,"[""Sociedade civil""]",1,False,True
+AP38-AP_38_RE_1037396-00063,38,1,1,"[""Sociedade civil""]",1,False,True
+AP38-AP_38_RE_1037396-00064,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00071,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00072,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00080,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00081,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00087,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00091,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00092,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00099,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00111,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00113,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00114,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00120,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00121,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00125,38,1,1,"[""Atores públicos""]",1,False,False
+AP38-AP_38_RE_1037396-00151,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00157,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00158,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00168,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00169,38,1,1,"[""Atores privados""]",1,False,False
+AP38-AP_38_RE_1037396-00177,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00178,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00193,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00196,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1037396-00211,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1057258-00011,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1057258-00013,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1057258-00015,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1057258-00016,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1057258-00017,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1057258-00018,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1057258-00029,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1057258-00031,38,1,1,"[""Sociedade civil""]",1,False,False
+AP38-AP_38_RE_1057258-00032,38,1,1,"[""Atores privados""]",1,False,False
+AP41-AP_41_ADI_5553-00003,41,1,1,"[""Atores públicos""]",1,False,False
+AP41-AP_41_ADI_5553-00005,41,1,1,"[""Atores públicos""]",1,False,False
+AP41-AP_41_ADI_5553-00007,41,1,1,"[""Atores públicos""]",1,False,False
+AP41-AP_41_ADI_5553-00009,41,1,1,"[""Atores públicos""]",1,False,False
+AP41-AP_41_ADI_5553-00011,41,1,1,"[""Atores públicos""]",1,False,False
+AP41-AP_41_ADI_5553-00033,41,1,1,"[""Atores públicos""]",1,False,False
+AP41-AP_41_ADI_5553-00036,41,1,1,"[""Atores públicos""]",1,False,False
+AP41-AP_41_ADI_5553-00049,41,1,1,"[""Atores públicos""]",1,False,False
+AP41-AP_41_ADI_5553-00076,41,1,1,"[""Atores públicos""]",1,False,False
+AP41-AP_41_ADI_5553-00080,41,1,1,"[""Atores públicos""]",1,False,False

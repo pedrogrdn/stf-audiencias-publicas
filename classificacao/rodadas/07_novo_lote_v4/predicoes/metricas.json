@@ -1,0 +1,43 @@
+{
+  "n": 30,
+  "corpus_acertos": 29,
+  "classificacao_completa_acertos": 27,
+  "matriz_corpus": {
+    "Incorporar -> Incorporar": 14,
+    "Excluir -> Excluir": 15,
+    "Incorporar -> Excluir": 1
+  },
+  "respostas_invalidas": 0,
+  "tipo_nos_incorporados_humanos": {
+    "n": 15,
+    "acertos": 12,
+    "invalidas": 1,
+    "por_categoria": {
+      "Contexto": {
+        "suporte": 1,
+        "acertos": 0,
+        "precisao": null,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "Relato": {
+        "suporte": 7,
+        "acertos": 7,
+        "precisao": 0.7777777777777778,
+        "recall": 1.0,
+        "f1": 0.875
+      },
+      "Argumento": {
+        "suporte": 7,
+        "acertos": 5,
+        "precisao": 1.0,
+        "recall": 0.7142857142857143,
+        "f1": 0.8333333333333334
+      }
+    }
+  },
+  "tokens_entrada": 94754,
+  "tokens_saida": 775,
+  "custo_estimado_usd": 0.197258,
+  "nota": "Novo lote diagnóstico não avaliado anteriormente pelo Claude por ID ou menção normalizada. Origem: treino local. Gabarito histórico, não revisto previamente pelas regras atuais. Não é teste independente da pesquisa. Apenas um Contexto."
+}

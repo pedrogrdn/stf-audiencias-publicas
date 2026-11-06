@@ -1,0 +1,14 @@
+﻿rodada,unidade,natureza,arquivos,pasta
+01_claude_tipo_AP38,menção contextualizada,Desenvolvimento; gabarito histórico; sem validação independente,9,classificacao/rodadas/01_claude_tipo_AP38
+02_contexto_AP38,menção contextualizada,Desenvolvimento; recortes e instruções revistos,12,classificacao/rodadas/02_contexto_AP38
+03_multiaudiencias_30,menção contextualizada,Diagnóstico de desenvolvimento,11,classificacao/rodadas/03_multiaudiencias_30
+04_reservado_60,menção contextualizada,Referência histórica; conjunto depois reutilizado,7,classificacao/rodadas/04_reservado_60
+05_ajuste_corpus_60,menção contextualizada,Reavaliação dos mesmos casos; não independente,7,classificacao/rodadas/05_ajuste_corpus_60
+06_novo_lote_v3,menção contextualizada,Diagnóstico; origem no treino local,7,classificacao/rodadas/06_novo_lote_v3
+07_novo_lote_v4,menção contextualizada,Diagnóstico; origem no treino local,9,classificacao/rodadas/07_novo_lote_v4
+08_novo_lote_v5,menção contextualizada,Diagnóstico; origem no treino local,17,classificacao/rodadas/08_novo_lote_v5
+09_reavaliacao_300,menção contextualizada,Reavaliação conciliada; não teste independente,19,classificacao/rodadas/09_reavaliacao_300
+10_piloto_AP02_AP13,menção contextualizada,Aplicação integral dos candidatos recuperados; revisão humana integral,13,classificacao/rodadas/10_piloto_AP02_AP13
+11_piloto_AP09_AP16_AP22,menção contextualizada,Aplicação integral dos candidatos recuperados; revisão humana integral,13,classificacao/rodadas/11_piloto_AP09_AP16_AP22
+12_execucao_integral_3010,menção contextualizada,Aplicação congelada; 445 decisões humanas anteriores preservadas; pendências revistas depois,9,classificacao/rodadas/12_execucao_integral_3010
+13_classificacao_participantes,participação pessoa × audiência,Classificação documental e complementos; Partido Político incorporado na revisão humana,12,classificacao/rodadas/13_classificacao_participantes

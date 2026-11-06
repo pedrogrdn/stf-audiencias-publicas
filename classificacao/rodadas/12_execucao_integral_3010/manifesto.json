@@ -1,0 +1,55 @@
+{
+  "data": "2026-11-05",
+  "modelo": "claude-sonnet-5",
+  "max_tokens": 200,
+  "thinking": {
+    "type": "disabled"
+  },
+  "n_total": 3455,
+  "n_humanos_preservados": 445,
+  "n_classificar": 3010,
+  "por_audiencia": {
+    "1": 33,
+    "3": 214,
+    "4": 118,
+    "5": 28,
+    "6": 19,
+    "7": 79,
+    "8": 184,
+    "10": 16,
+    "11": 27,
+    "12": 43,
+    "14": 61,
+    "15": 88,
+    "17": 15,
+    "18": 29,
+    "19": 117,
+    "28": 6,
+    "29": 12,
+    "30": 15,
+    "31": 65,
+    "32": 353,
+    "33": 14,
+    "35": 1109,
+    "36": 64,
+    "38": 219,
+    "41": 82
+  },
+  "fontes_sha256": {
+    "resultados/analise_integral/ocorrencias_classificadas.csv": "cfc75dce3a9a0a114ac0ba1b45a56f356fc14f2a04a97ad772a4e17af39aecf0",
+    "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/reavaliacao_total_conciliada_v6_1/instrucoes.txt": "44437f55f69c0c52ee561af71d2db58fb62152d4a0a9b13cfa0b29d1c7bb9ca5",
+    "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_total_final_20261013/gabarito_revisado.json": "05b4f8041968807ae5d8e2abbcece1960fae00a9935b3ed71f1efa9d63a556df",
+    "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/reavaliacao_total_conciliada_v6_1/entradas.json": "4539952113b9f22b080f85a95e92183a759785ac3474becbc02cd96377d2d60d",
+    "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap02_ap13_20261014/gabarito_revisado.json": "85ea8c6d6fcedf0b0d312929de785ca1c00fa6eebf309d90ff2be278c40a6010",
+    "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/piloto_ap02_ap13_v1/entradas.json": "309c539bed7c92790a7d2ed444200f662ca5338295c6966aab54d16005466f36",
+    "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/revisao_humana_piloto_ap09_ap16_ap22_20261015/gabarito_revisado.json": "98507f658048b1ff6b5b2ecc9241003d2a51d384b10ab67293b208a0ce74b452",
+    "outputs/01a02b49-a916-75a0-80da-a7b4fcc952c1/mlx_local/piloto_ap09_ap16_ap22_v1/entradas.json": "ea54a71b0bee41059feccba1b57d6639fa772425bd7d7083fc9a443349446b12"
+  },
+  "sha256": {
+    "instrucoes_v6_1.txt": "44437f55f69c0c52ee561af71d2db58fb62152d4a0a9b13cfa0b29d1c7bb9ca5",
+    "metadados_originais.json": "0c04a6ef6d9692df0a77e398d4a159419720b4d5bdb49ac16ef94cb32e13352d",
+    "decisoes_humanas_preservadas.json": "982a234ac9d7cf25c19c266ba994ae094a18e775357d3edee9016527e8b121d9",
+    "entradas.json": "72e7c50de7ff64a1b63f0a41bdb0f9252cc64c1e6b3f12e164683a83a1e74df8"
+  },
+  "nota": "Lote da extração existente, sem reclassificar os 445 IDs humanos. A liberação depende da verificação dos acórdãos. Não inclui documentos novos sem extração e revisão de cobertura."
+}

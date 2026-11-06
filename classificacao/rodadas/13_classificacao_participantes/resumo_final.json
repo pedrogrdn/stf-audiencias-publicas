@@ -1,0 +1,20 @@
+{
+  "n": 405,
+  "pessoas_distintas": 391,
+  "audiencias": 31,
+  "por_categoria": {
+    "Acadêmicos": 73,
+    "Pendente": 19,
+    "Atores públicos": 138,
+    "Atores privados": 38,
+    "Sociedade civil": 118,
+    "Outros": 19
+  },
+  "revisar": 59,
+  "sem_categoria": 19,
+  "respostas_invalidas_finais": 0,
+  "tokens_entrada": 959870,
+  "tokens_saida": 85176,
+  "custo_estimado_usd_referencia": 2.7715,
+  "nota": "Predições documentais, sem validação humana ou estimativa de acurácia. O custo inclui os complementos de contexto."
+}

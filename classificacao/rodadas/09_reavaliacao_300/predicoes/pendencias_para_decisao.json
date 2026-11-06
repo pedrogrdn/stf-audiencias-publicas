@@ -1,0 +1,54 @@
+[
+  {
+    "id": "AP14-AP_14_ADI_5037-00006",
+    "gabarito_provisorio": {
+      "id": "AP14-AP_14_ADI_5037-00006",
+      "audiencia": "14",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    }
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00015",
+    "gabarito_provisorio": {
+      "id": "AP05-AP_05_ADPF_186-00015",
+      "audiencia": "5",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "previsto": {
+      "corpus": "Excluir",
+      "tipo": null
+    }
+  },
+  {
+    "id": "AP15-AP_15_ADI_5065-00046",
+    "gabarito_provisorio": {
+      "id": "AP15-AP_15_ADI_5065-00046",
+      "audiencia": "15",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    }
+  },
+  {
+    "id": "AP15-AP_15_ADI_5062-00049",
+    "gabarito_provisorio": {
+      "id": "AP15-AP_15_ADI_5062-00049",
+      "audiencia": "15",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "previsto": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    }
+  }
+]

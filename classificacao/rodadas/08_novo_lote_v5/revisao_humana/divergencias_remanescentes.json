@@ -1,0 +1,67 @@
+[
+  {
+    "id": "AP01-AP_01_ADI_3510-00017",
+    "humano": {
+      "id": "AP01-AP_01_ADI_3510-00017",
+      "audiencia": "1",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    }
+  },
+  {
+    "id": "AP01-AP_01_ADI_3510-00020",
+    "humano": {
+      "id": "AP01-AP_01_ADI_3510-00020",
+      "audiencia": "1",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    }
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00076",
+    "humano": {
+      "id": "AP03-AP_03_ADPF_054-00076",
+      "audiencia": "3",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    }
+  },
+  {
+    "id": "AP03-AP_03_ADPF_054-00227",
+    "humano": {
+      "id": "AP03-AP_03_ADPF_054-00227",
+      "audiencia": "3",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    }
+  },
+  {
+    "id": "AP05-AP_05_ADPF_186-00038",
+    "humano": {
+      "id": "AP05-AP_05_ADPF_186-00038",
+      "audiencia": "5",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Indeterminado",
+      "tipo": null
+    }
+  }
+]

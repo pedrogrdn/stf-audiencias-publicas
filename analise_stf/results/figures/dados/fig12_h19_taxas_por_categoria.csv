@@ -1,0 +1,13 @@
+﻿categoria,rotulo_exibicao,n_mencoes_com,n_argumentos_com,taxa_com,n_mencoes_sem,n_argumentos_sem,taxa_sem,n_audiencias_com,n_mencoes_unica_categoria,denominador_vinculadas,nivel
+Atores públicos,Atores públicos,77,12,0.15584415584415584,230,101,0.4391304347826087,14,57,307,A
+Atores privados,Atores privados,10,4,0.4,297,109,0.367003367003367,6,9,307,A
+Sociedade civil,Sociedade civil,141,39,0.2765957446808511,166,74,0.4457831325301205,14,118,307,A
+Acadêmicos,Acadêmicos,102,59,0.5784313725490197,205,54,0.2634146341463415,14,89,307,A
+Partido Político,Partidos Políticos,0,0,,307,113,0.36807817589576547,0,0,307,A
+Outros,Outros,10,1,0.1,297,112,0.3771043771043771,4,10,307,A
+Atores públicos,Atores públicos,263,101,0.3840304182509506,353,118,0.3342776203966006,23,236,616,A+B
+Atores privados,Atores privados,21,4,0.19047619047619047,595,215,0.36134453781512604,8,19,616,A+B
+Sociedade civil,Sociedade civil,250,56,0.224,366,163,0.4453551912568306,15,220,616,A+B
+Acadêmicos,Acadêmicos,114,59,0.5175438596491229,502,160,0.3187250996015936,14,100,616,A+B
+Partido Político,Partidos Políticos,0,0,,616,219,0.3555194805194805,0,0,616,A+B
+Outros,Outros,10,1,0.1,606,218,0.35973597359735976,4,10,616,A+B

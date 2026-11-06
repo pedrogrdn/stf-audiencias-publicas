@@ -1,0 +1,50 @@
+{
+  "n": 300,
+  "n_avaliavel_corpus": 296,
+  "pendencias_metodologicas": 4,
+  "corpus_acertos": 261,
+  "classificacao_completa_acertos": 249,
+  "matriz_corpus": {
+    "Incorporar -> Incorporar": 113,
+    "Excluir -> Excluir": 148,
+    "Excluir -> Indeterminado": 4,
+    "Excluir -> Incorporar": 25,
+    "Incorporar -> Indeterminado": 4,
+    "Incorporar -> Excluir": 2
+  },
+  "respostas_invalidas": 0,
+  "tipo_nos_incorporados_humanos": {
+    "n": 118,
+    "acertos": 101,
+    "invalidas": 5,
+    "por_categoria": {
+      "Contexto": {
+        "suporte": 26,
+        "acertos": 22,
+        "precisao": 0.9166666666666666,
+        "recall": 0.8461538461538461,
+        "f1": 0.88
+      },
+      "Relato": {
+        "suporte": 33,
+        "acertos": 31,
+        "precisao": 0.775,
+        "recall": 0.9393939393939394,
+        "f1": 0.8493150684931506
+      },
+      "Argumento": {
+        "suporte": 59,
+        "acertos": 48,
+        "precisao": 1.0,
+        "recall": 0.8135593220338984,
+        "f1": 0.897196261682243
+      }
+    }
+  },
+  "tokens_entrada": 1495035,
+  "tokens_saida": 7540,
+  "custo_estimado_usd": 3.06547,
+  "classificacao_completa_n_avaliavel": 295,
+  "incorporados_sem_tipo_humano": 1,
+  "nota": "Reavaliação da base de desenvolvimento completa, incluindo casos já usados em ajustes e casos ainda não enviados ao Claude. Não é validação independente. Gabarito histórico com revisões humanas registradas sobrepostas; tipos sem decisão humana não são inventados. Recortes originais, sem expansão de PDFs. Sem classificação de participantes ou teor. Gabarito conciliado conservadoramente por papel processual. Quatro pendências metodológicas ficam fora das métricas principais e são reportadas separadamente."
+}

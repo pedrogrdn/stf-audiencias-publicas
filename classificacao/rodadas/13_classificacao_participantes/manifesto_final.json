@@ -1,0 +1,17 @@
+{
+  "modelo": "claude-sonnet-5",
+  "unidade": "pessoa por audiência",
+  "registros": 405,
+  "sha256": {
+    "entradas.json": "3fb01ef7dad8c8718ca925f0066c23c6bcdd062052ab5346c1c9aa1877c345e8",
+    "complementos_contexto.json": "93ab9c40cf7df60f023ad2a1054f7f3240d46f45302221b37eddd4c103b8fa58",
+    "instrucoes_v1.txt": "ef461317ef7fc0437285c9dfea4ea5fd1e45353a4e2fa1dbbda831d525e20dfa",
+    "respostas.json": "789604f7708a047077692094cceee1e509fad476320961483786ec4a1a7c1ec1",
+    "respostas_complementos.json": "285544bf4647ca6be4bafbbf35b5d8944471c75befc7c3ae46bf4ad252f5fbda",
+    "classificacoes_documentais.json": "3d0258cc6f6212e5983a55da9eef3d9a97c628a2f00af4985fe0a64b6f03723b",
+    "classificacao_participantes.xlsx": "25d77592ab03f20a8015a075bddb32ad44e10dcf0ac425a5cbb162b18634796f"
+  },
+  "normalizacao_rotulos": "Capitalização e formas singulares Ator público, Ator privado, Acadêmico e Outro normalizadas para os cinco rótulos canônicos. Sem alteração semântica das categorias.",
+  "prioridade_contexto": "Respostas com contexto documental complementado substituem as primeiras respostas desses mesmos IDs; ambas foram preservadas.",
+  "revisao_humana": "Não realizada nesta etapa."
+}

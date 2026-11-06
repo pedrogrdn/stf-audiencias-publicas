@@ -1,0 +1,16 @@
+[
+  {
+    "id": "AP14-AP_14_ADI_5037-00004",
+    "antes": {
+      "id": "AP14-AP_14_ADI_5037-00004",
+      "audiencia": "14",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "motivo": "Mesma fala de Adams já excluída pelo pesquisador no acórdão conjunto; identidade textual conferida.",
+    "precedente_humano": "AP14-AP_14_ADI_5035-00006",
+    "fonte_decisao": "corpus_novo_lote_v4/revisao_v3.json",
+    "evidencia": "Na abertura, o então advogado-geral da União, Luís Inácio Lucena Adams, discorreu sobre o Sistema Único de Saúde – SUS e o Programa Mais Médicos, reafirmando os termos anteriormente expostos.",
+    "pagina_ocorrencia": 16
+  }
+]

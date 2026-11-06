@@ -1,0 +1,45 @@
+{
+  "modelo": "claude-sonnet-5",
+  "estimativa_usd": 0.24950799999999998,
+  "thinking": "disabled",
+  "max_tokens": 200,
+  "manifesto": {
+    "n": 30,
+    "finalidade": "Novo lote diagnóstico não avaliado anteriormente pelo Claude por ID ou menção normalizada. Origem: treino local. Gabarito histórico, não revisto previamente pelas regras atuais. Não é teste independente da pesquisa. Apenas um Contexto.",
+    "sha256": {
+      "entradas.json": "c6c15fb3b909d715bfc437b409b4e7309792c1e2f2ad86b333eeb187d76fe3b7",
+      "gabarito_original.json": "35ec729e1a23037692f7dd138538067c70520b05737ff242cce135faf973d045",
+      "instrucoes.txt": "a37c513e0786f3a494baf6a26722a684e8fffac975f2b1a2dd42332b975e7b50",
+      "gabarito_v3_revisado.json": "083208941e9d77ba4998e9b3f12d70937366dc060c0275c4079e590401f4358b",
+      "revisao_v3.json": "8a57a8f6d928ffbd053b148678082c2d64094bac72fd6775241853fdf3c9e4a2"
+    },
+    "fonte_sha256": "4d7611d51b571249bccd9d156f44770ce9caa2d273e524a6a6d52ec40ee7332d",
+    "predicoes_anteriores_sha256": {
+      "claude_ajuste_corpus_v2/predicoes.json": "b6ca835fdfef11d94d8452066a008e9f6e6e5511ea02ef5d639c11b62d499a60",
+      "claude_engajamento_v1/predicoes.json": "f8a785c8d89d31dadaf8d0308beeee0534ce9559d12fc31650b0d37400f3cffb",
+      "claude_multiaudiencias_v1/predicoes.json": "4be63be3116196af92ca09f6576279800efc82ef2065fc2d41dea6c9c4307e86",
+      "claude_novo_lote_v3/predicoes.json": "5036c7b34353a0674339ba98021e34ceed7e7fd45bdd9c32bf061a5b2a113a9f",
+      "claude_reservado_v1/predicoes.json": "da82beacbf48e66b3ea30a46c5a927c7af1078aecb34e6546144f2bed6fc8433",
+      "claude_tipo_v1/predicoes.json": "1cb5b7da9f8f2e1e7e12772315d9d548476518952597d5d515f3d195e6b7bb5f"
+    },
+    "audiencias": {
+      "1": 2,
+      "3": 6,
+      "4": 2,
+      "5": 5,
+      "8": 3,
+      "12": 3,
+      "14": 5,
+      "15": 2,
+      "18": 1,
+      "32": 1
+    },
+    "selecao": "15 Excluir, 1 Contexto, 7 Relato, 7 Argumento; rodízio por audiência dentro de cada grupo.",
+    "contexto": "Recortes originais preservados. Sem consulta autônoma aos PDFs. Sem controle de equivalência semântica entre passagens.",
+    "limites": [
+      "Gabarito histórico pode divergir das regras atuais.",
+      "Apenas um Contexto: não permite estimar desempenho robusto nessa categoria.",
+      "Origem no treino local; audiências já utilizadas em desenvolvimento."
+    ]
+  }
+}

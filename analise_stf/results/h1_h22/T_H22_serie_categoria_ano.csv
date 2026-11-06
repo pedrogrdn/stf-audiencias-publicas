@@ -1,0 +1,85 @@
+﻿ano_julgamento,categoria,n_classificadas_ano,n_com_categoria,incidencia,n_argumento_com_categoria,taxa_argumento_com_categoria,n_audiencias_com_categoria
+2008,Atores públicos,28,0,0.0,0,,0
+2009,Atores públicos,4,2,0.5,0,0.0,1
+2010,Atores públicos,2,0,0.0,0,,0
+2012,Atores públicos,113,17,0.1504424778761062,6,0.35294117647058826,2
+2015,Atores públicos,20,4,0.2,1,0.25,2
+2016,Atores públicos,12,7,0.5833333333333334,2,0.2857142857142857,2
+2017,Atores públicos,24,10,0.4166666666666667,1,0.1,2
+2018,Atores públicos,20,0,0.0,0,,0
+2020,Atores públicos,1,1,1.0,1,1.0,1
+2021,Atores públicos,4,2,0.5,0,0.0,1
+2022,Atores públicos,8,5,0.625,0,0.0,1
+2023,Atores públicos,63,28,0.4444444444444444,0,0.0,1
+2024,Atores públicos,2,1,0.5,1,1.0,1
+2025,Atores públicos,6,0,0.0,0,,0
+2008,Atores privados,28,0,0.0,0,,0
+2009,Atores privados,4,1,0.25,0,0.0,1
+2010,Atores privados,2,0,0.0,0,,0
+2012,Atores privados,113,0,0.0,0,,0
+2015,Atores privados,20,4,0.2,1,0.25,2
+2016,Atores privados,12,1,0.08333333333333333,0,0.0,1
+2017,Atores privados,24,4,0.16666666666666666,3,0.75,2
+2018,Atores privados,20,0,0.0,0,,0
+2020,Atores privados,1,0,0.0,0,,0
+2021,Atores privados,4,0,0.0,0,,0
+2022,Atores privados,8,0,0.0,0,,0
+2023,Atores privados,63,0,0.0,0,,0
+2024,Atores privados,2,0,0.0,0,,0
+2025,Atores privados,6,0,0.0,0,,0
+2008,Sociedade civil,28,0,0.0,0,,0
+2009,Sociedade civil,4,0,0.0,0,,0
+2010,Sociedade civil,2,0,0.0,0,,0
+2012,Sociedade civil,113,68,0.6017699115044248,26,0.38235294117647056,2
+2015,Sociedade civil,20,5,0.25,1,0.2,2
+2016,Sociedade civil,12,4,0.3333333333333333,0,0.0,2
+2017,Sociedade civil,24,6,0.25,0,0.0,2
+2018,Sociedade civil,20,0,0.0,0,,0
+2020,Sociedade civil,1,0,0.0,0,,0
+2021,Sociedade civil,4,1,0.25,0,0.0,1
+2022,Sociedade civil,8,1,0.125,1,1.0,1
+2023,Sociedade civil,63,50,0.7936507936507936,9,0.18,1
+2024,Sociedade civil,2,1,0.5,1,1.0,1
+2025,Sociedade civil,6,5,0.8333333333333334,1,0.2,2
+2008,Acadêmicos,28,28,1.0,19,0.6785714285714286,1
+2009,Acadêmicos,4,1,0.25,0,0.0,1
+2010,Acadêmicos,2,2,1.0,2,1.0,1
+2012,Acadêmicos,113,29,0.25663716814159293,16,0.5517241379310345,2
+2015,Acadêmicos,20,6,0.3,1,0.16666666666666666,3
+2016,Acadêmicos,12,0,0.0,0,,0
+2017,Acadêmicos,24,0,0.0,0,,0
+2018,Acadêmicos,20,20,1.0,20,1.0,1
+2020,Acadêmicos,1,0,0.0,0,,0
+2021,Acadêmicos,4,3,0.75,0,0.0,1
+2022,Acadêmicos,8,2,0.25,0,0.0,1
+2023,Acadêmicos,63,10,0.15873015873015872,1,0.1,2
+2024,Acadêmicos,2,0,0.0,0,,0
+2025,Acadêmicos,6,1,0.16666666666666666,0,0.0,1
+2008,Partido Político,28,0,0.0,0,,0
+2009,Partido Político,4,0,0.0,0,,0
+2010,Partido Político,2,0,0.0,0,,0
+2012,Partido Político,113,0,0.0,0,,0
+2015,Partido Político,20,0,0.0,0,,0
+2016,Partido Político,12,0,0.0,0,,0
+2017,Partido Político,24,0,0.0,0,,0
+2018,Partido Político,20,0,0.0,0,,0
+2020,Partido Político,1,0,0.0,0,,0
+2021,Partido Político,4,0,0.0,0,,0
+2022,Partido Político,8,0,0.0,0,,0
+2023,Partido Político,63,0,0.0,0,,0
+2024,Partido Político,2,0,0.0,0,,0
+2025,Partido Político,6,0,0.0,0,,0
+2008,Outros,28,0,0.0,0,,0
+2009,Outros,4,0,0.0,0,,0
+2010,Outros,2,0,0.0,0,,0
+2012,Outros,113,3,0.02654867256637168,1,0.3333333333333333,2
+2015,Outros,20,3,0.15,0,0.0,1
+2016,Outros,12,0,0.0,0,,0
+2017,Outros,24,4,0.16666666666666666,0,0.0,1
+2018,Outros,20,0,0.0,0,,0
+2020,Outros,1,0,0.0,0,,0
+2021,Outros,4,0,0.0,0,,0
+2022,Outros,8,0,0.0,0,,0
+2023,Outros,63,0,0.0,0,,0
+2024,Outros,2,0,0.0,0,,0
+2025,Outros,6,0,0.0,0,,0

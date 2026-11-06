@@ -1,0 +1,983 @@
+[
+  {
+    "caso": 1,
+    "id": "AP01-AP_01_ADI_3510-00002",
+    "celulas": "Revisão!D6:G6",
+    "decisao": "Alterar",
+    "comentario": null,
+    "original": {
+      "id": "AP01-AP_01_ADI_3510-00002",
+      "audiencia": "1",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "alvo": "audiência pública",
+    "frase": "dessa tão alongada quanto substanciosa audiência pública, o que",
+    "audiencia": 1,
+    "processo": "ADI 3510",
+    "pagina_pdf": 13,
+    "corpus": "Incorporar",
+    "tipo": "Contexto",
+    "fonte_decisao": "Confirmação expressa do usuário no chat em 2026-10-13"
+  },
+  {
+    "caso": 2,
+    "id": "AP01-AP_01_ADI_3510-00017",
+    "celulas": "Revisão!D7:G7",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP01-AP_01_ADI_3510-00017",
+      "audiencia": "1",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "caso": 3,
+    "id": "AP01-AP_01_ADI_3510-00020",
+    "celulas": "Revisão!D8:G8",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP01-AP_01_ADI_3510-00020",
+      "audiencia": "1",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "alvo": "ANTONIO CARLOS CAMPOS DE CARVALHO",
+    "frase": "Antonio Carlos Campos de Carvalho busca mecanismos de diferenciação e uso",
+    "audiencia": 1,
+    "processo": "ADI 3510",
+    "pagina_pdf": 119,
+    "corpus": "Incorporar",
+    "tipo": "Argumento",
+    "fonte_decisao": "Confirmação expressa do usuário no chat em 2026-10-13"
+  },
+  {
+    "caso": 4,
+    "id": "AP03-AP_03_ADPF_054-00132",
+    "celulas": "Revisão!D9:G9",
+    "decisao": "Alterar",
+    "comentario": null,
+    "original": {
+      "id": "AP03-AP_03_ADPF_054-00132",
+      "audiencia": "3",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "caso": 5,
+    "id": "AP04-AP_04_SS_3355-00017",
+    "celulas": "Revisão!D10:G10",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP04-AP_04_SS_3355-00017",
+      "audiencia": "4",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Indeterminado"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "caso": 6,
+    "id": "AP04-AP_04_SS_3355-00018",
+    "celulas": "Revisão!D11:G11",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP04-AP_04_SS_3355-00018",
+      "audiencia": "4",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Indeterminado",
+      "tipo": null
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 7,
+    "id": "AP05-AP_05_ADPF_186-00015",
+    "celulas": "Revisão!D12:G12",
+    "decisao": "Alterar",
+    "comentario": null,
+    "original": {
+      "id": "AP05-AP_05_ADPF_186-00015",
+      "audiencia": "5",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "claude": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 8,
+    "id": "AP05-AP_05_ADPF_186-00036",
+    "celulas": "Revisão!D13:G13",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP05-AP_05_ADPF_186-00036",
+      "audiencia": "5",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 9,
+    "id": "AP05-AP_05_ADPF_186-00038",
+    "celulas": "Revisão!D14:G14",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP05-AP_05_ADPF_186-00038",
+      "audiencia": "5",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Indeterminado",
+      "tipo": null
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "caso": 10,
+    "id": "AP12-AP_12_ADI_4650-00046",
+    "celulas": "Revisão!D15:G15",
+    "decisao": "Alterar",
+    "comentario": null,
+    "original": {
+      "id": "AP12-AP_12_ADI_4650-00046",
+      "audiencia": "12",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Contexto"
+  },
+  {
+    "caso": 11,
+    "id": "AP14-AP_14_ADI_5035-00024",
+    "celulas": "Revisão!D16:G16",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP14-AP_14_ADI_5035-00024",
+      "audiencia": "14",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 12,
+    "id": "AP14-AP_14_ADI_5037-00006",
+    "celulas": "Revisão!D17:G17",
+    "decisao": "Alterar",
+    "comentario": "Requerente",
+    "original": {
+      "id": "AP14-AP_14_ADI_5037-00006",
+      "audiencia": "14",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 13,
+    "id": "AP15-AP_15_ADI_5062-00026",
+    "celulas": "Revisão!D18:G18",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP15-AP_15_ADI_5062-00026",
+      "audiencia": "15",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 14,
+    "id": "AP15-AP_15_ADI_5062-00049",
+    "celulas": "Revisão!D19:G19",
+    "decisao": "Alterar",
+    "comentario": "Interessado",
+    "original": {
+      "id": "AP15-AP_15_ADI_5062-00049",
+      "audiencia": "15",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 15,
+    "id": "AP15-AP_15_ADI_5062-00050",
+    "celulas": "Revisão!D20:G20",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP15-AP_15_ADI_5062-00050",
+      "audiencia": "15",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 16,
+    "id": "AP15-AP_15_ADI_5065-00023",
+    "celulas": "Revisão!D21:G21",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP15-AP_15_ADI_5065-00023",
+      "audiencia": "15",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 17,
+    "id": "AP15-AP_15_ADI_5065-00046",
+    "celulas": "Revisão!D22:G22",
+    "decisao": "Alterar",
+    "comentario": "Interessado",
+    "original": {
+      "id": "AP15-AP_15_ADI_5065-00046",
+      "audiencia": "15",
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 18,
+    "id": "AP18-AP_18_ADI_5072-00023",
+    "celulas": "Revisão!D23:G23",
+    "decisao": "Alterar",
+    "comentario": null,
+    "original": {
+      "id": "AP18-AP_18_ADI_5072-00023",
+      "audiencia": "18",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "caso": 19,
+    "id": "AP18-AP_18_ADI_5072-00033",
+    "celulas": "Revisão!D24:G24",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP18-AP_18_ADI_5072-00033",
+      "audiencia": "18",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Indeterminado",
+      "tipo": null
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 20,
+    "id": "AP19-AP_19_ADI_4901-00025",
+    "celulas": "Revisão!D25:G25",
+    "decisao": "Alterar",
+    "comentario": null,
+    "original": {
+      "id": "AP19-AP_19_ADI_4901-00025",
+      "audiencia": "19",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "caso": 21,
+    "id": "AP19-AP_19_ADI_4901-00036",
+    "celulas": "Revisão!D26:G26",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP19-AP_19_ADI_4901-00036",
+      "audiencia": "19",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "caso": 22,
+    "id": "AP19-AP_19_ADI_4902-00035",
+    "celulas": "Revisão!D27:G27",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP19-AP_19_ADI_4902-00035",
+      "audiencia": "19",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "caso": 23,
+    "id": "AP19-AP_19_ADI_4903-00022",
+    "celulas": "Revisão!D28:G28",
+    "decisao": "Alterar",
+    "comentario": null,
+    "original": {
+      "id": "AP19-AP_19_ADI_4903-00022",
+      "audiencia": "19",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Contexto"
+  },
+  {
+    "caso": 24,
+    "id": "AP19-AP_19_ADI_4903-00036",
+    "celulas": "Revisão!D29:G29",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP19-AP_19_ADI_4903-00036",
+      "audiencia": "19",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "caso": 25,
+    "id": "AP19-AP_19_ADI_4937-00036",
+    "celulas": "Revisão!D30:G30",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP19-AP_19_ADI_4937-00036",
+      "audiencia": "19",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Argumento"
+  },
+  {
+    "caso": 26,
+    "id": "AP32-AP_32_ADPF_635-00017",
+    "celulas": "Revisão!D31:G31",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP32-AP_32_ADPF_635-00017",
+      "audiencia": "32",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Indeterminado",
+      "tipo": null
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 27,
+    "id": "AP32-AP_32_ADPF_635-00144",
+    "celulas": "Revisão!D32:G32",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP32-AP_32_ADPF_635-00144",
+      "audiencia": "32",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 28,
+    "id": "AP32-AP_32_ADPF_635-00256",
+    "celulas": "Revisão!D33:G33",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP32-AP_32_ADPF_635-00256",
+      "audiencia": "32",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 29,
+    "id": "AP35-AP_35_ADI_6298-00079",
+    "celulas": "Revisão!D34:G34",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP35-AP_35_ADI_6298-00079",
+      "audiencia": "35",
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "claude": {
+      "corpus": "Indeterminado",
+      "tipo": null
+    },
+    "corpus": "Incorporar",
+    "tipo": "Contexto"
+  },
+  {
+    "caso": 30,
+    "id": "AP35-AP_35_ADI_6298-00293",
+    "celulas": "Revisão!D35:G35",
+    "decisao": "Alterar",
+    "comentario": null,
+    "original": {
+      "id": "AP35-AP_35_ADI_6298-00293",
+      "audiencia": "35",
+      "corpus": "Incorporar",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 31,
+    "id": "AP35-AP_35_ADI_6299-00066",
+    "celulas": "Revisão!D36:G36",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP35-AP_35_ADI_6299-00066",
+      "audiencia": "35",
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "claude": {
+      "corpus": "Indeterminado",
+      "tipo": null
+    },
+    "corpus": "Incorporar",
+    "tipo": "Contexto"
+  },
+  {
+    "caso": 32,
+    "id": "AP35-AP_35_ADI_6300-00013",
+    "celulas": "Revisão!D37:G37",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP35-AP_35_ADI_6300-00013",
+      "audiencia": "35",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 33,
+    "id": "AP35-AP_35_ADI_6300-00059",
+    "celulas": "Revisão!D38:G38",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP35-AP_35_ADI_6300-00059",
+      "audiencia": "35",
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "claude": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "corpus": "Incorporar",
+    "tipo": "Contexto"
+  },
+  {
+    "caso": 34,
+    "id": "AP35-AP_35_ADI_6305-00049",
+    "celulas": "Revisão!D39:G39",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP35-AP_35_ADI_6305-00049",
+      "audiencia": "35",
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "claude": {
+      "corpus": "Indeterminado",
+      "tipo": null
+    },
+    "corpus": "Incorporar",
+    "tipo": "Contexto"
+  },
+  {
+    "caso": 35,
+    "id": "AP38-AP_38_RE_1037396-00064",
+    "celulas": "Revisão!D40:G40",
+    "decisao": "Alterar",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00064",
+      "audiencia": "38",
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "caso": 36,
+    "id": "AP38-AP_38_RE_1037396-00065",
+    "celulas": "Revisão!D41:G41",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00065",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 37,
+    "id": "AP38-AP_38_RE_1037396-00073",
+    "celulas": "Revisão!D42:G42",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00073",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 38,
+    "id": "AP38-AP_38_RE_1037396-00082",
+    "celulas": "Revisão!D43:G43",
+    "decisao": "Manter",
+    "comentario": "Audiencia nao relacionada",
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00082",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 39,
+    "id": "AP38-AP_38_RE_1037396-00090",
+    "celulas": "Revisão!D44:G44",
+    "decisao": "Manter",
+    "comentario": "url",
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00090",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Indeterminado"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 40,
+    "id": "AP38-AP_38_RE_1037396-00100",
+    "celulas": "Revisão!D45:G45",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00100",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 41,
+    "id": "AP38-AP_38_RE_1037396-00112",
+    "celulas": "Revisão!D46:G46",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00112",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 42,
+    "id": "AP38-AP_38_RE_1037396-00122",
+    "celulas": "Revisão!D47:G47",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00122",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 43,
+    "id": "AP38-AP_38_RE_1037396-00152",
+    "celulas": "Revisão!D48:G48",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00152",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 44,
+    "id": "AP38-AP_38_RE_1037396-00159",
+    "celulas": "Revisão!D49:G49",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00159",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 45,
+    "id": "AP38-AP_38_RE_1037396-00179",
+    "celulas": "Revisão!D50:G50",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00179",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 46,
+    "id": "AP38-AP_38_RE_1037396-00194",
+    "celulas": "Revisão!D51:G51",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00194",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 47,
+    "id": "AP38-AP_38_RE_1037396-00212",
+    "celulas": "Revisão!D52:G52",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1037396-00212",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 48,
+    "id": "AP38-AP_38_RE_1057258-00011",
+    "celulas": "Revisão!D53:G53",
+    "decisao": "Alterar",
+    "comentario": "Referencia",
+    "original": {
+      "id": "AP38-AP_38_RE_1057258-00011",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    },
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "caso": 49,
+    "id": "AP38-AP_38_RE_1057258-00013",
+    "celulas": "Revisão!D54:G54",
+    "decisao": "Alterar",
+    "comentario": "Referencia",
+    "original": {
+      "id": "AP38-AP_38_RE_1057258-00013",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Indeterminado",
+      "tipo": null
+    },
+    "corpus": "Incorporar",
+    "tipo": "Relato"
+  },
+  {
+    "caso": 50,
+    "id": "AP38-AP_38_RE_1057258-00014",
+    "celulas": "Revisão!D55:G55",
+    "decisao": "Manter",
+    "comentario": "url",
+    "original": {
+      "id": "AP38-AP_38_RE_1057258-00014",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Indeterminado"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  },
+  {
+    "caso": 51,
+    "id": "AP38-AP_38_RE_1057258-00024",
+    "celulas": "Revisão!D56:G56",
+    "decisao": "Manter",
+    "comentario": null,
+    "original": {
+      "id": "AP38-AP_38_RE_1057258-00024",
+      "audiencia": "38",
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "corpus": "Excluir",
+    "tipo": null
+  }
+]

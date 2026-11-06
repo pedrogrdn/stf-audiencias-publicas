@@ -1,0 +1,230 @@
+{
+  "versao": "2.0",
+  "parametros": {
+    "seed": 20261105,
+    "n_permutacoes": 9999,
+    "n_bootstrap": 4999,
+    "min_audiencias_ci": 10,
+    "min_audiencias_teste": 5,
+    "min_mencoes_por_grupo_na_audiencia": 3,
+    "min_mencoes_ministro": 15,
+    "min_audiencias_ministro": 3,
+    "min_mencoes_classificadas_audiencia": 3,
+    "alfa_bh": 0.05,
+    "min_mencoes_por_grupo_no_documento": 2,
+    "min_mencoes_sens_elegibilidade": 2
+  },
+  "normalizacao_chave": "NFKD sem diacriticos; casefold; caracteres nao alfanumericos viram espaco; espacos colapsados. Sem fuzzy. Chave = (audiencia, nome normalizado).",
+  "separador_multivalor": " | ",
+  "categorias": {
+    "Atores públicos": "cat_atores_publicos",
+    "Atores privados": "cat_atores_privados",
+    "Sociedade civil": "cat_sociedade_civil",
+    "Acadêmicos": "cat_academicos",
+    "Partido Político": "cat_partido_politico",
+    "Outros": "cat_outros"
+  },
+  "alias_exibicao": {
+    "Partido Político": "Partidos Políticos"
+  },
+  "referencia_plano_integracao": {
+    "pares_mencao_pessoa": 380,
+    "mencoes_diretas": 307,
+    "atores_diretos": 141,
+    "mencoes_incorporadas": 1288,
+    "atores": 405,
+    "contexto": 509,
+    "relato": 278,
+    "argumento": 501,
+    "origem_claude_sem_revisao": 1019,
+    "origem_humana": 269
+  },
+  "nivel_B": {
+    "usar_em_H19_H22": "somente_sensibilidade_A+B",
+    "analise_principal": "A",
+    "decisao": "config/decisao_vinculo_institucional.json",
+    "unidade_vinculo_B": "entidade (audiência, entidade normalizada); categoria = proxy da participação das pessoas afiliadas; entidade com categorias distintas = contraditória/irresolvida",
+    "estados": [
+      "generica_nao_aplicavel",
+      "identificado_sem_classificacao",
+      "identificado_irresolvido_categoria_contraditoria",
+      "classificado",
+      "sem_nome_alvo_nao_generico"
+    ]
+  },
+  "familias_BH": {
+    "F_temporal": [
+      "H1",
+      "H2",
+      "H13",
+      "H16"
+    ],
+    "F_ministros": [
+      "H3",
+      "H4",
+      "H7",
+      "H14"
+    ],
+    "F_tema": [
+      "H5",
+      "H6",
+      "H15"
+    ],
+    "F_estrutura": [
+      "H8",
+      "H9",
+      "H10",
+      "H17",
+      "H18"
+    ],
+    "F_alvos": [
+      "H11",
+      "H12"
+    ],
+    "F_H19": [
+      "H19"
+    ],
+    "F_H20": [
+      "H20"
+    ],
+    "F_H21": [
+      "H21"
+    ],
+    "F_H22": [
+      "H22"
+    ],
+    "F_adicional": [
+      "(análises adicionais: H15 interação local×eixo)"
+    ],
+    "F_sens_elegibilidade": [
+      "(H19 com ≥2 menções por grupo; sensibilidade exploratória)"
+    ],
+    "F_sensAB_H19": [
+      "(H19 A+B)"
+    ],
+    "F_sensAB_H20": [
+      "(H20 A+B)"
+    ],
+    "F_sensAB_H21": [
+      "(H21 A+B)"
+    ],
+    "F_sensAB_H22": [
+      "(H22 A+B)"
+    ],
+    "F_sensAB_elegibilidade": [
+      "(H19 A+B, ≥2 por grupo)"
+    ]
+  },
+  "hipoteses": {
+    "H1": {
+      "Pergunta": "A taxa argumentativa por audiência varia com o ano do julgamento?",
+      "Variaveis": "ano_julgamento; taxa argumentativa por audiência",
+      "Unidade": "audiência (até 30)"
+    },
+    "H2": {
+      "Pergunta": "O intervalo em anos (julgamento − audiência) associa-se à taxa argumentativa?",
+      "Variaveis": "ano_julgamento − ano_audiencia; taxa por audiência",
+      "Unidade": "audiência; AP33 fora do estimando principal"
+    },
+    "H3": {
+      "Pergunta": "A taxa argumentativa observada difere entre ministros, inclusive dentro do mesmo documento? (descrição com denominadores)",
+      "Variaveis": "ministro; tipo; documento",
+      "Unidade": "ministro × documento/audiência (descritivo; sem teste)"
+    },
+    "H4": {
+      "Pergunta": "Relator cadastrado vs. demais julgadores fora do Relatório, pareados no documento",
+      "Variaveis": "ministro == relator cadastrado; tipo",
+      "Unidade": "audiência (contrastes por documento×audiência reduzidos a um valor por audiência)"
+    },
+    "H5": {
+      "Pergunta": "Os dois eixos temáticos diferem na taxa argumentativa?",
+      "Variaveis": "eixo; taxa por audiência",
+      "Unidade": "audiência (18 vs 12)"
+    },
+    "H6": {
+      "Pergunta": "Quanta heterogeneidade observada há entre audiências dentro dos eixos? (descrição; sem teste de pseudorreplicação)",
+      "Variaveis": "audiência; eixo; tipo",
+      "Unidade": "audiência dentro de eixo (descritivo)"
+    },
+    "H7": {
+      "Pergunta": "Interação ministro × eixo",
+      "Variaveis": "ministro; eixo; tipo",
+      "Unidade": "ministro × eixo (descritivo)"
+    },
+    "H8": {
+      "Pergunta": "A distribuição Contexto/Relato/Argumento varia com o local no acórdão? (3 categorias descritivas + contraste de Argumento por audiência)",
+      "Variaveis": "local; tipo",
+      "Unidade": "audiência (contrastes intra-audiência); distribuição tripla descritiva"
+    },
+    "H9": {
+      "Pergunta": "A taxa argumentativa difere entre classes processuais?",
+      "Variaveis": "classe; taxa por audiência",
+      "Unidade": "audiência de classe única"
+    },
+    "H10": {
+      "Pergunta": "Argumentos estão mais concentrados do que as menções (audiência, documento, ministro)? (Gini/top-k descritivos)",
+      "Variaveis": "contagens de argumentos e menções",
+      "Unidade": "audiência, documento, ministro (descritivo)"
+    },
+    "H11": {
+      "Pergunta": "A função da menção varia com o tipo de alvo (proxy por campos preenchidos)?",
+      "Variaveis": "tipo de alvo derivado dos campos; tipo",
+      "Unidade": "audiência (contraste intra-audiência reduzido a um valor por audiência)"
+    },
+    "H12": {
+      "Pergunta": "Menções com pessoa/instituição nomeada vs. sem nome nos campos: taxa argumentativa",
+      "Variaveis": "individualizada (proxy); tipo",
+      "Unidade": "audiência (contraste intra-audiência reduzido a um valor por audiência)"
+    },
+    "H13": {
+      "Pergunta": "A tendência temporal difere entre eixos?",
+      "Variaveis": "ano_julgamento × eixo; taxa por audiência",
+      "Unidade": "audiência"
+    },
+    "H14": {
+      "Pergunta": "Evolução temporal por ministro",
+      "Variaveis": "ministro × ano; tipo",
+      "Unidade": "ministro × ano (descritivo)"
+    },
+    "H15": {
+      "Pergunta": "A distribuição das menções entre relatório e votos (composição por local) difere entre os eixos?",
+      "Variaveis": "local × eixo; fração de menções por local em cada audiência",
+      "Unidade": "audiência (fração por local); análise adicional: contrastes de Argumento por local"
+    },
+    "H16": {
+      "Pergunta": "O efeito do intervalo difere entre eixos?",
+      "Variaveis": "intervalo × eixo; taxa",
+      "Unidade": "audiência"
+    },
+    "H17": {
+      "Pergunta": "As referências individualizadas (tipo de alvo) distribuem-se diferentemente entre relatório e votos?",
+      "Variaveis": "tipo de alvo derivado × local",
+      "Unidade": "audiência (contraste intra-audiência reduzido a um valor por audiência)"
+    },
+    "H18": {
+      "Pergunta": "Perfis exploratórios de composição Contexto/Relato/Argumento por audiência",
+      "Variaveis": "composição por audiência",
+      "Unidade": "audiência"
+    },
+    "H19": {
+      "Pergunta": "Menções vinculadas a cada categoria de ator têm taxa argumentativa diferente das vinculadas sem a categoria? (principal: A; sensibilidade: A+B)",
+      "Variaveis": "flag de categoria (multirrótulo); tipo",
+      "Unidade": "audiência (contraste intra-audiência reduzido a um valor por audiência)"
+    },
+    "H20": {
+      "Pergunta": "A incidência de categorias de ator entre menções classificadas difere entre eixos?",
+      "Variaveis": "flags de categoria; eixo",
+      "Unidade": "audiência, nível A"
+    },
+    "H21": {
+      "Pergunta": "Ministro × categoria de ator no aproveitamento argumentativo (nArgumento/nMenções por célula; modelo só se houver suporte)",
+      "Variaveis": "ministro; flags de categoria",
+      "Unidade": "ministro × categoria (descritivo; sem preferência individual)"
+    },
+    "H22": {
+      "Pergunta": "A composição de categorias de ator e o aproveitamento argumentativo por categoria evoluem com o ano de julgamento?",
+      "Variaveis": "ano_julgamento; incidência de categorias por audiência; taxa argumentativa por categoria",
+      "Unidade": "audiência, nível A"
+    }
+  }
+}

@@ -1,0 +1,1252 @@
+[
+  {
+    "numero_audiencia": 44,
+    "rotulo": "íntegra do despacho convocatório",
+    "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15376862117&ext=.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_44/001_ntegra_do_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 215221,
+    "sha256": "c6fffeea6d75178c184d3bfb3dff5b42701f4f6c545ba955c3c737be7026cb85"
+  },
+  {
+    "numero_audiencia": 44,
+    "rotulo": "íntegra do despacho da programação",
+    "url": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2025/06/26211135/downloadPeca.asp-2.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_44/002_ntegra_do_despacho_da_programa_o.pdf",
+    "tamanho_bytes": 152816,
+    "sha256": "1a9dcfbcf9ac96752ff8cc8fcec6685709d169d756bccbd0caa61cad1e6ada87"
+  },
+  {
+    "numero_audiencia": 44,
+    "rotulo": "Despacho convocatório",
+    "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15376862116&ext=.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_44/003_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 216479,
+    "sha256": "810f50f5b3391d6fc6778d407935ca7f2ecc24b5d23ac8e53da2c68d89897d6e"
+  },
+  {
+    "numero_audiencia": 44,
+    "rotulo": "Edital",
+    "url": "http://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/EditalAudinciaPblicaADI7688.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_44/004_edital.pdf",
+    "tamanho_bytes": 925465,
+    "sha256": "b5fab5441a3395fff330f33983a0ff4e36135a725eeaf39c94043e674ea9de21"
+  },
+  {
+    "numero_audiencia": 44,
+    "rotulo": "Expositores, programação e metodologia",
+    "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15377799684&ext=.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_44/005_expositores_programa_o_e_metodologia.pdf",
+    "tamanho_bytes": 192771,
+    "sha256": "88e24707d3ee743442db50dfc969b4833247279b11c43adcca920ed2e599d1d9"
+  },
+  {
+    "numero_audiencia": 44,
+    "rotulo": "Ata da audiência",
+    "url": "http://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/AtaAudie770nciaEmendas1.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_44/006_ata_da_audi_ncia.pdf",
+    "tamanho_bytes": 465153,
+    "sha256": "8404ced8df468685c2c25628c57ade21e762d34dbde3f796ae8be72ae1767382"
+  },
+  {
+    "numero_audiencia": 44,
+    "rotulo": "Material dos expositores",
+    "url": "http://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Apresentac807a771oExpositoresEmendas5.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_44/007_material_dos_expositores.pdf",
+    "tamanho_bytes": 18522137,
+    "sha256": "ab9e4da60b0a0fc7b578b8dd24bf609aff3c5d10f589d9df1625d4cfd40c2ee1"
+  },
+  {
+    "numero_audiencia": 44,
+    "rotulo": "Transcrição da audiência pública",
+    "url": "http://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/TranscrioAudinciapblicaFINALemendasimpositivas.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_44/008_transcri_o_da_audi_ncia_p_blica.pdf",
+    "tamanho_bytes": 2181938,
+    "sha256": "e677a0ea99a0e4d466f8cc72b4846cf8bf65bf59b8c55bdd5fcb3f30f4ea26f6"
+  },
+  {
+    "numero_audiencia": 41,
+    "rotulo": "Despacho convocatório",
+    "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15368746955&ext=.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_41/009_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "numero_audiencia": 41,
+    "rotulo": "Edital",
+    "url": "http://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Edital.ADI5553.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_41/010_edital.pdf",
+    "tamanho_bytes": 165250,
+    "sha256": "18f5e7dab2dbc1dd8e34c67a7126e31fb70141c791cc5e47c73e7caef1c989a4"
+  },
+  {
+    "numero_audiencia": 41,
+    "rotulo": "Expositores, programação e metodologia",
+    "url": "https://portal.stf.jus.br/processos/downloadPeca.asp?id=15371011893&ext=.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_41/011_expositores_programa_o_e_metodologia.pdf",
+    "tamanho_bytes": 153456,
+    "sha256": "9a56522676f0641bc0e304eeb196d28de8c221ff41c251a70cd7df1bec14b027"
+  },
+  {
+    "numero_audiencia": 41,
+    "rotulo": "Transcrição da audiência pública",
+    "url": "http://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/AudinciaPblica41Desoneraestributriasparaagrotxicos1.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_41/012_transcri_o_da_audi_ncia_p_blica.pdf",
+    "tamanho_bytes": 1879145,
+    "sha256": "10f190ae4d196df30514ee475480c6dec78a77f7551f1608c7b008ead1def599"
+  },
+  {
+    "numero_audiencia": 38,
+    "rotulo": "relação dos inscritos habilitados",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/RE1037396_RE1057258_Decisao_21_03_2023_Participantes_Metodologia.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_38/013_rela_o_dos_inscritos_habilitados.pdf",
+    "tamanho_bytes": 224153,
+    "sha256": "e1ec74a7991ac216448eaf56f8c008a4596bdc54ad48ae828f1059b6b41c119e"
+  },
+  {
+    "numero_audiencia": 38,
+    "rotulo": "Edital",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/RE1037396_RE1057258_edital_03_03_2023.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_38/014_edital.pdf",
+    "tamanho_bytes": 196047,
+    "sha256": "ba0dceb764336adbeb41f580d53ad1ad896af6c21f3304fe1727cf44c2cf5081"
+  },
+  {
+    "numero_audiencia": 38,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/RE1037396_RE1057258_Transcricoes_Audiencia_Publica_38.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_38/015_transcri_es.pdf",
+    "tamanho_bytes": 2279886,
+    "sha256": "0a640b1779b4315ca9233bcab0a5d2039c0a820f12b50346fc8c3134a08f92cc"
+  },
+  {
+    "numero_audiencia": 36,
+    "rotulo": "relação de inscritos habilitados",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADC81_Habilitados_10102022.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_36/016_rela_o_de_inscritos_habilitados.pdf",
+    "tamanho_bytes": 188745,
+    "sha256": "7f3c3169dd042eec6755191e65cf65c17656c729a8b88a78b0aefb352825a36b"
+  },
+  {
+    "numero_audiencia": 36,
+    "rotulo": "Despacho convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADC81_despacho_convocatorio.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_36/017_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 237751,
+    "sha256": "7667e3e34e760ee0f02f0eee3a05c06e9616e61011cc432fe3fad99745d220be"
+  },
+  {
+    "numero_audiencia": 36,
+    "rotulo": "Edital",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADC81_Edital.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_36/018_edital.pdf",
+    "tamanho_bytes": 284032,
+    "sha256": "5aa3a4ed6377bd1e4cd75fb5e935c9fff1d466a83c3d98e91f9620d0eae929cd"
+  },
+  {
+    "numero_audiencia": 36,
+    "rotulo": "Edital",
+    "url": "http://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADC81_Edital_28092022.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_36/019_edital.pdf",
+    "tamanho_bytes": 284032,
+    "sha256": "5aa3a4ed6377bd1e4cd75fb5e935c9fff1d466a83c3d98e91f9620d0eae929cd"
+  },
+  {
+    "numero_audiencia": 36,
+    "rotulo": "Programação definitiva",
+    "url": "http://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADC81_Despacho_ProgramacaoDefinitiva_14102022.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_36/020_programa_o_definitiva.pdf",
+    "tamanho_bytes": 168141,
+    "sha256": "0b3f03d3db6d30bf96dbbd36e3d58db93b5f566d0a3af1c292881c69e55dd25c"
+  },
+  {
+    "numero_audiencia": 36,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADC81_ADI7187_Transcricoes_Autorizao_par_novos_cursos_de_medicina.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_36/021_transcri_es.pdf",
+    "tamanho_bytes": 2048848,
+    "sha256": "1519ecee873272e91a4e907ba274a271fa2474d7e7818e9bb9941c30e6338fd1"
+  },
+  {
+    "numero_audiencia": 35,
+    "rotulo": "Edital",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADI6298_ADI6299_ADI6300_ADI6305_EDITAL_DE_CONVOCACAO_DE_AUDIENCIA_PUBLICA.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_35/022_edital.pdf",
+    "tamanho_bytes": 174357,
+    "sha256": "84369e0da0f16f21da2d20cc50d62b8b0cd9a2f1b268552d5eb20043cd968726"
+  },
+  {
+    "numero_audiencia": 35,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADI6298_ADI6299_ADI6300_ADI6305_Transcricoes.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_35/023_transcri_es.pdf",
+    "tamanho_bytes": 2319063,
+    "sha256": "a1e84d205320d90623b91d4fbe8d10b36d3b04cef2dcaf4e1cc33628ed5b4723"
+  },
+  {
+    "numero_audiencia": 33,
+    "rotulo": "inscritos habilitados",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/HC_165704_Cronograma.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_33/024_inscritos_habilitados.pdf",
+    "tamanho_bytes": 165606,
+    "sha256": "d4cbc590e3ffeaddbfd49022daf8847af78ca88a63b4e68ff3d754716e9d261b"
+  },
+  {
+    "numero_audiencia": 33,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/HC_165704_DESPACHO_DE_CONVOCACAO_DE_AUDIENCIA_PUBLICA.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_33/025_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 146923,
+    "sha256": "77c227af7385ba44e8f2d3fc302b91c8d60ae016364b6a76c486b10e25944682"
+  },
+  {
+    "numero_audiencia": 33,
+    "rotulo": "Edital",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/HC_165704_edital_de_convocacao_de_audiencia_publica.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_33/026_edital.pdf",
+    "tamanho_bytes": 161120,
+    "sha256": "71ec21f28d6f7ec363db209d9427c95b8605f2eb78616f9d46471cecdd1f2547"
+  },
+  {
+    "numero_audiencia": 33,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/HC165704_Transcricoes.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_33/027_transcri_es.pdf",
+    "tamanho_bytes": 2231578,
+    "sha256": "b99b7c216af6361ccedca06e64b59946e29bcd1bedb7410621e202733ad26ef3"
+  },
+  {
+    "numero_audiencia": 32,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADPF_635_Despacho_Convocatorio.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_32/028_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 228244,
+    "sha256": "95ce3b046c0425d7fb280ea81ac486f39790ca1edb307baefd9301c334ed4870"
+  },
+  {
+    "numero_audiencia": 32,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADPF_635_CRONOGRAMA_2021_03_02.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_32/029_cronograma.pdf",
+    "tamanho_bytes": 192383,
+    "sha256": "7cc7d0335f893e2ed548095bf63218763b41228c3d0a223592856ef46f3bb435"
+  },
+  {
+    "numero_audiencia": 32,
+    "rotulo": "Atualização de Expositores",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADPF_635_ATUALIZACAOEXPOSITORES.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_32/030_atualiza_o_de_expositores.pdf",
+    "tamanho_bytes": 104958,
+    "sha256": "37c8f089d1a5c3c6a5bcf9db50e1774ebb7440b4419e6f820bfe242c3bc5eba4"
+  },
+  {
+    "numero_audiencia": 32,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADPF_635_TranscricoesDaAudienciaPublica_REDUCAO_DA_LETALIDADE_POLICIAL.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_32/031_transcri_es.pdf",
+    "tamanho_bytes": 3221544,
+    "sha256": "3130aebd3ad36584220ff74087dbf3a59037547fd35f27e10a806b180c96a219"
+  },
+  {
+    "numero_audiencia": 31,
+    "rotulo": "Despacho convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADO_59_Despacho_Convocatorio.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_31/032_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 274267,
+    "sha256": "f54b597e52b5d6aac246813d9bd83f1778e4462bc4d2ef2290c27176f6f2d632"
+  },
+  {
+    "numero_audiencia": 31,
+    "rotulo": "Cronograma (despacho de 1º/10/2020)",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADO_59_Cronograma.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_31/033_cronograma_despacho_de_1_10_2020.pdf",
+    "tamanho_bytes": 134644,
+    "sha256": "eb9961377dbb7878b3d99ad62d3c6fefc06c217285474fd8f390a2b10a5eabca"
+  },
+  {
+    "numero_audiencia": 31,
+    "rotulo": "Cronograma (despacho de 20/10/2020)",
+    "url": "http://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADO59despacho20102020.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_31/034_cronograma_despacho_de_20_10_2020.pdf",
+    "tamanho_bytes": 135606,
+    "sha256": "a7bfd9759a2c4e1efbf50be959134afcafd8dfaa995e202b8bce18debf6278f3"
+  },
+  {
+    "numero_audiencia": 31,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADO_59_Transcricoes_Funcionamento_do_Fundo_Amazonia.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_31/035_transcri_es.pdf",
+    "tamanho_bytes": 2163225,
+    "sha256": "8db6bb80fb4ab1b85895b16327137275321e9bff03455d013be73b7c001f9e70"
+  },
+  {
+    "numero_audiencia": 30,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/ADO60Decisa771oaudie770nciapu769blica.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_30/036_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 210539,
+    "sha256": "ff4cfb1227425f5a1ef98c65a252db522506c42eb5df2a4ed6b0a6ae557e3aaf"
+  },
+  {
+    "numero_audiencia": 30,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADPF_708_Despacho_16_9_20.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_30/037_cronograma.pdf",
+    "tamanho_bytes": 172679,
+    "sha256": "d58859c6e93bb9fb2a45de4ac22895ee932633c361a4bd5465901d8cb9b84add"
+  },
+  {
+    "numero_audiencia": 30,
+    "rotulo": "Edital",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADPF_708_Edital.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_30/038_edital.pdf",
+    "tamanho_bytes": 166434,
+    "sha256": "225f1b087c9fd48b5c95785c0de683c513d032f2c4f9f49b1a9d03fe3369e352"
+  },
+  {
+    "numero_audiencia": 30,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADPF_708_TRANSCRICOES.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=1&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_30/039_transcri_es.pdf",
+    "tamanho_bytes": 3200094,
+    "sha256": "933000fed37cc39a0ebc8e3b61d93be51426ba811fe583c692f6f33cdd3ea3fc"
+  },
+  {
+    "numero_audiencia": 29,
+    "rotulo": "lista final de inscritos",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADC51listafinaldeinscritosecronograma.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_29/040_lista_final_de_inscritos.pdf",
+    "tamanho_bytes": 142173,
+    "sha256": "034a3cd13b4f767638cc6130533b4ff4fc51f86508c53375b508ba8b1f45d4b4"
+  },
+  {
+    "numero_audiencia": 29,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADC51.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_29/041_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 140758,
+    "sha256": "8224c983c7fbd83f78103e64cf49b6c1cb9b10778527a46e5330f15c2afc96ae"
+  },
+  {
+    "numero_audiencia": 29,
+    "rotulo": "Redesignação da Data e Prorrogação das Inscrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADC51_Redesignacao.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_29/042_redesigna_o_da_data_e_prorroga_o_das_inscri_es.pdf",
+    "tamanho_bytes": 142616,
+    "sha256": "99f86c52149a3d5a0973a40a4024dd4135d26ea2053adbffac3b86d8cd26ef69"
+  },
+  {
+    "numero_audiencia": 29,
+    "rotulo": "Edital",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADC51EditalConvocatorio.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_29/043_edital.pdf",
+    "tamanho_bytes": 167790,
+    "sha256": "55acddcea4a4066ea06dc5ed728feecdc1e4ac3f52eeebf640a57d6015846a1e"
+  },
+  {
+    "numero_audiencia": 29,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADC51Transcricoes.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_29/044_transcri_es.pdf",
+    "tamanho_bytes": 7395705,
+    "sha256": "2fe16c6594b8ac98362a97dbb4a5e6f591bf1d19f3a48fffe0d4be3c32a06f78"
+  },
+  {
+    "numero_audiencia": 28,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ARE1054490.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_28/045_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 145913,
+    "sha256": "01d7a6d71243579fff8fb12667cb5130a653bdb0bf9906f00568372a22821448"
+  },
+  {
+    "numero_audiencia": 28,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/RE1238853Despacho27_11_2019.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_28/046_cronograma.pdf",
+    "tamanho_bytes": 110676,
+    "sha256": "b5c6cb1ff46efe599f18a89a0eb91967ae1a0d2318851b1c8be12eae5215ad26"
+  },
+  {
+    "numero_audiencia": 28,
+    "rotulo": "Edital",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/RE1238853EDITALDECONVOCACAO.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_28/047_edital.pdf",
+    "tamanho_bytes": 161804,
+    "sha256": "4c28f5449c06ea3517f8d3f5a2cd136aed0115d88c629f91d166563156db14c2"
+  },
+  {
+    "numero_audiencia": 28,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Audiencia_Publica_Viabilidade_Candidaturas_Avulsas_RE_1238853.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_28/048_transcri_es.pdf",
+    "tamanho_bytes": 1844829,
+    "sha256": "6a70509affa37fb3dc59ddde9b119ed5102ed244fc4a364535f7769d7ac85329"
+  },
+  {
+    "numero_audiencia": 22,
+    "rotulo": "relação dos inscritos habilitados",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/RE1010606_Cronograma.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_22/049_rela_o_dos_inscritos_habilitados.pdf",
+    "tamanho_bytes": 119204,
+    "sha256": "b1d172c1692b0aa748c132336097ae5788ccfed065a91dabfd343f45ea5b069b"
+  },
+  {
+    "numero_audiencia": 22,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/DespachoDireitoAoEsquecimento.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_22/050_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 149060,
+    "sha256": "4cc13dd4a60139995b81d2b8f4eb4af6a7fa4d42e0c61078bf6c5f100b65286a"
+  },
+  {
+    "numero_audiencia": 22,
+    "rotulo": "Relação de Habilitados",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/RE1010606_Relacao_dos_Habilitados.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_22/051_rela_o_de_habilitados.pdf",
+    "tamanho_bytes": 85853,
+    "sha256": "bcb3df49ca90eda35972147bd4c7baf7a47198af286c9c0588e6a71b08b2bf3f"
+  },
+  {
+    "numero_audiencia": 22,
+    "rotulo": "Edital",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/EditalDireitoAoEsquecimento.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_22/052_edital.pdf",
+    "tamanho_bytes": 182641,
+    "sha256": "b6df4902c7c5d68142d1885adacb7657bfa438366460bc4054822e3aa747072c"
+  },
+  {
+    "numero_audiencia": 22,
+    "rotulo": "Transcrição da Audiência",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/AUDINCIAPBLICASOBREODIREITOAOESQUECIMENTO_Transcries.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_22/053_transcri_o_da_audi_ncia.pdf",
+    "tamanho_bytes": 923150,
+    "sha256": "0ca841c500ece0c5958206a39a0ef5258679a3a7bafcb008cba582c7427a6f89"
+  },
+  {
+    "numero_audiencia": 19,
+    "rotulo": "relação de inscritos habilitados",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADI4901Relaodehabilitadosecronograma.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_19/054_rela_o_de_inscritos_habilitados.pdf",
+    "tamanho_bytes": 141576,
+    "sha256": "1a61473a7fe90e750d02a1e19fd9245155581728596792765ebbd6f682fa509d"
+  },
+  {
+    "numero_audiencia": 19,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/DespachoConvocatrioCodigoFlorestal.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_19/055_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 201805,
+    "sha256": "af8bfe81f301dfb6de347f950c70042fdbf77e2dec6a0e5f03012c0cb1412d6a"
+  },
+  {
+    "numero_audiencia": 19,
+    "rotulo": "Transcrição da Audiência",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/TranscriesNovoCdigoFlorestal.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_19/056_transcri_o_da_audi_ncia.pdf",
+    "tamanho_bytes": 909016,
+    "sha256": "e5c36aec4b9307241cee04fb8456b125a333aa1dcd0f5c610cc1ed3fc3619ebd"
+  },
+  {
+    "numero_audiencia": 18,
+    "rotulo": "relação de inscritos habilitados",
+    "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/adi5072palestrantes.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_18/057_rela_o_de_inscritos_habilitados.pdf",
+    "tamanho_bytes": 122440,
+    "sha256": "f9c71432c4dfb4a27b07f9d221db52e2cebf259270f78313de303ed074bfa571"
+  },
+  {
+    "numero_audiencia": 18,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADI_5072___Despacho_de_convocacao_de_audiencia_publica__.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_18/058_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 115090,
+    "sha256": "28aaffef45a75dab6228c0f9a76df9eaad44f0adbd6db463c4c8213784c36a95"
+  },
+  {
+    "numero_audiencia": 18,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Transcricoes__Audiencia_sobre_Depositos_Judiciais.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_18/059_transcri_es.pdf",
+    "tamanho_bytes": 1139346,
+    "sha256": "d301a054702f8534ac739f1c7ed93cb12d8bf7e2085a99205c4c8352c5c13596"
+  },
+  {
+    "numero_audiencia": 17,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Despacho_convocatorio__ENSINO_RELIGIOSO_EM_ESCOLAS_PUBLICAS.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_17/060_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 124120,
+    "sha256": "acf82836ddf0cd6dd65dad14068ae8df038988f9417163904b754e7f98a7b6f7"
+  },
+  {
+    "numero_audiencia": 17,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADI_Ensino_religioso_Despacho_entidades_selecionadas.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_17/061_cronograma.pdf",
+    "tamanho_bytes": 160972,
+    "sha256": "bccb12d34fd33c59a1d086e9fa8cd8d9d16ae424ff5c9f5b29c19035675ec570"
+  },
+  {
+    "numero_audiencia": 17,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADI_4439_Transcrioes_Ensino_Religioso_em_escolas_publicas.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_17/062_transcri_es.pdf",
+    "tamanho_bytes": 1252177,
+    "sha256": "eb2a39a49863b06b7c852a3736220976eec33c8ae13f37401a747c6752b0d5a2"
+  },
+  {
+    "numero_audiencia": 16,
+    "rotulo": "Convocação da Audiência",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/DespachoConvocatorioInternacao.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_16/063_convoca_o_da_audi_ncia.pdf",
+    "tamanho_bytes": 116448,
+    "sha256": "1234f612bfce82025cb4ebb48148c711bf097b0e1cf046e5786b72c4cc677536"
+  },
+  {
+    "numero_audiencia": 16,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/CronogramaInternacao2252014.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_16/064_cronograma.pdf",
+    "tamanho_bytes": 132439,
+    "sha256": "0324f357bf6a205027eb13b6f2b44171c205b9801a08b58f9947de9c03fd029b"
+  },
+  {
+    "numero_audiencia": 16,
+    "rotulo": "Edital",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/DJE_66_02042014_Pagina_433_INTERNACAO_HOSPITALAR.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_16/065_edital.pdf",
+    "tamanho_bytes": 43773,
+    "sha256": "f7df0b8531ecd818642761dd4f15c948410e22be2461df1b093c1c933bf7b587"
+  },
+  {
+    "numero_audiencia": 16,
+    "rotulo": "Transcrição da Audiência",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/TranscricaoInternacaoHospitalar.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_16/066_transcri_o_da_audi_ncia.pdf",
+    "tamanho_bytes": 642778,
+    "sha256": "2676ebb87bef0e65315b7420a58d61424198d05a5400b69d7e74ea119207ab36"
+  },
+  {
+    "numero_audiencia": 15,
+    "rotulo": "Despacho convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/DespachoConvocatorioDireitosAutorais.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_15/067_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 133744,
+    "sha256": "b26530976f3ebf1e88d82f4fd86f872f35faf31e492984678e5f656d2c08ba67"
+  },
+  {
+    "numero_audiencia": 15,
+    "rotulo": "Bibliografia e Legislação Correlata",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/BibliografiaGestaoColetivaeDireitosAutorais.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_15/068_bibliografia_e_legisla_o_correlata.pdf",
+    "tamanho_bytes": 653895,
+    "sha256": "4065ec0c444691a677ef206203081e7f62eecf53b49977b0324547b09c807c2b"
+  },
+  {
+    "numero_audiencia": 15,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/CRONOGRAMA__AUDIENCIA_PUBLICA__pdf.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_15/069_cronograma.pdf",
+    "tamanho_bytes": 129018,
+    "sha256": "c56cfef94aed629248a9236b3ea81a762e8a4a914ff0d5330c59bc1f7757aea4"
+  },
+  {
+    "numero_audiencia": 15,
+    "rotulo": "Transcrições da Audiência",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/TranscriesAudinciasobreDireitosAutoraisassinado.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_15/070_transcri_es_da_audi_ncia.pdf",
+    "tamanho_bytes": 714233,
+    "sha256": "37ccdf5050e6d0253625b038f89b1f34ad4953066714d9f819ae929916ead2e4"
+  },
+  {
+    "numero_audiencia": 14,
+    "rotulo": "Convocação da Audiência",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/DespachoAudienciaMaisMedicos.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_14/071_convoca_o_da_audi_ncia.pdf",
+    "tamanho_bytes": 109445,
+    "sha256": "e1dba4ffa5674f1ad29dac8d9df0a25e6c713df2996c507963ff847ef8473083"
+  },
+  {
+    "numero_audiencia": 14,
+    "rotulo": "Relação de Habilitados",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/RelacaoDeEntidadesAutoridades.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_14/072_rela_o_de_habilitados.pdf",
+    "tamanho_bytes": 77613,
+    "sha256": "64b885a209168dbffa5c6bf101a81f3467375e6d24224a5cff52d10280c73e86"
+  },
+  {
+    "numero_audiencia": 14,
+    "rotulo": "Programação",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ProgramacaoAudienciaProgramaMaisMedicos19_11.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_14/073_programa_o.pdf",
+    "tamanho_bytes": 71266,
+    "sha256": "e719f8e943915ee474ad84550992682a2c2ad6679a2a20f0e1806324b93327d3"
+  },
+  {
+    "numero_audiencia": 14,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADI_5035_e_ADI_5037_Transcricoes_programa_Mais_Medicos.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_14/074_transcri_es.pdf",
+    "tamanho_bytes": 1122228,
+    "sha256": "f624389163042c8cdb9702d28b4cc07b17a5a6a487042c43ed4cfc98486b38bd"
+  },
+  {
+    "numero_audiencia": 13,
+    "rotulo": "Convocação da Audiência",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Despacho_Convocatorio.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_13/075_convoca_o_da_audi_ncia.pdf",
+    "tamanho_bytes": 128439,
+    "sha256": "1a12266185f95b86016c00340fed716c27390a6c473d67835604bacacd35adb7"
+  },
+  {
+    "numero_audiencia": 13,
+    "rotulo": "Relação de Habilitados",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/relacao_de_habilitadosr.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_13/076_rela_o_de_habilitados.pdf",
+    "tamanho_bytes": 114325,
+    "sha256": "675630efb6914f5d33ae0859abbd5d01cc1c8bf15fd86df026dadce9abe2410f"
+  },
+  {
+    "numero_audiencia": 13,
+    "rotulo": "Programação",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/LISTA_DOS_EXPOSITORES__biografiaNaoAutorizada2011_sem_email.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_13/077_programa_o.pdf",
+    "tamanho_bytes": 42502,
+    "sha256": "94e75e109e0e1ae071bf906e6b3d343ac550b5dad4a0cc94587aa1032784aff6"
+  },
+  {
+    "numero_audiencia": 13,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADI_4815_Transcricoes_Biografias_nao_autorizadas.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_13/078_transcri_es.pdf",
+    "tamanho_bytes": 700164,
+    "sha256": "b92ed7999dc8bc1d3264f6721fd73ad72658ef52ea20e067dc07dd4640b758bf"
+  },
+  {
+    "numero_audiencia": 12,
+    "rotulo": "Despacho convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ConvocacaoAudienciaPublicaFinanciamentoDeCampanhas.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_12/079_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 124024,
+    "sha256": "f6a8a60d0356fef8c145d38738f28b28b003546024f0f2183808e8dc72965028"
+  },
+  {
+    "numero_audiencia": 12,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Novo_Cronograma05062013.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_12/080_cronograma.pdf",
+    "tamanho_bytes": 132030,
+    "sha256": "578832aaf31386e7ac3a2efae8350615be863babe3d0e61d4019415690ad7226"
+  },
+  {
+    "numero_audiencia": 12,
+    "rotulo": "Bibliografia e Legislação Correlata",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Financiamento_campanha_eleitoral_10062013.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_12/081_bibliografia_e_legisla_o_correlata.pdf",
+    "tamanho_bytes": 1225307,
+    "sha256": "3aa0e330db2fb82bee278e06c35f91ef39ddf16f0e33d66bf43935cb7e5cf008"
+  },
+  {
+    "numero_audiencia": 12,
+    "rotulo": "Notas Taquigráficas",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/NotasTaquigraficasFinanciamentoCampanhas.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_12/082_notas_taquigr_ficas.pdf",
+    "tamanho_bytes": 1047168,
+    "sha256": "6c394a868d17ec2ead37909d4a4e687dd9811f79f1ed004bb8b5bd8b3a468556"
+  },
+  {
+    "numero_audiencia": 11,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/DespachoConvocatorioRegimePrisional.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_11/083_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 113632,
+    "sha256": "39c7bd68d7cc541d5f7c5d9eb259b628f7811e2f44ab30b5dddb432ddde0555d"
+  },
+  {
+    "numero_audiencia": 11,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Cronograma_Despacho_RE_641320_16042013.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_11/084_cronograma.pdf",
+    "tamanho_bytes": 111840,
+    "sha256": "dac2f17c7bdaa89cc575341c84d7bb0c8e845536f77a045ff2941371ed534df3"
+  },
+  {
+    "numero_audiencia": 11,
+    "rotulo": "Bibliografia e Legislação Correlata",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Regime_prisional_eletronica_bibliografia.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_11/085_bibliografia_e_legisla_o_correlata.pdf",
+    "tamanho_bytes": 777733,
+    "sha256": "4f21d14404b436c54d7087d0ee91b653ed9a7dead5d3fa39faa1999218d0f569"
+  },
+  {
+    "numero_audiencia": 11,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/RE_641320_Transcricoes_Regime_Prisional.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_11/086_transcri_es.pdf",
+    "tamanho_bytes": 1153053,
+    "sha256": "6868413a6133e66405e58a89b363005fc2361293e9fb97d27c47c7cbfb781747"
+  },
+  {
+    "numero_audiencia": 10,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/RE_586.224.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_10/087_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 153201,
+    "sha256": "89e92ad776809fdef2cbdda155f624298a0d7a91c9f21dbeeaf2bd48d155acc9"
+  },
+  {
+    "numero_audiencia": 10,
+    "rotulo": "Bibliografia e Legislação Correlata",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/LegislacaoCorrelataQueimadaCanaviais.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_10/088_bibliografia_e_legisla_o_correlata.pdf",
+    "tamanho_bytes": 834765,
+    "sha256": "92b2b9f26fbef5e4780e30e93163cf9590dd1d3bf61bbf10f3e97d1ee7654261"
+  },
+  {
+    "numero_audiencia": 10,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/CronogramaFinalQueimadaCanaviais.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_10/089_cronograma.pdf",
+    "tamanho_bytes": 128450,
+    "sha256": "fddc8c55f9afe02354ebb4349afa97bdb9c202c45cd3004b16dd837e0834f2d8"
+  },
+  {
+    "numero_audiencia": 10,
+    "rotulo": "Notas Taquigráficas",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/NotasTaquigraficasQueimadasCanaviais.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=2&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_10/090_notas_taquigr_ficas.pdf",
+    "tamanho_bytes": 736804,
+    "sha256": "4c295907d48dd647a962a98750460bdd9ff6b37799a14d57d5449ede9fe3a556"
+  },
+  {
+    "numero_audiencia": 9,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ConvocacaoAudienciaRE6271891.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_09/091_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 119657,
+    "sha256": "489f32a973036e82d93f2af7ebeaf079eb7245ee6c4853a3b9223abaf439282a"
+  },
+  {
+    "numero_audiencia": 9,
+    "rotulo": "Relação de Inscritos",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/CronogramaCampoEletromagnetico.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_09/092_rela_o_de_inscritos.pdf",
+    "tamanho_bytes": 118034,
+    "sha256": "1d1ec173ea99bbfc1c080f307bc64ef7fe2afaed765ba0870937e3eff97f2104"
+  },
+  {
+    "numero_audiencia": 9,
+    "rotulo": "Bibliografia e Legislação Correlata",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Campo_eletromagnetico_DIGITAL.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_09/093_bibliografia_e_legisla_o_correlata.pdf",
+    "tamanho_bytes": 643089,
+    "sha256": "ba5027b39abd4416111e4bca63605c6dce7406c747422cf049cdbef35d642f3d"
+  },
+  {
+    "numero_audiencia": 9,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/TrancricaoCampoEletromagnetico.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_09/094_transcri_es.pdf",
+    "tamanho_bytes": 1054611,
+    "sha256": "f14fbd11669131d57f72646c72af58cc882393424d5c802412faa1e156ba2f94"
+  },
+  {
+    "numero_audiencia": 8,
+    "rotulo": "Despacho Convocatório",
+    "url": "https://www.stf.jus.br/arquivo/cms/processoAudienciaPublicaTvAssinatura/anexo/Despacho_convocatorio__ADI_4679.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_08/095_despacho_convocat_rio.pdf",
+    "tamanho_bytes": 115734,
+    "sha256": "ab0b8d3a294e115d10f322f13db00040d6801d27721ac8deacc310082b1b8b73"
+  },
+  {
+    "numero_audiencia": 8,
+    "rotulo": "Relação de Habilitados",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/TVporAssinaturaHabilitados.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_08/096_rela_o_de_habilitados.pdf",
+    "tamanho_bytes": 128118,
+    "sha256": "862b6b9b1d382c84c6e23ad287c8e89030de7e2cda1a6665bb66c43005b25798"
+  },
+  {
+    "numero_audiencia": 8,
+    "rotulo": "Bibliografia e Legislação Correlata",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/TV_assinaturaBibliografia.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_08/097_bibliografia_e_legisla_o_correlata.pdf",
+    "tamanho_bytes": 915877,
+    "sha256": "f883ba9e29ba4453e86a60765a705b262ae62a969513fa0516b84a37278ae85b"
+  },
+  {
+    "numero_audiencia": 8,
+    "rotulo": "Notas Taquigráficas",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/NotasTaquigraficasTVporAssinatura.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_08/098_notas_taquigr_ficas.pdf",
+    "tamanho_bytes": 1097691,
+    "sha256": "c997b0e52f416de188258c127317aa25277402f5a61d327dfd9a9d1a0891ce80"
+  },
+  {
+    "numero_audiencia": 7,
+    "rotulo": "Convocação da Audiência",
+    "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=1979625&ad=s#73%20-%20Decis%E3o%20monocr%E1tica",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_07/099_convoca_o_da_audi_ncia.pdf",
+    "tamanho_bytes": 87700,
+    "sha256": "0b7d5b851fe5cc2020d18f817771f79611e2ed25acf71d569c74e679bd3cfea7"
+  },
+  {
+    "numero_audiencia": 7,
+    "rotulo": "Relação de Habilitados",
+    "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=2377583&ad=s#99%20-%20Decis%E3o%20monocr%E1tica",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_07/100_rela_o_de_habilitados.pdf",
+    "tamanho_bytes": 109536,
+    "sha256": "7c8520b806d3924f4a56f136f3a5162a29d283ebebd4848878e8b2d47b9e6aef"
+  },
+  {
+    "numero_audiencia": 7,
+    "rotulo": "Programação",
+    "url": "https://www.stf.jus.br/arquivo/cms/ProcessosAudienciasPublicasAcoesAmianto/anexo/Audiencia_publica__Programacao.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_07/101_programa_o.pdf",
+    "tamanho_bytes": 332315,
+    "sha256": "ca47a3cb50b942e3c43e02ce52a2ec7e0db2a99a986a3bf381e77bccf2ab1696"
+  },
+  {
+    "numero_audiencia": 7,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADI_3937_Transcricoes_Amianto.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_07/102_transcri_es.pdf",
+    "tamanho_bytes": 1891079,
+    "sha256": "d5550be8262bc769407e70c1f47f23f543d46deeaf5712487e41b05e0d2170c5"
+  },
+  {
+    "numero_audiencia": 6,
+    "rotulo": "Convocação da Audiência",
+    "url": "https://www.stf.jus.br/arquivo/cms/processoAudienciaPublicaAdin4103/anexo/Referente_ao_Despacho_de_Convocacao_de_Audiencia_Publica.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_06/103_convoca_o_da_audi_ncia.pdf",
+    "tamanho_bytes": 47456,
+    "sha256": "66a8c354e12ae305e885a716055b49d1e7dd6ef41817a4add4d1aafca4373131"
+  },
+  {
+    "numero_audiencia": 6,
+    "rotulo": "Relação de Habilitados",
+    "url": "https://www.stf.jus.br/arquivo/cms/processoAudienciaPublicaAdin4103/anexo/Habilitados__Audiencia_Publica_.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_06/104_rela_o_de_habilitados.pdf",
+    "tamanho_bytes": 124320,
+    "sha256": "ffe0cfdfb7b298d872e53c8e5526f509e362211d3f53b30fc6ae45b0833c8845"
+  },
+  {
+    "numero_audiencia": 6,
+    "rotulo": "Relação de Participantes",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/AUDIENCIA_PUBLICA__LEI_SECA__PARTICIPANTES.docx",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_06/105_rela_o_de_participantes.docx",
+    "tamanho_bytes": 17994,
+    "sha256": "ecaca5b31a374640f0b6ac67102d764c7e51839ddb2e53c99deba0fadd55002a"
+  },
+  {
+    "numero_audiencia": 6,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/processoAudienciaPublicaAdin4103/anexo/Programacao__Audiencia_Publica_.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_06/106_cronograma.pdf",
+    "tamanho_bytes": 124670,
+    "sha256": "f43f1e61303dc0b898b1a3c70a1ea9f82932da689c2cfd64f5ad54b0c8b4a569"
+  },
+  {
+    "numero_audiencia": 6,
+    "rotulo": "Legislação Correlata",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/AUDIENCIA_PUBLICA__LEI_SECA__LEGISLACAO_CORRELATA.docx",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_06/107_legisla_o_correlata.docx",
+    "tamanho_bytes": 14885,
+    "sha256": "71ed6df64c893c04408d1d2f7cb62772125ad68db418c92dcfaa55a3dad02e24"
+  },
+  {
+    "numero_audiencia": 6,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADI_4103_Transcricoes_Lei_seca.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_06/108_transcri_es.pdf",
+    "tamanho_bytes": 1319353,
+    "sha256": "088249291a12138df2adf8297fa87edfef85e9345ea8a1e09f1f3a936d59edde"
+  },
+  {
+    "numero_audiencia": 5,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Audiencia_Publica_Cotas__Cronograma.docx",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_05/109_cronograma.docx",
+    "tamanho_bytes": 22101,
+    "sha256": "25105ef423c2caa55b1be07eccd46487229da48d99cf55226af4e8fb981264fa"
+  },
+  {
+    "numero_audiencia": 5,
+    "rotulo": "Notas Taquigráficas",
+    "url": "https://www.stf.jus.br/arquivo/cms/processoAudienciaPublicaAcaoAfirmativa/anexo/Notas_Taquigraficas_Audiencia_Publica.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_05/110_notas_taquigr_ficas.pdf",
+    "tamanho_bytes": 1214299,
+    "sha256": "1515b54b93da68a30dad822e1948def1cd5d4bb0e5fe17d1207ff33fb891e869"
+  },
+  {
+    "numero_audiencia": 4,
+    "rotulo": "Convocação da Audiência",
+    "url": "https://www.stf.jus.br/arquivo/cms/processoAudienciaPublicaSaude/anexo/Despacho_Convocatorio.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_04/111_convoca_o_da_audi_ncia.pdf",
+    "tamanho_bytes": 12958,
+    "sha256": "cc50bcd430c80318951b7a29d5a1408f29d9949292c025592d92e2123e896b1c"
+  },
+  {
+    "numero_audiencia": 4,
+    "rotulo": "Notas Taquigráficas",
+    "url": "https://portal.stf.jus.br/textos/verTexto.asp?servico=processoAudienciaPublicaSaude&pagina=Cronograma",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_04/112_notas_taquigr_ficas.html",
+    "tamanho_bytes": 170009,
+    "sha256": "0bef850544b7c11bb3cebd314e77ef5f35c1ac0f817eb5cab21d687b5a185b0a"
+  },
+  {
+    "numero_audiencia": 4,
+    "rotulo": "Legislação Correlata",
+    "url": "https://portal.stf.jus.br/textos/verTexto.asp?servico=processoAudienciaPublicaSaude&pagina=Legislacao",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_04/113_legisla_o_correlata.html",
+    "tamanho_bytes": 153570,
+    "sha256": "c4c3acc17b5418593c7bef01400852651f6f72846cac56ba499ee94847abbdab"
+  },
+  {
+    "numero_audiencia": 3,
+    "rotulo": "Convocação da Audiência",
+    "url": "https://www.stf.jus.br/arquivo/cms/processoAudienciaPublicaAdpf54/anexo/adpf54audiencia.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_03/114_convoca_o_da_audi_ncia.pdf",
+    "tamanho_bytes": 43639,
+    "sha256": "d74ecc9452e0ea07315eba9311373f5c6692557fc1d9e84ae64ee38b416271cf"
+  },
+  {
+    "numero_audiencia": 3,
+    "rotulo": "Cronograma",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/AUDIENCIA_PUBLICA__ANENCEFALOS__CRONOGRAMA.docx",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_03/115_cronograma.docx",
+    "tamanho_bytes": 25263,
+    "sha256": "b6e8958680fa3603bb1b9f4c30be21cc5198897ff7861bb3c90c2e4a3210b978"
+  },
+  {
+    "numero_audiencia": 3,
+    "rotulo": "Notas Taquigráficas",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/AUDIENCIA_PUBLICA__ANENCEFALOS__NOTAS_TAQUIGRAFICAS.docx",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_03/116_notas_taquigr_ficas.docx",
+    "tamanho_bytes": 13414,
+    "sha256": "9c1d5d9d7fe58ac7d8d00e0181342a137813e73ec195ab83cc797733f12490c0"
+  },
+  {
+    "numero_audiencia": 3,
+    "rotulo": "Notas Taquigráficas — 26 de agosto de 2008",
+    "url": "https://www.stf.jus.br/arquivo/cms/processoAudienciaPublicaAdpf54/anexo/ADPF54__notas_dia_26808.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_03/122_notas_taquigraficas_2008-08-26.pdf",
+    "tamanho_bytes": 167789,
+    "sha256": "21472d799f88c0f6d3be7caa70d88ae45a4b60dd756f0d4daa574b6f0b2cd54d"
+  },
+  {
+    "numero_audiencia": 3,
+    "rotulo": "Notas Taquigráficas — 28 de agosto de 2008",
+    "url": "https://www.stf.jus.br/arquivo/cms/processoAudienciaPublicaAdpf54/anexo/ADPF54__notas_dia_28808.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_03/123_notas_taquigraficas_2008-08-28.pdf",
+    "tamanho_bytes": 339843,
+    "sha256": "aeff7d1d03d21f8d9ab94d3d0d83cf169e4b58c7851168801a665ad1a75a7490"
+  },
+  {
+    "numero_audiencia": 3,
+    "rotulo": "Notas Taquigráficas — 4 de setembro de 2008",
+    "url": "https://www.stf.jus.br/arquivo/cms/processoAudienciaPublicaAdpf54/anexo/ADPF54__notas_dia_4908.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_03/124_notas_taquigraficas_2008-09-04.pdf",
+    "tamanho_bytes": 286789,
+    "sha256": "7b690581bdfb42150bba50816421b2ba337dc2849f0aedc7fa718e59bfe517a1"
+  },
+  {
+    "numero_audiencia": 3,
+    "rotulo": "Notas Taquigráficas — 16 de setembro de 2008",
+    "url": "https://www.stf.jus.br/arquivo/cms/processoAudienciaPublicaAdpf54/anexo/ADPF54__notas_dia_16908.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_03/125_notas_taquigraficas_2008-09-16.pdf",
+    "tamanho_bytes": 227363,
+    "sha256": "a79e98051b43a6f8faf7c90bc7d36730580fd606184f5543e99b8b39fbdd25c0"
+  },
+  {
+    "numero_audiencia": 2,
+    "rotulo": "Legislação Correlata",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/Audiencia_Publica_Pneus__LEGISLACAO_1411.docx",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_02/117_legisla_o_correlata.docx",
+    "tamanho_bytes": 16657,
+    "sha256": "9eadfd3e80a16ccaccc154c5de3db42d81defa84a6f66430ccffe0ed56d3ce6b"
+  },
+  {
+    "numero_audiencia": 2,
+    "rotulo": "Transcrições",
+    "url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/ADPF101_transcricoes_Importacao_de_Pneus_usados.pdf",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_02/118_transcri_es.pdf",
+    "tamanho_bytes": 1640889,
+    "sha256": "c9b74cb2971aa70ea95db135d3adcabc72627c270d86d383ff4508cda2a457a8"
+  },
+  {
+    "numero_audiencia": 1,
+    "rotulo": "Relação de Habilitados",
+    "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=598204#57%20-%20Despacho%20-%2016/3/2007",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_01/119_rela_o_de_habilitados.pdf",
+    "tamanho_bytes": 46962,
+    "sha256": "b47ee3546a9e09e595b94f19fb9e09942226e61c08dd100e8136a472c30d1aa5"
+  },
+  {
+    "numero_audiencia": 1,
+    "rotulo": "Notas Taquigráficas",
+    "url": "https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=598460#60%20-%20Certid%E3o%20-%20de%20audi%EAncia",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_01/120_notas_taquigr_ficas.pdf",
+    "tamanho_bytes": 1699025,
+    "sha256": "9665e9a89b5c0a583bf7a73c706df340451486da5fb6d2cc8e34bb1707a3bc0f"
+  },
+  {
+    "numero_audiencia": 1,
+    "rotulo": "Legislação Correlata",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11105.htm",
+    "url_pagina": "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp?pagina=3&tipo=realizada",
+    "status": "baixado",
+    "arquivo": "documentos_audiencias/AP_01/121_legisla_o_correlata.html",
+    "tamanho_bytes": 68218,
+    "sha256": "4730e66a315af41f4901968ce1bcd37685f510d639a754c214167bd2d47d4d13"
+  }
+]

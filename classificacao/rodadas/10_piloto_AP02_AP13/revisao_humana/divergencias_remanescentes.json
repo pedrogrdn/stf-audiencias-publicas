@@ -1,0 +1,86 @@
+[
+  {
+    "caso": 15,
+    "id": "AP02-AP_02_ADPF_101-00015",
+    "humano": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    },
+    "claude": {
+      "corpus": "Excluir",
+      "tipo": null
+    }
+  },
+  {
+    "caso": 23,
+    "id": "AP13-AP_13_ADI_4815-00001",
+    "humano": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    }
+  },
+  {
+    "caso": 25,
+    "id": "AP13-AP_13_ADI_4815-00003",
+    "humano": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    }
+  },
+  {
+    "caso": 26,
+    "id": "AP13-AP_13_ADI_4815-00004",
+    "humano": {
+      "corpus": "Excluir",
+      "tipo": null
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Contexto"
+    }
+  },
+  {
+    "caso": 51,
+    "id": "AP13-AP_13_ADI_4815-00029",
+    "humano": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    }
+  },
+  {
+    "caso": 53,
+    "id": "AP13-AP_13_ADI_4815-00031",
+    "humano": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    }
+  },
+  {
+    "caso": 58,
+    "id": "AP13-AP_13_ADI_4815-00036",
+    "humano": {
+      "corpus": "Incorporar",
+      "tipo": "Argumento"
+    },
+    "claude": {
+      "corpus": "Incorporar",
+      "tipo": "Relato"
+    }
+  }
+]

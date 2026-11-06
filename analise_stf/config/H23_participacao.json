@@ -1,0 +1,60 @@
+{
+  "hipotese": "H23",
+  "status": "EXPLORATÓRIA. Formulada após H1–H22 por solicitação expressa do pesquisador; NÃO é pré-registro confirmatório. Protocolo salvo antes de qualquer cálculo de H23.",
+  "data_protocolo": "2026-11-06",
+  "pergunta": "A presença argumentativa dos participantes se distribui proporcionalmente ao tamanho dos macrogrupos em cada audiência?",
+  "H0": "Dentro da audiência, a taxa por participante é a mesma nos macrogrupos público e demais (diferença média entre audiências = 0).",
+  "H1": "Bilateral: as taxas diferem. Direção e limiares não escolhidos após ver resultados.",
+  "grupos": {
+    "publico": ["Atores públicos"],
+    "demais": ["Acadêmicos", "Atores privados", "Sociedade civil", "Partido Político", "Outros"],
+    "nota": "Contraste operacional escolhido pelo pesquisador (atores públicos ~ sistema de Justiça). Categoria original preservada. Fonte final de categoria: XLSX."
+  },
+  "coorte": {
+    "descricao": "Todos os participantes documentados no cadastro classificado: pessoa×audiência.",
+    "esperado": {"participacoes": 405, "audiencias": 31, "publico": 138, "demais": 267, "nomes_distintos": 391},
+    "regra": "Atores com indicador 'Menção incorporada' Sim/Não é só metadado, nunca filtro. AP44 e participantes sem menção permanecem. Ausência de menção recuperada = zero OBSERVADO.",
+    "participacoes_nao_fundidas": "A mesma pessoa em audiências distintas é papel de participação distinto; não fundir."
+  },
+  "fontes": {
+    "atores": "../outputs/classificacao_atores_20261105/consolidacao_revisada/classificacao_final_pessoas_entidades.xlsx (+ JSON adjacente, ID do ator)",
+    "carregamento": "src/integracao.carregar (somente leitura; recalculado em memória, nada sobrescrito)",
+    "conferidos_contra": ["data/processed/mencoes_principal_atores.csv", "atores_classificados.csv", "ponte_mencao_ator.csv", "mencoes_sensibilidade_AB.csv", "entidades_B.csv"]
+  },
+  "vinculo": {
+    "principal": "A (nominal: pessoa citada resolvida para ator_id por (audiência, nome normalizado))",
+    "B": "somente sensibilidade e somente em nível de MACROGRUPO (intensidade). Nunca atribuído a pessoas afiliadas; nunca entra no alcance individual."
+  },
+  "desfechos": {
+    "A_primario_alcance": "Participante (AP,pessoa) com >=1 vínculo nominal A a menção tipo=Argumento (binário, 1 vez por AP). Denominador = todos os participantes documentados do macrogrupo na AP (inclusive com 0 menções). Associação nominal, não autoria inequívoca (trechos multiautores ligam várias pessoas), não adesão/eficácia.",
+    "B_secundario_intensidade": "Nº de menções Argumento associadas ao macrogrupo na AP / nº de participantes documentados do macrogrupo na AP. Cada menção conta 1 vez por macrogrupo; uma menção com ambos os grupos entra nos dois (não é partição). Pode superar 1; é contagem por participante, não probabilidade.",
+    "referencia_proporcionalidade_descritiva": "Por AP: esperado_g = (total de pessoas com Argumento na AP) × (fração de participantes do grupo g na AP); observado − esperado somado; também composição do roster vs composição entre pessoas com Arg, em duas versões nomeadas: 'pooled' (somas) e 'estratificada por AP' (somas de esperados por AP). Sem teste adicional. Sem tempo de fala: referência é igualdade por participante, não direito a nº de citações."
+  },
+  "elegibilidade_contraste": "AP com >=1 participante em CADA macrogrupo. Grupo ausente = taxa indefinida (não 0); AP excluída do contraste pareado e listada com motivo. AP com 0 Argumento nos dois grupos permanece (diferença 0). Descrição global usa todos os 405 e as 31 AP.",
+  "estimando_principal": "Média, com pesos iguais por AP elegível, da diferença (demais − públicos) na taxa de alcance, em pontos percentuais. Positivo = maior taxa nos demais.",
+  "metodos": {
+    "unidade_independente": "AP (nunca 405 réplicas nem 1288 menções). Sem Fisher/qui-quadrado/permutação de participantes ou menções.",
+    "teste": "Inversão de sinais das diferenças por AP (src/estatistica.sign_flip_media): exato se n<=16, senão Monte Carlo com B=9999 e p=(1+extremos)/(B+1). Hipótese adicional explícita: sob H0 a distribuição das diferenças por AP é simétrica em torno de 0.",
+    "ic": "Bootstrap percentil de AP inteiras (src/estatistica.bootstrap_media), B=9999, IC95%, reportado só se n_AP_elegíveis >= 10.",
+    "B_teste": "Mesmo esquema (inversão de sinais, média por AP) como inferência principal de B; Wilcoxon signed-rank e mediana como sensibilidade robusta a outliers (fora da família).",
+    "familia_correcao": {"familia": "H23_principais", "testes": ["A_alcance_signflip", "B_intensidade_signflip"], "metodo": "Benjamini-Hochberg", "alfa": 0.05, "mostrar": "p bruto e p ajustado"},
+    "sem_modelos_complexos": true
+  },
+  "sensibilidades_predefinidas": [
+    "S1 AP com >=3 participantes em cada grupo (alcance e intensidade)",
+    "S2 leave-one-AP-out (alcance e intensidade): faixa da estimativa e dos p",
+    "S3 números globais ponderados por participante (pooled; descritivo, estimando diferente do por-AP)",
+    "S4 alcance usando só menções Argumento unipessoa (n_pessoas_tokens==1, todos participantes no denominador)",
+    "S5 intensidade A+B em nível de macrogrupo",
+    "S6 intensidade contando documentos (arquivo) distintos com Argumento associado, robusta a repetição entre acórdãos",
+    "S7 Wilcoxon e mediana para intensidade",
+    "S8 AP44 incluída na descrição e, se elegível, no contraste"
+  ],
+  "sensibilidades_regra": "Sensibilidades ficam fora da família BH, p brutos rotulados 'exploratório, sem ajuste'; não se seleciona a de menor p. Comparam-se direção e ordem de grandeza.",
+  "seeds": {"seed_global": 20261105, "tags": {"A_signflip": "H23_A_signflip", "A_boot": "H23_A_boot", "B_signflip": "H23_B_signflip", "B_boot": "H23_B_boot", "sens": "H23_sens_<nome>"}, "B_signflip_MC": 9999, "B_bootstrap": 9999},
+  "limites_declarados": [
+    "Resultado restrito ao cadastro documentado (31 AP, 405 participações); não generaliza a todas as audiências do STF.",
+    "Regras de exclusão de partes processuais, citações bibliográficas e contexto da extração permanecem.",
+    "Não há causalidade, favorecimento nem adesão/convencimento; 'presença' = mobilização argumentativa."
+  ]
+}
