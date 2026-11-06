@@ -56,9 +56,3 @@ O quadro institucional de 49 audiências, suas fontes oficiais, o controle docum
 ## Acervo documental integral
 
 `fontes_documentais/acordaos/` contém os 50 PDFs do acervo examinado, inclusive aqueles sem menções incorporadas. `fontes_documentais/documentos_audiencias/` preserva os 125 documentos das audiências: 116 PDFs, seis DOCX e três HTML, mais um JSON de metadados de coleta. São 175 documentos, além do metadado. A inclusão do acervo auxiliar não transforma listas de habilitados ou programações em prova de comparecimento. O índice `dados/fontes/documentos_fontes.csv` mantém audiência, nome original, caminho no repositório, tamanho, hash e URL quando disponível. Os arquivos não foram convertidos, editados ou regravados.
-
-## Primeira publicação no GitHub
-
-O conteúdo desta pasta deve ser a raiz de um repositório público novo, separado do projeto privado. Não inclui ZIP de distribuição nem histórico Git do projeto privado. Consulte [COMO_SUBIR_NO_GITHUB.md](COMO_SUBIR_NO_GITHUB.md) para os comandos e a ligação posterior ao Zenodo.
-
-Repositório público: https://github.com/pedrogrdn/stf-audiencias-publicas . A publicação no GitHub permanece separada do depósito posterior no Zenodo; não há DOI ou release atribuídos nesta preparação.
