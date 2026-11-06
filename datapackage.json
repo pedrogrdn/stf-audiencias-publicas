@@ -1393,5 +1393,12 @@
       "role": "author",
       "organization": "Pontifícia Universidade Católica do Paraná"
     }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
   ]
 }

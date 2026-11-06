@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Pedro H. Giordano
 """Verificação e reprodução offline do pacote STF. Não chama classificadores nem APIs."""
 from pathlib import Path
 import argparse,csv,json,hashlib,collections,sys,shutil,subprocess,datetime,math

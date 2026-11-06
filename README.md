@@ -67,3 +67,9 @@ O quadro institucional de 49 audiências, o acervo de 31 audiências examinadas 
 GIORDANO, Pedro H. **Audiências públicas do STF: dados, documentos e código**. Versão 1.0.0. 2026. Disponível em: https://github.com/pedrogrdn/stf-audiencias-publicas.
 
 Os metadados de citação estão em [CITATION.cff](CITATION.cff).
+
+## Licenças
+
+Dados e documentação autorais: **[CC BY 4.0](LICENSE)**, com atribuição a Pedro H. Giordano, link para a licença e indicação de alterações. A licença permite reprodução, redistribuição e adaptação, inclusive comercial.
+
+Código: **[MIT](LICENSES/MIT.txt)**, com preservação do aviso de autoria e da licença. Documentos oficiais e materiais de terceiros conservam seus créditos e condições próprios. Consulte o [escopo do licenciamento](LICENSES/README.md).

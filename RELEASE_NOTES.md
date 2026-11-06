@@ -25,3 +25,7 @@ Entre as inclusões finais, 269 possuem decisão humana consolidada registrada e
 ## Consulta
 
 Comece por `README.md`, `dados/mencoes_todas.csv`, `dados/participantes.csv` e `documentacao/DICIONARIO_DADOS.csv`. Os documentos integrais estão em `fontes_documentais/`.
+
+## Licenças
+
+Dados e documentação autorais sob CC BY 4.0; código autoral sob MIT. Autoria: Pedro H. Giordano. Os documentos oficiais e materiais de terceiros mantêm seus créditos e regime jurídico próprios.

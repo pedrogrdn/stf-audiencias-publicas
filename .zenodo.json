@@ -1,0 +1,22 @@
+{
+  "title": "Audiências públicas do STF: dados, documentos e código",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Giordano, Pedro H.",
+      "affiliation": "Pontifícia Universidade Católica do Paraná"
+    }
+  ],
+  "description": "Banco documental sobre referências às audiências públicas do STF em acórdãos, organizado por Pedro H. Giordano. Inclui 3.455 passagens candidatas, 1.288 menções incorporadas, 405 participações classificadas, vínculos, 50 acórdãos integrais, 125 documentos das audiências, instruções e rodadas de classificação e código das análises exploratórias H1–H23. Das inclusões finais, 269 possuem decisão humana consolidada registrada e 1.019 não possuem revisão humana registrada. Dados e documentação autorais sob CC BY 4.0; código autoral sob MIT. Os documentos oficiais e materiais de terceiros mantêm seus créditos e regime jurídico próprios; o escopo está descrito em LICENSES/README.md.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "por",
+  "keywords": [
+    "Supremo Tribunal Federal",
+    "audiências públicas",
+    "participação social",
+    "análise de conteúdo",
+    "modelos de linguagem",
+    "comportamento judicial"
+  ]
+}

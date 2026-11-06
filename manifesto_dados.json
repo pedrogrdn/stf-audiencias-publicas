@@ -34,5 +34,11 @@
   "fontes_integridade": "documentacao/proveniencia_arquivos.csv",
   "reproducao": "reproduzir.py",
   "repositorio": "https://github.com/pedrogrdn/stf-audiencias-publicas",
-  "arquivos": 605
+  "arquivos": 611,
+  "licencas": {
+    "dados_e_documentacao_autorais": "CC-BY-4.0",
+    "codigo_autoral": "MIT",
+    "titular": "Pedro H. Giordano",
+    "materiais_de_terceiros": "Mantêm créditos e regime jurídico próprios; não abrangidos por concessão de direitos do pesquisador."
+  }
 }

@@ -7,6 +7,7 @@ authors:
     given-names: "Pedro H."
     affiliation: "Pontifícia Universidade Católica do Paraná"
 version: "1.0.0"
+license: "CC-BY-4.0"
 url: "https://github.com/pedrogrdn/stf-audiencias-publicas"
 repository-code: "https://github.com/pedrogrdn/stf-audiencias-publicas"
 keywords:
