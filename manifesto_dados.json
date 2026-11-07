@@ -1,7 +1,7 @@
 {
   "titulo": "Audiências públicas do STF: dados, documentos e código",
   "autor": "Pedro H. Giordano",
-  "versao": "1.0.0",
+  "versao": "1.0.2",
   "data_referencia": "2026-11-06",
   "dados": {
     "candidatos": 3455,
@@ -40,5 +40,12 @@
     "codigo_autoral": "MIT",
     "titular": "Pedro H. Giordano",
     "materiais_de_terceiros": "Mantêm créditos e regime jurídico próprios; não abrangidos por concessão de direitos do pesquisador."
-  }
+  },
+  "doi_conjunto_versoes": "10.5281/zenodo.24021782",
+  "versao_arquivada_referencia": {
+    "versao": "v1.0.1",
+    "doi": "10.5281/zenodo.24021783",
+    "url": "https://zenodo.org/records/24021783"
+  },
+  "alteracao_v1_0_2": "Somente DOI, metadados de citação, documentação e checksums; dados, classificações, modelos e resultados inalterados."
 }

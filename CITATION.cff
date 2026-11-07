@@ -6,7 +6,7 @@ authors:
   - family-names: "Giordano"
     given-names: "Pedro H."
     affiliation: "Pontifícia Universidade Católica do Paraná"
-version: "1.0.0"
+version: "1.0.2"
 license: "CC-BY-4.0"
 url: "https://github.com/pedrogrdn/stf-audiencias-publicas"
 repository-code: "https://github.com/pedrogrdn/stf-audiencias-publicas"
@@ -16,3 +16,15 @@ keywords:
   - "participação social"
   - "análise de conteúdo"
   - "modelos de linguagem"
+doi: "10.5281/zenodo.24021782"
+preferred-citation:
+  type: dataset
+  title: "Audiências públicas do STF: dados, documentos e código"
+  authors:
+    - family-names: "Giordano"
+      given-names: "Pedro H."
+      affiliation: "Pontifícia Universidade Católica do Paraná"
+  version: "v1.0.1"
+  date-released: "2026-11-06"
+  doi: "10.5281/zenodo.24021783"
+  url: "https://zenodo.org/records/24021783"

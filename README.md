@@ -1,5 +1,7 @@
 # Audiências públicas do STF — dados, documentos e código
 
+[![DOI](https://zenodo.org/badge/1448688651.svg)](https://doi.org/10.5281/zenodo.24021782)
+
 **Autor do banco e do código de pesquisa: Pedro H. Giordano.**
 
 Este repositório reúne os dados da pesquisa sobre referências às audiências públicas e a seus participantes nos acórdãos do Supremo Tribunal Federal. Contém as menções recuperadas, suas classificações, o cadastro dos participantes, os documentos-fonte e os programas de coleta, classificação e análise.
@@ -64,7 +66,9 @@ O quadro institucional de 49 audiências, o acervo de 31 audiências examinadas 
 
 ## Citação
 
-GIORDANO, Pedro H. **Audiências públicas do STF: dados, documentos e código**. Versão 1.0.0. 2026. Disponível em: https://github.com/pedrogrdn/stf-audiencias-publicas.
+GIORDANO, Pedro H. **Audiências públicas do STF: dados, documentos e código**. Versão v1.0.1. Zenodo, 2026. DOI: [10.5281/zenodo.24021783](https://doi.org/10.5281/zenodo.24021783).
+
+O DOI [10.5281/zenodo.24021782](https://doi.org/10.5281/zenodo.24021782), utilizado no badge, identifica o conjunto de versões. A referência acima identifica a versão arquivada associada às análises. A atualização v1.0.2 acrescenta o DOI e ajusta metadados e documentação, sem alterar os dados ou os resultados.
 
 Os metadados de citação estão em [CITATION.cff](CITATION.cff).
 

@@ -1,7 +1,7 @@
 {
   "name": "stf-audiencias-dados",
   "title": "Dados documentais das audiências públicas do STF",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Dados documentais das audiências públicas do STF, com classificações, vínculos entre menções e participantes e variáveis de análise.",
   "resources": [
     {
@@ -1400,5 +1400,7 @@
       "title": "Creative Commons Attribution 4.0 International",
       "path": "https://creativecommons.org/licenses/by/4.0/"
     }
-  ]
+  ],
+  "id": "https://doi.org/10.5281/zenodo.24021782",
+  "homepage": "https://github.com/pedrogrdn/stf-audiencias-publicas"
 }
